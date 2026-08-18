@@ -8,5 +8,105 @@
     "id": "2",
     "name": "PASTEUR (Dari Arah Timur)",
     "url": "https://atcs-dishub.bandung.go.id:1990/PasteurTim/index.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "PASTEUR (Dari Arah Barat)",
+    "url": "https://atcs-dishub.bandung.go.id:1990/PasteurBar/index.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "SP PASIR KALIKI BARU",
+    "url": "https://atcs-dishub.bandung.go.id:1990/PaskalPTZ2/index.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "PASKAL - RSHS (Dari Arah Barat)",
+    "url": "https://atcs-dishub.bandung.go.id:1990/PaskalBar/index.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "PASKAL - RSHS (Dari Arah Utara)",
+    "url": "https://atcs-dishub.bandung.go.id:1990/PaskalUt/index.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "PASKAL - RSHS (Dari Arah Timur)",
+    "url": "https://atcs-dishub.bandung.go.id:1990/PaskalTim/index.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "SP CIPAGANTI",
+    "url": "https://atcs-dishub.bandung.go.id:1990/Cipaganti/index.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "SP CIHAMPELAS PTZ",
+    "url": "https://atcs-dishub.bandung.go.id:1990/CihampelasPtz/index.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "SP CIHAMPELAS Barat",
+    "url": "https://atcs-dishub.bandung.go.id:1990/CihampelasBar/index.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "SP CIHAMPELAS UTARA",
+    "url": "https://atcs-dishub.bandung.go.id:1990/CihampelasUt/index.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "SP CIHAMPELAS TIMUR",
+    "url": "https://atcs-dishub.bandung.go.id:1990/CihampelasTim/index.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "SP TAMAN SARI",
+    "url": "https://atcs-dishub.bandung.go.id:1990/Tamansari/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "SP CIKAPAYANG PTZ",
+    "url": "https://atcs-dishub.bandung.go.id:1990/Cikapayang/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "SP SULANJANA",
+    "url": "https://atcs-dishub.bandung.go.id:1990/Sulanjana/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "SP ACEH MERDEKA",
+    "url": "https://atcs-dishub.bandung.go.id:1990/MerdekaAceh/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "SP TELKOM",
+    "url": "https://atcs-dishub.bandung.go.id:1990/Telkom/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "SP PAHLAWAN",
+    "url": "https://atcs-dishub.bandung.go.id:1990/Pahlawan/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "SP CIKUTRA",
+    "url": "https://atcs-dishub.bandung.go.id:1990/Cikutra/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "SP CIMUNCANG",
+    "url": "https://atcs-dishub.bandung.go.id:1990/Cimuncang/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "SP PADA SUKA",
+    "url": "https://atcs-dishub.bandung.go.id:1990/Padasuka/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "SP CICAHEUM",
+    "url": "https://atcs-dishub.bandung.go.id:1990/Cicaheum/index.m3u8"
   }
 ]
