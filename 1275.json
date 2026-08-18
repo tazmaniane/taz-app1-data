@@ -1,0 +1,692 @@
+[
+  {
+    "id": "1",
+    "name": "Tol Medan - Kualanamu - Tebing Tinggi",
+    "url": "https://binamarga.pu.go.id/index.php/contents/cctv/?id_ruas=jmkt"
+  },
+  {
+    "id": "2",
+    "name": "Tol Belmera",
+    "url": "https://binamarga.pu.go.id/index.php/contents/cctv/?id_ruas=belmera"
+  },
+  {
+    "id": "3",
+    "name": "Tol Medan - Binjai",
+    "url": "https://binamarga.pu.go.id/index.php/contents/cctv/?id_ruas=mebi"
+  },
+  {
+    "id": "4",
+    "name": "CCTV Medan",
+    "url": ""
+  },
+  {
+    "id": "5",
+    "name": "Uniland",
+    "url": "http://110.232.82.176/live/UNILAND.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Medan Mall",
+    "url": "http://110.232.82.176/live/MEDAN_MALL.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Thamrin",
+    "url": "http://atcsdishub.pemkomedan.go.id:80/camera/THAMRINPRINTISKEMERDEKAAN.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "TVRI",
+    "url": "http://110.232.82.176/live/TVRI.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Sudirman Ujung",
+    "url": "http://110.232.82.176/live/SUDIRMAN_UJUNG.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Patimura",
+    "url": "http://110.232.82.176/live/MONGINSIDI_PATTIMURA.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Iskandar muda",
+    "url": "http://110.232.82.176/live/JM_ISKANDAR_MUDA.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Dr.mansyur",
+    "url": "http://110.232.82.176/live/JM_DR_MANSYUR.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Merdeka",
+    "url": "http://atcsdishub.pemkomedan.go.id:80/camera/MERDEKA.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Kesawan",
+    "url": "http://110.232.82.176/live/KESAWAN.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Waspada",
+    "url": "http://110.232.82.176/live/WASPADA.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Tirtonadi",
+    "url": "http://110.232.82.176/live/TIRTONADI.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Istana maimun",
+    "url": "http://atcsdishub.pemkomedan.go.id:80/camera/ISTANAMAIMUN.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Masjid raya",
+    "url": "http://atcsdishub.pemkomedan.go.id:80/camera/MASJIDRAYA.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Majestik",
+    "url": "http://110.232.82.176/live/MAJESTIK.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Wisma benteng",
+    "url": "http://110.232.82.176/live/WISMA_BENTENG.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Lap benteng 1",
+    "url": "http://110.232.82.176/live/LAP_BENTENG1.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Lap benteng 2",
+    "url": "http://110.232.82.176/live/LAP_BENTENG2.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "HDTI",
+    "url": "http://110.232.82.176/live/HDTI.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "Pizza hut",
+    "url": "http://110.232.82.176/live/PIZZA_HUT.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Air mancur",
+    "url": "http://110.232.82.176/live/AIR_MANCUR.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "BII",
+    "url": "http://110.232.82.176/live/BII.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Kartini",
+    "url": "http://atcsdishub.pemkomedan.go.id:80/camera/KARTINI.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "Walikota",
+    "url": "http://110.232.82.176/live/WALIKOTA.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "Gubernur",
+    "url": "http://110.232.82.176/live/GUBERNUR.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "Polonia air mancur",
+    "url": "http://110.232.82.176/live/POLONIA.m3u8"
+  },
+  {
+    "id": "31",
+    "name": "Polonia nasution",
+    "url": "http://110.232.82.176/live/POLONIA2.m3u8"
+  },
+  {
+    "id": "32",
+    "name": "Istana plaza",
+    "url": "http://110.232.82.176/live/ISTANA_PLAZA.m3u8"
+  },
+  {
+    "id": "33",
+    "name": "Halat",
+    "url": "http://110.232.82.176/live/HALAT.m3u8"
+  },
+  {
+    "id": "34",
+    "name": "Sisingamangaraja pelangi",
+    "url": "http://atcsdishub.pemkomedan.go.id:80/camera/SMRAJAPELANGI.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "Sisingamangaraja nasution",
+    "url": "http://110.232.82.176/live/SSMGRJ_NASUTION.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "Amplas",
+    "url": "http://110.232.82.176/live/AMPLAS.m3u8"
+  },
+  {
+    "id": "37",
+    "name": "Stasiun KA",
+    "url": "http://110.232.82.176/live/STASIUN_KA.m3u8"
+  },
+  {
+    "id": "38",
+    "name": "Rahmadsyah",
+    "url": "http://110.232.82.176/live/RAHMADSYAH.m3u8"
+  },
+  {
+    "id": "39",
+    "name": "Gelugur",
+    "url": "http://110.232.82.176/live/GELUGUR.m3u8"
+  },
+  {
+    "id": "40",
+    "name": "Medan Plaza",
+    "url": "http://110.232.82.176/live/MEDAN_PLAZA.m3u8"
+  },
+  {
+    "id": "41",
+    "name": "Sei ampu",
+    "url": "http://110.232.82.176/live/SEI_WAMPU.m3u8"
+  },
+  {
+    "id": "42",
+    "name": "Ayahanda",
+    "url": "http://110.232.82.176/live/AYAHANDA.m3u8"
+  },
+  {
+    "id": "43",
+    "name": "Sei Kambing",
+    "url": "http://110.232.82.176/live/SEI_SIKAMBING.m3u8"
+  },
+  {
+    "id": "44",
+    "name": "Gajah Mada",
+    "url": "http://110.232.82.176/live/GAJAH_MADA.m3u8"
+  },
+  {
+    "id": "45",
+    "name": "Hassanudin",
+    "url": "http://110.232.82.176/live/HASANUDDIN.m3u8"
+  },
+  {
+    "id": "46",
+    "name": "Abdullah lubis",
+    "url": "http://110.232.82.176/live/ABDULLAH_LUBIS.m3u8"
+  },
+  {
+    "id": "47",
+    "name": "Kejaksaan",
+    "url": "http://110.232.82.176/live/KEJAKSAAN.m3u8"
+  },
+  {
+    "id": "48",
+    "name": "Gaharu",
+    "url": "http://110.232.82.176/live/GAHARU_PERINTIS.m3u8"
+  },
+  {
+    "id": "49",
+    "name": "Grand angkasa",
+    "url": "http://110.232.82.176/live/GRAND_ANGKASA.m3u8"
+  },
+  {
+    "id": "50",
+    "name": "Sutomo yamin",
+    "url": "http://110.232.82.176/live/SUTOMO_YAMIN.m3u8"
+  },
+  {
+    "id": "51",
+    "name": "HM joni",
+    "url": "http://110.232.82.176/live/SM_RAJA_HM_JONI.m3u8"
+  },
+  {
+    "id": "52",
+    "name": "Al falah",
+    "url": "http://110.232.82.176/live/SM_RAJA_ALFALAH1.m3u8"
+  },
+  {
+    "id": "53",
+    "name": "Bajak",
+    "url": "http://110.232.82.176/live/BAJAK.m3u8"
+  },
+  {
+    "id": "54",
+    "name": "Tol amplas 1",
+    "url": "http://110.232.82.176/live/TOL_AMPLAS1.m3u8"
+  },
+  {
+    "id": "55",
+    "name": "Tol amplas 2",
+    "url": "http://110.232.82.176/live/TOL_AMPLAS2.m3u8"
+  },
+  {
+    "id": "56",
+    "name": "Tol amplas 3",
+    "url": "http://110.232.82.176/live/TOL_AMPLAS3.m3u8"
+  },
+  {
+    "id": "57",
+    "name": "Tol amora 1",
+    "url": "http://110.232.82.176/live/TOL_TAMORA1.m3u8"
+  },
+  {
+    "id": "58",
+    "name": "Tol amora 2",
+    "url": "http://110.232.82.176/live/TOL_TAMORA2.m3u8"
+  },
+  {
+    "id": "59",
+    "name": "Tol amora 3",
+    "url": "http://110.232.82.176/live/TOL_TAMORA3.m3u8"
+  },
+  {
+    "id": "60",
+    "name": "Kayu besar 2",
+    "url": "http://110.232.82.176/live/SIMP_KAYU_BESAR2.m3u8"
+  },
+  {
+    "id": "61",
+    "name": "Yos sudarso-Pembangunan",
+    "url": "http://110.232.82.176/live/YOS_SUDARSO-PEMBANGUNAN.m3u8"
+  },
+  {
+    "id": "62",
+    "name": "Yos sudarso-Pertempuran1",
+    "url": "http://110.232.82.176/live/YOS_SUDARSO-PERTEMPURAN1.m3u8"
+  },
+  {
+    "id": "63",
+    "name": "Yos sudarso-Pertempuran2",
+    "url": "http://110.232.82.176/live/YOS_SUDARSO-PERTEMPURAN2.m3u8"
+  },
+  {
+    "id": "64",
+    "name": "Gajah Mada-W.Hasyim",
+    "url": "http://110.232.82.176/live/GAJAH_MADA-W_HASYIM.m3u8"
+  },
+  {
+    "id": "65",
+    "name": "Amir Hamzah-Kapt Muslim",
+    "url": "http://110.232.82.176/live/AMIR_HAMZAH-KAP_MUSLIM.m3u8"
+  },
+  {
+    "id": "66",
+    "name": "Sunggal-Sei Batanghari",
+    "url": "http://110.232.82.176/live/SUNGGAL-SEI_BATANGHARI.m3u8"
+  },
+  {
+    "id": "67",
+    "name": "Sunggal-Kasuari",
+    "url": "http://110.232.82.176/live/SUNGGAL-KASUARI.m3u8"
+  },
+  {
+    "id": "68",
+    "name": "Thamrin-Yamin",
+    "url": "http://110.232.82.176/live/THAMRIN-YAMIN.m3u8"
+  },
+  {
+    "id": "69",
+    "name": "Kejaksaan-T.Umar",
+    "url": "http://110.232.82.176/live/KEJAKSAAN-T_UMAR.m3u8"
+  },
+  {
+    "id": "70",
+    "name": "Juanda-Walikota",
+    "url": "http://110.232.82.176/live/JUANDA-WALIKOTA.m3u8"
+  },
+  {
+    "id": "71",
+    "name": "Al Falah 2",
+    "url": "http://110.232.82.176/live/SM_RAJA_ALFALAH2.m3u8"
+  },
+  {
+    "id": "72",
+    "name": "Stm-Tritura1",
+    "url": "http://110.232.82.176/live/STM_TRITURA1.m3u8"
+  },
+  {
+    "id": "73",
+    "name": "Stm-Tritura2",
+    "url": "http://110.232.82.176/live/STM_TRITURA2.m3u8"
+  },
+  {
+    "id": "74",
+    "name": "Stm-Tritura3",
+    "url": "http://110.232.82.176/live/STM_TRITURA3.m3u8"
+  },
+  {
+    "id": "75",
+    "name": "Amal-Gagakhitam 1",
+    "url": "http://110.232.82.176/live/AMAL_GAGAGKHITAM1.m3u8"
+  },
+  {
+    "id": "76",
+    "name": "Amal-Gagakhitam 2",
+    "url": "http://110.232.82.176/live/AMAL_GAGAGKHITAM2.m3u8"
+  },
+  {
+    "id": "77",
+    "name": "Amal-Gagakhitam 3",
+    "url": "http://110.232.82.176/live/AMAL_GAGAGKHITAM3.m3u8"
+  },
+  {
+    "id": "78",
+    "name": "Sunggal-Gagakhitam 1",
+    "url": "http://110.232.82.176/live/SUNGGAL_GAGAKHITAM1.m3u8"
+  },
+  {
+    "id": "79",
+    "name": "Sunggal-Gagakhitam 2",
+    "url": "http://110.232.82.176/live/SUNGGAL_GAGAKHITAM2.m3u8"
+  },
+  {
+    "id": "80",
+    "name": "Sunggal-Gagakhitam 3",
+    "url": "http://110.232.82.176/live/SUNGGAL_GAGAKHITAM3.m3u8"
+  },
+  {
+    "id": "81",
+    "name": "Asoka-Gagakhitam 1",
+    "url": "http://110.232.82.176/live/ASOKA_GAGAKHITAM1.m3u8"
+  },
+  {
+    "id": "82",
+    "name": "Asoka-Gagakhitam 2",
+    "url": "http://110.232.82.176/live/ASOKA_GAGAKHITAM2.m3u8"
+  },
+  {
+    "id": "83",
+    "name": "Asoka-Gagakhitam 3",
+    "url": "http://110.232.82.176/live/ASOKA_GAGAKHITAM3.m3u8"
+  },
+  {
+    "id": "84",
+    "name": "Setiabudi-Industri 1",
+    "url": "http://110.232.82.176/live/SETIABUDI_INDUSTRI1.m3u8"
+  },
+  {
+    "id": "85",
+    "name": "Setiabudi-Industri 2",
+    "url": "http://110.232.82.176/live/SETIABUDI_INDUSTRI2.m3u8"
+  },
+  {
+    "id": "86",
+    "name": "Setiabudi-Industri 3",
+    "url": "http://110.232.82.176/live/SETIABUDI_INDUSTRI3.m3u8"
+  },
+  {
+    "id": "87",
+    "name": "Setiabudi-Industri 4",
+    "url": "http://110.232.82.176/live/SETIABUDI_INDUSTRI4.m3u8"
+  },
+  {
+    "id": "88",
+    "name": "Setiabudi-Industri 5",
+    "url": "http://110.232.82.176/live/SETIABUDI_INDUSTRI5.m3u8"
+  },
+  {
+    "id": "89",
+    "name": "Simpang_Pos 1",
+    "url": "http://110.232.82.176/live/SIMPANG_POS1.m3u8"
+  },
+  {
+    "id": "90",
+    "name": "Simpang_Pos 2",
+    "url": "http://110.232.82.176/live/SIMPANG_POS2.m3u8"
+  },
+  {
+    "id": "91",
+    "name": "Simpang_Pos 3",
+    "url": "http://110.232.82.176/live/SIMPANG_POS3.m3u8"
+  },
+  {
+    "id": "92",
+    "name": "Simpang_Pos 4",
+    "url": "http://110.232.82.176/live/SIMPANG_POS4.m3u8"
+  },
+  {
+    "id": "93",
+    "name": "Karya_Wisata 1",
+    "url": "http://110.232.82.176/live/KARYA_WISATA1.m3u8"
+  },
+  {
+    "id": "94",
+    "name": "Karya_Wisata 2",
+    "url": "http://110.232.82.176/live/KARYA_WISATA2.m3u8"
+  },
+  {
+    "id": "95",
+    "name": "Karya_Wisata 3",
+    "url": "http://110.232.82.176/live/KARYA_WISATA3.m3u8"
+  },
+  {
+    "id": "96",
+    "name": "Karya_Jaya 1",
+    "url": "http://110.232.82.176/live/KARYA_JAYA1.m3u8"
+  },
+  {
+    "id": "97",
+    "name": "Karya_Jaya 2",
+    "url": "http://110.232.82.176/live/KARYA_JAYA2.m3u8"
+  },
+  {
+    "id": "98",
+    "name": "Karya_Jaya 3",
+    "url": "http://110.232.82.176/live/KARYA_JAYA3.m3u8"
+  },
+  {
+    "id": "99",
+    "name": "Katamso_Pelangi",
+    "url": "http://110.232.82.176/live/KATAMSO-PELANGI.m3u8"
+  },
+  {
+    "id": "100",
+    "name": "Katamso-Saktilubis",
+    "url": "http://110.232.82.176/live/KATAMSO-SAKTI.m3u8"
+  },
+  {
+    "id": "101",
+    "name": "Sutomo-Sutrisno",
+    "url": "http://110.232.82.176/live/SUTOMO-SUTRISNO.m3u8"
+  },
+  {
+    "id": "102",
+    "name": "Thamrin-Asia",
+    "url": "http://110.232.82.176/live/THAMRIN-ASIA.m3u8"
+  },
+  {
+    "id": "103",
+    "name": "Sutomo-Merbabu",
+    "url": "http://110.232.82.176/live/SUTOMO-MERBABU.m3u8"
+  },
+  {
+    "id": "104",
+    "name": "Gaharu-Bambu II",
+    "url": "http://110.232.82.176/live/GAHARU-BAMBUII.m3u8"
+  },
+  {
+    "id": "105",
+    "name": "Sutomo-Bambu II",
+    "url": "http://110.232.82.176/live/SUTOMO-BAMBUII.m3u8"
+  },
+  {
+    "id": "106",
+    "name": "Krakatau-Pasar III",
+    "url": "http://110.232.82.176/live/KRAKATAU-PASARIII.m3u8"
+  },
+  {
+    "id": "107",
+    "name": "Krakatau-Bilal",
+    "url": "http://110.232.82.176/live/KRAKATAU-BILAL.m3u8"
+  },
+  {
+    "id": "108",
+    "name": "Krakatau-Sidorukun",
+    "url": "http://110.232.82.176/live/KRAKATAU-SIDORUKUN.m3u8"
+  },
+  {
+    "id": "109",
+    "name": "Cctv dpn kantor walikota",
+    "url": "http://110.232.82.176/live/CCTV_DPN_KANTOR_WALIKOTA.m3u8"
+  },
+  {
+    "id": "110",
+    "name": "Cctv zainul arifin -sp bii",
+    "url": "http://110.232.82.176/live/CCTV_ZAINUL_ARIFIN-SP_BII.m3u8"
+  },
+  {
+    "id": "111",
+    "name": "Cctv imam bonjol -lap benteng 1",
+    "url": "http://110.232.82.176/live/CCTV_IMAM_BONJOL-LAP_BENTENG1.m3u8"
+  },
+  {
+    "id": "112",
+    "name": "Cctv dpn kantor gubernur",
+    "url": "http://110.232.82.176/live/CCTV_DPN_KANTOR_GUBERNUR.m3u8"
+  },
+  {
+    "id": "113",
+    "name": "Sc gatot subroto-majestic",
+    "url": "http://110.232.82.176/live/SC_GATSU-MAJESTIC.m3u8"
+  },
+  {
+    "id": "114",
+    "name": "Sc s parman-sudirman ujung",
+    "url": "http://110.232.82.176/live/SC_S_PARMAN-SUDIRMAN_UJUNG.m3u8"
+  },
+  {
+    "id": "115",
+    "name": "Sc monginsidi-pattimura",
+    "url": "http://110.232.82.176/live/SC_MONGINSIDI-PATTIMURA.m3u8"
+  },
+  {
+    "id": "116",
+    "name": "Sc jm ginting-dr mansyur",
+    "url": "http://110.232.82.176/live/SC_JM_GINTING-DR_MANSYUR.m3u8"
+  },
+  {
+    "id": "117",
+    "name": "Cctv sp lonsum",
+    "url": "http://110.232.82.176/live/CCTV_SP_LONSUM.m3u8"
+  },
+  {
+    "id": "118",
+    "name": "Cctv Jl stasiun",
+    "url": "http://110.232.82.176/live/CCTV_JL_STASIUN.m3u8"
+  },
+  {
+    "id": "119",
+    "name": "Cctv kesawan",
+    "url": "http://110.232.82.176/live/CCTV_KESAWAN.m3u8"
+  },
+  {
+    "id": "120",
+    "name": "Cctv mt haryono-thamrin",
+    "url": "http://110.232.82.176/live/CCTV_MT_HARYONO-THAMRIN.m3u8"
+  },
+  {
+    "id": "121",
+    "name": "Cctv sp limun-sm raja",
+    "url": "http://110.232.82.176/live/CCTV_SP_LIMUN.m3u8"
+  },
+  {
+    "id": "122",
+    "name": "Cctv amplas 1",
+    "url": "http://110.232.82.176/live/CCTV_AMPLAS1.m3u8"
+  },
+  {
+    "id": "123",
+    "name": "Cctv amplas 2",
+    "url": "http://110.232.82.176/live/CCTV_AMPLAS2.m3u8"
+  },
+  {
+    "id": "124",
+    "name": "Sc juanda-istana plaza",
+    "url": "http://110.232.82.176/live/SC_JUANDA-ISTANA_PLAZA.m3u8"
+  },
+  {
+    "id": "125",
+    "name": "Sc brig katamso-istana plaza",
+    "url": "http://110.232.82.176/live/SC_KATAMSO-ISTANA_PLAZA.m3u8"
+  },
+  {
+    "id": "126",
+    "name": "Sc juanda-bandara polonia",
+    "url": "http://110.232.82.176/live/SC_JUANDA-POLONIA.m3u8"
+  },
+  {
+    "id": "127",
+    "name": "Sc amplas",
+    "url": "http://110.232.82.176/live/SC_AMPLAS.m3u8"
+  },
+  {
+    "id": "128",
+    "name": "Cctv putri hijau-tvri",
+    "url": "http://110.232.82.176/live/CCTV_PUTRI_HIJAU-TVRI.m3u8"
+  },
+  {
+    "id": "129",
+    "name": "Cctv jawa-gaharu yamin",
+    "url": "http://110.232.82.176/live/CCTV_JAWA-GAHARU_YAMIN.m3u8"
+  },
+  {
+    "id": "130",
+    "name": "Cctv sutomo-yamin",
+    "url": "http://110.232.82.176/live/CCTV_SUTOMO-YAMIN.m3u8"
+  },
+  {
+    "id": "131",
+    "name": "Sc amir hamzah putri hijau 1",
+    "url": "http://110.232.82.176/live/SC_AMIR_HAMZAH-PUTRI_HIJAU1.m3u8"
+  },
+  {
+    "id": "132",
+    "name": "Sc amir hamzah putri hijau 2",
+    "url": "http://110.232.82.176/live/SC_AMIR_HAMZAH-PUTRI_HIJAU2.m3u8"
+  },
+  {
+    "id": "133",
+    "name": "Sc putri hijau-sp tvri",
+    "url": "http://110.232.82.176/live/SC_PUTRI_HIJAU-SP_TVRI.m3u8"
+  },
+  {
+    "id": "134",
+    "name": "Sc sutomo-yamin",
+    "url": "http://110.232.82.176/live/SC_SUTOMO-YAMIN.m3u8"
+  },
+  {
+    "id": "135",
+    "name": "Sc sutomo-perintis",
+    "url": "http://110.232.82.176/live/SC_SUTOMO-PERINTIS.m3u8"
+  },
+  {
+    "id": "136",
+    "name": "Cctv gatot subroto-medan plaza",
+    "url": "http://110.232.82.176/live/CCTV_GATSU-MEDAN_PLAZA.m3u8"
+  },
+  {
+    "id": "137",
+    "name": "Sc ah nasution-sp pos",
+    "url": "http://110.232.82.176/live/SC_AH_NASUTION-SP_POS.m3u8"
+  },
+  {
+    "id": "138",
+    "name": "Sc jamin ginting-sp pos",
+    "url": "http://110.232.82.176/live/SC_JAMIN_GINTING-SP_POS.m3u8"
+  }
+]
