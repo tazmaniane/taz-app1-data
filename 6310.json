@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Batulicin Arah Selatan",
+    "url": "https://atcs.tanahbumbukab.go.id/hls/cctv_ch09/index.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Batulicin Arah Utara",
+    "url": "https://atcs.tanahbumbukab.go.id/hls/cctv_ch06/index.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Kecamatan Satui / Simp. 4 Sumpul",
+    "url": "https://atcs.tanahbumbukab.go.id/hls/cctv_ch04/index.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Lapangan 7 Februari Pagatan Arah Timur",
+    "url": "https://atcs.tanahbumbukab.go.id/hls/cctv_ch05/index.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Lapangan 7 Februari Pagatan Arah Utara",
+    "url": "https://atcs.tanahbumbukab.go.id/hls/cctv_ch03/index.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Masjid Apung",
+    "url": "https://atcs.tanahbumbukab.go.id/hls/cctv_ch02/index.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Satui Barat",
+    "url": "https://atcs.tanahbumbukab.go.id/hls/cctv_ch01/index.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Simpang 3 Kodeco Selatan",
+    "url": "https://atcs.tanahbumbukab.go.id/hls/cctv_ch14/index.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Simpang 3 Kodeco Utara",
+    "url": "https://atcs.tanahbumbukab.go.id/hls/cctv_ch13/index.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Simpang 4 Lampu Merah Barat",
+    "url": "https://atcs.tanahbumbukab.go.id/hls/cctv_ch10/index.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Simpang 4 Lampu Merah Utara",
+    "url": "https://atcs.tanahbumbukab.go.id/hls/cctv_ch07/index.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Simpang Empat Kompi Arah Timur",
+    "url": "https://atcs.tanahbumbukab.go.id/hls/cctv_ch11/index.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Simpang Empat Kompi Barat",
+    "url": "https://atcs.tanahbumbukab.go.id/hls/cctv_ch12/index.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Simpang Empat Lampu Merah Selatan",
+    "url": "https://atcs.tanahbumbukab.go.id/hls/cctv_ch08/index.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Angsana",
+    "url": ""
+  },
+  {
+    "id": "16",
+    "name": "Simpang 3 Kodeco Barat",
+    "url": ""
+  }
+]
