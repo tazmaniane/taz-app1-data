@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "name": "Simpang Pasar",
+    "url": "https://mtx.padangpanjang.go.id:3443/cam15/index.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Simpang 8",
+    "url": "https://mtx.padangpanjang.go.id:3443/cam13/index.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Simpang 8",
+    "url": "https://mtx.padangpanjang.go.id:3443/cam14/index.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Simpang SMPN 5",
+    "url": "https://mtx.padangpanjang.go.id:3443/cam12/index.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Simpang M.Syafe'i",
+    "url": "https://mtx.padangpanjang.go.id:3443/cam2/index.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Simpang AB Mart",
+    "url": "https://mtx.padangpanjang.go.id:3443/cam8/index.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Simpang AB Mart",
+    "url": "https://mtx.padangpanjang.go.id:3443/cam9/index.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Simpang Kacang Kayu",
+    "url": "https://mtx.padangpanjang.go.id:3443/cam6/index.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Simpang Kacang Kayu",
+    "url": "https://mtx.padangpanjang.go.id:3443/cam7/index.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Simpang Ekor Lubuk",
+    "url": "https://mtx.padangpanjang.go.id:3443/cam3/index.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Simpang MTSN Ganting",
+    "url": "https://mtx.padangpanjang.go.id:3443/cam4/index.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Simpang MTSN Ganting",
+    "url": "https://mtx.padangpanjang.go.id:3443/cam5/index.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Simpang PDAM",
+    "url": "https://mtx.padangpanjang.go.id:3443/cam10/index.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Simpang PDAM",
+    "url": "https://mtx.padangpanjang.go.id:3443/cam11/index.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Simpang Serambi",
+    "url": "https://mtx.padangpanjang.go.id:3443/cam1/index.m3u8"
+  }
+]
