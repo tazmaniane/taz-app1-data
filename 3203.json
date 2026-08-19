@@ -1,0 +1,362 @@
+[
+  {
+    "id": "1",
+    "name": "Ruas Jl. Abdullah Bin Nuh-2",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/VID2RuasJlAbdullahBinNuh.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Ruas Jl. Abdullah Bin Nuh-4",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/VID4RuasJlAbdullahBinNuh.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Ruas Jl. Abdullah Bin Nuh-3",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/VID2RuasJlAbdullahBinNuh.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Ruas Jl. Abdullah Bin Nuh-1",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/VID1RuasJlAbdullahBinNuh.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Bundaran Lampu Gentur Dari Arah Dr. Muwardi",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/Tugu-Gentur-DrMuwahrdi.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Simpang 4 Pramuka PTZ 2",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/qnKKHlS27Pw41759502638300.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Bundaran Lampu Gentur Dari Arah Selakopi",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/ArahSalakopi.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Tugu Pandan Wangi Dari Arah Sukabumi",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP3PANDANWANGIARAHSUKABUMI.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Simpang 4 Pramuka Dari Arah Lingkar Selatan",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/PM85nUxkNyZr1759502723221.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Simpang 4 Pramuka Dari Arah Dr. Hafiz",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/ZB9LHGrAhu5s1759502550921.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Simpang 4 Pramuka Dari Arah Jl. Raya Bandung",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/qnKKHlS27Pw41759502638300.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Bundaran Lampu Gentur",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/BundaranTuguGentur.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Simpang 4 Toko Lili Dari Arah Warujajar",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/9MISv95WwEtJ1767185263301.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Simpang 4 Toko Lili Dari Arah Suroso",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/liliarahsuroso.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Simpang 4 Bojong PTZ 2",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/xn14eApg5Xms1761841457849.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Simpang 4 Bojong PTZ 1",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP_4_Bojong.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Tugu Pandanwangi Dari Arah Cianjur",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/ArahBLK.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Simpang 3 Leuwi Bungur",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP3-Lewibungur.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Simpang 3 Cikidang",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP3Cikidang.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Simpang 3 Moch. Ali",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/wi0mimnjBcHE1762834916806.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "SP3 Ciranjang Arah Cianjur",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/JUJZgRKmDFTA1759501774067.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Tugu Tauco Arah Ramayana",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/TaucoArahRamayana.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "Sp3_Suge 2",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/SugeArahHypermart.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "SP3 _Suge 1",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/SugeArahtokoLili.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Simpang 4 Warungkondang",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/5YK77KVsswMU1762835161499.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Simpang 4 BLK",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP4BLK.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Simpang 4 DISHUB Dari Arah Bandung",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/l6jrThL3NKVN1761906420028.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "Simpang 4 DISHUB Arah Ramayana",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP4_Dishub_PTZ_2.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "Simpang 3 RSUD Cianjur",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP3RSUD.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "Simpang 3 Sasak",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/sasak1.m3u8"
+  },
+  {
+    "id": "31",
+    "name": "Simpang 3 Sasak Arah PUPR",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/sasak2.m3u8"
+  },
+  {
+    "id": "32",
+    "name": "Simpang 3 Joglo Toserba",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/sp3joglo.m3u8"
+  },
+  {
+    "id": "33",
+    "name": "SP 3 Ciranjang Arah Bandung",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/pjdoCuZQu1Yj1759502012203.m3u8"
+  },
+  {
+    "id": "34",
+    "name": "Simpang 4 Jebrod",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/3RLusJbozLPx1773768350125.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "Jl Mangunsarkoro Toko AA",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/tokoaa.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "Jl Mangunsarkoro Sinar",
+    "url": "https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP3_Sinar.m3u8"
+  },
+  {
+    "id": "37",
+    "name": "SP-4-Syanghai",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/syanghai2.m3u8"
+  },
+  {
+    "id": "38",
+    "name": "Tugu Tauhid",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/sp3tauhid.m3u8"
+  },
+  {
+    "id": "39",
+    "name": "SP3 Siliwangi BRI",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/sp3bri.m3u8"
+  },
+  {
+    "id": "40",
+    "name": "Ruas Jl Pasar Cipana",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/pasarcipanas.m3u8"
+  },
+  {
+    "id": "41",
+    "name": "Ruas JL Raya Bandung Masjid Al.Zabbar",
+    "url": "https://ruas-ciranjang.jaring.host/api/hls/camera_b/stream.m3u8"
+  },
+  {
+    "id": "42",
+    "name": "Ruas JL Raya Bandung Rest Area Masjid Al.Zabbar",
+    "url": "https://ruas-ciranjang.jaring.host/api/hls/camera_a/stream.m3u8"
+  },
+  {
+    "id": "43",
+    "name": "SP 3 Cibodas",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP3Cibodas.m3u8"
+  },
+  {
+    "id": "44",
+    "name": "SP 3 Hanjawar",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/SP3Hanjawar.m3u8"
+  },
+  {
+    "id": "45",
+    "name": "Tugu Tauco Arah Dr Muwardi",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/Muwardi.m3u8"
+  },
+  {
+    "id": "46",
+    "name": "SP3 Ariaciko",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/sp3arciko.m3u8"
+  },
+  {
+    "id": "47",
+    "name": "SP 3 Warujajar",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/sp3warujajar.m3u8"
+  },
+  {
+    "id": "48",
+    "name": "SP 4 Toko Lili",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/lili2.m3u8"
+  },
+  {
+    "id": "49",
+    "name": "Ruas Jl Raya Cipanas Bogor",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/restarea.m3u8"
+  },
+  {
+    "id": "50",
+    "name": "Alun-Alun Cianjur",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/alun2.m3u8"
+  },
+  {
+    "id": "51",
+    "name": "Botol Kecap Ciloto",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/3YzQ31YkgWev1761663382284.m3u8"
+  },
+  {
+    "id": "52",
+    "name": "SP4 BLK Arah P. Hidayatullah",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/7W4ePyjThVbO1761717099598.m3u8"
+  },
+  {
+    "id": "53",
+    "name": "Dprd Arah Polres",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/ GlmHH9TM0VSA1769153449261.m3u8"
+  },
+  {
+    "id": "54",
+    "name": "SP 4 Nagrak Ats",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/wWGgmlF4O4yZ1773763157121.m3u8"
+  },
+  {
+    "id": "55",
+    "name": "DPR Cianjur",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/ELMZv5LfEbhx1773759824485.m3u8"
+  },
+  {
+    "id": "56",
+    "name": "SP3 Pasirhayam",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/bwb4Tbe5XDyC1773767462424.m3u8"
+  },
+  {
+    "id": "57",
+    "name": "SP3 Arwinda",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/Nv99JIMs9oIW1768059019707.m3u8"
+  },
+  {
+    "id": "58",
+    "name": "SP3 Pasar Domba",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/RPL1rSU4j6IJ1773767917194.m3u8"
+  },
+  {
+    "id": "59",
+    "name": "SP Jebrod 2",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/sp4jebrod.m3u8"
+  },
+  {
+    "id": "60",
+    "name": "Terminal Pasir Hayam",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/EQxn3obUMd0q1773768668125.m3u8"
+  },
+  {
+    "id": "61",
+    "name": "Tugu Meong",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/dD2zYtOKEbNi1773782706885.m3u8"
+  },
+  {
+    "id": "62",
+    "name": "Islam Kreatif",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/ELMZv5LfEbhx1773759824485.m3u8"
+  },
+  {
+    "id": "63",
+    "name": "SP 3 Pasundan",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/XHoJ2K2gwaO71773842442254.m3u8"
+  },
+  {
+    "id": "64",
+    "name": "SP 3 BPK Penabur",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/97H6ydBcJiyX1773842763624.m3u8"
+  },
+  {
+    "id": "65",
+    "name": "SP 3 Waru Jajar",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/sp3warujajar.m3u8"
+  },
+  {
+    "id": "66",
+    "name": "SP 3 DINKES",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/Ng4y81piML301773843415582.m3u8"
+  },
+  {
+    "id": "67",
+    "name": "SP 3 Pasar Beas",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/WNy2drGIXPfb1773843655801.m3u8"
+  },
+  {
+    "id": "68",
+    "name": "SP 3 Pataruman",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/mny1jPJpFmm61773843673567.m3u8"
+  },
+  {
+    "id": "69",
+    "name": "SP 3 Moch Ali (Iqro)",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/MgNBwAYABDbp1773845095590.m3u8"
+  },
+  {
+    "id": "70",
+    "name": "SPBU BLK",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/yD3PioSMyiem1773845412150.m3u8"
+  },
+  {
+    "id": "71",
+    "name": "SP 4 Pasir Honje (H.Didi)",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/J9SGRvcZfYMa1780671285063.m3u8"
+  },
+  {
+    "id": "72",
+    "name": "Bundaran Ciloto Puncak",
+    "url": "https://atcs.cianjurkab.go.id:5443/LieApp/streams/gORrsqCE1FA51782484310244.m3u8"
+  }
+]
