@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "Jembatan Alalak Arah Luar Kota",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/jembatan_alalak_arah_luar_kota/index.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Jalan A Yani KM 3 (Depan PDAM)",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/jalan_a_yani_km_3/index.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "U-Turn A Yani KM 2",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/u_turn_a_yani_km_2/index.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Simpang A Yani - Antasari KM 3",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_a_yani_antasari_km_3/index.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Simpang Jembatan Merdeka / Mesjid Raya",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_jembatan_merdeka_mesjid_raya/index.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Simpang 3 Piston Jembatan Merdeka",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_3_piston_jembatan_merdeka/index.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Simpang S. Parman Arah Tarakan",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_s_parman_arah_tarakan/index.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Simpang A Yani - Pramuka KM 6",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_a_yani_pramuka_km_6/index.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Simpang Mentari",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_mentari/index.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Simpang A Yani Gatot / Fly Over KM 3",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_a_yani_gatot_fly_over_km_3/index.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Simpang Sutoyo / Jafri Zam Zam",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_sutoyo_jafri_zam_zam/index.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Jembatan Sungai Andai",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/jembatan_sungai_andai/index.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Simpang Antasari",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_antasari/index.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Simpang A Yani - Kuripan KM 2",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_a_yani_kuripan_km_2/index.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Simpang Cemara",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_cemara/index.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Simpang Kamboja",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_kamboja/index.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "U-Turn Jalan A Yani KM 5",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/u_turn_jalan_a_yani_km_5/index.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Jalan Lambung Mangkurat (Depan Bank Indonesia)",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/jalan_lambung_mangkurat_bank_bi/index.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Jembatan Mesjid Jami",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/jembatan_mesjid_jami_arah_mesjid/index.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Jembatan Pangeran Samudera (Antasari)",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/jalan_pangeran_samudera_antasari/index.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Jalan Gubernur Soebardjo Jembatan Tatah Bangkal Keluar Kota",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/jalan_gubernur_soebardjo_jembatan_tatah_bangkal_keluar_kota/index.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Simpang Gerilya",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_gerilya/index.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "U-Turn Jalan S. Parman Arah Luar Kota",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/u_turn_jalan_s_parman_arah_luar_kota/index.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "Jalan Gubernur Soebardjo Jembatan Tatah Bangkal Masuk Kota",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/jalan_gubernur_soebardjo_jembatan_tatah_bangkal_masuk_kota/index.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Simpang Hasan Basri - Cemara",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_hasan_basri_cemara/index.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Jalan Ujung Murung",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/jl_ujung_murung_1/index.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Simpang Kol. Sugiono",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_kol_sugiono/index.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "Simpang Pasar Lama",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_pasar_lama/index.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "Simpang Veteran - Gatot",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_veteran_gatot/index.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "Simpang Hasanuddin - Ujung Murung",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_jembatan_dewi/index.m3u8"
+  },
+  {
+    "id": "31",
+    "name": "Simpang Sultan Adam - Sungai Andai",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_sultan_adam_sungai_andai/index.m3u8"
+  },
+  {
+    "id": "32",
+    "name": "Jalan Ujung Murung - Pasar",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/jl_ujung_murung_2/index.m3u8"
+  },
+  {
+    "id": "33",
+    "name": "Simpang RK Ilir / Teluk Tiram Darat",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_rk_ilir_teluk_tiram_darat/index.m3u8"
+  },
+  {
+    "id": "34",
+    "name": "Simpang Mulawarman",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_mulawarman/index.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "Simpang S. Parman - Tarakan",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/simpang_s_parman_tarakan/index.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "U-Turn Jalan S. Parman Arah Dalam Kota",
+    "url": "https://atcs.banjarmasinkota.go.id/stream/u_turn_jalan_s_parman_arah_dalam_kota/index.m3u8"
+  }
+]
