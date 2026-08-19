@@ -1,0 +1,232 @@
+[
+  {
+    "id": "1",
+    "name": "Simpang Pasar Banto",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d1/s.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Simpang BNI",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d2/s.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Batas Kota Birugo",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d4/s.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Batas Kota Birugo",
+    "url": "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d45/s.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Simpang Aur",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d5/s.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Lapangan Kantin",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d6/s.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Lapangan Kantin",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d7/s.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Lapangan Kantin",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d8/s.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Lapangan Kantin",
+    "url": "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d43/s.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Lapangan Kantin",
+    "url": "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d44/s.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Simpang Surau Gadang",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d9/s.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Simpang Surau Gadang",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d25/s.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Simpang Kangkuang",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d10/s.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Simpang Kangkuang",
+    "url": "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam2d16/s.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Simpang Depan DPRD",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d11/s.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Panorama",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d12/s.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Panorama",
+    "url": "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d41/s.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Simpang Gaduik",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d13/s.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Simpang Tembok",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d14/s.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Simpang Tembok",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d15/s.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Simpang Tembok",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d16/s.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Jam Gadang",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d17/s.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "Jam Gadang",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d18/s.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "Simpang Garegeh",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d19/s.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Simpang Garegeh",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d20/s.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Simpang Manggis",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d22/s.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Simpang Manggis",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d23/s.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "Simpang Manggis",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d24/s.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "Simpang Yarsi",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d27/s.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "Simpang Yarsi",
+    "url": "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d36/s.m3u8"
+  },
+  {
+    "id": "31",
+    "name": "Simpang Mandiangin",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d28/s.m3u8"
+  },
+  {
+    "id": "32",
+    "name": "Simpang Mandiangin",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d30/s.m3u8"
+  },
+  {
+    "id": "33",
+    "name": "Simpang Mandiangin",
+    "url": "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d31/s.m3u8"
+  },
+  {
+    "id": "34",
+    "name": "Simpang Tarok",
+    "url": "https://hls.bukittinggikota.go.id/hls1/S8CLldgSvMnakXwcqcfUXXHsV1V3D4/hls/vaGEV01I5C/cam1d26/s.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "Simpang Tarok",
+    "url": "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d32/s.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "Simpang Tarok",
+    "url": "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d33/s.m3u8"
+  },
+  {
+    "id": "37",
+    "name": "Simpang Jirek",
+    "url": "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d37/s.m3u8"
+  },
+  {
+    "id": "38",
+    "name": "Simpang Jirek",
+    "url": "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d38/s.m3u8"
+  },
+  {
+    "id": "39",
+    "name": "Simpang Jirek",
+    "url": "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d39/s.m3u8"
+  },
+  {
+    "id": "40",
+    "name": "Simpang Jirek",
+    "url": "https://hls.bukittinggikota.go.id/hls2/1JsXXZ1uXKOKRw26u67F4mrsN3bTYI/hls/5uGBKQdmwh/cam1d40/s.m3u8"
+  },
+  {
+    "id": "41",
+    "name": "Simpang Parak Kopi Bawah",
+    "url": "https://hls.bukittinggikota.go.id/hls3/wlRJXDnLF0nDarpukpIkiPcPiJquQU/hls/5uGBKQdmwh/cam2d1/s.m3u8"
+  },
+  {
+    "id": "42",
+    "name": "Simpang Parak Kopi Bawah",
+    "url": "https://hls.bukittinggikota.go.id/hls3/wlRJXDnLF0nDarpukpIkiPcPiJquQU/hls/5uGBKQdmwh/cam2d3/s.m3u8"
+  },
+  {
+    "id": "43",
+    "name": "Bantola",
+    "url": "https://hls.bukittinggikota.go.id/hls3/wlRJXDnLF0nDarpukpIkiPcPiJquQU/hls/5uGBKQdmwh/cam2d13/s.m3u8"
+  },
+  {
+    "id": "44",
+    "name": "Simpang Parak Kopi Dalam",
+    "url": "https://hls.bukittinggikota.go.id/hls3/wlRJXDnLF0nDarpukpIkiPcPiJquQU/hls/5uGBKQdmwh/cam2d14/s.m3u8"
+  },
+  {
+    "id": "45",
+    "name": "Banto Laweh",
+    "url": "https://hls.bukittinggikota.go.id/hls3/wlRJXDnLF0nDarpukpIkiPcPiJquQU/hls/5uGBKQdmwh/cam2d5/s.m3u8"
+  },
+  {
+    "id": "46",
+    "name": "Banto Laweh",
+    "url": "https://hls.bukittinggikota.go.id/hls3/wlRJXDnLF0nDarpukpIkiPcPiJquQU/hls/5uGBKQdmwh/cam2d8/s.m3u8"
+  }
+]
