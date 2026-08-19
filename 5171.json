@@ -1,0 +1,317 @@
+[
+  {
+    "id": "1",
+    "name": "GUNUNG AGUNG",
+    "url": "https://atcs.denpasarkota.go.id/stream/A001GUNUNGAGUNGPTZ/index.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "KAPTEN SUJANA",
+    "url": "https://atcs.denpasarkota.go.id/stream/A002KAPTENSUJANAPTZ/index.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "GUNUNG SALAK",
+    "url": "https://atcs.denpasarkota.go.id/stream/A003GUNUNGSALAKPTZ/index.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "TEUKU UMAR",
+    "url": "https://atcs.denpasarkota.go.id/stream/A004TEUKUUMARPTZ1/index.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "TEUKU UMAR",
+    "url": "https://atcs.denpasarkota.go.id/stream/A004TEUKUUMARPTZ2/index.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "BATANTA",
+    "url": "https://atcs.denpasarkota.go.id/stream/A005BATANTAPTZ/index.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "SOPUTAN",
+    "url": "https://atcs.denpasarkota.go.id/stream/A006SOPUTANPTZ/index.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "MAHENDRADATTA",
+    "url": "https://atcs.denpasarkota.go.id/stream/A008MAHENDRADATTAPTZ/index.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "BALUN",
+    "url": "https://atcs.denpasarkota.go.id/stream/A007BALUNPTZ/index.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "PERUMNAS",
+    "url": "https://atcs.denpasarkota.go.id/stream/A009PERUMNASPTZ/index.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "PERMATA HIJAU",
+    "url": "https://atcs.denpasarkota.go.id/stream/A010PERMATAHIJAUPTZ/index.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "MERPATI",
+    "url": "https://atcs.denpasarkota.go.id/stream/A011MERPATIPTZ/index.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "PULAU SAELUS",
+    "url": "https://atcs.denpasarkota.go.id/stream/A012PULAUSAELUSPTZ/index.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "SIDAKARYA",
+    "url": "https://atcs.denpasarkota.go.id/stream/A013SIDAKARYAPTZ/index.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "KAPTEN JAPA",
+    "url": "https://atcs.denpasarkota.go.id/stream/A014KAPTENJAPAPTZ/index.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "MELATI",
+    "url": "https://atcs.denpasarkota.go.id/stream/A015MELATIPTZ/index.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "YOS SUDARSO",
+    "url": "https://atcs.denpasarkota.go.id/stream/A016YOSSUDARSOPTZ/index.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "PUPUTAN",
+    "url": "https://atcs.denpasarkota.go.id/stream/A017PUPUTANPTZ/index.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "DEWI SARTIKA",
+    "url": "https://atcs.denpasarkota.go.id/stream/A018DEWISARTIKAPTZ/index.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "FE UNUD",
+    "url": "https://atcs.denpasarkota.go.id/stream/A019FEUNUDPTZ/index.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "WATURENGGONG",
+    "url": "https://atcs.denpasarkota.go.id/stream/A020WATURENGGONGPTZ/index.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "PULAU BUTON",
+    "url": "https://atcs.denpasarkota.go.id/stream/A021PULAUBUTONPTZ/index.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "PULAU BUTON",
+    "url": "https://atcs.denpasarkota.go.id/stream/A021PULAUBUTONPANORAMIC/index.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "UBUNG",
+    "url": "https://atcs.denpasarkota.go.id/stream/A022UBUNGPTZ1/index.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "UBUNG",
+    "url": "https://atcs.denpasarkota.go.id/stream/A022UBUNGPTZ2/index.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "CATURMUKA",
+    "url": "https://atcs.denpasarkota.go.id/stream/A023CATURMUKAPTZ/index.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "ARJUNA",
+    "url": "https://atcs.denpasarkota.go.id/stream/A024ARJUNAPTZ/index.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "THAMRIN",
+    "url": "https://atcs.denpasarkota.go.id/stream/A025THAMRINPTZ/index.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "PULAU BIAK",
+    "url": "https://atcs.denpasarkota.go.id/stream/A026PULAUBIAKPTZ/index.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "GUNUNG SUBUR",
+    "url": "https://atcs.denpasarkota.go.id/stream/A027GUNUNGSUBURPTZ/index.m3u8"
+  },
+  {
+    "id": "31",
+    "name": "PULAU GALANG",
+    "url": "https://atcs.denpasarkota.go.id/stream/A028PULAUGALANGPTZ/index.m3u8"
+  },
+  {
+    "id": "32",
+    "name": "TANGKUBAN PERAHU",
+    "url": "https://atcs.denpasarkota.go.id/stream/A029TANGKUBANPERAHUPTZ/index.m3u8"
+  },
+  {
+    "id": "33",
+    "name": "CARGO",
+    "url": "https://atcs.denpasarkota.go.id/stream/A030CARGOPTZ/index.m3u8"
+  },
+  {
+    "id": "34",
+    "name": "PIDADA",
+    "url": "https://atcs.denpasarkota.go.id/stream/A031PIDADAPTZ/index.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "AHMAD YANI",
+    "url": "https://atcs.denpasarkota.go.id/stream/A032AHMADYANIPTZ/index.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "NANGKA",
+    "url": "https://atcs.denpasarkota.go.id/stream/A033NANGKAPTZ1/index.m3u8"
+  },
+  {
+    "id": "37",
+    "name": "NANGKA",
+    "url": "https://atcs.denpasarkota.go.id/stream/A033NANGKAPTZ2/index.m3u8"
+  },
+  {
+    "id": "38",
+    "name": "KENYERI",
+    "url": "https://atcs.denpasarkota.go.id/stream/A034KENYERIPTZ/index.m3u8"
+  },
+  {
+    "id": "39",
+    "name": "NOJA",
+    "url": "https://atcs.denpasarkota.go.id/stream/A035NOJAPTZ/index.m3u8"
+  },
+  {
+    "id": "40",
+    "name": "TRENGGULI",
+    "url": "https://atcs.denpasarkota.go.id/stream/A036TRENGGULIPTZ/index.m3u8"
+  },
+  {
+    "id": "41",
+    "name": "KEN AROK",
+    "url": "https://atcs.denpasarkota.go.id/stream/A037KENAROKPTZ/index.m3u8"
+  },
+  {
+    "id": "42",
+    "name": "TOHPATI",
+    "url": "https://atcs.denpasarkota.go.id/stream/A038TOHPATIPTZ/index.m3u8"
+  },
+  {
+    "id": "43",
+    "name": "KEBO IWA",
+    "url": "https://atcs.denpasarkota.go.id/stream/A039KEBOIWAPTZ/index.m3u8"
+  },
+  {
+    "id": "44",
+    "name": "SEKARSARI",
+    "url": "https://atcs.denpasarkota.go.id/stream/A040SEKARSARIPTZ/index.m3u8"
+  },
+  {
+    "id": "45",
+    "name": "GEMITIR",
+    "url": "https://atcs.denpasarkota.go.id/stream/A041GEMITIRPTZ/index.m3u8"
+  },
+  {
+    "id": "46",
+    "name": "SEDAP MALAM",
+    "url": "https://atcs.denpasarkota.go.id/stream/A042SEDAPMALAMPTZ/index.m3u8"
+  },
+  {
+    "id": "47",
+    "name": "GUNUNG GALUNGGUNG",
+    "url": "https://atcs.denpasarkota.go.id/stream/A043GUNUNGGALUNGGUNGPTZ/index.m3u8"
+  },
+  {
+    "id": "48",
+    "name": "WARIBANG",
+    "url": "https://atcs.denpasarkota.go.id/stream/A044WARIBANGPTZ/index.m3u8"
+  },
+  {
+    "id": "49",
+    "name": "SURABI",
+    "url": "https://atcs.denpasarkota.go.id/stream/A045SURABIPTZ/index.m3u8"
+  },
+  {
+    "id": "50",
+    "name": "SUBITA",
+    "url": "https://atcs.denpasarkota.go.id/stream/A046SUBITAPTZ/index.m3u8"
+  },
+  {
+    "id": "51",
+    "name": "KECUBUNG",
+    "url": "https://atcs.denpasarkota.go.id/stream/A047KECUBUNGPTZ/index.m3u8"
+  },
+  {
+    "id": "52",
+    "name": "NUSA INDAH",
+    "url": "https://atcs.denpasarkota.go.id/stream/A048NUSAINDAHPTZ/index.m3u8"
+  },
+  {
+    "id": "53",
+    "name": "NUSA INDAH",
+    "url": "https://atcs.denpasarkota.go.id/stream/A048NUSAINDAHPTZ/index.m3u8"
+  },
+  {
+    "id": "54",
+    "name": "HANG TUAH",
+    "url": "https://atcs.denpasarkota.go.id/stream/A049HANGTUAHPTZ/index.m3u8"
+  },
+  {
+    "id": "55",
+    "name": "MATAHARI TERBIT",
+    "url": "https://atcs.denpasarkota.go.id/stream/A050MATAHARITERBITPTZ/index.m3u8"
+  },
+  {
+    "id": "56",
+    "name": "TUKAD BALIAN",
+    "url": "https://atcs.denpasarkota.go.id/stream/A051TUKADBALIANPTZ/index.m3u8"
+  },
+  {
+    "id": "57",
+    "name": "DANAU POSO",
+    "url": "https://atcs.denpasarkota.go.id/stream/A052DANAUPOSOPTZ/index.m3u8"
+  },
+  {
+    "id": "58",
+    "name": "DANAU BUYAN",
+    "url": "https://atcs.denpasarkota.go.id/stream/A053DANAUBUYANPTZ/index.m3u8"
+  },
+  {
+    "id": "59",
+    "name": "SUTOYO",
+    "url": "https://atcs.denpasarkota.go.id/stream/A054SUTOYOPTZ/index.m3u8"
+  },
+  {
+    "id": "60",
+    "name": "SUDIRMAN",
+    "url": "https://atcs.denpasarkota.go.id/stream/A055SUDIRMANPTZ/index.m3u8"
+  },
+  {
+    "id": "61",
+    "name": "SUDORMO",
+    "url": "https://atcs.denpasarkota.go.id/stream/A056SUDORMOPTZ/index.m3u8"
+  },
+  {
+    "id": "62",
+    "name": "PULAU MOYO",
+    "url": "https://atcs.denpasarkota.go.id/stream/A057PULAUMOYOPTZ/index.m3u8"
+  },
+  {
+    "id": "63",
+    "name": "PASAR BADUNG",
+    "url": "https://atcs.denpasarkota.go.id/stream/A058PASARBADUNGPTZ/index.m3u8"
+  }
+]
