@@ -1,8 +1,8 @@
 [
   {
-    "id": "1",
-    "name": "RADEN SALEH - BALAI KOTA",
-    "url": "https://atcsdishub.medan.go.id/stream/L1RADENSALEHBALAIKOTA/index.m3u8"
+    "id": "104",
+    "name": "AHMAD YANI - PEMUDA",
+    "url": "https://atcsdishub.medan.go.id/stream/L105AHMADYANIPEMUDA/index.m3u8"
   },
   {
     "id": "2",
@@ -10,294 +10,19 @@
     "url": "https://atcsdishub.medan.go.id/stream/L2AHMADYANIPULAUPINANG/index.m3u8"
   },
   {
-    "id": "3",
-    "name": "KESAWAN - PALANG MERAH",
-    "url": "https://atcsdishub.medan.go.id/stream/L3KESAWANPALANGMERAH/index.m3u8"
-  },
-  {
-    "id": "4",
-    "name": "KATAMSO - ANI IDRUS",
-    "url": "https://atcsdishub.medan.go.id/stream/L4KATAMSOANIIDRUS/index.m3u8"
-  },
-  {
-    "id": "5",
-    "name": "PANDU - CIREBON",
-    "url": "https://atcsdishub.medan.go.id/stream/L5PANDUCIREBON/index.m3u8"
-  },
-  {
-    "id": "6",
-    "name": "KATAMSO - MASJID RAYA",
-    "url": "https://atcsdishub.medan.go.id/stream/L6KATAMSOMASJIDRAYA/index.m3u8"
-  },
-  {
-    "id": "7",
-    "name": "SM.RAJA - AMALIUN",
-    "url": "https://atcsdishub.medan.go.id/stream/L7SM.RAJAAMALIUN/index.m3u8"
-  },
-  {
-    "id": "8",
-    "name": "GURU PATIMPUS - ADAM MALIK",
-    "url": "https://atcsdishub.medan.go.id/stream/L8GURUPATIMPUSADAMMALIK/index.m3u8"
-  },
-  {
-    "id": "9",
-    "name": "PENGADILAN - KPT.MAULANA LUBIS",
-    "url": "https://atcsdishub.medan.go.id/stream/L9PENGADILANKPT.MAULANALUBIS/index.m3u8"
-  },
-  {
-    "id": "10",
-    "name": "PERDANA - IMAM BONJOL",
-    "url": "https://atcsdishub.medan.go.id/stream/L10PERDANAIMAMBONJOL/index.m3u8"
-  },
-  {
-    "id": "11",
-    "name": "IMAM BONJOL - ZAINUL ARIFIN",
-    "url": "https://atcsdishub.medan.go.id/stream/L11IMAMBONJOLZAINULARIFIN/index.m3u8"
-  },
-  {
-    "id": "12",
-    "name": "SUPRAPTO - MULTATULI",
-    "url": "https://atcsdishub.medan.go.id/stream/L12SUPRAPTOMULTATULI/index.m3u8"
-  },
-  {
-    "id": "13",
-    "name": "IMAM BONJOL - SUPRAPTO",
-    "url": "https://atcsdishub.medan.go.id/stream/L13IMAMBONJOLSUPRAPTO/index.m3u8"
-  },
-  {
-    "id": "14",
-    "name": "DIPONEGORO - ZAINUL ARIFIN",
-    "url": "https://atcsdishub.medan.go.id/stream/L14DIPONEGOROZAINULARIFIN/index.m3u8"
-  },
-  {
-    "id": "15",
-    "name": "DIPONEGORO - KARTINI",
-    "url": "https://atcsdishub.medan.go.id/stream/L15DIPONEGOROKARTINI/index.m3u8"
-  },
-  {
-    "id": "16",
-    "name": "SUDIRMAN - DIPONEGORO",
-    "url": "https://atcsdishub.medan.go.id/stream/L16SUDIRMANDIPONEGORO/index.m3u8"
-  },
-  {
-    "id": "17",
-    "name": "SUDIRMAN - CIK DITIRO",
-    "url": "https://atcsdishub.medan.go.id/stream/L17SUDIRMANCIKDITIRO/index.m3u8"
-  },
-  {
-    "id": "18",
-    "name": "KATAMSO - JUANDA",
-    "url": "https://atcsdishub.medan.go.id/stream/L18KATAMSOJUANDA/index.m3u8"
-  },
-  {
-    "id": "19",
-    "name": "JUANDA - POLONIA ",
-    "url": "https://atcsdishub.medan.go.id/stream/L19JUANDAPOLONIA/index.m3u8"
-  },
-  {
-    "id": "20",
-    "name": "SM.RAJA - HALAT",
-    "url": "https://atcsdishub.medan.go.id/stream/L20SMRAJAHALAT/index.m3u8"
-  },
-  {
-    "id": "21",
-    "name": "SM.RAJA - PELANGI",
-    "url": "https://atcsdishub.medan.go.id/stream/L21SMRAJAPELANGI/index.m3u8"
-  },
-  {
-    "id": "22",
-    "name": "SM.RAJA - AH.NASUTION",
-    "url": "https://atcsdishub.medan.go.id/stream/L22SMRAJAPMH/index.m3u8"
-  },
-  {
-    "id": "23",
-    "name": "SM.RAJA - PANGLIMA DENAI",
-    "url": "https://atcsdishub.medan.go.id/stream/L23AMPLAS/index.m3u8"
-  },
-  {
-    "id": "24",
-    "name": "MT.HARYONO - IRIAN BARAT",
-    "url": "https://atcsdishub.medan.go.id/stream/L24UNILAND/index.m3u8"
-  },
-  {
-    "id": "25",
-    "name": "MT.HARYONO - SUTOMO",
-    "url": "https://atcsdishub.medan.go.id/stream/L25MEDANMALL/index.m3u8"
-  },
-  {
-    "id": "26",
-    "name": "MT HARYONO - MH.THAMRIN",
-    "url": "https://atcsdishub.medan.go.id/stream/L26MTHARYONOTHAMRIN/index.m3u8"
-  },
-  {
-    "id": "27",
-    "name": "PUTRI HIJAU - GURU PATIMPUS",
-    "url": "https://atcsdishub.medan.go.id/stream/L27TVRI/index.m3u8"
-  },
-  {
-    "id": "28",
-    "name": "SUDIRMAN - S.PARMAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L29SUDIRMANUJUNG/index.m3u8"
-  },
-  {
-    "id": "29",
-    "name": "MONGONSIDI - PATIMURA",
-    "url": "https://atcsdishub.medan.go.id/stream/L30MONGONSIDIPATTIMURA/index.m3u8"
-  },
-  {
-    "id": "30",
-    "name": "JAMIN GINTING - ISKANDAR MUDA",
-    "url": "https://atcsdishub.medan.go.id/stream/L31JAMINGINTINGISMUD/index.m3u8"
-  },
-  {
-    "id": "31",
-    "name": "JAMIN GINTNG - DR.MANSYUR",
-    "url": "https://atcsdishub.medan.go.id/stream/L32JAMINGINTINGDRMANSYUR/index.m3u8"
-  },
-  {
-    "id": "32",
-    "name": "SM.RAJA - HM.JONI ",
-    "url": "https://atcsdishub.medan.go.id/stream/L33SMRAJAHMJHONI/index.m3u8"
-  },
-  {
-    "id": "33",
-    "name": "SM.RAJA - ALFALAH",
-    "url": "https://atcsdishub.medan.go.id/stream/L34SMRAJAALFALAH/index.m3u8"
-  },
-  {
     "id": "34",
     "name": "AH.NASUTION - BAJAK",
     "url": "https://atcsdishub.medan.go.id/stream/L35NASUTIONBAJAK/index.m3u8"
   },
   {
-    "id": "35",
-    "name": "GATOT SUBROTO - ISKANDAR MUDA",
-    "url": "https://atcsdishub.medan.go.id/stream/L36MEDANPLAZA/index.m3u8"
+    "id": "90",
+    "name": "AH. NASUTION - BRIGJEN KATAMSO",
+    "url": "https://atcsdishub.medan.go.id/stream/L91AHNASUTIONBRIGJENKATAMSO/index.m3u8"
   },
   {
-    "id": "36",
-    "name": "GATOT SUBROTO - WAHID HASYIM",
-    "url": "https://atcsdishub.medan.go.id/stream/L37SEIWAMPU/index.m3u8"
-  },
-  {
-    "id": "37",
-    "name": "GATOT SUBROTO - AYAHANDA",
-    "url": "https://atcsdishub.medan.go.id/stream/L38AYAHANDA/index.m3u8"
-  },
-  {
-    "id": "38",
-    "name": "GATOT SUBROTO - KAPTEN MUSLIM",
-    "url": "https://atcsdishub.medan.go.id/stream/L39SEISIKAMBING/index.m3u8"
-  },
-  {
-    "id": "39",
-    "name": "ISKANDAR MUDA - GAJAH MADA ",
-    "url": "https://atcsdishub.medan.go.id/stream/L40ISMUDGAJAHMADA/index.m3u8"
-  },
-  {
-    "id": "40",
-    "name": "ISKANDAR MUDA - HASANUDDIN ",
-    "url": "https://atcsdishub.medan.go.id/stream/L41ISMUDHASANUDDIN/index.m3u8"
-  },
-  {
-    "id": "41",
-    "name": "ISKANDAR MUDA - ABDULLAH LUBIS",
-    "url": "https://atcsdishub.medan.go.id/stream/L42ISMUDABDLUBIS/index.m3u8"
-  },
-  {
-    "id": "42",
-    "name": "KEJAKSAAN - S.PARMAN ",
-    "url": "https://atcsdishub.medan.go.id/stream/L43KEJAKSAANSPARMAN/index.m3u8"
-  },
-  {
-    "id": "43",
-    "name": "GAHARU - PERINTIS KEMERDEKAAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L44GAHARUPERINTIS/index.m3u8"
-  },
-  {
-    "id": "44",
-    "name": "PERINTIS KEMERDEKAAN - SUTOMO",
-    "url": "https://atcsdishub.medan.go.id/stream/L45NOUMENSEN/index.m3u8"
-  },
-  {
-    "id": "45",
-    "name": "SUTOMO - HM.YAMIN",
-    "url": "https://atcsdishub.medan.go.id/stream/L46SUTOMOYAMIN/index.m3u8"
-  },
-  {
-    "id": "46",
-    "name": "PUTRI HIJAU - YOSUDARSO",
-    "url": "https://atcsdishub.medan.go.id/stream/L47GLUGUR/index.m3u8"
-  },
-  {
-    "id": "47",
-    "name": "YOSUDARSO - PEMBANGUNAN ",
-    "url": "https://atcsdishub.medan.go.id/stream/L48BILALYOSSUDARSO/index.m3u8"
-  },
-  {
-    "id": "48",
-    "name": "YOSUDARSO - PERTEMPURAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L49BRAYAN/index.m3u8"
-  },
-  {
-    "id": "49",
-    "name": "GAJAH MADA - WAHID HASYIM",
-    "url": "https://atcsdishub.medan.go.id/stream/L50GAJAHMADAWAHIDHASYIM/index.m3u8"
-  },
-  {
-    "id": "50",
-    "name": "GAJAH MADA - S.PARMAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L51GAJAHMADASPARMAN/index.m3u8"
-  },
-  {
-    "id": "51",
-    "name": "S.PARMAN - WAHLAB",
-    "url": "https://atcsdishub.medan.go.id/stream/L52SPARMANWALHAB/index.m3u8"
-  },
-  {
-    "id": "52",
-    "name": "AMIR HAMZAH - GRIYA",
-    "url": "https://atcsdishub.medan.go.id/stream/L53GRIYA/index.m3u8"
-  },
-  {
-    "id": "53",
-    "name": "KAPTEN MUSLIM - MILLENIUM",
-    "url": "https://atcsdishub.medan.go.id/stream/L54KAPTENMUSLIMALMUNAWWARAH/index.m3u8"
-  },
-  {
-    "id": "54",
-    "name": "KAPTEN MUSLIM - SUMARSONO",
-    "url": "https://atcsdishub.medan.go.id/stream/L55KAPTENMUSLIMSUMARSONO/index.m3u8"
-  },
-  {
-    "id": "55",
-    "name": "GATOT SUBROTO - RINGROAD",
-    "url": "https://atcsdishub.medan.go.id/stream/L56KAMPUNGLALANG/index.m3u8"
-  },
-  {
-    "id": "56",
-    "name": "ASRAMA - AMIR HAMZAH",
-    "url": "https://atcsdishub.medan.go.id/stream/L57HEL VETIA/index.m3u8"
-  },
-  {
-    "id": "57",
-    "name": "RINGROAD - SUNGGAL",
-    "url": "https://atcsdishub.medan.go.id/stream/L58SUNGGAL/index.m3u8"
-  },
-  {
-    "id": "58",
-    "name": "RINGROAD - WARKOP AROFAH",
-    "url": "https://atcsdishub.medan.go.id/stream/L59RINGROADA ROFAH/index.m3u8"
-  },
-  {
-    "id": "59",
-    "name": "AMIR HAMZAH - KAPTEN MUSLIM",
-    "url": "https://atcsdishub.medan.go.id/stream/L60GRIYATURNING/index.m3u8"
-  },
-  {
-    "id": "60",
-    "name": "AH.NASUTION - SITI HAJAR",
-    "url": "https://atcsdishub.medan.go.id/stream/L61NASUTIONSITIHAJAR/index.m3u8"
+    "id": "91",
+    "name": "AH. NASUTION - DELITUA",
+    "url": "https://atcsdishub.medan.go.id/stream/L92AHNASUTIONDELITUA/index.m3u8"
   },
   {
     "id": "61",
@@ -310,6 +35,241 @@
     "url": "https://atcsdishub.medan.go.id/stream/L63NASUTIONKARYAWISATA/index.m3u8"
   },
   {
+    "id": "60",
+    "name": "AH.NASUTION - SITI HAJAR",
+    "url": "https://atcsdishub.medan.go.id/stream/L61NASUTIONSITIHAJAR/index.m3u8"
+  },
+  {
+    "id": "52",
+    "name": "AMIR HAMZAH - GRIYA",
+    "url": "https://atcsdishub.medan.go.id/stream/L53GRIYA/index.m3u8"
+  },
+  {
+    "id": "59",
+    "name": "AMIR HAMZAH - KAPTEN MUSLIM",
+    "url": "https://atcsdishub.medan.go.id/stream/L60GRIYATURNING/index.m3u8"
+  },
+  {
+    "id": "56",
+    "name": "ASRAMA - AMIR HAMZAH",
+    "url": "https://atcsdishub.medan.go.id/stream/L57HEL VETIA/index.m3u8"
+  },
+  {
+    "id": "105",
+    "name": "BALAI KOTA - BUKIT BARISAN",
+    "url": "https://atcsdishub.medan.go.id/stream/L106BALAIKOTABUKITBARISAN/index.m3u8"
+  },
+  {
+    "id": "112",
+    "name": "BALAI KOTA - MERDEKA",
+    "url": "https://atcsdishub.medan.go.id/stream/L113BALAIKOTAMERDEKA/index.m3u8"
+  },
+  {
+    "id": "107",
+    "name": "BRIGJEN KATAMSO - PROTON",
+    "url": "https://atcsdishub.medan.go.id/stream/L108BRIGJENKATAMSOPROTON/index.m3u8"
+  },
+  {
+    "id": "71",
+    "name": "CIREBON - SM RAJA",
+    "url": "https://atcsdishub.medan.go.id/stream/L72CIREBONSMRAJA/index.m3u8"
+  },
+  {
+    "id": "97",
+    "name": "CUNDI - PERMATA",
+    "url": "https://atcsdishub.medan.go.id/stream/L98CUNDIPERMATA/index.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "DIPONEGORO - KARTINI",
+    "url": "https://atcsdishub.medan.go.id/stream/L15DIPONEGOROKARTINI/index.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "DIPONEGORO - ZAINUL ARIFIN",
+    "url": "https://atcsdishub.medan.go.id/stream/L14DIPONEGOROZAINULARIFIN/index.m3u8"
+  },
+  {
+    "id": "67",
+    "name": "DR MANSYUR - MURA I",
+    "url": "https://atcsdishub.medan.go.id/stream/L68DRMANSYURMURAI/index.m3u8"
+  },
+  {
+    "id": "43",
+    "name": "GAHARU - PERINTIS KEMERDEKAAN",
+    "url": "https://atcsdishub.medan.go.id/stream/L44GAHARUPERINTIS/index.m3u8"
+  },
+  {
+    "id": "94",
+    "name": "GAJAHMADA - ERLANGA",
+    "url": "https://atcsdishub.medan.go.id/stream/L95GAJAHMADAERLANGA/index.m3u8"
+  },
+  {
+    "id": "50",
+    "name": "GAJAH MADA - S.PARMAN",
+    "url": "https://atcsdishub.medan.go.id/stream/L51GAJAHMADASPARMAN/index.m3u8"
+  },
+  {
+    "id": "49",
+    "name": "GAJAH MADA - WAHID HASYIM",
+    "url": "https://atcsdishub.medan.go.id/stream/L50GAJAHMADAWAHIDHASYIM/index.m3u8"
+  },
+  {
+    "id": "37",
+    "name": "GATOT SUBROTO - AYAHANDA",
+    "url": "https://atcsdishub.medan.go.id/stream/L38AYAHANDA/index.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "GATOT SUBROTO - ISKANDAR MUDA",
+    "url": "https://atcsdishub.medan.go.id/stream/L36MEDANPLAZA/index.m3u8"
+  },
+  {
+    "id": "38",
+    "name": "GATOT SUBROTO - KAPTEN MUSLIM",
+    "url": "https://atcsdishub.medan.go.id/stream/L39SEISIKAMBING/index.m3u8"
+  },
+  {
+    "id": "101",
+    "name": "GATOT SUBROTO - KAPTEN MUSLIM B",
+    "url": "https://atcsdishub.medan.go.id/stream/L102GATOTSUBROTOKAPTENMUSLIMB/index.m3u8"
+  },
+  {
+    "id": "113",
+    "name": "GATOT SUBROTO - PODOMORO",
+    "url": "https://atcsdishub.medan.go.id/stream/L114GATOTSUBROTOPODOMORO/index.m3u8"
+  },
+  {
+    "id": "55",
+    "name": "GATOT SUBROTO - RINGROAD",
+    "url": "https://atcsdishub.medan.go.id/stream/L56KAMPUNGLALANG/index.m3u8"
+  },
+  {
+    "id": "73",
+    "name": "GATOT SUBROTO - SEI SIKAMBING",
+    "url": "https://atcsdishub.medan.go.id/stream/L74GATOTSUBROTOSEISIKAMBING/index.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "GATOT SUBROTO - WAHID HASYIM",
+    "url": "https://atcsdishub.medan.go.id/stream/L37SEIWAMPU/index.m3u8"
+  },
+  {
+    "id": "110",
+    "name": "GRIYA - HELVETIA",
+    "url": "https://atcsdishub.medan.go.id/stream/L111GRIYAHELVETIA/index.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "GURU PATIMPUS - ADAM MALIK",
+    "url": "https://atcsdishub.medan.go.id/stream/L8GURUPATIMPUSADAMMALIK/index.m3u8"
+  },
+  {
+    "id": "89",
+    "name": "HALAT - BAKTI",
+    "url": "https://atcsdishub.medan.go.id/stream/L90HALATBAKTI/index.m3u8"
+  },
+  {
+    "id": "85",
+    "name": "HM YAMIN - KRAKATAU",
+    "url": "https://atcsdishub.medan.go.id/stream/L86HMYAMINKRAKATAU/index.m3u8"
+  },
+  {
+    "id": "77",
+    "name": "HM YAMIN - MERBAU",
+    "url": "https://atcsdishub.medan.go.id/stream/L78HMYAMINMERBAU/index.m3u8"
+  },
+  {
+    "id": "114",
+    "name": "HM YAMIN - PERINTIS KEMERDEKAAN B",
+    "url": "https://atcsdishub.medan.go.id/stream/L115HMYAMINPERINTISKEMERDEKAANB/index.m3u8"
+  },
+  {
+    "id": "75",
+    "name": "HM YAMIN - SUTOMO",
+    "url": "https://atcsdishub.medan.go.id/stream/L76HMYAMINSUTOMO/index.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "IMAM BONJOL - SUPRAPTO",
+    "url": "https://atcsdishub.medan.go.id/stream/L13IMAMBONJOLSUPRAPTO/index.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "IMAM BONJOL - ZAINUL ARIFIN",
+    "url": "https://atcsdishub.medan.go.id/stream/L11IMAMBONJOLZAINULARIFIN/index.m3u8"
+  },
+  {
+    "id": "41",
+    "name": "ISKANDAR MUDA - ABDULLAH LUBIS",
+    "url": "https://atcsdishub.medan.go.id/stream/L42ISMUDABDLUBIS/index.m3u8"
+  },
+  {
+    "id": "39",
+    "name": "ISKANDAR MUDA - GAJAH MADA ",
+    "url": "https://atcsdishub.medan.go.id/stream/L40ISMUDGAJAHMADA/index.m3u8"
+  },
+  {
+    "id": "40",
+    "name": "ISKANDAR MUDA - HASANUDDIN ",
+    "url": "https://atcsdishub.medan.go.id/stream/L41ISMUDHASANUDDIN/index.m3u8"
+  },
+  {
+    "id": "65",
+    "name": "JAMIN GINTING - AH.NASUTION",
+    "url": "https://atcsdishub.medan.go.id/stream/L66SIMPANGPOS/index.m3u8"
+  },
+  {
+    "id": "31",
+    "name": "JAMIN GINTNG - DR.MANSYUR",
+    "url": "https://atcsdishub.medan.go.id/stream/L32JAMINGINTINGDRMANSYUR/index.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "JAMIN GINTING - ISKANDAR MUDA",
+    "url": "https://atcsdishub.medan.go.id/stream/L31JAMINGINTINGISMUD/index.m3u8"
+  },
+  {
+    "id": "92",
+    "name": "JAMIN GINTING - RSUP ADAM MALIK",
+    "url": "https://atcsdishub.medan.go.id/stream/L93JAMINGINTINGRSUPADAMMALIK/index.m3u8"
+  },
+  {
+    "id": "66",
+    "name": "JAMIN GINTING - SIMPANG KAMPUS USU",
+    "url": "https://atcsdishub.medan.go.id/stream/L67SIMPANGKAMPUSUSU/index.m3u8"
+  },
+  {
+    "id": "93",
+    "name": "JAMIN GINTING - TUNTUNGAN",
+    "url": "https://atcsdishub.medan.go.id/stream/L94JAMINGINTINGTUNTUNGAN/index.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "JUANDA - POLONIA ",
+    "url": "https://atcsdishub.medan.go.id/stream/L19JUANDAPOLONIA/index.m3u8"
+  },
+  {
+    "id": "103",
+    "name": "JUANDA - WALIKOTA",
+    "url": "https://atcsdishub.medan.go.id/stream/L104JUANDAWALIKOTA/index.m3u8"
+  },
+  {
+    "id": "100",
+    "name": "KAPTEN MUSLIM - AMIR HAMZAH B",
+    "url": "https://atcsdishub.medan.go.id/stream/L101KAPTENMUSLIMAMIRHAMZAHB/index.m3u8"
+  },
+  {
+    "id": "53",
+    "name": "KAPTEN MUSLIM - MILLENIUM",
+    "url": "https://atcsdishub.medan.go.id/stream/L54KAPTENMUSLIMALMUNAWWARAH/index.m3u8"
+  },
+  {
+    "id": "54",
+    "name": "KAPTEN MUSLIM - SUMARSONO",
+    "url": "https://atcsdishub.medan.go.id/stream/L55KAPTENMUSLIMSUMARSONO/index.m3u8"
+  },
+  {
     "id": "63",
     "name": "KARYA JAYA - KARYA SEJATI",
     "url": "https://atcsdishub.medan.go.id/stream/L64KARYAJAYAKARYASEJATI/index.m3u8"
@@ -320,84 +280,44 @@
     "url": "https://atcsdishub.medan.go.id/stream/L65KARYAJAYAKARYAWISATA/index.m3u8"
   },
   {
-    "id": "65",
-    "name": "JAMIN GINTING - AH.NASUTION",
-    "url": "https://atcsdishub.medan.go.id/stream/L66SIMPANGPOS/index.m3u8"
+    "id": "102",
+    "name": "KARYA WISATA - AH NASUTION B",
+    "url": "https://atcsdishub.medan.go.id/stream/L103KARYAWISATAAHNASUTIONB/index.m3u8"
   },
   {
-    "id": "66",
-    "name": "JAMIN GINTING - SIMPANG KAMPUS USU",
-    "url": "https://atcsdishub.medan.go.id/stream/L67SIMPANGKAMPUSUSU/index.m3u8"
+    "id": "4",
+    "name": "KATAMSO - ANI IDRUS",
+    "url": "https://atcsdishub.medan.go.id/stream/L4KATAMSOANIIDRUS/index.m3u8"
   },
   {
-    "id": "67",
-    "name": "DR MANSYUR - MURA I",
-    "url": "https://atcsdishub.medan.go.id/stream/L68DRMANSYURMURAI/index.m3u8"
+    "id": "18",
+    "name": "KATAMSO - JUANDA",
+    "url": "https://atcsdishub.medan.go.id/stream/L18KATAMSOJUANDA/index.m3u8"
   },
   {
-    "id": "68",
-    "name": "SETIA BUDI - DR MANSYUR",
-    "url": "https://atcsdishub.medan.go.id/stream/L69SETIABUDIDRMANSYUR/index.m3u8"
+    "id": "6",
+    "name": "KATAMSO - MASJID RAYA",
+    "url": "https://atcsdishub.medan.go.id/stream/L6KATAMSOMASJIDRAYA/index.m3u8"
   },
   {
-    "id": "69",
-    "name": "RINGROAD - SETIA BUDI",
-    "url": "https://atcsdishub.medan.go.id/stream/L70RINGROADSETIABUDI/index.m3u8"
+    "id": "98",
+    "name": "KEJAKSAAN - BALAI KOTA",
+    "url": "https://atcsdishub.medan.go.id/stream/L99KEJAKSAANBALAIKOTA/index.m3u8"
   },
   {
-    "id": "70",
-    "name": "WALIKOTA - SUDIRMAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L71WALIKOTASUDIRMAN/index.m3u8"
+    "id": "42",
+    "name": "KEJAKSAAN - S.PARMAN ",
+    "url": "https://atcsdishub.medan.go.id/stream/L43KEJAKSAANSPARMAN/index.m3u8"
   },
   {
-    "id": "71",
-    "name": "CIREBON - SM RAJA",
-    "url": "https://atcsdishub.medan.go.id/stream/L72CIREBONSMRAJA/index.m3u8"
+    "id": "3",
+    "name": "KESAWAN - PALANG MERAH",
+    "url": "https://atcsdishub.medan.go.id/stream/L3KESAWANPALANGMERAH/index.m3u8"
   },
   {
-    "id": "72",
-    "name": "SM RAJA - PERINTIS KEMERDEKAAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L73SMRAJAPERINTISKEMERDEKAAN/index.m3u8"
-  },
-  {
-    "id": "73",
-    "name": "GATOT SUBROTO - SEI SIKAMBING",
-    "url": "https://atcsdishub.medan.go.id/stream/L74GATOTSUBROTOSEISIKAMBING/index.m3u8"
-  },
-  {
-    "id": "74",
-    "name": "PERINTIS KEMERDEKAAN - HM YAMIN",
-    "url": "https://atcsdishub.medan.go.id/stream/L75PERINTISKEMERDEKAANHMYAMIN/index.m3u8"
-  },
-  {
-    "id": "75",
-    "name": "HM YAMIN - SUTOMO",
-    "url": "https://atcsdishub.medan.go.id/stream/L76HMYAMINSUTOMO/index.m3u8"
-  },
-  {
-    "id": "76",
-    "name": "PERINTIS KEMERDEKAAN - SUTOMO B",
-    "url": "https://atcsdishub.medan.go.id/stream/L77PERINTISSUTOMOB/index.m3u8"
-  },
-  {
-    "id": "77",
-    "name": "HM YAMIN - MERBAU",
-    "url": "https://atcsdishub.medan.go.id/stream/L78HMYAMINMERBAU/index.m3u8"
-  },
-  {
-    "id": "78",
-    "name": "PERINTIS KEMERDEKAAN - MERBAU",
-    "url": "https://atcsdishub.medan.go.id/stream/L79PERINTISMERBAU/index.m3u8"
-  },
-  {
-    "id": "79",
-    "name": "SUTOMO - MERBAU",
-    "url": "https://atcsdishub.medan.go.id/stream/L80SUTOMOMERBAU/index.m3u8"
-  },
-  {
-    "id": "80",
-    "name": "YOS SUDARSO - KRAKATAU",
-    "url": "https://atcsdishub.medan.go.id/stream/L81YOSSUDARSOKRAKATAU/index.m3u8"
+    "id": "84",
+    "name": "KRAKATAU - BAMBU",
+    "url": "https://atcsdishub.medan.go.id/stream/L85KRAKATAUBAMBU/index.m3u8"
   },
   {
     "id": "81",
@@ -415,14 +335,9 @@
     "url": "https://atcsdishub.medan.go.id/stream/L84KRAKATAUPERMATA/index.m3u8"
   },
   {
-    "id": "84",
-    "name": "KRAKATAU - BAMBU",
-    "url": "https://atcsdishub.medan.go.id/stream/L85KRAKATAUBAMBU/index.m3u8"
-  },
-  {
-    "id": "85",
-    "name": "HM YAMIN - KRAKATAU",
-    "url": "https://atcsdishub.medan.go.id/stream/L86HMYAMINKRAKATAU/index.m3u8"
+    "id": "111",
+    "name": "KRAKATAU - VETERAN",
+    "url": "https://atcsdishub.medan.go.id/stream/L112KRAKATAUVETERAN/index.m3u8"
   },
   {
     "id": "86",
@@ -430,64 +345,29 @@
     "url": "https://atcsdishub.medan.go.id/stream/L87LETDASUJONOTEMBUNG/index.m3u8"
   },
   {
-    "id": "87",
-    "name": "SUTOMO - MST. HARYONO",
-    "url": "https://atcsdishub.medan.go.id/stream/L88SUTOMOMSTHARYONO/index.m3u8"
+    "id": "29",
+    "name": "MONGONSIDI - PATIMURA",
+    "url": "https://atcsdishub.medan.go.id/stream/L30MONGONSIDIPATTIMURA/index.m3u8"
   },
   {
-    "id": "88",
-    "name": "SUTOMO - MST. HARYONO B",
-    "url": "https://atcsdishub.medan.go.id/stream/L89SUTOMOMSTHARYONOB/index.m3u8"
+    "id": "26",
+    "name": "MT HARYONO - MH.THAMRIN",
+    "url": "https://atcsdishub.medan.go.id/stream/L26MTHARYONOTHAMRIN/index.m3u8"
   },
   {
-    "id": "89",
-    "name": "HALAT - BAKTI",
-    "url": "https://atcsdishub.medan.go.id/stream/L90HALATBAKTI/index.m3u8"
+    "id": "24",
+    "name": "MT.HARYONO - IRIAN BARAT",
+    "url": "https://atcsdishub.medan.go.id/stream/L24UNILAND/index.m3u8"
   },
   {
-    "id": "90",
-    "name": "AH. NASUTION - BRIGJEN KATAMSO",
-    "url": "https://atcsdishub.medan.go.id/stream/L91AHNASUTIONBRIGJENKATAMSO/index.m3u8"
+    "id": "25",
+    "name": "MT.HARYONO - SUTOMO",
+    "url": "https://atcsdishub.medan.go.id/stream/L25MEDANMALL/index.m3u8"
   },
   {
-    "id": "91",
-    "name": "AH. NASUTION - DELITUA",
-    "url": "https://atcsdishub.medan.go.id/stream/L92AHNASUTIONDELITUA/index.m3u8"
-  },
-  {
-    "id": "92",
-    "name": "JAMIN GINTING - RSUP ADAM MALIK",
-    "url": "https://atcsdishub.medan.go.id/stream/L93JAMINGINTINGRSUPADAMMALIK/index.m3u8"
-  },
-  {
-    "id": "93",
-    "name": "JAMIN GINTING - TUNTUNGAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L94JAMINGINTINGTUNTUNGAN/index.m3u8"
-  },
-  {
-    "id": "94",
-    "name": "GAJAHMADA - ERLANGA",
-    "url": "https://atcsdishub.medan.go.id/stream/L95GAJAHMADAERLANGA/index.m3u8"
-  },
-  {
-    "id": "95",
-    "name": "S. PARMAN - ERLANGA",
-    "url": "https://atcsdishub.medan.go.id/stream/L96SPARMANERLANGA/index.m3u8"
-  },
-  {
-    "id": "96",
-    "name": "ZAINUL ARIFIN - S. PARMAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L97ZAINULARIFINSPARMAN/index.m3u8"
-  },
-  {
-    "id": "97",
-    "name": "CUNDI - PERMATA",
-    "url": "https://atcsdishub.medan.go.id/stream/L98CUNDIPERMATA/index.m3u8"
-  },
-  {
-    "id": "98",
-    "name": "KEJAKSAAN - BALAI KOTA",
-    "url": "https://atcsdishub.medan.go.id/stream/L99KEJAKSAANBALAIKOTA/index.m3u8"
+    "id": "5",
+    "name": "PANDU - CIREBON",
+    "url": "https://atcsdishub.medan.go.id/stream/L5PANDUCIREBON/index.m3u8"
   },
   {
     "id": "99",
@@ -495,44 +375,79 @@
     "url": "https://atcsdishub.medan.go.id/stream/L100PENGADILANBALAIKOTA/index.m3u8"
   },
   {
-    "id": "100",
-    "name": "KAPTEN MUSLIM - AMIR HAMZAH B",
-    "url": "https://atcsdishub.medan.go.id/stream/L101KAPTENMUSLIMAMIRHAMZAHB/index.m3u8"
+    "id": "9",
+    "name": "PENGADILAN - KPT.MAULANA LUBIS",
+    "url": "https://atcsdishub.medan.go.id/stream/L9PENGADILANKPT.MAULANALUBIS/index.m3u8"
   },
   {
-    "id": "101",
-    "name": "GATOT SUBROTO - KAPTEN MUSLIM B",
-    "url": "https://atcsdishub.medan.go.id/stream/L102GATOTSUBROTOKAPTENMUSLIMB/index.m3u8"
+    "id": "10",
+    "name": "PERDANA - IMAM BONJOL",
+    "url": "https://atcsdishub.medan.go.id/stream/L10PERDANAIMAMBONJOL/index.m3u8"
   },
   {
-    "id": "102",
-    "name": "KARYA WISATA - AH NASUTION B",
-    "url": "https://atcsdishub.medan.go.id/stream/L103KARYAWISATAAHNASUTIONB/index.m3u8"
+    "id": "74",
+    "name": "PERINTIS KEMERDEKAAN - HM YAMIN",
+    "url": "https://atcsdishub.medan.go.id/stream/L75PERINTISKEMERDEKAANHMYAMIN/index.m3u8"
   },
   {
-    "id": "103",
-    "name": "JUANDA - WALIKOTA",
-    "url": "https://atcsdishub.medan.go.id/stream/L104JUANDAWALIKOTA/index.m3u8"
+    "id": "78",
+    "name": "PERINTIS KEMERDEKAAN - MERBAU",
+    "url": "https://atcsdishub.medan.go.id/stream/L79PERINTISMERBAU/index.m3u8"
   },
   {
-    "id": "104",
-    "name": "AHMAD YANI - PEMUDA",
-    "url": "https://atcsdishub.medan.go.id/stream/L105AHMADYANIPEMUDA/index.m3u8"
+    "id": "44",
+    "name": "PERINTIS KEMERDEKAAN - SUTOMO",
+    "url": "https://atcsdishub.medan.go.id/stream/L45NOUMENSEN/index.m3u8"
   },
   {
-    "id": "105",
-    "name": "BALAI KOTA - BUKIT BARISAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L106BALAIKOTABUKITBARISAN/index.m3u8"
+    "id": "76",
+    "name": "PERINTIS KEMERDEKAAN - SUTOMO B",
+    "url": "https://atcsdishub.medan.go.id/stream/L77PERINTISSUTOMOB/index.m3u8"
   },
   {
-    "id": "106",
-    "name": "SUTOMO - BAMBU",
-    "url": "https://atcsdishub.medan.go.id/stream/L107SUTOMOBAMBU/index.m3u8"
+    "id": "27",
+    "name": "PUTRI HIJAU - GURU PATIMPUS",
+    "url": "https://atcsdishub.medan.go.id/stream/L27TVRI/index.m3u8"
   },
   {
-    "id": "107",
-    "name": "BRIGJEN KATAMSO - PROTON",
-    "url": "https://atcsdishub.medan.go.id/stream/L108BRIGJENKATAMSOPROTON/index.m3u8"
+    "id": "46",
+    "name": "PUTRI HIJAU - YOSUDARSO",
+    "url": "https://atcsdishub.medan.go.id/stream/L47GLUGUR/index.m3u8"
+  },
+  {
+    "id": "1",
+    "name": "RADEN SALEH - BALAI KOTA",
+    "url": "https://atcsdishub.medan.go.id/stream/L1RADENSALEHBALAIKOTA/index.m3u8"
+  },
+  {
+    "id": "69",
+    "name": "RINGROAD - SETIA BUDI",
+    "url": "https://atcsdishub.medan.go.id/stream/L70RINGROADSETIABUDI/index.m3u8"
+  },
+  {
+    "id": "57",
+    "name": "RINGROAD - SUNGGAL",
+    "url": "https://atcsdishub.medan.go.id/stream/L58SUNGGAL/index.m3u8"
+  },
+  {
+    "id": "58",
+    "name": "RINGROAD - WARKOP AROFAH",
+    "url": "https://atcsdishub.medan.go.id/stream/L59RINGROADA ROFAH/index.m3u8"
+  },
+  {
+    "id": "95",
+    "name": "S. PARMAN - ERLANGA",
+    "url": "https://atcsdishub.medan.go.id/stream/L96SPARMANERLANGA/index.m3u8"
+  },
+  {
+    "id": "51",
+    "name": "S.PARMAN - WAHLAB",
+    "url": "https://atcsdishub.medan.go.id/stream/L52SPARMANWALHAB/index.m3u8"
+  },
+  {
+    "id": "68",
+    "name": "SETIA BUDI - DR MANSYUR",
+    "url": "https://atcsdishub.medan.go.id/stream/L69SETIABUDIDRMANSYUR/index.m3u8"
   },
   {
     "id": "108",
@@ -545,33 +460,118 @@
     "url": "https://atcsdishub.medan.go.id/stream/L110SETIABUDIPASAR6/index.m3u8"
   },
   {
-    "id": "110",
-    "name": "GRIYA - HELVETIA",
-    "url": "https://atcsdishub.medan.go.id/stream/L111GRIYAHELVETIA/index.m3u8"
+    "id": "22",
+    "name": "SM.RAJA - AH.NASUTION",
+    "url": "https://atcsdishub.medan.go.id/stream/L22SMRAJAPMH/index.m3u8"
   },
   {
-    "id": "111",
-    "name": "KRAKATAU - VETERAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L112KRAKATAUVETERAN/index.m3u8"
+    "id": "33",
+    "name": "SM.RAJA - ALFALAH",
+    "url": "https://atcsdishub.medan.go.id/stream/L34SMRAJAALFALAH/index.m3u8"
   },
   {
-    "id": "112",
-    "name": "BALAI KOTA - MERDEKA",
-    "url": "https://atcsdishub.medan.go.id/stream/L113BALAIKOTAMERDEKA/index.m3u8"
+    "id": "7",
+    "name": "SM.RAJA - AMALIUN",
+    "url": "https://atcsdishub.medan.go.id/stream/L7SM.RAJAAMALIUN/index.m3u8"
   },
   {
-    "id": "113",
-    "name": "GATOT SUBROTO - PODOMORO",
-    "url": "https://atcsdishub.medan.go.id/stream/L114GATOTSUBROTOPODOMORO/index.m3u8"
+    "id": "20",
+    "name": "SM.RAJA - HALAT",
+    "url": "https://atcsdishub.medan.go.id/stream/L20SMRAJAHALAT/index.m3u8"
   },
   {
-    "id": "114",
-    "name": "HM YAMIN - PERINTIS KEMERDEKAAN B",
-    "url": "https://atcsdishub.medan.go.id/stream/L115HMYAMINPERINTISKEMERDEKAANB/index.m3u8"
+    "id": "32",
+    "name": "SM.RAJA - HM.JONI ",
+    "url": "https://atcsdishub.medan.go.id/stream/L33SMRAJAHMJHONI/index.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "SM.RAJA - PANGLIMA DENAI",
+    "url": "https://atcsdishub.medan.go.id/stream/L23AMPLAS/index.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "SM.RAJA - PELANGI",
+    "url": "https://atcsdishub.medan.go.id/stream/L21SMRAJAPELANGI/index.m3u8"
+  },
+  {
+    "id": "72",
+    "name": "SM RAJA - PERINTIS KEMERDEKAAN",
+    "url": "https://atcsdishub.medan.go.id/stream/L73SMRAJAPERINTISKEMERDEKAAN/index.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "SUDIRMAN - CIK DITIRO",
+    "url": "https://atcsdishub.medan.go.id/stream/L17SUDIRMANCIKDITIRO/index.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "SUDIRMAN - DIPONEGORO",
+    "url": "https://atcsdishub.medan.go.id/stream/L16SUDIRMANDIPONEGORO/index.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "SUDIRMAN - S.PARMAN",
+    "url": "https://atcsdishub.medan.go.id/stream/L29SUDIRMANUJUNG/index.m3u8"
   },
   {
     "id": "115",
     "name": "SUNGGAL - SEI BATANG HARI",
     "url": "https://atcsdishub.medan.go.id/stream/L116SUNGGALSEIBATANGHARI/index.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "SUPRAPTO - MULTATULI",
+    "url": "https://atcsdishub.medan.go.id/stream/L12SUPRAPTOMULTATULI/index.m3u8"
+  },
+  {
+    "id": "106",
+    "name": "SUTOMO - BAMBU",
+    "url": "https://atcsdishub.medan.go.id/stream/L107SUTOMOBAMBU/index.m3u8"
+  },
+  {
+    "id": "45",
+    "name": "SUTOMO - HM.YAMIN",
+    "url": "https://atcsdishub.medan.go.id/stream/L46SUTOMOYAMIN/index.m3u8"
+  },
+  {
+    "id": "79",
+    "name": "SUTOMO - MERBAU",
+    "url": "https://atcsdishub.medan.go.id/stream/L80SUTOMOMERBAU/index.m3u8"
+  },
+  {
+    "id": "87",
+    "name": "SUTOMO - MST. HARYONO",
+    "url": "https://atcsdishub.medan.go.id/stream/L88SUTOMOMSTHARYONO/index.m3u8"
+  },
+  {
+    "id": "88",
+    "name": "SUTOMO - MST. HARYONO B",
+    "url": "https://atcsdishub.medan.go.id/stream/L89SUTOMOMSTHARYONOB/index.m3u8"
+  },
+  {
+    "id": "70",
+    "name": "WALIKOTA - SUDIRMAN",
+    "url": "https://atcsdishub.medan.go.id/stream/L71WALIKOTASUDIRMAN/index.m3u8"
+  },
+  {
+    "id": "80",
+    "name": "YOS SUDARSO - KRAKATAU",
+    "url": "https://atcsdishub.medan.go.id/stream/L81YOSSUDARSOKRAKATAU/index.m3u8"
+  },
+  {
+    "id": "47",
+    "name": "YOSUDARSO - PEMBANGUNAN ",
+    "url": "https://atcsdishub.medan.go.id/stream/L48BILALYOSSUDARSO/index.m3u8"
+  },
+  {
+    "id": "48",
+    "name": "YOSUDARSO - PERTEMPURAN",
+    "url": "https://atcsdishub.medan.go.id/stream/L49BRAYAN/index.m3u8"
+  },
+  {
+    "id": "96",
+    "name": "ZAINUL ARIFIN - S. PARMAN",
+    "url": "https://atcsdishub.medan.go.id/stream/L97ZAINULARIFINSPARMAN/index.m3u8"
   }
 ]
