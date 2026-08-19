@@ -2,256 +2,256 @@
   {
     "id": "1",
     "name": "RADEN SALEH - BALAI KOTA",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/102"
+    "url": "https://atcsdishub.medan.go.id/stream/L1RADENSALEHBALAIKOTA/index.m3u8"
   },
   {
     "id": "2",
     "name": "AHMAD YANI - PULAU PINANG",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/202"
+    "url": "https://atcsdishub.medan.go.id/stream/L2AHMADYANIPULAUPINANG/index.m3u8"
   },
   {
     "id": "3",
     "name": "KESAWAN - PALANG MERAH",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/302"
+    "url": "https://atcsdishub.medan.go.id/stream/L3KESAWANPALANGMERAH/index.m3u8"
   },
   {
     "id": "4",
     "name": "KATAMSO - ANI IDRUS",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/402"
+    "url": "https://atcsdishub.medan.go.id/stream/L4KATAMSOANIIDRUS/index.m3u8"
   },
   {
     "id": "5",
     "name": "PANDU - CIREBON",
-    "url": "rtsp://admin:SLI73356239@10.33.114.241/Streaming/Channels/7902"
+    "url": "https://atcsdishub.medan.go.id/stream/L5PANDUCIREBON/index.m3u8"
   },
   {
     "id": "6",
     "name": "KATAMSO - MASJID RAYA",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/602"
+    "url": "https://atcsdishub.medan.go.id/stream/L6KATAMSOMASJIDRAYA/index.m3u8"
   },
   {
     "id": "7",
     "name": "SM.RAJA - AMALIUN",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/702"
+    "url": "https://atcsdishub.medan.go.id/stream/L7SMRAJAAMALIUN/index.m3u8"
   },
   {
     "id": "8",
     "name": "GURU PATIMPUS - ADAM MALIK",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/802"
+    "url": "https://atcsdishub.medan.go.id/stream/L8GURUPATIMPUSADAMMALIK/index.m3u8"
   },
   {
     "id": "9",
     "name": "PENGADILAN - KPT.MAULANA LUBIS",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/902"
+    "url": "https://atcsdishub.medan.go.id/stream/L9PENGADILANKPTMAULANALUBIS/index.m3u8"
   },
   {
     "id": "10",
     "name": "PERDANA - IMAM BONJOL",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/1002"
+    "url": "https://atcsdishub.medan.go.id/stream/L10PERDANAIMAMBONJOL/index.m3u8"
   },
   {
     "id": "11",
     "name": "IMAM BONJOL - ZAINUL ARIFIN",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/1202"
+    "url": "https://atcsdishub.medan.go.id/stream/L11IMAMBONJOLZAINULARIFIN/index.m3u8"
   },
   {
     "id": "12",
     "name": "SUPRAPTO - MULTATULI",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/1302"
+    "url": "https://atcsdishub.medan.go.id/stream/L12SUPRAPTOMULTATULI/index.m3u8"
   },
   {
     "id": "13",
     "name": "IMAM BONJOL - SUPRAPTO",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/1402"
+    "url": "https://atcsdishub.medan.go.id/stream/L13IMAMBONJOLSUPRAPTO/index.m3u8"
   },
   {
     "id": "14",
     "name": "DIPONEGORO - ZAINUL ARIFIN",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/1502"
+    "url": "https://atcsdishub.medan.go.id/stream/L14DIPONEGOROZAINULARIFIN/index.m3u8"
   },
   {
     "id": "15",
     "name": "DIPONEGORO - KARTINI",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/1602"
+    "url": "https://atcsdishub.medan.go.id/stream/L15DIPONEGOROKARTINI/index.m3u8"
   },
   {
     "id": "16",
     "name": "SUDIRMAN - DIPONEGORO",
-    "url": "rtsp://admin:SLI73356239@10.33.114.241/Streaming/Channels/7802"
+    "url": "https://atcsdishub.medan.go.id/stream/L16SUDIRMANDIPONEGORO/index.m3u8"
   },
   {
     "id": "17",
     "name": "SUDIRMAN - CIK DITIRO",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/1802"
+    "url": "https://atcsdishub.medan.go.id/stream/L17SUDIRMANCIKDITIRO/index.m3u8"
   },
   {
     "id": "18",
     "name": "KATAMSO - JUANDA",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/1902"
+    "url": "https://atcsdishub.medan.go.id/stream/L18KATAMSOJUANDA/index.m3u8"
   },
   {
     "id": "19",
-    "name": "JUANDA - POLONIA ",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/2002"
+    "name": "JUANDA - POLONIA",
+    "url": "https://atcsdishub.medan.go.id/stream/L19JUANDAPOLONIA/index.m3u8"
   },
   {
     "id": "20",
     "name": "SM.RAJA - HALAT",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/2102"
+    "url": "https://atcsdishub.medan.go.id/stream/L20SMRAJAHALAT/index.m3u8"
   },
   {
     "id": "21",
     "name": "SM.RAJA - PELANGI",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/2202"
+    "url": "https://atcsdishub.medan.go.id/stream/L21SMRAJAPELANGI/index.m3u8"
   },
   {
     "id": "22",
     "name": "SM.RAJA - AH.NASUTION",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/2302"
+    "url": "https://atcsdishub.medan.go.id/stream/L22SMRAJAAHNASUTION/index.m3u8"
   },
   {
     "id": "23",
     "name": "SM.RAJA - PANGLIMA DENAI",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/2402"
+    "url": "https://atcsdishub.medan.go.id/stream/L23SMRAJAPANGLIMADENAI/index.m3u8"
   },
   {
     "id": "24",
     "name": "MT.HARYONO - IRIAN BARAT",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/2502"
+    "url": "https://atcsdishub.medan.go.id/stream/L24MTHARYONOIRIANBARAT/index.m3u8"
   },
   {
     "id": "25",
     "name": "MT.HARYONO - SUTOMO",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/2602"
+    "url": "https://atcsdishub.medan.go.id/stream/L25MTHARYONOSUTOMO/index.m3u8"
   },
   {
     "id": "26",
     "name": "MT HARYONO - MH.THAMRIN",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/2702"
+    "url": "https://atcsdishub.medan.go.id/stream/L26MTHARYONOMHTHAMRIN/index.m3u8"
   },
   {
     "id": "27",
     "name": "PUTRI HIJAU - GURU PATIMPUS",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/2802"
+    "url": "https://atcsdishub.medan.go.id/stream/L27PUTRIHIJAUGURUPATIMPUS/index.m3u8"
   },
   {
     "id": "28",
     "name": "SUDIRMAN - S.PARMAN",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/3002"
+    "url": "https://atcsdishub.medan.go.id/stream/L28SUDIRMANSPARMAN/index.m3u8"
   },
   {
     "id": "29",
     "name": "MONGONSIDI - PATIMURA",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/3102"
+    "url": "https://atcsdishub.medan.go.id/stream/L29MONGONSIDIPATIMURA/index.m3u8"
   },
   {
     "id": "30",
     "name": "JAMIN GINTING - ISKANDAR MUDA",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/3202"
+    "url": "https://atcsdishub.medan.go.id/stream/L30JAMINGINTINGISKANDARMUDA/index.m3u8"
   },
   {
     "id": "31",
     "name": "JAMIN GINTNG - DR.MANSYUR",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/3302"
+    "url": "https://atcsdishub.medan.go.id/stream/L31JAMINGINTNGDRMANSYUR/index.m3u8"
   },
   {
     "id": "32",
-    "name": "SM.RAJA - HM.JONI ",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/3602"
+    "name": "SM.RAJA - HM.JONI",
+    "url": "https://atcsdishub.medan.go.id/stream/L32SMRAJAHMJONI/index.m3u8"
   },
   {
     "id": "33",
     "name": "SM.RAJA - ALFALAH",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/3702"
+    "url": "https://atcsdishub.medan.go.id/stream/L33SMRAJAALFALAH/index.m3u8"
   },
   {
     "id": "34",
     "name": "AH.NASUTION - BAJAK",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/3802"
+    "url": "https://atcsdishub.medan.go.id/stream/L34AHNASUTIONBAJAK/index.m3u8"
   },
   {
     "id": "35",
     "name": "GATOT SUBROTO - ISKANDAR MUDA",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/3902"
+    "url": "https://atcsdishub.medan.go.id/stream/L35GATOTSUBROTOISKANDARMUDA/index.m3u8"
   },
   {
     "id": "36",
     "name": "GATOT SUBROTO - WAHID HASYIM",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/4002"
+    "url": "https://atcsdishub.medan.go.id/stream/L36GATOTSUBROTOWAHIDHASYIM/index.m3u8"
   },
   {
     "id": "37",
     "name": "GATOT SUBROTO - AYAHANDA",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/4102"
+    "url": "https://atcsdishub.medan.go.id/stream/L37GATOTSUBROTOAYAHANDA/index.m3u8"
   },
   {
     "id": "38",
     "name": "GATOT SUBROTO - KAPTEN MUSLIM",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/4202"
+    "url": "https://atcsdishub.medan.go.id/stream/L38GATOTSUBROTOKAPTENMUSLIM/index.m3u8"
   },
   {
     "id": "39",
-    "name": "ISKANDAR MUDA - GAJAH MADA ",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/4302"
+    "name": "ISKANDAR MUDA - GAJAH MADA",
+    "url": "https://atcsdishub.medan.go.id/stream/L39ISKANDARMUDAGAJAHMADA/index.m3u8"
   },
   {
     "id": "40",
-    "name": "ISKANDAR MUDA - HASANUDDIN ",
-    "url": "rtsp://admin:Dishub.123456@10.33.114.47:554/cam/realmonitor?channel=1amp;subtype=1"
+    "name": "ISKANDAR MUDA - HASANUDDIN",
+    "url": "https://atcsdishub.medan.go.id/stream/L40ISKANDARMUDAHASANUDDIN/index.m3u8"
   },
   {
     "id": "41",
     "name": "ISKANDAR MUDA - ABDULLAH LUBIS",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/4502"
+    "url": "https://atcsdishub.medan.go.id/stream/L41ISKANDARMUDAABDULLAHLUBIS/index.m3u8"
   },
   {
     "id": "42",
-    "name": "KEJAKSAAN - S.PARMAN ",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/4602"
+    "name": "KEJAKSAAN - S.PARMAN",
+    "url": "https://atcsdishub.medan.go.id/stream/L42KEJAKSAANSPARMAN/index.m3u8"
   },
   {
     "id": "43",
     "name": "GAHARU - PERINTIS KEMERDEKAAN",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/4702"
+    "url": "https://atcsdishub.medan.go.id/stream/L43GAHARUPERINTISKEMERDEKAAN/index.m3u8"
   },
   {
     "id": "44",
     "name": "PERINTIS KEMERDEKAAN - SUTOMO",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/4802"
+    "url": "https://atcsdishub.medan.go.id/stream/L44PERINTISKEMERDEKAANSUTOMO/index.m3u8"
   },
   {
     "id": "45",
     "name": "SUTOMO - HM.YAMIN",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/4902"
+    "url": "https://atcsdishub.medan.go.id/stream/L45SUTOMOHMYAMIN/index.m3u8"
   },
   {
     "id": "46",
     "name": "PUTRI HIJAU - YOSUDARSO",
-    "url": "rtsp://admin:Dishub.123456@10.33.114.53:554/cam/realmonitor?channel=1&subtype=1"
+    "url": "https://atcsdishub.medan.go.id/stream/L46PUTRIHIJAUYOSUDARSO/index.m3u8"
   },
   {
     "id": "47",
-    "name": "YOSUDARSO - PEMBANGUNAN ",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/5102"
+    "name": "YOSUDARSO - PEMBANGUNAN",
+    "url": "https://atcsdishub.medan.go.id/stream/L47YOSUDARSOPEMBANGUNAN/index.m3u8"
   },
   {
     "id": "48",
     "name": "YOSUDARSO - PERTEMPURAN",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/5202"
+    "url": "https://atcsdishub.medan.go.id/stream/L48YOSUDARSOPERTEMPURAN/index.m3u8"
   },
   {
     "id": "49",
     "name": "GAJAH MADA - WAHID HASYIM",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/5302"
+    "url": "https://atcsdishub.medan.go.id/stream/L49GAJAHMADAWAHIDHASYIM/index.m3u8"
   },
   {
     "id": "50",
     "name": "KAPTEN MUSLIM - AMIR HAMZAH",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/5402"
+    "url": "https://atcsdishub.medan.go.id/stream/L50KAPTENMUSLIMAMIRHAMZAH/index.m3u8"
   },
   {
     "id": "51",
     "name": "SUNGGAL - KASUARI",
-    "url": "rtsp://admin:SLI73356239@10.33.114.240/Streaming/Channels/5602"
+    "url": "https://atcsdishub.medan.go.id/stream/L51SUNGGALKASUARI/index.m3u8"
   }
 ]
