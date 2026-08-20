@@ -2,41 +2,151 @@
   {
     "id": "1",
     "name": "Jayanti 1 Arah Serang",
-    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzn18d0ca1m7p4ctvx1.m3u8"
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Jayanti%201%20Arah%20Serang.m3u8"
   },
   {
     "id": "2",
     "name": "Jayanti 2 Arah Gembong",
-    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzqgp8ey0jpz4hec4xa.m3u8"
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Jayanti%202%20Arah%20Gembong.m3u8"
   },
   {
     "id": "3",
     "name": "Cikupa Kedaton 1",
-    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzs6e5818bdsed2jppp.m3u8"
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Cikupa%20Kedaton%201.m3u8"
   },
   {
     "id": "4",
     "name": "Cikupa Mas",
-    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzt5nxdn9t5fzt0265r.m3u8"
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Cikupa%20Mas.m3u8"
   },
   {
     "id": "5",
     "name": "Cisauk 1",
-    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzv75f3w6m701qt8rn5.m3u8"
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Cisauk%201.m3u8"
   },
   {
     "id": "6",
     "name": "Cisauk 2",
-    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzwk8thm9m03a4prrfh.m3u8"
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Cisauk%202.m3u8"
   },
   {
     "id": "7",
     "name": "Simpang Rajeg Kukun 1",
-    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr079n4btzjemf6r9br473w.m3u8"
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Rajeg%20Kukun%201.m3u8"
   },
   {
     "id": "8",
     "name": "Simpang Rajeg Kukun 2",
-    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr0j5nwjcbthcb6aypa6dcr.m3u8"
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Rajeg%20Kukun%202.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Simpang Pasar Kemis 1",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Pasar%20Kemis%201.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Simpang Pasar Kemis 2",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Pasar%20Kemis%202.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Simpang Sepatan 1",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Sepatan%201.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Simpang Sepatan 2",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Sepatan%202.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Simpang Islamic 1",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Islamic%201.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Simpang Islamic 2",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Islamic%202.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Simpang Dadap 1",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Dadap%201.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Jembatan Dadap",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Jembatan%20Dadap.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Simpang Legok 1",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Legok%201.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Simpang Legok 2",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Legok%202.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Simpang Adiyasa 1",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Adiyasa%201.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Simpang Adiyasa 2",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Adiyasa%202.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Pemda Tigaraksa",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Pemda%20Tigaraksa.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Simpang Alun Alun Tigaraksa",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Alun%20Alun%20Tigaraksa.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "Jl.Pemda Tigaraksa",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Jl.Pemda%20Tigaraksa.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "Jl. Pemda Tigaraksa 2",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Jl.%20Pemda%20Tigaraksa%202.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Kecamatan Mauk",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Kecamatan%20Mauk.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Tugu Mauk",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Tugu%20Mauk.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Jl. Pantura Bitung 1",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Jl.%20Pantura%20Bitung%201.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "Jl. Pantura Bitung 2",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Jl.%20Pantura%20Bitung%202.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "Simpang Bugel Tigaraksa",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Bugel%20Tigaraksa.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "Simpang Bugel Arah Puspem",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/Simpang%20Bugel%20Arah%20Puspem.m3u8"
   }
 ]
