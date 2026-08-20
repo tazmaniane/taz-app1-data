@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "name": "Lampu Merah Kol Atmo",
+    "url": "https://stream.palembang.go.id/cam38/index.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Plaza 7 Ulu",
+    "url": "https://stream.palembang.go.id/cam20/index.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Simpang Angkatan 45",
+    "url": "https://stream.palembang.go.id/cam5/index.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Kambang Iwak",
+    "url": "https://stream.palembang.go.id/cam28/index.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Darma Agung",
+    "url": "https://stream.palembang.go.id/cam24/index.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Kebun Sayur - Arah Portal",
+    "url": "https://stream.palembang.go.id/cam16/index.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "SP Samsat",
+    "url": "https://stream.palembang.go.id/cam21/index.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Plaju Jembatan 1",
+    "url": "https://stream.palembang.go.id/cam18/index.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Lapangan Parkir Pasar 16",
+    "url": "https://stream.palembang.go.id/cam25/index.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "DEPAN DISDUKCAPIL",
+    "url": "https://stream.palembang.go.id/cam26/index.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Pasar 16",
+    "url": "https://stream.palembang.go.id/cam36/index.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "KM 12",
+    "url": "https://stream.palembang.go.id/cam13/index.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Punti Kayu",
+    "url": "https://stream.palembang.go.id/cam14/index.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "HERMINA",
+    "url": "https://stream.palembang.go.id/cam10/index.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "TANGGA TAKAT",
+    "url": "https://stream.palembang.go.id/cam11/index.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "SP SMA 10",
+    "url": "https://stream.palembang.go.id/cam12/index.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "MUSI 6",
+    "url": "https://stream.palembang.go.id/cam15/index.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Masjid Agung",
+    "url": "https://stream.palembang.go.id/cam9/index.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "SP Charitas",
+    "url": "https://stream.palembang.go.id/cam8/index.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "SP 5 DPRD Prov",
+    "url": "https://stream.palembang.go.id/cam7/index.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Simpang Macan Lindungan",
+    "url": "https://stream.palembang.go.id/cam4/index.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Simpang Polda",
+    "url": "https://stream.palembang.go.id/cam3/index.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "Benteng Kuto Besak",
+    "url": "https://stream.palembang.go.id/cam2/index.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "DEPAN BMKG KERTAPATI",
+    "url": "https://stream.palembang.go.id/cam19/index.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Jembatan Ampera - Tengah",
+    "url": "https://stream.palembang.go.id/cam1/index.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Jembatan Ampera - Arah Ilir",
+    "url": "https://stream.palembang.go.id/cam22/index.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Jembatan Ampera - Arah Ulu",
+    "url": "https://stream.palembang.go.id/cam29/index.m3u8"
+  }
+]
