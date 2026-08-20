@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "name": "Simpang Samsat",
+    "url": "rtsp://admin:hik12345@103.145.14.122:554/H.264"
+  },
+  {
+    "id": "2",
+    "name": "Simpang Terminal",
+    "url": "rtsp://admin:hik12345@103.145.14.123:554/H.264"
+  },
+  {
+    "id": "3",
+    "name": "Simpang Kanggraksan",
+    "url": "rtsp://admin:hik12345@103.145.14.124:554/H.264"
+  },
+  {
+    "id": "4",
+    "name": "Simpang Perumnas",
+    "url": "rtsp://admin:hik12345@103.145.14.125:554/H.264"
+  },
+  {
+    "id": "5",
+    "name": "Simpang Gunung Sari",
+    "url": "rtsp://admin:hik12345@103.145.14.126:554/H.264"
+  },
+  {
+    "id": "6",
+    "name": "Simpang Diklaptri",
+    "url": "rtsp://admin:hik12345@103.145.14.128:554/H.264"
+  },
+  {
+    "id": "7",
+    "name": "Simpang Siliwangi",
+    "url": "rtsp://admin:hik12345@103.145.14.129:554/H.264"
+  },
+  {
+    "id": "8",
+    "name": "Simpang Krucuk",
+    "url": "rtsp://admin:hik12345@103.145.14.130:554/H.264"
+  },
+  {
+    "id": "9",
+    "name": "Depan Kantor PD",
+    "url": "rtsp://admin:siliwangi13@103.145.14.131:554/H.264"
+  },
+  {
+    "id": "10",
+    "name": "Surveillance",
+    "url": "rtsp://admin:1#VisiOne@103.145.14.132:554/H.264"
+  },
+  {
+    "id": "11",
+    "name": "Simpang Winaon",
+    "url": "rtsp://admin:hik12345@103.145.14.133:554/H.264"
+  },
+  {
+    "id": "12",
+    "name": "Simpang Asia",
+    "url": "rtsp://admin:hik12345@103.145.14.134:554/H.264"
+  },
+  {
+    "id": "13",
+    "name": "Simpang Jabang Bayi",
+    "url": "rtsp://admin:hik12345@103.145.14.135:554/H.264"
+  }
+]
