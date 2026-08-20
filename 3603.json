@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Jayanti 1 Arah Serang",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzn18d0ca1m7p4ctvx1.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Jayanti 2 Arah Gembong",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzqgp8ey0jpz4hec4xa.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Cikupa Kedaton 1",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzs6e5818bdsed2jppp.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Cikupa Mas",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzt5nxdn9t5fzt0265r.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Cisauk 1",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzv75f3w6m701qt8rn5.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Cisauk 2",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzwk8thm9m03a4prrfh.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Simpang Rajeg Kukun 1",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr079n4btzjemf6r9br473w.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Simpang Rajeg Kukun 2",
+    "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr0j5nwjcbthcb6aypa6dcr.m3u8"
+  }
+]
