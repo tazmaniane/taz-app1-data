@@ -1,0 +1,367 @@
+[
+  {
+    "id": "1",
+    "name": "Simpang APMD (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_apmd.stream/playlist.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Simpang Gondomanan (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_gondomanan.stream/playlist.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Simpang Jokteng Kulon (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_joktengkulon.stream/playlist.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Simpang Jokteng Wetan",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_joktengwetan.stream/playlist.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Simpang KM Nol (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/playlist.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Simpang Permata (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_permata.stream/playlist.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Simpang PKU Muh. (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_pkumuh.stream/playlist.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Simpang Sentul (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_sentul.stream/playlist.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Simpang Serangan (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_serangan.stream/playlist.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Simpang SGM (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_simpangsgm.stream/playlist.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Simpang Tungkak (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_tungkak.stream/playlist.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Simpang Tunjung (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_tunjung.stream/playlist.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Simpang UKDW (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_ukdw.stream/playlist.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Simpang Wirobrajan (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_wirobrajan.stream/playlist.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Sungai Gajah Wong 2",
+    "url": "https://cctvjss.jogjakota.go.id/bpbd/BPBD_gajahwong2.stream/playlist.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Sungai Winongo",
+    "url": "https://cctvjss.jogjakota.go.id/bpbd/BPBD_kaliwinongo.stream/playlist.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Sungai Ngentak",
+    "url": "https://cctvjss.jogjakota.go.id/bpbd/BPBD_ngentak.stream/playlist.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Malioboro_Selatan_Teteg",
+    "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_1_Selatan_Teteg.stream/playlist.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Malioboro_Depan_Toko_Subur",
+    "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_2_Depan_Toko_Subur.stream/playlist.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Malioboro_Depan_Dispar",
+    "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_3_Depan_Dispar.stream/playlist.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Malioboro_Depan_DPRD",
+    "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_4_Depan_DPRD.stream/playlist.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Malioboro_Perwakilan",
+    "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_5_Perwakilan.stream/playlist.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "Malioboro_Mall_Utara",
+    "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_6_Mall_Utara.stream/playlist.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "Malioboro_Mall_Selatan",
+    "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_7_Mall_Selatan.stream/playlist.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Malioboro_Pasar_Beringharjo",
+    "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/playlist.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Simpang UST (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_UST.stream/playlist.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Simpang Ibu Ruswo (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Ibu_Ruswo.stream/playlist.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "Simpang BPK (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_bpk.stream/playlist.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "Malioboro_Terang_Bulan",
+    "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_11_Terang_Bulan.stream/playlist.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "Malioboro_Ramayana",
+    "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_12_Ramayana.stream/playlist.m3u8"
+  },
+  {
+    "id": "31",
+    "name": "Malioboro_Gunungmas",
+    "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_13_Gunungmas.stream/playlist.m3u8"
+  },
+  {
+    "id": "32",
+    "name": "Simpang Jogokariyan V. Selatan",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_jogokaryan.stream/playlist.m3u8"
+  },
+  {
+    "id": "33",
+    "name": "Simpang APPI - JL.Mentri Supeno",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno.stream/playlist.m3u8"
+  },
+  {
+    "id": "34",
+    "name": "Simpang Kiai Mojo 1 (Barat)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo.stream/playlist.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "Simpang Kiai Mojo 2 (Timur)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo2.stream/playlist.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "Simpang Pingit 1 - Jl.Tentara Pelajar",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit1.stream/playlist.m3u8"
+  },
+  {
+    "id": "37",
+    "name": "Simpang Pingit 2 - Jl. Tentara Pelajar",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit2.stream/playlist.m3u8"
+  },
+  {
+    "id": "38",
+    "name": "Simpang Pingit 3 - Jl. Tentara Pelajar",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit3.stream/playlist.m3u8"
+  },
+  {
+    "id": "39",
+    "name": "Simpang Gambiran 1 - Jl.Veteran",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Gambiran1.stream/playlist.m3u8"
+  },
+  {
+    "id": "40",
+    "name": "Simpang Gambiran 2 - Jl.Veteran",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Gambiran2.stream/playlist.m3u8"
+  },
+  {
+    "id": "41",
+    "name": "Simpang APPI 2 - Jl.Mentri Supeno",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno2.stream/playlist.m3u8"
+  },
+  {
+    "id": "42",
+    "name": "Simpang Karang Tunggal (S3 Jl. Kol.Sugiyono - Jl. Sisingamangaraja) 1",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SopMerah1.stream/playlist.m3u8"
+  },
+  {
+    "id": "43",
+    "name": "Simpang Karang Tunggal (S3 Jl. Kol.Sugiyono - Jl. Sisingamangaraja) 2",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SopMerah2.stream/playlist.m3u8"
+  },
+  {
+    "id": "44",
+    "name": "Simpang Jokteng Wetan - Jl. Parangtritis (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JoktengWetan.stream/playlist.m3u8"
+  },
+  {
+    "id": "45",
+    "name": "Simpang Pasar Gading 1 (Timur)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_PasarGading1.stream/playlist.m3u8"
+  },
+  {
+    "id": "46",
+    "name": "Simpang Pasar Gading 2 (Barat)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_PasarGading2.stream/playlist.m3u8"
+  },
+  {
+    "id": "47",
+    "name": "Simpang Sugeng Jeroni 1 - Jl.Sugeng Jeroni",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SugengJeroni1.stream/playlist.m3u8"
+  },
+  {
+    "id": "48",
+    "name": "Simpang Sugeng Jeroni 2 - Jl.Sugeng Jeroni",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SugengJeroni2.stream/playlist.m3u8"
+  },
+  {
+    "id": "49",
+    "name": "Simpang Pingit 4 - Jl. Tentara Pelajar",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit4.stream/playlist.m3u8"
+  },
+  {
+    "id": "50",
+    "name": "Simpang Mirota (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_mirota.stream/playlist.m3u8"
+  },
+  {
+    "id": "51",
+    "name": "Simpang Taman Sari (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_tamansari.stream/playlist.m3u8"
+  },
+  {
+    "id": "52",
+    "name": "RTHP Semaki  1",
+    "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_semaki_1.stream/playlist.m3u8"
+  },
+  {
+    "id": "53",
+    "name": "RTHP Semaki 2",
+    "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_semaki_2.stream/playlist.m3u8"
+  },
+  {
+    "id": "54",
+    "name": "RTHP Klitren 2",
+    "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_klitren_2.stream/playlist.m3u8"
+  },
+  {
+    "id": "55",
+    "name": "RTHP Gunungketur 1",
+    "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_gunungketur_1.stream/playlist.m3u8"
+  },
+  {
+    "id": "56",
+    "name": "RTHP Gunungketur 2",
+    "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_gunungketur_2.stream/playlist.m3u8"
+  },
+  {
+    "id": "57",
+    "name": "RTHP Brontokusuman (blkg Kel) 1",
+    "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_brontokusuman_blkgKel_1.stream/playlist.m3u8"
+  },
+  {
+    "id": "58",
+    "name": "RTHP Brontokusuman (blkg Kel) 2",
+    "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_brontokusuman_blkgKel_2.stream/playlist.m3u8"
+  },
+  {
+    "id": "59",
+    "name": "RTHP Segoro Amarto Tegalrejo 2",
+    "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_segoro_amarto_tegalrejo_2.stream/playlist.m3u8"
+  },
+  {
+    "id": "60",
+    "name": "RTHP Pakudaya Pakuncen 1",
+    "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_pakudaya_pakuncen_1.stream/playlist.m3u8"
+  },
+  {
+    "id": "61",
+    "name": "RTHP Pakudaya Pakuncen 2",
+    "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_pakudaya_pakuncen_2.stream/playlist.m3u8"
+  },
+  {
+    "id": "62",
+    "name": "Simpang Amongrogo View Timur",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Amongrogo_View_Timur.stream/playlist.m3u8"
+  },
+  {
+    "id": "63",
+    "name": "Simpang Demangan View Utara",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Utara.stream/playlist.m3u8"
+  },
+  {
+    "id": "64",
+    "name": "Simpang Demangan View Selatan",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Selatan.stream/playlist.m3u8"
+  },
+  {
+    "id": "65",
+    "name": "Simpang Demangan View Timur",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/playlist.m3u8"
+  },
+  {
+    "id": "66",
+    "name": "Simpang DeBritto View Utara",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_DeBritto_View_Utara.stream/playlist.m3u8"
+  },
+  {
+    "id": "67",
+    "name": "Simpang Terban View Utara",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Utara.stream/playlist.m3u8"
+  },
+  {
+    "id": "68",
+    "name": "Simpang Rejowinangun View Timur",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Rejowinangun_View_Timur.stream/playlist.m3u8"
+  },
+  {
+    "id": "69",
+    "name": "Simpang Balaikota View Timur",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Utara.stream/playlist.m3u8"
+  },
+  {
+    "id": "70",
+    "name": "Simpang Balaikota View Utara-Barat",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Timur.stream/playlist.m3u8"
+  },
+  {
+    "id": "71",
+    "name": "Malioboro_Simpang_Reksobayan",
+    "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/playlist.m3u8"
+  },
+  {
+    "id": "72",
+    "name": "Simpang Gedongkuning (PTZ)",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Gedongkuning.stream/playlist.m3u8"
+  },
+  {
+    "id": "73",
+    "name": "Simpang Terban View Timur",
+    "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Timur.stream/playlist.m3u8"
+  }
+]
