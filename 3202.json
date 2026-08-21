@@ -1,0 +1,97 @@
+[
+  {
+    "id": "1",
+    "name": "Exit Tol",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/exittol/stream.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Pasar Cibadak",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/pasarcibadak/stream.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Masjid Cibadak",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/masjidcibadak/stream.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Cikembang",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/cikembang/stream.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Cisaat",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/cisaat/stream.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Sukaraja",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/sukaraja/stream.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Tenjoayu",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/tenjoayu/stream.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Lpmratu",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/lpmratu/stream.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Pangleseran",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/pangleseran/stream.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Cicurug",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/cicurug/stream.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Karanghawu",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/karanghawu/stream.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Cibolang",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/cibolang/stream.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Pedes",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/pedes/stream.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Batusapi",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/batusapi/stream.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Parungkuda",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/parungkuda/stream.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Pasarikan",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/pasarikan/stream.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Kadudampit",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/kadudampit/stream.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Exit Tol Ai",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/exittol_ai/stream.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Sukalarang",
+    "url": "https://cctv-dishub.sukabumikab.go.id/hls/sukalarang/stream.m3u8"
+  }
+]
