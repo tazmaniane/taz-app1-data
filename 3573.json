@@ -1,0 +1,727 @@
+[
+  {
+    "id": "1",
+    "name": "Jl. Letjen S. Parman Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/637253114452609264665590.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Jl. Borobudur Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/307023650278212238808482.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Jl. Panji Suroso Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/884548119530974853338399.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Jl. Raden Intan Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/712057197220164117651869.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Jl. Terusan Sulfat Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/408048032842553451896390.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Jl. L.A Sucipto Arah Timur (Rel Kereta)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/383058139820804059897454.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Jl. A. Yani Arah Selatan (Fly Over)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/957992467319427676437983.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Jl. A Yani Arah Utara (Masjid Sabilillah)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/719653317344542196173839.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Jl. Ahmad Yani Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/178242276523301631131466.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Jl. Raden Panji Suroso Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/654598878424524457231701.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Jl. SP Sudarmo Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/436037012487980953940187.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Jl. Raya Balearjosari Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/984300820927127330245429.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Jl. Panji Suroso Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/323299835038577603023529.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Jl. Terusan Sulfat Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/212852265924619178576872.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Jl. Raden Intan Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/053338675520352467621994.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Jl. Juanda Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/121335965337329637078039.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Jl. Panji Suroso Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/196782209615539550198936.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Jl. A Yani Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/195874189915723862555674.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Kampung Tridi",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/756753165339510713064459.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Jl. Sudirman Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/366629122294580263258917.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Jl. A. Yani Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/300544351200121565371840.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Jl. Tumenggung Suryo Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/444403449139429455057068.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "Jl. Ahmad Yani Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/348389393952249311802450.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "Jl. Letjen S. Parman Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/810133524862588268334710.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Jl. Hamid Rusdi Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/760985375028014640425523.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Jl. Martadinata Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/006065046819333616502324.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Jl. L.A Sucipto Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/506397672406115725994991.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "Jl. Raden Panji Suroso Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/563924488881364781254566.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "Jl. Terusan Sulfat Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/778411640624267613516944.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "Jl. Gatot Subroto Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/239025669818857831915521.m3u8"
+  },
+  {
+    "id": "31",
+    "name": " Jl. Laksda Adi Sucipto Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/340493797437204668929658.m3u8"
+  },
+  {
+    "id": "32",
+    "name": "Jl. Gatot Subroto Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/192101052696608982929523.m3u8"
+  },
+  {
+    "id": "33",
+    "name": "Jl. Simpang Sulfat Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/823145150519459797757495.m3u8"
+  },
+  {
+    "id": "34",
+    "name": "Jl. Urip Sumoharjo Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/490601680936121642601185.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "Jl. Raden Intan Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/925153886443577207350912.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "Jl .Tumenggung Suryo Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/966506717989378844885521.m3u8"
+  },
+  {
+    "id": "37",
+    "name": "Jl. Kesatrian Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/031608321985243356752404.m3u8"
+  },
+  {
+    "id": "38",
+    "name": "Jl. Urip Sumoharjo Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/498383745389554459491639.m3u8"
+  },
+  {
+    "id": "39",
+    "name": "Jl. A Yani Arah Selatan (Masjid Sabilillah)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/982131430615781858979987.m3u8"
+  },
+  {
+    "id": "40",
+    "name": "Jl. Raden Intan Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/902490552268458858290479.m3u8"
+  },
+  {
+    "id": "41",
+    "name": "Jl. Zainal Zakse Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/420501415743258073902708.m3u8"
+  },
+  {
+    "id": "42",
+    "name": "Jl. Zainal Zakse Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/505886570472987236280044.m3u8"
+  },
+  {
+    "id": "43",
+    "name": "Jl. Juanda Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/247723564512685003488446.m3u8"
+  },
+  {
+    "id": "44",
+    "name": "Jl. Mayjen Wiyono Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/973041049647521784083717.m3u8"
+  },
+  {
+    "id": "45",
+    "name": "Jl. Terusan Sulfat Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/753337323046986013041375.m3u8"
+  },
+  {
+    "id": "46",
+    "name": "Jl. Panji Suroso Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/466452347587002114136805.m3u8"
+  },
+  {
+    "id": "47",
+    "name": "Jl. Gatot Subroto Arah Utara (Jembatan Brantas)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/717880005188495257691864.m3u8"
+  },
+  {
+    "id": "48",
+    "name": "Jl. Untung Suropati Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/427283423567089689597287.m3u8"
+  },
+  {
+    "id": "49",
+    "name": "Jl. Raden Panji Suroso Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/044906552951351361548373.m3u8"
+  },
+  {
+    "id": "50",
+    "name": "Jl. Laksda Adi Sucipto Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/272315206096758266726516.m3u8"
+  },
+  {
+    "id": "51",
+    "name": "Jl. Kesatrian Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/786150212613240322734192.m3u8"
+  },
+  {
+    "id": "52",
+    "name": "Jl. Muharto Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/023076357712194374375085.m3u8"
+  },
+  {
+    "id": "53",
+    "name": "Jl .Tumenggung Suryo Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/795110064442531890711535.m3u8"
+  },
+  {
+    "id": "54",
+    "name": "Jl. LA Sucipto Arah Barat (Perbatasan)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/537255318919087826651532.m3u8"
+  },
+  {
+    "id": "55",
+    "name": "Jl. Merdeka Utara Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/375341952336011589690586.m3u8"
+  },
+  {
+    "id": "56",
+    "name": "Jl Pasar Besar Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/791662500424223576621102.m3u8"
+  },
+  {
+    "id": "57",
+    "name": "Jl. Veteran Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/838413871917489102204055.m3u8"
+  },
+  {
+    "id": "58",
+    "name": "Jl. Arif Margono Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/652269633484216664565215.m3u8"
+  },
+  {
+    "id": "59",
+    "name": "Jl. Semeru Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/717958972035700755246088.m3u8"
+  },
+  {
+    "id": "60",
+    "name": "Jl. Kawi Arah Timur (BRI Kawi)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/269060901340905226381917.m3u8"
+  },
+  {
+    "id": "61",
+    "name": "Jl. Ijen Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/467561291886570342820693.m3u8"
+  },
+  {
+    "id": "62",
+    "name": "Jl. Letjend Sutoyo Arah Selatan (Hotel Savana)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/435572404308262635105603.m3u8"
+  },
+  {
+    "id": "63",
+    "name": "Jl. Nusakambangan Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/212039658036127116733044.m3u8"
+  },
+  {
+    "id": "64",
+    "name": "Jl. Patimura Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/008689729209182017615333.m3u8"
+  },
+  {
+    "id": "65",
+    "name": "Jl. Merdeka Barat Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/662201042760075959506830.m3u8"
+  },
+  {
+    "id": "66",
+    "name": "Jl. Aris Munandar Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/002327922068835068551525.m3u8"
+  },
+  {
+    "id": "67",
+    "name": "Jl. Zainul Arifin Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/394839611609021690258370.m3u8"
+  },
+  {
+    "id": "68",
+    "name": "Jl. Pahlawan Trip",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/603889351830833340753818.m3u8"
+  },
+  {
+    "id": "69",
+    "name": "Jl. Merdeka Timur Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/293434869573645632741268.m3u8"
+  },
+  {
+    "id": "70",
+    "name": "Jl. Yulius Usman Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/530280435954205770660031.m3u8"
+  },
+  {
+    "id": "71",
+    "name": "Jl. Syarif Al Qodri Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/333495472392613611434090.m3u8"
+  },
+  {
+    "id": "72",
+    "name": "Jl. Semeru Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/253598743355115924306355.m3u8"
+  },
+  {
+    "id": "73",
+    "name": "Jl. Kawi Arah barat (SMPN6)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/067883214706611879049144.m3u8"
+  },
+  {
+    "id": "74",
+    "name": "Jl Basuki Rachmad Kayutangan Zebra Cross",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/383467698805698590809269.m3u8"
+  },
+  {
+    "id": "75",
+    "name": "Jl. W.R. Supratman Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/465602083379458835437909.m3u8"
+  },
+  {
+    "id": "76",
+    "name": "Jl. Ijen Arah Selatan (Simpang Balapan)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/383651772119550945722301.m3u8"
+  },
+  {
+    "id": "77",
+    "name": " Jl. Nusakambangan Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/259213973885550105439889.m3u8"
+  },
+  {
+    "id": "78",
+    "name": "Jl. Patimura Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/643592251459005888214586.m3u8"
+  },
+  {
+    "id": "79",
+    "name": "Jl. Langsep Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/573357726087672833075775.m3u8"
+  },
+  {
+    "id": "80",
+    "name": "Jl. Arif Margono Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/713846259452297607019995.m3u8"
+  },
+  {
+    "id": "81",
+    "name": "Jl. Kawi Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/494044159463642643864378.m3u8"
+  },
+  {
+    "id": "82",
+    "name": "Jl. KH. Hasyim Ashari Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/171664895247859983097279.m3u8"
+  },
+  {
+    "id": "83",
+    "name": "Jl. Tugu Arah Selatan (Balaikota)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/188896189032493229715252.m3u8"
+  },
+  {
+    "id": "84",
+    "name": "Jl.  Merdeka Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/818599107354393628794315.m3u8"
+  },
+  {
+    "id": "85",
+    "name": "Jl. Pasar Besar Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/787400068366441690070099.m3u8"
+  },
+  {
+    "id": "86",
+    "name": "Jl. Jaksa Agung Suprapto Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/660120947895309721081787.m3u8"
+  },
+  {
+    "id": "87",
+    "name": "Jl. Yulius Usman Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/620853484047521997472024.m3u8"
+  },
+  {
+    "id": "88",
+    "name": "Jl. Agus Salim Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/117940938424194503584011.m3u8"
+  },
+  {
+    "id": "89",
+    "name": "Jl. Patimura Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/844727028021085216938269.m3u8"
+  },
+  {
+    "id": "90",
+    "name": "Jl. Semeru Arah Timur (Perpustakaan)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/421607974337796002196100.m3u8"
+  },
+  {
+    "id": "91",
+    "name": "Jl. Ijen Arah Utara (Poltekes)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/098343692068108583411220.m3u8"
+  },
+  {
+    "id": "92",
+    "name": "Jl. Arif Margono Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/789762621921935268666704.m3u8"
+  },
+  {
+    "id": "93",
+    "name": "Jl. Terusan Ijen Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/495229592063339988032865.m3u8"
+  },
+  {
+    "id": "94",
+    "name": "Jl. Jaksa Agung Suprapto Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/092075042505129095657722.m3u8"
+  },
+  {
+    "id": "95",
+    "name": "Jl. Basuki Rahmat Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/876263708687156206364361.m3u8"
+  },
+  {
+    "id": "96",
+    "name": "Jl. Trunojoyo Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/027277786580967639165024.m3u8"
+  },
+  {
+    "id": "97",
+    "name": "Jl. Bromo Arah Utara (GKI Bromo)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/664697529898892981084889.m3u8"
+  },
+  {
+    "id": "98",
+    "name": "Jl. Panglima Sudirman Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/281336549789753967841481.m3u8"
+  },
+  {
+    "id": "99",
+    "name": "Jl. Basuki Rahmat Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/771615331018457682499213.m3u8"
+  },
+  {
+    "id": "100",
+    "name": "Jl. Ijen Arah Selatan ",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/742158442433359267079827.m3u8"
+  },
+  {
+    "id": "101",
+    "name": "Jl. Aris Munandar Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/491236279805146068523382.m3u8"
+  },
+  {
+    "id": "102",
+    "name": "Jl. Ijen Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/408386140723144623861301.m3u8"
+  },
+  {
+    "id": "103",
+    "name": "Jl. Veteran Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/440008799417875731945423.m3u8"
+  },
+  {
+    "id": "104",
+    "name": "Jl. Pasar Besar Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/211248133615597097922668.m3u8"
+  },
+  {
+    "id": "105",
+    "name": "Jl. Ade Irma Suryani Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/096052317426605718543303.m3u8"
+  },
+  {
+    "id": "106",
+    "name": "Jl. KH Ahmad Dahlan Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/422383028253759413095916.m3u8"
+  },
+  {
+    "id": "107",
+    "name": "Jl. Kawi Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/642085663280892020139410.m3u8"
+  },
+  {
+    "id": "108",
+    "name": "Jl. Husni Tamrin Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/824468526355652946351265.m3u8"
+  },
+  {
+    "id": "109",
+    "name": "Jl. Jendral Sudirman Arah Selatan (smpn 5)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/054856199643889577039217.m3u8"
+  },
+  {
+    "id": "110",
+    "name": "Jl. Wahidin Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/028590945630518341489747.m3u8"
+  },
+  {
+    "id": "111",
+    "name": "Jl. Gatot Subroto Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/938035466891117643541014.m3u8"
+  },
+  {
+    "id": "112",
+    "name": "Jl. Kauman Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/913339812782937126202419.m3u8"
+  },
+  {
+    "id": "113",
+    "name": "Jl. Kahuripan Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/994477999826297213214297.m3u8"
+  },
+  {
+    "id": "114",
+    "name": "Jl. Kawi Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/060929711024394280433963.m3u8"
+  },
+  {
+    "id": "115",
+    "name": "Jl. Trunojoyo Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/188475135081668166134552.m3u8"
+  },
+  {
+    "id": "116",
+    "name": "Jl. Galungung Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/889779720689036295934998.m3u8"
+  },
+  {
+    "id": "117",
+    "name": "Jl. Merbabu Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/653722151300593309331609.m3u8"
+  },
+  {
+    "id": "118",
+    "name": "Jl. Bandung Arah Barat (Bundaran UKS)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/699355759296848496652742.m3u8"
+  },
+  {
+    "id": "119",
+    "name": "Jl. Arjuno Arah Utara (BRI Kawi)",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/599118267175295987908194.m3u8"
+  },
+  {
+    "id": "120",
+    "name": "Jl. Sutan Syahrir Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/112214116527259160582301.m3u8"
+  },
+  {
+    "id": "121",
+    "name": "Jl. Hasyim Ashari Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/584894580391537462827774.m3u8"
+  },
+  {
+    "id": "122",
+    "name": "Jl. Sulawesi Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/346702335161875943863648.m3u8"
+  },
+  {
+    "id": "123",
+    "name": "Jl. Basuki Rahmat arah utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/291214161756678285690451.m3u8"
+  },
+  {
+    "id": "124",
+    "name": "Jl. Ijen Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/627129209468594400740829.m3u8"
+  },
+  {
+    "id": "125",
+    "name": "Jl. Jenderal Sudirman Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/855876619782149417527265.m3u8"
+  },
+  {
+    "id": "126",
+    "name": "Jl. Ade Irma Suryani Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/588238642766249531642812.m3u8"
+  },
+  {
+    "id": "127",
+    "name": "Jl. KH. Hasyim Ashari Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/406217477871280304673887.m3u8"
+  },
+  {
+    "id": "128",
+    "name": "Jl. Cokroaminoto Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/462406715974251335062174.m3u8"
+  },
+  {
+    "id": "129",
+    "name": "Jl. Dieng Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/547359693237078797537666.m3u8"
+  },
+  {
+    "id": "130",
+    "name": "Jl. Ijen Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/735506210316890709562691.m3u8"
+  },
+  {
+    "id": "131",
+    "name": "JL. Merdeka Utara Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/472503741586852378929425.m3u8"
+  },
+  {
+    "id": "132",
+    "name": "Taman Ijen 2",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/611606309979396608294034.m3u8"
+  },
+  {
+    "id": "133",
+    "name": "Jl. Yulius Usman Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/920796867173871680340694.m3u8"
+  },
+  {
+    "id": "134",
+    "name": "Jl. Agus Salim Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/222512201418345708685754.m3u8"
+  },
+  {
+    "id": "135",
+    "name": "Jl. Panglima Sudirman Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/320035756896441723894425.m3u8"
+  },
+  {
+    "id": "136",
+    "name": "Jl Veteran Gerbang UB",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/767576969564466612969572.m3u8"
+  },
+  {
+    "id": "137",
+    "name": "Jl. Jaksa Agung Suprapto Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/655224432137058620115166.m3u8"
+  },
+  {
+    "id": "138",
+    "name": "Jl Retawu Arah Museum",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/996051630808365936867998.m3u8"
+  },
+  {
+    "id": "139",
+    "name": "Jl. Zainul Arifin Arah Selatan",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/888598335546629776669925.m3u8"
+  },
+  {
+    "id": "140",
+    "name": "Jl. Galunggung Arah Utara",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/879779063216883395653396.m3u8"
+  },
+  {
+    "id": "141",
+    "name": "Jl Veteran Depan Matos",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/203191103351222911095423.m3u8"
+  },
+  {
+    "id": "142",
+    "name": "Jl. Semeru Arah Barat",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/776763144322125195609829.m3u8"
+  },
+  {
+    "id": "143",
+    "name": "Jl Kyai Tamin Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/373262875962388363723269.m3u8"
+  },
+  {
+    "id": "144",
+    "name": "Jl. Kawi Arah Timur.",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/192932202274819493009134.m3u8"
+  },
+  {
+    "id": "145",
+    "name": "Jl. Kedawung Arah Timur",
+    "url": "https://cctv.malangkota.go.id/cctv-stream/streams/760232202274819493009134.m3u8"
+  }
+]
