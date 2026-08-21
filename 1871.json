@@ -1,0 +1,507 @@
+[
+  {
+    "id": "1",
+    "name": "Halaman Pemkot (Ptz) - Kantor Pemerintah Kota",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_18/index.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Jembatan Millenial 1 (Ptz) - Jalan Protokol",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_22/index.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Jalan Depan Gereja Katedral - Jalan Protokol",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_20/index.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Sungai Jembatan Beton - Sungai",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_28/index.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Pasar Gudang Lelang 1 - Pasar",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_26/index.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Tugu Adipura 1 (Ptz) - Jalan Protokol",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_31/index.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Kelurahan Enggal - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_7/index.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Jembatan Millenial 2 (Ptz) - Jalan Protokol",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_19/index.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Kelurahan Sukamenanti - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_34/index.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Tugu Adipura 2 (Ambulance) - Jalan Protokol",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_29/index.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Kelurahan Kedamaian - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_10/index.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Kelurahan Tanjung Gading - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_12/index.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Kelurahan Bumiraya - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_6/index.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Kelurahan Campang Jaya - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_32/index.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Kecamatan Kemiling (Ptz) - Kantor Kecamatan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_24/index.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Kelurahan Kalibalau Kencana - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_9/index.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Kelurahan Tanjung Agung Raya - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_11/index.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Kelurahan Kedaton - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_14/index.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Kelurahan Penengahan - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_15/index.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Kecamatan Bumiwaras (Ptz) - Kantor Kecamatan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_23/index.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Pasar Tugu (Ptz) - Pasar",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_27/index.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Kelurahan Tanjung Raya - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_13/index.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "Siger Resto Pemkot - Kantor Pemerintah Kota",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_21/index.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "Puskesmas Rawat Inap Kota Karang - Puskes",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_25/index.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Kelurahan Kemiling Raya - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_37/index.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Kelurahan Surabaya - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_36/index.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Kelurahan Tanjung Karang - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_8/index.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "Kelurahan Sidodadi - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_33/index.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "Kelurahan Sukamenanti Baru - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_35/index.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "Pintu Masuk Pemkot - Kantor Pemerintah Kota",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_17/index.m3u8"
+  },
+  {
+    "id": "31",
+    "name": "Kelurahan Bumi Waras - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_5/index.m3u8"
+  },
+  {
+    "id": "32",
+    "name": "Kelurahan Sukarame - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_45/index.m3u8"
+  },
+  {
+    "id": "33",
+    "name": "Kelurahan Gunung Agung - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_40/index.m3u8"
+  },
+  {
+    "id": "34",
+    "name": "Kelurahan Sukabumi - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_44/index.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "Kelurahan Keteguhan - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_71/index.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "Kelurahan Sukajawa Baru - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_53/index.m3u8"
+  },
+  {
+    "id": "37",
+    "name": "Kelurahan Durian Payung - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_55/index.m3u8"
+  },
+  {
+    "id": "38",
+    "name": "Kelurahan Susunan Baru - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_54/index.m3u8"
+  },
+  {
+    "id": "39",
+    "name": "Kelurahan Kelapa Tiga - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_59/index.m3u8"
+  },
+  {
+    "id": "40",
+    "name": "Kelurahan Negeri Olok Gading - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_66/index.m3u8"
+  },
+  {
+    "id": "41",
+    "name": "Kelurahan Sumberrejo - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_38/index.m3u8"
+  },
+  {
+    "id": "42",
+    "name": "Kelurahan Gedong Air - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_49/index.m3u8"
+  },
+  {
+    "id": "43",
+    "name": "Kelurahan Pesawahan - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_68/index.m3u8"
+  },
+  {
+    "id": "44",
+    "name": "Kelurahan Gunung Mas - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_67/index.m3u8"
+  },
+  {
+    "id": "45",
+    "name": "Kelurahan Sukajawa - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_52/index.m3u8"
+  },
+  {
+    "id": "46",
+    "name": "Gedong Meneng Baru - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_42/index.m3u8"
+  },
+  {
+    "id": "47",
+    "name": "Kelurahan Rajabasa - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_43/index.m3u8"
+  },
+  {
+    "id": "48",
+    "name": "Kelurahan Kotabaru - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_62/index.m3u8"
+  },
+  {
+    "id": "49",
+    "name": "Kelurahan Langkapura - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_41/index.m3u8"
+  },
+  {
+    "id": "50",
+    "name": "Kelurahan Sawah Lama - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_64/index.m3u8"
+  },
+  {
+    "id": "51",
+    "name": "Kelurahan Kaliawi Persada - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_58/index.m3u8"
+  },
+  {
+    "id": "52",
+    "name": "Kelurahan Palapa - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_60/index.m3u8"
+  },
+  {
+    "id": "53",
+    "name": "Kelurahan Labuhan Dalam - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_48/index.m3u8"
+  },
+  {
+    "id": "54",
+    "name": "Kelurahan Talang - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_69/index.m3u8"
+  },
+  {
+    "id": "55",
+    "name": "Kelurahan Kuripan - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_65/index.m3u8"
+  },
+  {
+    "id": "56",
+    "name": "Kelurahan Pasir Gintung - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_61/index.m3u8"
+  },
+  {
+    "id": "57",
+    "name": "Kelurahan Segala Mider - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_51/index.m3u8"
+  },
+  {
+    "id": "58",
+    "name": "Kelurahan Teluk Betung - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_70/index.m3u8"
+  },
+  {
+    "id": "59",
+    "name": "Kelurahan Gotong Royong - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_56/index.m3u8"
+  },
+  {
+    "id": "60",
+    "name": "Kelurahan Way Dadi  Baru - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_47/index.m3u8"
+  },
+  {
+    "id": "61",
+    "name": "Kelurahan Way Dadi - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_46/index.m3u8"
+  },
+  {
+    "id": "62",
+    "name": "Kelurahan Kaliawi - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_57/index.m3u8"
+  },
+  {
+    "id": "63",
+    "name": "Kelurahan Sumber  Rejo  Sejahtera - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_39/index.m3u8"
+  },
+  {
+    "id": "64",
+    "name": "Kelurahan Garuntang - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_99/index.m3u8"
+  },
+  {
+    "id": "65",
+    "name": "Kelurahan Gunung Sari - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_87/index.m3u8"
+  },
+  {
+    "id": "66",
+    "name": "Kelurahan Gulak Galik - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_74/index.m3u8"
+  },
+  {
+    "id": "67",
+    "name": "Kelurahan Bakung - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_81/index.m3u8"
+  },
+  {
+    "id": "68",
+    "name": "Kelurahan Rawa Laut - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_89/index.m3u8"
+  },
+  {
+    "id": "69",
+    "name": "Kelurahan Sumur Putri - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_96/index.m3u8"
+  },
+  {
+    "id": "70",
+    "name": "Kelurahan Sukarame Baru - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_101/index.m3u8"
+  },
+  {
+    "id": "71",
+    "name": "Kelurahan Kupang Kota - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_75/index.m3u8"
+  },
+  {
+    "id": "72",
+    "name": "Kelurahan Sukaraja - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_103/index.m3u8"
+  },
+  {
+    "id": "73",
+    "name": "Kelurahan Sukamaju - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_86/index.m3u8"
+  },
+  {
+    "id": "74",
+    "name": "Kelurahan Pahoman - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_90/index.m3u8"
+  },
+  {
+    "id": "75",
+    "name": "Kelurahan Gedong Pakuan - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_85/index.m3u8"
+  },
+  {
+    "id": "76",
+    "name": "Kelurahan Jagabaya I - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_79/index.m3u8"
+  },
+  {
+    "id": "77",
+    "name": "Kelurahan Sumur Batu - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_78/index.m3u8"
+  },
+  {
+    "id": "78",
+    "name": "Kelurahan Tanjung Baru - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_93/index.m3u8"
+  },
+  {
+    "id": "79",
+    "name": "Kelurahan Jagabaya Iii - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_82/index.m3u8"
+  },
+  {
+    "id": "80",
+    "name": "Kelurahan Pematang Wangi - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_102/index.m3u8"
+  },
+  {
+    "id": "81",
+    "name": "Kelurahan Bumi Kedamaian - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_105/index.m3u8"
+  },
+  {
+    "id": "82",
+    "name": "Kelurahan Kupang Teba - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_76/index.m3u8"
+  },
+  {
+    "id": "83",
+    "name": "Kelurahan Pelita - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_91/index.m3u8"
+  },
+  {
+    "id": "84",
+    "name": "Kelurahan Kangkung - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_100/index.m3u8"
+  },
+  {
+    "id": "85",
+    "name": "Kelurahan Kota Karang Raya - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_92/index.m3u8"
+  },
+  {
+    "id": "86",
+    "name": "Kelurahan Kota Karang - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_72/index.m3u8"
+  },
+  {
+    "id": "87",
+    "name": "Kelurahan Perwata - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_73/index.m3u8"
+  },
+  {
+    "id": "88",
+    "name": "Kelurahan Sukarame Ii - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_104/index.m3u8"
+  },
+  {
+    "id": "89",
+    "name": "Kelurahan Pengajaran - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_77/index.m3u8"
+  },
+  {
+    "id": "90",
+    "name": "Kelurahan Jagabaya Ii - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_80/index.m3u8"
+  },
+  {
+    "id": "91",
+    "name": "Kelurahan Way Halim Permai - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_84/index.m3u8"
+  },
+  {
+    "id": "92",
+    "name": "Kelurahan Labuhan Ratu Raya - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_130/index.m3u8"
+  },
+  {
+    "id": "93",
+    "name": "Kelurahan Perumnas Way Halim - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_83/index.m3u8"
+  },
+  {
+    "id": "94",
+    "name": "Kelurahan Gunung Sulah - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_123/index.m3u8"
+  },
+  {
+    "id": "95",
+    "name": "Kelurahan Karang Maritim - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_128/index.m3u8"
+  },
+  {
+    "id": "96",
+    "name": "Kelurahan Panjang Selatan - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_121/index.m3u8"
+  },
+  {
+    "id": "97",
+    "name": "Kelurahan Kampung Baru - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_119/index.m3u8"
+  },
+  {
+    "id": "98",
+    "name": "Kelurahan Kota Sepang - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_111/index.m3u8"
+  },
+  {
+    "id": "99",
+    "name": "Kelurahan Rajabasa Jaya - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_126/index.m3u8"
+  },
+  {
+    "id": "100",
+    "name": "Kelurahan Sukadanaham - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_127/index.m3u8"
+  },
+  {
+    "id": "101",
+    "name": "Kelurahan Labuhan Ratu - Kantor Kelurahan",
+    "url": "https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_135/index.m3u8"
+  }
+]
