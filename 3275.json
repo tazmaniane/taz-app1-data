@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "name": "Depan Anugrah Motor",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/Depan_Anugrah_Motor.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Depan FTL Fitness",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/Depan_FTL_Fitness.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Depan NGOPIBAH",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/Depan_NGOPIBAH.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Depan SMP Strada Budi Luhur",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/Depan_SMP_Strada_Budi_luhur.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Flyover Cipendawa",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/Flyover_Cipendawa.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "KFC Dekat Taman Cut Mutia",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/KFC_DEKAT_TAMAN_CUT_MUTIA.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "PT Fajar Mas Murni",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/PT_Fajar_Mas_Murni.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Perempatan Caman",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/Perempatan_Caman.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Perempatan Rawa Semut",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/Perempatan_Rawa_Semut.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Putaran Sumber Arta",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/Putaran_sumber_Arta.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Samping RS Mitra Keluarga",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/Samping_RS_Mitra_Keluarga.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Samping RS Primaya Bekasi",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/Samping_RS_Primaya_Bekasi.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Seberang Yonif 202",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/Seberang_Yonif_202.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Taman Kelurahan Jakasampura",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/Taman_Kelurahan_Jakasampura.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Universitas Bani Saleh",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/Universitas_Bani_Saleh.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Area Cfd",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/area_cfd.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Bendungan Prisdo",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/bendungan_prisdo.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Dprd",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/dprd.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Ex Depan Disnaker",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/ex_depan_disnaker.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Islamic Center",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/islamic_center.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Pertigaan Cevest",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/pertigaan_cevest.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Proyek Bekasi",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/proyek_bekasi.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "Rawa Tembaga",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/rawa_tembaga.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "Rs Bela",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/rs_bela.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Stasiun Bekasi",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/stasiun_bekasi.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Terminal Bekasi",
+    "url": "https://eofficev2.bekasikota.go.id/backupcctv/m3/terminal_bekasi.m3u8"
+  }
+]
