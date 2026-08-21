@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Kamera Carocok 1",
+    "url": "https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/2qy20XfgZX/s.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Kamera Carocok 2",
+    "url": "https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/YAdOkhEh2E/s.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Kamera Carocok 3",
+    "url": "https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/Ts3N3gBcqz/s.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Taman Spora 1",
+    "url": "https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/m7cQGqqNKo/s.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Taman Spora 2",
+    "url": "https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/Vy91pQ56X7/s.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Mesjid Terapung",
+    "url": "https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/dXr6jrlx9s/s.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Batas Kota 1",
+    "url": "https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/ttygSs99dy/s.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Batas kota 2",
+    "url": "https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/8poXDsVDvP/s.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Kamera Carocok 4",
+    "url": "https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/1wbuTqepYN/s.m3u8"
+  }
+]
