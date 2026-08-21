@@ -1329,7 +1329,7 @@
   {
     "id": "3206",
     "province_id": "32",
-    "name": "KABUPATEN TASIKMALAYA",
+    "name": "KABUPATEN LAYA",
     "alt_name": "KABUPATEN TASIKMALAYA",
     "latitude": -7.5,
     "longitude": 108.13333
@@ -1494,6 +1494,7 @@
     "province_id": "32",
     "name": "KOTA TASIKMALAYA",
     "alt_name": "KOTA TASIKMALAYA",
+    "status": "ON",
     "latitude": -7.35,
     "longitude": 108.21667
   },
