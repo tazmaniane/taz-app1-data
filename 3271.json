@@ -1,0 +1,412 @@
+[
+  {
+    "id": "1",
+    "name": "Ciheleut",
+    "url": "https://restreamer2.kotabogor.go.id/memfs/f5ca1d37-c267-4806-850b-d1ca537fb29a.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Djuanda Arah Balaikota",
+    "url": "https://restreamer2.kotabogor.go.id/memfs/f707b72a-5c95-421a-9f3a-2e478794bd76.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Depan Alun Alun",
+    "url": "https://restreamer2.kotabogor.go.id/memfs/c07c1926-288c-46e4-a19c-9f51022edc5d.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Pasar Bogor",
+    "url": "https://restreamer2.kotabogor.go.id/memfs/b43066d4-b1e4-4e90-8e17-86c15a9a944e.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Juanda",
+    "url": "https://restreamer2.kotabogor.go.id/memfs/62cded1f-90d0-4af6-b330-dc40af5fdd67.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Seketeng Surken",
+    "url": "https://restreamer2.kotabogor.go.id/memfs/3d51d3a1-0d90-4230-956c-60dea3c11ac3.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Seketeng Gudang",
+    "url": "https://restreamer2.kotabogor.go.id/memfs/1083f9b4-b193-490d-aa45-31cbc69913fb.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Pedati Arah Gudang",
+    "url": "https://restreamer3.kotabogor.go.id/memfs/c2d90a44-8f2c-4103-82ad-6cb1730a5000.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Simpang Depom",
+    "url": "https://restreamer2.kotabogor.go.id/memfs/2942b8fd-1f48-4c2c-b368-d0df0526367c.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Pedati Surken",
+    "url": "https://restreamer3.kotabogor.go.id/memfs/eedbb9a2-1571-41bd-92db-73b946e3e9b2.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Lawang Seketeng",
+    "url": "https://restreamer3.kotabogor.go.id/memfs/f946ad94-d7c0-4bea-bb43-51adbdc90b95.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Pedati Lawang",
+    "url": "https://restreamer3.kotabogor.go.id/memfs/3ec91e05-edf0-451f-b363-4b3c52b75805.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Djuanda Arah Surken",
+    "url": "https://restreamer3.kotabogor.go.id/memfs/f6b50f38-9184-418e-b3f9-05faaa9b387d.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Djuanda Arah Empang",
+    "url": "https://restreamer3.kotabogor.go.id/memfs/31b05614-19d8-492e-b244-903e8aa28292.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Kominfo Arah Tajur",
+    "url": "https://restreamer3.kotabogor.go.id/memfs/31970416-64db-400c-af8b-b929b673f7a5.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Simpang Denpom Arah Pintu Utama Istana",
+    "url": "https://restreamer3.kotabogor.go.id/memfs/67ebf216-fa63-4a6a-9ea8-1e5604257f74.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Ma Salmun Arah Mawar",
+    "url": "https://restreamer.kotabogor.go.id/memfs/aaa81ab7-5f96-4073-8090-e33d882a5dff.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Ma Salmun Arah Dewi Sartika",
+    "url": "https://restreamer.kotabogor.go.id/memfs/ee837053-a8e7-4fde-84ed-fc88ad26d3a5.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Ma Salmun Arah Jembatan Merah",
+    "url": "https://restreamer.kotabogor.go.id/memfs/e7609045-eeaf-4579-8eca-fc3e61502eac.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Taman Corat Coret",
+    "url": "https://restreamer.kotabogor.go.id/memfs/d6ef0d86-68f1-42c9-acd7-667d05bfa463.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Taman Corat Coret Arah Disdukcapil",
+    "url": "https://restreamer.kotabogor.go.id/memfs/cdfdab2e-7f7d-4bd1-8a7a-698559837d91.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Taman Ekspresi 1",
+    "url": "https://restreamer.kotabogor.go.id/memfs/87ec2d37-4a67-4edf-a748-01e511f77585.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "Taman Heulang 4",
+    "url": "https://restreamer.kotabogor.go.id/memfs/a5658165-b05c-4a10-a8ca-951551985530.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "Taman Sempur 2",
+    "url": "https://restreamer2.kotabogor.go.id/memfs/81d53543-1607-45df-9d17-db70c9960345.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Pomad Arah Bogor",
+    "url": "https://restreamer.kotabogor.go.id/memfs/bb88ed9f-e6c6-433b-8f12-26c249e8e8f9.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Taman Heulang I",
+    "url": "https://restreamer.kotabogor.go.id/memfs/a01c12ab-7fad-428c-9289-cef83ea2a64d.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Taman Heulang 2",
+    "url": "https://restreamer.kotabogor.go.id/memfs/f9d2816e-3e6c-46aa-9d63-4bc1379eec51.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "Taman Heulang 3",
+    "url": "https://restreamer.kotabogor.go.id/memfs/aab243a3-6711-4e12-8956-b030bad6375b.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "Taman Kencana 1",
+    "url": "https://restreamer.kotabogor.go.id/memfs/bbee8545-0296-478a-b1dc-5312d0acab1d.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "Taman Kencana 2",
+    "url": "https://restreamer.kotabogor.go.id/memfs/b397dea2-8884-4c22-b6a9-f0acd0a204ea.m3u8"
+  },
+  {
+    "id": "31",
+    "name": "Lapangan Sempur",
+    "url": "https://restreamer2.kotabogor.go.id/memfs/3a33b052-0526-429f-b8ac-c10865626acd.m3u8"
+  },
+  {
+    "id": "32",
+    "name": "Taman Ekspresi 2",
+    "url": "https://restreamer2.kotabogor.go.id/memfs/1bcb7d49-9573-4d87-9e74-b6b1a4cfdcfc.m3u8"
+  },
+  {
+    "id": "33",
+    "name": "Jl. Juanda Arah Balaikota",
+    "url": "https://restreamer3.kotabogor.go.id/memfs/519d2368-103e-4e7c-860c-35d66a7f6352.m3u8"
+  },
+  {
+    "id": "34",
+    "name": "Jl. Juanda Arah Kantor Pos",
+    "url": "https://restreamer3.kotabogor.go.id/memfs/e2d12ced-bcc3-4826-b872-97fcce335e93.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "Pertiga Jl. Mawar Arah Merdeka",
+    "url": "https://restreamer3.kotabogor.go.id/memfs/8b39d204-4039-4352-b236-01635b3f5e7a.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "Jl. Mawar Arah Semeru",
+    "url": "https://restreamer3.kotabogor.go.id/memfs/3b191b4b-6473-401d-9508-fe4a61be876b.m3u8"
+  },
+  {
+    "id": "37",
+    "name": "Puteran Arah Bondes 2",
+    "url": "https://restreamer5.kotabogor.go.id/memfs/22d63eda-40bb-4fed-95c3-7c4eeef51cbf.m3u8"
+  },
+  {
+    "id": "38",
+    "name": "Simpang Sindang Barang 2",
+    "url": "https://restreamer5.kotabogor.go.id/memfs/534eb46c-159d-43c9-ae35-2f273245f257.m3u8"
+  },
+  {
+    "id": "39",
+    "name": "Simpang Sindang Barang 1",
+    "url": "https://restreamer5.kotabogor.go.id/memfs/83eb5f01-df58-4cc1-8cd0-2f507be57649.m3u8"
+  },
+  {
+    "id": "40",
+    "name": "Simpang Sindang Barang 3",
+    "url": "https://restreamer5.kotabogor.go.id/memfs/b85b93a4-22dd-418a-ae88-8322f0bc479f.m3u8"
+  },
+  {
+    "id": "41",
+    "name": "Simpang Bubulak 1",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/d8e16825-1d69-4eee-9bb9-1368131a56e7.m3u8"
+  },
+  {
+    "id": "42",
+    "name": "Belakang Pasar Mawar F",
+    "url": "https://restreamer5.kotabogor.go.id/memfs/09ca573e-e121-4689-aac7-c4ee4b1278fa.m3u8"
+  },
+  {
+    "id": "43",
+    "name": "Simpang Arah Dramaga",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/51e9eed5-4b9a-4d45-bd04-8e3fc7485a67.m3u8"
+  },
+  {
+    "id": "44",
+    "name": "Belakang Pasar Mawar 1 P",
+    "url": "https://restreamer5.kotabogor.go.id/memfs/baccd872-4c65-4832-9f33-c5b4d467e777.m3u8"
+  },
+  {
+    "id": "45",
+    "name": "Jl. Falak 2 P",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/046e3ff5-b53b-4206-8278-f735921b39d4.m3u8"
+  },
+  {
+    "id": "46",
+    "name": "Simpang Bubulak 2",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/09fc93cb-7267-407c-8809-c8b06b004b4a.m3u8"
+  },
+  {
+    "id": "47",
+    "name": "Jl.semeru 2 F",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/1c6642fb-f4e9-4c2c-9411-c994d7332fea.m3u8"
+  },
+  {
+    "id": "48",
+    "name": "Jl. Semeru 1 P",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/acb7a829-1c3a-4429-8b37-d53647d69d53.m3u8"
+  },
+  {
+    "id": "49",
+    "name": "Taman Sempur Belakang",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/b5af80c7-6bd1-4b1e-9fb3-f847e012cb80.m3u8"
+  },
+  {
+    "id": "50",
+    "name": "Taman Heulang Depan SMKN 1",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/8f5ed3cb-5ab6-4687-b259-a3c5c46c5fed.m3u8"
+  },
+  {
+    "id": "51",
+    "name": "Simpang A. Yani Dadali 2 F",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/cb79f4a2-f7f2-4e56-b848-f2e9eb9edcc6.m3u8"
+  },
+  {
+    "id": "52",
+    "name": "Simpang A.yani Dadali 1 P",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/83c68a43-dce7-4eea-a86d-913ff5a2a08a.m3u8"
+  },
+  {
+    "id": "53",
+    "name": "Jl. Baru Arah Jembatan",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/0316066f-7936-44ce-9acd-d2f9032d44b4.m3u8"
+  },
+  {
+    "id": "54",
+    "name": "Simpang Dewi Sartika 2 F",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/ac6de512-c9bf-48fd-b438-953481a43a17.m3u8"
+  },
+  {
+    "id": "55",
+    "name": "Simpang Dewisartika 1 P",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/9ecd30db-6cff-43eb-aef2-5c846b10c799.m3u8"
+  },
+  {
+    "id": "56",
+    "name": "Simpang Jl. Dreded P",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/3216f8c7-d3b9-4fac-ba7d-de18ee9a8090.m3u8"
+  },
+  {
+    "id": "57",
+    "name": "Simpang Pahlawan 2 F",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/d3579a4b-ec79-4512-8173-d956cdf098ac.m3u8"
+  },
+  {
+    "id": "58",
+    "name": "Simpang Pahlawan 1 F",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/d8047631-e56c-4b58-9b41-e96d47a4c187.m3u8"
+  },
+  {
+    "id": "59",
+    "name": "Jl.baru Cibadak P",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/19e925c3-f404-409e-9719-ea285acf9377.m3u8"
+  },
+  {
+    "id": "60",
+    "name": "Jl.baru Cibadak 2 F",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/1e4f5b21-a026-4a51-928b-c3a9ce22bce4.m3u8"
+  },
+  {
+    "id": "61",
+    "name": "Jl. Baru Depan Yogya 2",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/c9fdf5ba-ae6c-477c-bec2-f1599f534950.m3u8"
+  },
+  {
+    "id": "62",
+    "name": "Jl. Raya Tajur 1",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/548e800c-99d8-4d00-bf7f-76c06c91680c.m3u8"
+  },
+  {
+    "id": "63",
+    "name": "Jl. Raya Tajur 2",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/c230942d-4764-4124-8c77-4b2d24de4b24.m3u8"
+  },
+  {
+    "id": "64",
+    "name": "Depan Pintu Tol Kayumanis 2 1",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/ebe22be2-e5c2-4516-8f7f-9b2a5e19abec.m3u8"
+  },
+  {
+    "id": "65",
+    "name": "Jl. Baru Depan Yogya 1",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/f35a34ac-7528-4582-96bb-1f5f0a226f07.m3u8"
+  },
+  {
+    "id": "66",
+    "name": "Depan Pintu Tol Kayumanis 2 2",
+    "url": "https://restreamer6.kotabogor.go.id/memfs/9a2a170b-06b5-4401-ac60-3d0d7fdc44bf.m3u8"
+  },
+  {
+    "id": "67",
+    "name": "Parung Banteng",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/069413b0-dc6c-4c76-b3c1-2a41b427c61c.m3u8"
+  },
+  {
+    "id": "68",
+    "name": "Parung Banteng 2",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/438bb41f-5bc2-40f6-8bb1-fa99cb3fa721.m3u8"
+  },
+  {
+    "id": "69",
+    "name": "Simpang Katulampa 1",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/7c1016d7-cba8-4ed0-995d-6bbd44920698.m3u8"
+  },
+  {
+    "id": "70",
+    "name": "Simpang Katulampa 2",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/f22e94b8-f52c-4d15-9b09-1b2ab05e980a.m3u8"
+  },
+  {
+    "id": "71",
+    "name": "Kol Ahmad Syam 3 1",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/0fc635f9-5c54-427a-86f3-0843626ee719.m3u8"
+  },
+  {
+    "id": "72",
+    "name": "Kol Ahmad Syam 3 2",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/58f8870f-b68b-4f4b-9a8b-d9b7169c9317.m3u8"
+  },
+  {
+    "id": "73",
+    "name": "Kol Ahmad Syam 1 2",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/83608f94-69a9-4341-a821-beb90fdee6e3.m3u8"
+  },
+  {
+    "id": "74",
+    "name": "Kol Ahmad Syam 1 1",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/f03456d3-1d6c-4156-b301-e66e85e1b52e.m3u8"
+  },
+  {
+    "id": "75",
+    "name": "Kol Ahmad Syam 2",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/244ee10c-bbb3-4f48-852a-b7bd6fbf5aa1.m3u8"
+  },
+  {
+    "id": "76",
+    "name": "Jl. Baru Sebelum Underpass 1",
+    "url": "https://restreamer5.kotabogor.go.id/memfs/d220d1d8-ff5f-40ee-a3f8-019deb6bd019.m3u8"
+  },
+  {
+    "id": "77",
+    "name": "Jl. Baru Sebelum Underpass 2",
+    "url": "https://restreamer5.kotabogor.go.id/memfs/9c47a00d-90ce-44de-835e-1a4d704f7901.m3u8"
+  },
+  {
+    "id": "78",
+    "name": "Simpang Manunggal",
+    "url": "https://restreamer5.kotabogor.go.id/memfs/fafe128b-2570-4c74-9ca1-da1286fdf59d.m3u8"
+  },
+  {
+    "id": "79",
+    "name": "Simpang Yasmin 1",
+    "url": "https://restreamer5.kotabogor.go.id/memfs/c18014c9-7e81-4fc4-a799-b71fe2718e08.m3u8"
+  },
+  {
+    "id": "80",
+    "name": "Simpang Yasmin 2",
+    "url": "https://restreamer5.kotabogor.go.id/memfs/fa74138a-dd7e-4f10-8174-69475584073d.m3u8"
+  },
+  {
+    "id": "81",
+    "name": "Puteran Arah Bondes 1",
+    "url": "https://restreamer5.kotabogor.go.id/memfs/97adb406-257a-472d-af1f-cd2978c89bdb.m3u8"
+  },
+  {
+    "id": "82",
+    "name": "Simpang Rsud Kota Bogor",
+    "url": "https://restreamer4.kotabogor.go.id/memfs/5ef1d418-65ba-41da-83db-edee5beec4ff.m3u8"
+  }
+]
