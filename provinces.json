@@ -10,6 +10,7 @@
     "id": "12",
     "name": "SUMATERA UTARA",
     "alt_name": "SUMATERA UTARA",
+    "status": "ON",
     "latitude": 2.19235,
     "longitude": 99.38122
   },
@@ -17,6 +18,7 @@
     "id": "13",
     "name": "SUMATERA BARAT",
     "alt_name": "SUMATERA BARAT",
+    "status": "ON",
     "latitude": -1.34225,
     "longitude": 100.0761
   },
@@ -24,6 +26,7 @@
     "id": "14",
     "name": "RIAU",
     "alt_name": "RIAU",
+    "status": "ON",
     "latitude": 0.50041,
     "longitude": 101.54758
   },
@@ -38,6 +41,7 @@
     "id": "16",
     "name": "SUMATERA SELATAN",
     "alt_name": "SUMATERA SELATAN",
+    "status": "ON",
     "latitude": -3.12668,
     "longitude": 104.09306
   },
@@ -80,6 +84,7 @@
     "id": "32",
     "name": "JAWA BARAT",
     "alt_name": "JAWA BARAT",
+    "status": "ON",
     "latitude": -6.88917,
     "longitude": 107.64047
   },
@@ -87,6 +92,7 @@
     "id": "33",
     "name": "JAWA TENGAH",
     "alt_name": "JAWA TENGAH",
+    "status": "ON",
     "latitude": -7.30324,
     "longitude": 110.00441
   },
@@ -94,6 +100,7 @@
     "id": "34",
     "name": "DI YOGYAKARTA",
     "alt_name": "DI YOGYAKARTA",
+    "status": "ON",
     "latitude": 7.7956,
     "longitude": 110.3695
   },
@@ -101,6 +108,7 @@
     "id": "35",
     "name": "JAWA TIMUR",
     "alt_name": "JAWA TIMUR",
+    "status": "ON",
     "latitude": -6.96851,
     "longitude": 113.98005
   },
@@ -108,6 +116,7 @@
     "id": "36",
     "name": "BANTEN",
     "alt_name": "BANTEN",
+    "status": "ON",
     "latitude": -6.44538,
     "longitude": 106.13756
   },
@@ -115,6 +124,7 @@
     "id": "51",
     "name": "BALI",
     "alt_name": "BALI",
+    "status": "ON",
     "latitude": -8.23566,
     "longitude": 115.12239
   },
@@ -150,6 +160,7 @@
     "id": "63",
     "name": "KALIMANTAN SELATAN",
     "alt_name": "KALIMANTAN SELATAN",
+    "status": "ON",
     "latitude": -2.94348,
     "longitude": 115.37565
   },
