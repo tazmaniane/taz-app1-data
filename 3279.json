@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1",
+    "name": "Jembar Arah Ciamis",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/PtzJembar1.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Jembar Dari Timur",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/jembarjateng.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Alun Alun Arah Cimaragas",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/PTZ1alun-alunkota.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Alun Alun Dari Parungsari",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/arahparungsari.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Jembar Arah Terminal",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/jembarterminal.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Simpang Gardu Arah Cimaragas",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/arahcimaragas.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Tanjungsukur Dari Banjar",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/Tanjungsukur1.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Tanjungsukur Arah Pangandaran",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/arahpangandaran.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Simpang Gardu Arah Banjar",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/spgardu.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Parungsari 1",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/Ptzparungsari.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Parungsari 2",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/spbbws.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Setda Kota Banjar",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/setdabanjar.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Situ Mustika",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/mustika.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Raider 323 Bp",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/raider323.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Garuda",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/Garuda.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Soponyono",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/SUPOYONO1.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Tugu Pahlawan Viaduct",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/piadeviaduc.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Cikabuyutan",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/viar.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Gang Holil Cimenyan",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/holil1.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Hj Ayo",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/ayohaji.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Simpang Djarum",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/DJARUM.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Sman 1 Banjar",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/sman1.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "Singaperbangsa",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/singaperbangsa.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "Banjar Atas",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/restarea.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Tugu Batas Jabar Arah Banjar",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/cijolang1.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Langensari",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/langensari1.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Cipadung",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/cipadung1.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "Tugu Batas Jabar Arah Jateng",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/cijolang2.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "Lapang Bakti 1",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/lapangbakti1.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "Lapang Bakti 2",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/lapangbakti2.m3u8"
+  },
+  {
+    "id": "31",
+    "name": "Simpang Tsanawiyah",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/mts2.m3u8"
+  },
+  {
+    "id": "32",
+    "name": "Pusda'i",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/pusdai1.m3u8"
+  },
+  {
+    "id": "33",
+    "name": "Simpang Pln 1",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/pln1.m3u8"
+  },
+  {
+    "id": "34",
+    "name": "Simpang Pln 2",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/pln2.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "Pendopo Kota Banjar",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/ptzpendopo.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "Dobo Bbws",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/sumanding1.m3u8"
+  },
+  {
+    "id": "37",
+    "name": "Rca Lama",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/rcalama2.m3u8"
+  },
+  {
+    "id": "38",
+    "name": "Sumanding Arah Pamarican",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/sumanding2.m3u8"
+  },
+  {
+    "id": "39",
+    "name": "Singaperbangsa 2",
+    "url": "https://atcs.banjarkota.go.id:5443/LiveApp/streams/singaperbangsa2.m3u8"
+  }
+]
