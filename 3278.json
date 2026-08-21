@@ -1,0 +1,147 @@
+[
+  {
+    "id": "1",
+    "name": "Simpang Rancabango Arah Simpang Bantar",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/rancabangoptz.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Simpang Rancabango Arah Jati",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/rancabangoarahjati.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Simpang Rancabango Arah Letnan Harun",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/rancabangoarahletnanharun.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Simpang Cimulu",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/cimulu.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Simpang Dewi Sartika Arah Cimulu",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/dewisartikaarahcimulu.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Simpang Dewi Sartika Arah Masjid Agung",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/dewisartikaarahmasjidagung.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Simpang Masjid Agung",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/masjidagungptz.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Simpang Nagarawangi",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/nagarawangi.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Simpang Alun-alun Arah Otista",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/alunalunarahotista.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Simpang Alun-alun Arah Tentara Pelajar",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/alunalunarahtentarapelajar.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Simpang Alun-alun Arah Sutisna Senjaya",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/alunalunarahsutsen.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Simpang Sutisna Senjaya",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/sutisnasenjaya.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Simpang Gunung Sabeulah",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/gunungsabeulah.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Simpang Pataruman PTZ",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/patarumanptz.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Simpang Pataruman FIX",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/patarumanarahnagarawangi.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Simpang Panyerutan PTZ",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/panyerutanptz.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Simpang Panyerutan FIX",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/panyerutanarahnagarawangi.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Simpang Paseh",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/pasehptz.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Simpang Padayungan",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/padayunganarahkawalu.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Simpang Rumah Sakit",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/rumahsakit.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Batas Kota Arah Bandung",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/bataskotaarahbandung.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Simpang Wasita Kusuma Arah Bandung",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/wasitakusumaarahbandung.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "Simpang Wasita Kusuma Arah Bojong Jengkol",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/wasitakusumaarahletnanharun.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "Simpang Bojong Jengkol Arah Wasita Kusuma",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/bojongjengkolarahwasita.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Simpang Bojong Jengkol Arah Leuwidahu",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/bojongjengkolarahleuwidahu.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Simpang Jati",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/jati.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Simpang Mitra Batik",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/mitrabatik.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "Simpang Lima",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/simpanglima.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "Ruas M. Hatta",
+    "url": "https://atcs.tasikmalayakota.go.id/camera/mhatta.m3u8"
+  }
+]
