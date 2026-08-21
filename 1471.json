@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1",
+    "name": "Sudirman - Gajah Mada 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.49.2/index.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Sudirman - Gajah Mada 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.49.3/index.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Sudirman - Gajah Mada 3",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.49.4/index.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Dipo - Gajah Mada 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.50.2/index.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Dipo - Gajah Mada 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.50.3/index.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Dipo - Gajah Mada 3",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.50.4/index.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Depan Mpp 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.43.2/index.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Depan Mpp 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.43.3/index.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Seberang Mpp 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.43.4/index.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Seberang Mpp 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.43.5/index.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Sudirman - Tuanku Tambusai 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.51.2/index.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Sudirman - Tuanku Tambusai 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.51.3/index.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Sudirman - Tuanku Tambusai 3",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.51.4/index.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Sudirman Seberang Hotel Grand Central",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.48.2/index.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Sudirman - Harapan Raya",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.2.2/index.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Sudirman - Harapan Raya 1 (Rs Syafira)",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.2.5/index.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Sudirman - Harapan Raya 2 (Hotel Tjokro)",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.2.4/index.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Jpo - Mtq 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.24.2/index.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Jpo - Mtq 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.24.3/index.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Simpang Bandara",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.23.2/index.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Sudirman - Tengku Bey 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.19.2/index.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Sudirman - Tengku Bey 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.19.3/index.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "Sudirman - Tengku Bey 3",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.19.4/index.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "Sudirman - Depan Bank Mandiri",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.17.2/index.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Tuanku Tambusai - Paus 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.52.2/index.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Tuanku Tambusai - Paus 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.52.3/index.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Depan Lw",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.53.2/index.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "Riau - Kayu Manis",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.55.2/index.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "Soekarno Hatta - Arifin Ahmad 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.16.5/index.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "Soekarno Hatta - Arifin Ahmad 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.16.4/index.m3u8"
+  },
+  {
+    "id": "31",
+    "name": "Pasar Pagi",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.25.2/index.m3u8"
+  },
+  {
+    "id": "32",
+    "name": "Simpang Baterai A 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.7.2/index.m3u8"
+  },
+  {
+    "id": "33",
+    "name": "Simpang Baterai A 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.7.3/index.m3u8"
+  },
+  {
+    "id": "34",
+    "name": "Simpang Tabek Gadang 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.57.2/index.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "Simpang Tabek Gadang 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.57.3/index.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "Simpang Tabek Gadang 3",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.57.4/index.m3u8"
+  },
+  {
+    "id": "37",
+    "name": "Simpang Garuda Sakti 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.15.4/index.m3u8"
+  },
+  {
+    "id": "38",
+    "name": "Simpang Garuda Sakti 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.15.5/index.m3u8"
+  },
+  {
+    "id": "39",
+    "name": "Simpang Garuda Sakti 3",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.15.6/index.m3u8"
+  },
+  {
+    "id": "40",
+    "name": "Simpang Air Hitam A",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.58.2/index.m3u8"
+  },
+  {
+    "id": "41",
+    "name": "Simpang Air Hitam B",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.58.3/index.m3u8"
+  },
+  {
+    "id": "42",
+    "name": "Simpang Stadion Utama",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.59.2/index.m3u8"
+  },
+  {
+    "id": "43",
+    "name": "Lobak - Delima",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.14.2/index.m3u8"
+  },
+  {
+    "id": "44",
+    "name": "Pasar Bawah",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.4.2/index.m3u8"
+  },
+  {
+    "id": "45",
+    "name": "Rth Tunjuk Ajar (Arah Rumah Dinas)",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.60.2/index.m3u8"
+  },
+  {
+    "id": "46",
+    "name": "Hangtuah - Dr Sutomo",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.47.2/index.m3u8"
+  },
+  {
+    "id": "47",
+    "name": "Hangtuah - Harapan Raya",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.62.2/index.m3u8"
+  },
+  {
+    "id": "48",
+    "name": "Simpang Badak",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.21.3/index.m3u8"
+  },
+  {
+    "id": "49",
+    "name": "Stadion Rumbai 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.45.2/index.m3u8"
+  },
+  {
+    "id": "50",
+    "name": "Stadion Rumbai 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.45.3/index.m3u8"
+  },
+  {
+    "id": "51",
+    "name": "Stadion Rumbai 3",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.45.4/index.m3u8"
+  },
+  {
+    "id": "52",
+    "name": "Stadion Rumbai 4",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.45.5/index.m3u8"
+  },
+  {
+    "id": "53",
+    "name": "Sembilang - Sekolah 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.46.2/index.m3u8"
+  },
+  {
+    "id": "54",
+    "name": "Sembilang - Sekolah 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.46.3/index.m3u8"
+  },
+  {
+    "id": "55",
+    "name": "Sembilang - Sekolah 3",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.46.4/index.m3u8"
+  },
+  {
+    "id": "56",
+    "name": "Taman Labuai 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.41.2/index.m3u8"
+  },
+  {
+    "id": "57",
+    "name": "Taman Labuai 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.41.3/index.m3u8"
+  },
+  {
+    "id": "58",
+    "name": "Taman Labuai 3",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.41.4/index.m3u8"
+  },
+  {
+    "id": "59",
+    "name": "Taman Labuai 4",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.41.5/index.m3u8"
+  },
+  {
+    "id": "60",
+    "name": "Taman Labuai 5",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.41.6/index.m3u8"
+  },
+  {
+    "id": "61",
+    "name": "Rumah Singgah Tuan Kadi 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.42.2/index.m3u8"
+  },
+  {
+    "id": "62",
+    "name": "Rumah Singgah Tuan Kadi 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.42.3/index.m3u8"
+  },
+  {
+    "id": "63",
+    "name": "Rumah Singgah Tuan Kadi 3",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.42.4/index.m3u8"
+  },
+  {
+    "id": "64",
+    "name": "Rumah Singgah Tuan Kadi 4",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.42.5/index.m3u8"
+  },
+  {
+    "id": "65",
+    "name": "Rumah Singgah Tuan Kadi 5",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.42.6/index.m3u8"
+  },
+  {
+    "id": "66",
+    "name": "Depan Ska",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.53.3/index.m3u8"
+  },
+  {
+    "id": "67",
+    "name": "Soekarno Hatta - Durian",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.54.2/index.m3u8"
+  },
+  {
+    "id": "68",
+    "name": "Soekarno Hatta - Arifin Ahmad 3",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.16.2/index.m3u8"
+  },
+  {
+    "id": "69",
+    "name": "Soekarno Hatta - Arifin Ahmad 4",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.16.3/index.m3u8"
+  },
+  {
+    "id": "70",
+    "name": "Depan Baterai P",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.56.2/index.m3u8"
+  },
+  {
+    "id": "71",
+    "name": "Simpang Garuda Sakti 4",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.15.3/index.m3u8"
+  },
+  {
+    "id": "72",
+    "name": "Sisimangaraja - Ssq",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.61.3/index.m3u8"
+  },
+  {
+    "id": "73",
+    "name": "Pelabuhan Sungai Duku",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.31.2/index.m3u8"
+  },
+  {
+    "id": "74",
+    "name": "Ptz Dipo - Gajah Mada",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.49.6/index.m3u8"
+  },
+  {
+    "id": "75",
+    "name": "Simpang Parit Indah",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.8.2/index.m3u8"
+  },
+  {
+    "id": "76",
+    "name": "Kh Ahmad Dahlan - Durian",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.13.2/index.m3u8"
+  },
+  {
+    "id": "77",
+    "name": "Simpang Kelapa Sawit 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.3.3/index.m3u8"
+  },
+  {
+    "id": "78",
+    "name": "Simpang Kelapa Sawit 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-/index.m3u8"
+  },
+  {
+    "id": "79",
+    "name": "Simpang Bukit Barisan 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.1.2/index.m3u8"
+  },
+  {
+    "id": "80",
+    "name": "Simpang Bukit Barisan 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.1.3/index.m3u8"
+  },
+  {
+    "id": "81",
+    "name": "Simpang Pasir Putih 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.6.2/index.m3u8"
+  },
+  {
+    "id": "82",
+    "name": "Simpang Pasir Putih 2",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.6.3/index.m3u8"
+  },
+  {
+    "id": "83",
+    "name": "Rth Kacang Mayang",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-172.19.1.2/index.m3u8"
+  },
+  {
+    "id": "84",
+    "name": "Simpang Badak 1",
+    "url": "https://cctv.pekanbaru.go.id/hls/cam-10.200.21.2/index.m3u8"
+  }
+]
