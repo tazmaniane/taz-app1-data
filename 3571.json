@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1",
+    "name": "Jetis",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/jetis/index.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Tosaren",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/tosaren/index.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Baruna",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/baruna/index.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Alun Alun",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/alun_alun/index.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Bandar Ngalim",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/bandar_ngalim/index.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Mrican",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/mrican/index.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Iskandar Muda",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/iskandar_muda/index.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Muning",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/muning/index.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Semampir",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/semampir/index.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Nabatiasa",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/nabatiasa/index.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Dandangan",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/dandangan/index.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Water Torn",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/water_torn/index.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Tamanan",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/tamanan/index.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "A Yani Utara",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/a_yani_utara/index.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Kawi",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/kawi/index.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Sukorame",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/sukorame/index.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "A Yani Selatan",
+    "url": "https://pplterpadu.kedirikota.go.id:8888/a_yani_selatan/index.m3u8"
+  }
+]
