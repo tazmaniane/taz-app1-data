@@ -1272,6 +1272,7 @@
     "province_id": "31",
     "name": "Tol Dalam Kota",
     "alt_name": "Tol Dalam Kota",
+    "status": "ON",
     "latitude": -6.1777,
     "longitude": 106.8403
   },
