@@ -2095,7 +2095,7 @@
     "province_id": "35",
     "name": "KOTA MALANG",
     "alt_name": "KOTA MALANG",
-    "status": "OFF",
+    "status": "ON",
     "latitude": -7.975,
     "longitude": 112.63333
   },
@@ -2128,6 +2128,7 @@
     "province_id": "35",
     "name": "KOTA MADIUN",
     "alt_name": "KOTA MADIUN",
+    "status": "ON",
     "latitude": -7.63333,
     "longitude": 111.53333
   },
