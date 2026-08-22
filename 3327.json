@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "name": "Masjid Agung",
+    "url": "https://stream.pemalangkab.go.id/masjidagung/masjid1.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Area Citywalk",
+    "url": "https://stream.pemalangkab.go.id/dishub/city/city.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Beji Arah Barat",
+    "url": "https://stream.pemalangkab.go.id/dishub/bejirahbarat/bejirahbarat.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Beji Arah Selatan",
+    "url": "https://stream.pemalangkab.go.id/dishub/bejirahselatan/bejirahselatan.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Beji Arah Timur",
+    "url": "https://stream.pemalangkab.go.id/dishub/bejirahtimur/bejirahtimur.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Beji Arah Utara",
+    "url": "https://stream.pemalangkab.go.id/dishub/bejirahutara/bejirahutara.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Bojongbata Arah Barat",
+    "url": "https://stream.pemalangkab.go.id/dishub/bojongbarat/bojongbarat.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Bojongbata Arah Utara",
+    "url": "https://stream.pemalangkab.go.id/dishub/bojongutara/bojongutara.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Petarukan Arah Barat",
+    "url": "https://stream.pemalangkab.go.id/dishub/petarukanbarat/petarukanbarat.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Petarukan Arah Timur",
+    "url": "https://stream.pemalangkab.go.id/dishub/petarukantimur/petarukantimur.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Tiptop Selatan",
+    "url": "https://stream.pemalangkab.go.id/dishub/tiptopselatan/tiptopselatan.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Alun Alun",
+    "url": "https://stream.pemalangkab.go.id/alunalun/alunalun.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Depan Pendopo 1",
+    "url": "https://stream.pemalangkab.go.id/2026/depanpendopo1/depanpendopo1.m3u8"
+  }
+]
