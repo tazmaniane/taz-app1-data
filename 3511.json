@@ -1,0 +1,97 @@
+[
+  {
+    "id": "1",
+    "name": "Sp4. Pendopo",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=3&user=view&pass=K0minfo&rand=1710987769&connkey=1221"
+  },
+  {
+    "id": "2",
+    "name": "Sp4. Bank Jatim",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=4&user=view&pass=K0minfo&rand=1710987769&connkey=2221"
+  },
+  {
+    "id": "3",
+    "name": "Sp4. Kotakulon 1",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=5&user=view&pass=K0minfo&rand=1710987769&connkey=3221"
+  },
+  {
+    "id": "4",
+    "name": "Sp3. Bataan",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=6&user=view&pass=K0minfo&rand=1710987769&connkey=4221"
+  },
+  {
+    "id": "5",
+    "name": "Pom Tamansari",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=7&user=view&pass=K0minfo&rand=1710987769&connkey=5221"
+  },
+  {
+    "id": "6",
+    "name": "Sp3. Koncer",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=8&user=view&pass=K0minfo&rand=1710987769&connkey=6221"
+  },
+  {
+    "id": "7",
+    "name": "Bundaran Nangkaan",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=9&user=view&pass=K0minfo&rand=1710987769&connkey=7221"
+  },
+  {
+    "id": "8",
+    "name": "Pos Dan Giro",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=10&user=view&pass=K0minfo&rand=1710987769&connkey=8221"
+  },
+  {
+    "id": "9",
+    "name": "Sp3 Mpm Kotakulon",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=11&user=view&pass=K0minfo&rand=1710987769&connkey=9221"
+  },
+  {
+    "id": "10",
+    "name": "Pom Tamansari Timur Dan Selatan",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=13&user=view&pass=K0minfo&rand=1710987769&connkey=10221"
+  },
+  {
+    "id": "11",
+    "name": "Pengairan Barat",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=14&user=view&pass=K0minfo&rand=1710987769&connkey=11221"
+  },
+  {
+    "id": "12",
+    "name": "Pengairan Timur",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=15&user=view&pass=K0minfo&rand=1710987769&connkey=12221"
+  },
+  {
+    "id": "13",
+    "name": "Sp3. Ganesha Operation",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=16&user=view&pass=K0minfo&rand=1710987769&connkey=13221"
+  },
+  {
+    "id": "14",
+    "name": "Sp4. Rsud Koesnadi",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=18&user=view&pass=K0minfo&rand=1710987769&connkey=14221"
+  },
+  {
+    "id": "15",
+    "name": "Sp4. Hotel Palm",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=19&user=view&pass=K0minfo&rand=1710987769&connkey=15221"
+  },
+  {
+    "id": "16",
+    "name": "Sp3. Yima Barat",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=20&user=view&pass=K0minfo&rand=1710987769&connkey=16221"
+  },
+  {
+    "id": "17",
+    "name": "Sp3. Yima Timur Dan Selatan",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=21&user=view&pass=K0minfo&rand=1710987769&connkey=17221"
+  },
+  {
+    "id": "18",
+    "name": "Sp4. Pasar Induk",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=22&user=view&pass=K0minfo&rand=1710987769&connkey=18221"
+  },
+  {
+    "id": "19",
+    "name": "Sp3. Bataan 2",
+    "url": "https://cctv.bondowosokab.go.id/cgi-bin/nph-zms?scale=100&mode=jpeg&maxfps=30&monitor=23&user=view&pass=K0minfo&rand=1710987869&connkey=142774221"
+  }
+]
