@@ -1267,11 +1267,21 @@
     "alt_name": "KOTA JAKARTA TIMUR",
     "latitude": -6.2521,
     "longitude": 106.884
-  },{
+  },
+  {
     "id": "31731",
     "province_id": "31",
     "name": "Tol Dalam Kota",
     "alt_name": "Tol Dalam Kota",
+    "status": "ON",
+    "latitude": -6.1777,
+    "longitude": 106.8403
+  },
+  {
+    "id": "31732",
+    "province_id": "31",
+    "name": "Akses Tanjung Priok",
+    "alt_name": "Akses Tanjung Priok",
     "status": "ON",
     "latitude": -6.1777,
     "longitude": 106.8403
