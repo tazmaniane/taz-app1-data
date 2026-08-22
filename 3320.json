@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "name": "Alun-alun 2",
+    "url": "https://cctv-jepara.lifemedia.id/live/alunalun2logo.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Alun-alun 2 (Barat)",
+    "url": "https://cctv-jepara.lifemedia.id/live/alunalun2barulogo.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Bangsri",
+    "url": "https://stream-cctv.jepara.go.id:8084/3dd74820ae1d9b652fffd5e904065d94/hls/OXe3INbqCR/5CkdYrHs37/s.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Donorojo",
+    "url": "https://stream-cctv.jepara.go.id:8084/3dd74820ae1d9b652fffd5e904065d94/hls/OXe3INbqCR/5CkdYrHs39/s.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Gotri",
+    "url": "https://stream-cctv.jepara.go.id:8084/3dd74820ae1d9b652fffd5e904065d94/hls/OXe3INbqCR/5CsskdYrHs37/s.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Jalan A.R. Hakim",
+    "url": "https://cctv-jepara.lifemedia.id/live/depandisparbudlogo.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Jalan HOS Cokroaminoto",
+    "url": "https://stream-cctv.jepara.go.id:8084/memfs/32139ce2-ad97-4c89-a516-3ba3f29ffcb2.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Jalan HOS Cokroaminoto 2",
+    "url": "https://cctv-jepara.lifemedia.id/live/depaninspektoratlogo.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Jalan Jepara-Bangsri",
+    "url": "https://stream-cctv.jepara.go.id:8084/memfs/23f52bdd-a81a-48e3-98b6-3a076770c671.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Jalan Jepara-Kudus",
+    "url": "https://stream-cctv.jepara.go.id:8084/memfs/25f0af40-2fb9-4996-986c-61cf15adc09c.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Jalan Jepara-Kudus 2",
+    "url": "https://stream-cctv.jepara.go.id:8084/memfs/0d8208a2-fb69-4ebb-a31e-40ef214ff90e.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Jalan K.H. Wahid Hasyim",
+    "url": "https://stream-cctv.jepara.go.id:8084/memfs/25a24d06-fea1-4097-b8c2-fbd958d6584e.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Jalan K.S. Tubun",
+    "url": "https://stream-cctv.jepara.go.id:8084/memfs/330115dd-b5f8-46a9-bcbf-c944365fe570.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Jalan Pemuda",
+    "url": "https://stream-cctv.jepara.go.id:8084/memfs/fcc81484-141a-45e4-91e3-55e91591310e.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Jalan Pemuda 2",
+    "url": "https://cctv-jepara.lifemedia.id/live/disperindaglogo.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Jalan Pemuda 3",
+    "url": "https://stream-cctv.jepara.go.id:8084/memfs/e5837254-bbb3-4b3f-a4d5-1a227d6db3ac.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Jalan Pemuda 4",
+    "url": "https://stream-cctv.jepara.go.id:8084/memfs/8027a19a-cf82-4333-bc45-c35fb039c160"
+  },
+  {
+    "id": "18",
+    "name": "Jalan Pemuda 5",
+    "url": "https://cctv-jepara.lifemedia.id/live/depankfclogo.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Jalan Shima",
+    "url": "https://cctv-jepara.lifemedia.id/live/depansdmulyoharjologo.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Jalan Shima 2",
+    "url": "https://cctv-jepara.lifemedia.id/live/depanpertigaanmulyoharjologo.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Jalan Soekarno-Hatta",
+    "url": "https://cctv-jepara.lifemedia.id/live/pertigaanpekenglogo.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Jl Kartini",
+    "url": "https://stream-cctv.jepara.go.id:8084/memfs/27533c57-f599-4950-805f-a13a887d885a.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "Kalinyamatan",
+    "url": "https://stream-cctv.jepara.go.id:8084/3dd74820ae1d9b652fffd5e904065d94/hls/OXe3INbqCR/35r54CkdYrHs37/s.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "Masjid Agung",
+    "url": "https://cctv-jepara.lifemedia.id/live/depanmpplogo.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Masjid Agung 2",
+    "url": "https://cctv-jepara.lifemedia.id/live/masjidagunglogo.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Mlonggo",
+    "url": "https://stream-cctv.jepara.go.id:8084/3dd74820ae1d9b652fffd5e904065d94/hls/OXe3INbqCR/5CkdYrHs3s7/s.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Pecangaan",
+    "url": "https://stream-cctv.jepara.go.id:8084/3dd74820ae1d9b652fffd5e904065d94/hls/OXe3INbqCR/sdYrHs37/s.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "Perempatan SCJ Kali Wiso",
+    "url": "https://cctv-jepara.lifemedia.id/live/scjkaliwisologo.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "Perempatan SCJ Kali Wiso 2",
+    "url": "https://cctv-jepara.lifemedia.id/live/scjkaliwiso2logo.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "Perempatan Tugu PKK",
+    "url": "https://cctv-jepara.lifemedia.id/live/tugupkklogo.m3u8"
+  },
+  {
+    "id": "31",
+    "name": "RBRA 1",
+    "url": "https://cctv-jepara.lifemedia.id/live/rbra1logo.m3u8"
+  },
+  {
+    "id": "32",
+    "name": "RBRA 2",
+    "url": "https://cctv-jepara.lifemedia.id/live/rbra2logo.m3u8"
+  },
+  {
+    "id": "33",
+    "name": "RBRA 3",
+    "url": "https://cctv-jepara.lifemedia.id/live/rbra3logo.m3u8"
+  },
+  {
+    "id": "34",
+    "name": "RBRA 4",
+    "url": "https://cctv-jepara.lifemedia.id/live/rbra4logo.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "RBRA 5",
+    "url": "https://cctv-jepara.lifemedia.id/live/rbra5logo.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "RSUD Kartini 1",
+    "url": "https://stream-cctv.jepara.go.id:8084/memfs/06bc6a3f-bdab-4217-8ccf-9e8d021daea6.m3u8"
+  },
+  {
+    "id": "37",
+    "name": "RSUD Kartini 2",
+    "url": "https://stream-cctv.jepara.go.id:8084/memfs/017698e9-40cd-4059-a735-02778214eccd.m3u8"
+  },
+  {
+    "id": "38",
+    "name": "RSUD Kartini 3",
+    "url": "https://stream-cctv.jepara.go.id:8084/memfs/e59cf968-5418-42a1-a878-cdec56aa6881.m3u8"
+  },
+  {
+    "id": "39",
+    "name": "RSUD Kartini 4",
+    "url": "https://stream-cctv.jepara.go.id:8084/memfs/9fe06a2f-de93-4c05-95f0-cb02379acbe9.m3u8"
+  },
+  {
+    "id": "40",
+    "name": "Simpang DPRD",
+    "url": "https://cctv-jepara.lifemedia.id/live/simpangdprdlogo.m3u8"
+  },
+  {
+    "id": "41",
+    "name": "Simpang Taman Kerang",
+    "url": "https://cctv-jepara.lifemedia.id/live/simpangtamankeranglogo.m3u8"
+  },
+  {
+    "id": "42",
+    "name": "Stadion Kamal Junaidi (Gate)",
+    "url": "https://cctv-jepara.lifemedia.id/live/kamaljunaidilogo.m3u8"
+  }
+]
