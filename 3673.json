@@ -1,0 +1,117 @@
+[
+  {
+    "id": "1",
+    "name": "Ciceri 1",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=ciceri1"
+  },
+  {
+    "id": "2",
+    "name": "Ciceri 2",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=ciceri2"
+  },
+  {
+    "id": "3",
+    "name": "Ciracas Sepang",
+    "url": "https://stream.serangkota.go.id/LiveApp/play.html?name=sepang"
+  },
+  {
+    "id": "4",
+    "name": "Gerbang Tol Serang Timur",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=serangtimur"
+  },
+  {
+    "id": "5",
+    "name": "Jembatan Bogeg 1",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=Jembatanbogeg1"
+  },
+  {
+    "id": "6",
+    "name": "Jembatan Bogeg 2",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=Jembatanbogeg2"
+  },
+  {
+    "id": "7",
+    "name": "Kaligandu",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=kaligandu"
+  },
+  {
+    "id": "8",
+    "name": "P3 Royal Baroe 01",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=p3royalbaroe01"
+  },
+  {
+    "id": "9",
+    "name": "P3 Royal Baroe 02",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=p3royalbaroe02"
+  },
+  {
+    "id": "10",
+    "name": "P3 Royal Baroe 03",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=p3royalbaroe03"
+  },
+  {
+    "id": "11",
+    "name": "P3 Taman Sari",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=p3tamansari"
+  },
+  {
+    "id": "12",
+    "name": "P4 Taman Sari",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=p4tamansari"
+  },
+  {
+    "id": "13",
+    "name": "Pocis 01",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=pocis01"
+  },
+  {
+    "id": "14",
+    "name": "Pocis 02",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=pocis02"
+  },
+  {
+    "id": "15",
+    "name": "Royal Baroe 01",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=royal01"
+  },
+  {
+    "id": "16",
+    "name": "Royal Baroe 02",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=royalbaroe02"
+  },
+  {
+    "id": "17",
+    "name": "Royal Baroe 03",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=royalbaroe03"
+  },
+  {
+    "id": "18",
+    "name": "Royal Baroe 04",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=royalbaroe04"
+  },
+  {
+    "id": "19",
+    "name": "Royal Baroe 05",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=royalbaroe05"
+  },
+  {
+    "id": "20",
+    "name": "Stasiun Kota Serang",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=stasiunkotser"
+  },
+  {
+    "id": "21",
+    "name": "Taman Sari 01",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=tamansari01"
+  },
+  {
+    "id": "22",
+    "name": "Taman Sari 02",
+    "url": "https://stream.serangkota.go.id:/LiveApp/play.html?name=tamansari02"
+  },
+  {
+    "id": "23",
+    "name": "Terminal Banten Lama",
+    "url": "https://stream.serangkota.go.id:5443/LiveApp/play.html?name=terminalbantenlama"
+  }
+]
