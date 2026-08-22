@@ -1,262 +1,357 @@
 [
   {
     "id": "1",
-    "name": "Simpang Dr. Cipto PTZ",
-    "url": "https://cctv.pekalongankota.go.id/stream/089e9315-6dd5-4d33-a8eb-cd9b164cff32/0/index.m3u8"
+    "name": "Simpang Dr. Cipto Ptz",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.54:554/Streaming/Channels/101"
   },
   {
     "id": "2",
     "name": "Simpang Matahari",
-    "url": "https://cctv.pekalongankota.go.id/stream/089e9315-6dd5-4d33-a8eb-cd9b164cff32/1/index.m3u8"
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.55:554/Streaming/Channels/101"
   },
   {
     "id": "3",
-    "name": "Simpang Sorogenen PTZ",
-    "url": "https://cctv.pekalongankota.go.id/stream/089e9315-6dd5-4d33-a8eb-cd9b164cff32/2/index.m3u8"
+    "name": "Simpang Sorogenen Ptz",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.56:554/Streaming/Channels/101"
   },
   {
     "id": "4",
-    "name": "Simpang Terminal Barat",
-    "url": "https://cctv.pekalongankota.go.id/stream/0b2a0c4c-fb26-4318-bbeb-86d6bcdf2fa3/0/index.m3u8"
+    "name": "Parkir Depan Kominfo",
+    "url": "rtsp://diskominfo:D15k0m1nf0@172.20.68.3:554/Streaming/Channels/101"
   },
   {
     "id": "5",
-    "name": "Simpang Terminal Timur",
-    "url": "https://cctv.pekalongankota.go.id/stream/0b2a0c4c-fb26-4318-bbeb-86d6bcdf2fa3/1/index.m3u8"
+    "name": "Kecamatan Utara",
+    "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:47554"
   },
   {
     "id": "6",
-    "name": "Simpang Grosir Setono PTZ",
-    "url": "https://cctv.pekalongankota.go.id/stream/204f7718-e20c-4229-8ebc-3c5b7470febb/0/index.m3u8"
+    "name": "Alun Alun Pekalongan Sisi Utara",
+    "url": "rtsp://update_me_alun_alun_utara"
   },
   {
     "id": "7",
-    "name": "Simpang Ahmad Yani PTZ",
-    "url": "https://cctv.pekalongankota.go.id/stream/204f7718-e20c-4229-8ebc-3c5b7470febb/1/index.m3u8"
+    "name": "Simpang Terminal Barat",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.22:554/Streaming/Channels/101"
   },
   {
     "id": "8",
-    "name": "Simpang Ahmad Yani Barat",
-    "url": "https://cctv.pekalongankota.go.id/stream/204f7718-e20c-4229-8ebc-3c5b7470febb/2/index.m3u8"
+    "name": "Simpang Terminal Timur",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.21:554/Streaming/Channels/101"
   },
   {
     "id": "9",
-    "name": "Simpang Grosir Setono Barat",
-    "url": "https://cctv.pekalongankota.go.id/stream/204f7718-e20c-4229-8ebc-3c5b7470febb/3/index.m3u8"
+    "name": "",
+    "url": "rtsp://admin:dishub.pkl@172.38.38.2:554/Streaming/Channels/101"
   },
   {
     "id": "10",
-    "name": "Setono Counting Arah Timur",
-    "url": "https://cctv.pekalongankota.go.id/stream/204f7718-e20c-4229-8ebc-3c5b7470febb/4/index.m3u8"
+    "name": "ALUN ALUN UTARA",
+    "url": "rtsp://admin:dishub.pkl@172.38.38.3:554/Streaming/Channels/101"
   },
   {
     "id": "11",
-    "name": "Halaman Kelurahan Podosugih",
-    "url": "https://cctv.pekalongankota.go.id/stream/20f63cfc-3f39-440f-b604-4d356da5315d/0/index.m3u8"
+    "name": "ALUN-ALUN DEPAN MINIMARKET 1",
+    "url": "rtsp://admin:dishub.pkl@172.38.38.4:554/Streaming/Channels/101"
   },
   {
     "id": "12",
-    "name": "Simpang Alun Alun PTZ",
-    "url": "https://cctv.pekalongankota.go.id/stream/29695ac1-a735-4124-9a3d-1fd7361f9d8d/0/index.m3u8"
+    "name": "ALUN-ALUN DEPAN MINIMARKET 2",
+    "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:39554"
   },
   {
     "id": "13",
-    "name": "Simpang Alun Alun Barat",
-    "url": "https://cctv.pekalongankota.go.id/stream/29695ac1-a735-4124-9a3d-1fd7361f9d8d/1/index.m3u8"
+    "name": "Simpang Grosir Setono Ptz",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.23:554/Streaming/Channels/101"
   },
   {
     "id": "14",
-    "name": "Simpang Posis Barat",
-    "url": "https://cctv.pekalongankota.go.id/stream/390c6bc2-f6eb-46f6-be5a-a7bd6651d110/0/index.m3u8"
+    "name": "Simpang Ahmad Yani Ptz",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.24:554/Streaming/Channels/101"
   },
   {
     "id": "15",
-    "name": "Simpang Posis Utara",
-    "url": "https://cctv.pekalongankota.go.id/stream/390c6bc2-f6eb-46f6-be5a-a7bd6651d110/1/index.m3u8"
+    "name": "Simpang Ahmad Yani Barat",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.57:554/Streaming/Channels/101"
   },
   {
     "id": "16",
-    "name": "Simpang Posis Timur",
-    "url": "https://cctv.pekalongankota.go.id/stream/390c6bc2-f6eb-46f6-be5a-a7bd6651d110/2/index.m3u8"
+    "name": "Simpang Grosir Setono Barat",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.167:554/Streaming/Channels/101"
   },
   {
     "id": "17",
-    "name": "Simpang Grogolan PTZ",
-    "url": "https://cctv.pekalongankota.go.id/stream/442c3e59-0bcc-4651-a6b9-700b7b4f7218/0/index.m3u8"
+    "name": "Setono Counting Arah Timur",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.165:554/Streaming/Channels/101"
   },
   {
     "id": "18",
-    "name": "Simpang Grogolan Timur",
-    "url": "https://cctv.pekalongankota.go.id/stream/442c3e59-0bcc-4651-a6b9-700b7b4f7218/1/index.m3u8"
+    "name": "Halaman Kelurahan Podosugih",
+    "url": "rtsp://admin:12345678a@172.20.66.3:554"
   },
   {
     "id": "19",
-    "name": "Simpang Grogolan Utara",
-    "url": "https://cctv.pekalongankota.go.id/stream/442c3e59-0bcc-4651-a6b9-700b7b4f7218/2/index.m3u8"
+    "name": "Simpang Alun Alun Ptz",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.52:554/Streaming/Channels/101"
   },
   {
     "id": "20",
-    "name": "Simpang Grogolan Barat",
-    "url": "https://cctv.pekalongankota.go.id/stream/442c3e59-0bcc-4651-a6b9-700b7b4f7218/3/index.m3u8"
+    "name": "Simpang Alun Alun Barat",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.199:554/Streaming/Channels/101"
   },
   {
     "id": "21",
-    "name": "Simpang Grogolan Utara 2",
-    "url": "https://cctv.pekalongankota.go.id/stream/442c3e59-0bcc-4651-a6b9-700b7b4f7218/4/index.m3u8"
+    "name": "Alun Alun Selatan (Depan Pendopo)",
+    "url": "rtsp://admin:cctv@2024@20.100.240.4:554/Streaming/Channels/101"
   },
   {
     "id": "22",
-    "name": "Simpang Gambaran PTZ",
-    "url": "https://cctv.pekalongankota.go.id/stream/4ddb8484-2231-4450-9d91-30021a9d94e5/0/index.m3u8"
+    "name": "Kecamatan Barat",
+    "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:47554"
   },
   {
     "id": "23",
-    "name": "Simpang Polsek Timur",
-    "url": "https://cctv.pekalongankota.go.id/stream/4ddb8484-2231-4450-9d91-30021a9d94e5/1/index.m3u8"
+    "name": "Simpang Posis Barat",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.25:554"
   },
   {
     "id": "24",
-    "name": "Simpang THR PTZ",
-    "url": "https://cctv.pekalongankota.go.id/stream/4ddb8484-2231-4450-9d91-30021a9d94e5/3/index.m3u8"
+    "name": "Simpang Posis Utara",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.26:554"
   },
   {
     "id": "25",
-    "name": "Simpang THR Selatan",
-    "url": "https://cctv.pekalongankota.go.id/stream/4ddb8484-2231-4450-9d91-30021a9d94e5/4/index.m3u8"
+    "name": "Simpang Posis Timur",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.27:554"
   },
   {
     "id": "26",
-    "name": "Simpang Tirto Barat",
-    "url": "https://cctv.pekalongankota.go.id/stream/4e2ab579-c9b3-4bea-a24d-12c8f84f57cc/0/index.m3u8"
+    "name": "Depan Balai Kota 1",
+    "url": "rtsp://admin:Admin123@172.20.68.30:554"
   },
   {
     "id": "27",
-    "name": "Simpang Tirto Timur",
-    "url": "https://cctv.pekalongankota.go.id/stream/4e2ab579-c9b3-4bea-a24d-12c8f84f57cc/1/index.m3u8"
+    "name": "Simpang Grogolan Ptz",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.28:554/Streaming/Channels/101"
   },
   {
     "id": "28",
-    "name": "Simpang Tirto Selatan",
-    "url": "https://cctv.pekalongankota.go.id/stream/4e2ab579-c9b3-4bea-a24d-12c8f84f57cc/2/index.m3u8"
+    "name": "Simpang Grogolan Timur",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.29:554/Streaming/Channels/101"
   },
   {
     "id": "29",
-    "name": "Lapangan Mataram Pojok Utara",
-    "url": "https://cctv.pekalongankota.go.id/stream/4e2c3d4b-7cb1-40fa-9e56-3cfc9693412f/0/index.m3u8"
+    "name": "Simpang Grogolan Utara",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.31:554/Streaming/Channels/101"
   },
   {
     "id": "30",
-    "name": "Simpang Darma Bakti Timur",
-    "url": "https://cctv.pekalongankota.go.id/stream/504ddc51-6bb8-4355-a6b3-e1fc4b8e3e8d/0/index.m3u8"
+    "name": "Simpang Grogolan Barat",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.77:554/Streaming/Channels/101"
   },
   {
     "id": "31",
-    "name": "Simpang Darma Bakti Bakti Barat",
-    "url": "https://cctv.pekalongankota.go.id/stream/504ddc51-6bb8-4355-a6b3-e1fc4b8e3e8d/1/index.m3u8"
+    "name": "Simpang Grogolan Utara 2",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.105:554/Streaming/Channels/101"
   },
   {
     "id": "32",
-    "name": "Simpang Darma Bakti Selatan",
-    "url": "https://cctv.pekalongankota.go.id/stream/504ddc51-6bb8-4355-a6b3-e1fc4b8e3e8d/2/index.m3u8"
+    "name": "Simpang Gambaran Ptz",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.50:554/Streaming/Channels/101"
   },
   {
     "id": "33",
-    "name": "Jalan Kurinci Podosugih",
-    "url": "https://cctv.pekalongankota.go.id/stream/6897f2a2-50eb-4a27-a9fc-37625100f54c/0/index.m3u8"
+    "name": "Simpang Polsek Timur",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.51:554/Streaming/Channels/101"
   },
   {
     "id": "34",
-    "name": "Pertigaan Podosugih Utara",
-    "url": "https://cctv.pekalongankota.go.id/stream/69518725-7264-4b56-a685-7dbddf7cd039/0/index.m3u8"
+    "name": "Simpang Thr Ptz",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.53:554/Streaming/Channels/101"
   },
   {
     "id": "35",
-    "name": "Kali Bremi",
-    "url": "https://cctv.pekalongankota.go.id/stream/a051a871-44ce-4a0e-9c30-6fc3455904b1/0/index.m3u8"
+    "name": "Simpang Thr Selatan",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.64:554/Streaming/Channels/101"
   },
   {
     "id": "36",
-    "name": "Ponolawen PTZ",
-    "url": "https://cctv.pekalongankota.go.id/stream/a23d134a-18c6-4629-8df4-fe9b9777bac5/0/index.m3u8"
+    "name": "Simpang Tirto Barat",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.58:554/Streaming/Channels/101"
   },
   {
     "id": "37",
-    "name": "Ponolawen Timur",
-    "url": "https://cctv.pekalongankota.go.id/stream/a23d134a-18c6-4629-8df4-fe9b9777bac5/1/index.m3u8"
+    "name": "Simpang Tirto Timur",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.48:554/Streaming/Channels/101"
   },
   {
     "id": "38",
-    "name": "Ponolawen Utara",
-    "url": "https://cctv.pekalongankota.go.id/stream/a23d134a-18c6-4629-8df4-fe9b9777bac5/2/index.m3u8"
+    "name": "Simpang Tirto Selatan",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.49:554/Streaming/Channels/101"
   },
   {
     "id": "39",
-    "name": "Jl. Mansyur Sma Muhammadiyah-barat",
-    "url": "https://cctv.pekalongankota.go.id/stream/a561e384-c065-41f6-84fa-32ec581f133f/0/index.m3u8"
+    "name": "Lapangan Mataram Pojok Utara",
+    "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:34554"
   },
   {
     "id": "40",
-    "name": "Jl. Mansyur Sma Muhammadiyah-utara",
-    "url": "https://cctv.pekalongankota.go.id/stream/a561e384-c065-41f6-84fa-32ec581f133f/1/index.m3u8"
+    "name": "Simpang Darma Bakti Timur",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.32:554/Streaming/Channels/101"
   },
   {
     "id": "41",
-    "name": "Jl. Mansyur-Sma Muhammadiyah-timur",
-    "url": "https://cctv.pekalongankota.go.id/stream/a561e384-c065-41f6-84fa-32ec581f133f/2/index.m3u8"
+    "name": "Simpang Darma Bakti Bakti Barat",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.34:554/Streaming/Channels/101"
   },
   {
     "id": "42",
-    "name": "Jl. Mansyur Sma Muhammadiyah-selatan",
-    "url": "https://cctv.pekalongankota.go.id/stream/a561e384-c065-41f6-84fa-32ec581f133f/3/index.m3u8"
+    "name": "Simpang Darma Bakti Selatan",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.66:554/Streaming/Channels/101"
   },
   {
     "id": "43",
-    "name": "Simpang Stasiun Ka PTZ",
-    "url": "https://cctv.pekalongankota.go.id/stream/aae9126d-8149-40e7-9cf2-df7d1a2cbfab/0/index.m3u8"
+    "name": "ALUN-ALUN DEPAN MASJID",
+    "url": "rtsp://diskominfo:D15k0m1nf0@172.38.38.4:554"
   },
   {
     "id": "44",
-    "name": "Simpang Stasiun Ka Timur",
-    "url": "https://cctv.pekalongankota.go.id/stream/aae9126d-8149-40e7-9cf2-df7d1a2cbfab/1/index.m3u8"
+    "name": "Jalan Kurinci Podosugih",
+    "url": "rtsp://admin:cctv@2024@20.100.240.2:554/Streaming/Channels/101"
   },
   {
     "id": "45",
-    "name": "Simpang Stasiun Ka Utara",
-    "url": "https://cctv.pekalongankota.go.id/stream/aae9126d-8149-40e7-9cf2-df7d1a2cbfab/3/index.m3u8"
+    "name": "Pertigaan Podosugih Utara",
+    "url": "rtsp://diskominfo:D15k0m1nf0@172.20.66.2:554"
   },
   {
     "id": "46",
-    "name": "Simpang Pusri Timur",
-    "url": "https://cctv.pekalongankota.go.id/stream/b05ef4db-a7a7-4622-8b64-fd0085dabe4a/0/index.m3u8"
+    "name": "Halaman SETDA",
+    "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:40554"
   },
   {
     "id": "47",
-    "name": "Simpang Pusri Selatan",
-    "url": "https://cctv.pekalongankota.go.id/stream/b05ef4db-a7a7-4622-8b64-fd0085dabe4a/1/index.m3u8"
+    "name": "Mataram Pojok Selatan",
+    "url": "rtsp://admin:12345678a@172.20.68.5:554"
   },
   {
     "id": "48",
-    "name": "Simpang Pusri Barat",
-    "url": "https://cctv.pekalongankota.go.id/stream/b05ef4db-a7a7-4622-8b64-fd0085dabe4a/2/index.m3u8"
+    "name": "Pertigaan Kel. Klego 1",
+    "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:45554/Streaming/Channels/101"
   },
   {
     "id": "49",
-    "name": "Perempatan 1",
-    "url": "https://cctv.pekalongankota.go.id/stream/c285d807-d19f-4dc0-83dc-b1932677fded/0/index.m3u8"
+    "name": "Pertigaan Kel. Klego 2",
+    "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:46554/Streaming/Channels/101"
   },
   {
     "id": "50",
-    "name": "Perempatan 2",
-    "url": "https://cctv.pekalongankota.go.id/stream/c285d807-d19f-4dc0-83dc-b1932677fded/1/index.m3u8"
+    "name": "Kali Bremi",
+    "url": "rtsp://admin:cctv@2024@172.16.0.252:554"
   },
   {
     "id": "51",
-    "name": "Menara Twl-Pasir Kencana",
-    "url": "https://cctv.pekalongankota.go.id/stream/e1c404e6-19f1-464c-9754-e8d53546ff8b/0/index.m3u8"
+    "name": "Ponolawen Ptz",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.35:554/Streaming/Channels/101"
   },
   {
     "id": "52",
+    "name": "Ponolawen Timur",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.36:554/Streaming/Channels/101"
+  },
+  {
+    "id": "53",
+    "name": "Ponolawen Utara",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.37:554/Streaming/Channels/101"
+  },
+  {
+    "id": "54",
+    "name": "Jl. Mansyur Sma Muhammadiyah-Barat",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.38:554/Streaming/Channels/101"
+  },
+  {
+    "id": "55",
+    "name": "Jl. Mansyur Sma Muhammadiyah-Utara",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.39:554/Streaming/Channels/101"
+  },
+  {
+    "id": "56",
+    "name": "Jl. Mansyur-Sma Muhammadiyah-Timur",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.40:554/Streaming/Channels/101"
+  },
+  {
+    "id": "57",
+    "name": "Jl. Mansyur Sma Muhammadiyah-Selatan",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.41:554/Streaming/Channels/101"
+  },
+  {
+    "id": "58",
+    "name": "Kel. Kandang Panjang",
+    "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:41554"
+  },
+  {
+    "id": "59",
+    "name": "Simpang Stasiun Ka Ptz",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.42:554/Streaming/Channels/101"
+  },
+  {
+    "id": "60",
+    "name": "Simpang Stasiun Ka Timur",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.65:554/Streaming/Channels/101"
+  },
+  {
+    "id": "61",
+    "name": "Simpang Stasiun Ka Utara",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.168:554/Streaming/Channels/101"
+  },
+  {
+    "id": "62",
+    "name": "Simpang Pusri Timur",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.44:554/Streaming/Channels/101"
+  },
+  {
+    "id": "63",
+    "name": "Simpang Pusri Selatan",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.45:554/Streaming/Channels/101"
+  },
+  {
+    "id": "64",
+    "name": "Simpang Pusri Barat",
+    "url": "rtsp://atcs:p3kalongan!@10.28.110.46:554/Streaming/Channels/101"
+  },
+  {
+    "id": "65",
+    "name": "Perempatan Kominfo 2",
+    "url": "rtsp://diskominfo:D15k0m1nf0@172.20.68.4:554"
+  },
+  {
+    "id": "66",
+    "name": "Perempatan Kominfo 1",
+    "url": "rtsp://diskominfo:D15k0m1nf0@172.20.68.2:554/Streaming/Channels/101"
+  },
+  {
+    "id": "67",
+    "name": "Perempatan Kominfo 2",
+    "url": "rtsp://diskominfo:D15k0m1nf0@172.20.68.4:554"
+  },
+  {
+    "id": "68",
+    "name": "Depan Taspen 1",
+    "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:30554"
+  },
+  {
+    "id": "69",
+    "name": "Depan Taspen 2",
+    "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:31554"
+  },
+  {
+    "id": "70",
+    "name": "Menara Twl-Pasir Kencana",
+    "url": "rtsp://admin:cctv@2024@20.101.242.2:554/Streaming/Channels/101"
+  },
+  {
+    "id": "71",
     "name": "Kecamatan Pekalongan Selatan",
-    "url": "https://cctv.pekalongankota.go.id/stream/ec93a215-5852-4ae5-944e-8a6ec558e5e9/0/index.m3u8"
+    "url": "rtsp://diskominfo:D15k0m1nf0@172.20.50.2:554"
   }
 ]
