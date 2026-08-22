@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Simpang 5 Lampu Jalan",
+    "url": "https:\/\/web.sintang.go.id\/go2rtc\/api\/stream.mp4?src=SIMPANG_5_01&mp4=all&h264=baseline"
+  },
+  {
+    "id": "2",
+    "name": "Simpang 5 Pju",
+    "url": "https:\/\/web.sintang.go.id\/go2rtc\/api\/stream.mp4?src=SIMPANG_5_02&mp4=all&h264=baseline"
+  },
+  {
+    "id": "3",
+    "name": "Simpang 5 Videotron",
+    "url": "https:\/\/web.sintang.go.id\/go2rtc\/api\/stream.mp4?src=SIMPANG_5_03&mp4=all&h264=baseline"
+  },
+  {
+    "id": "4",
+    "name": "Simpang Pertanian Lampu Lalu Lintas",
+    "url": "https:\/\/web.sintang.go.id\/go2rtc\/api\/stream.mp4?src=SIMPANG_PERINDAKOP_01&mp4=all&h264=baseline"
+  },
+  {
+    "id": "5",
+    "name": "Tugu Bank Bi Jam",
+    "url": "https:\/\/web.sintang.go.id\/go2rtc\/api\/stream.mp4?src=TUGU_JAM_01&mp4=all&h264=baseline"
+  },
+  {
+    "id": "6",
+    "name": "Tugu Jam Baleho",
+    "url": "https:\/\/web.sintang.go.id\/go2rtc\/api\/stream.mp4?src=TUGU_JAM_02&mp4=all&h264=baseline"
+  },
+  {
+    "id": "7",
+    "name": "Tugu Jam Tiang Lintas",
+    "url": "https:\/\/web.sintang.go.id\/go2rtc\/api\/stream.mp4?src=TUGU_JAM_03&mp4=all&h264=baseline"
+  }
+]
