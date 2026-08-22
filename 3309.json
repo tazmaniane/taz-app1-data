@@ -1,0 +1,392 @@
+[
+  {
+    "id": "1",
+    "name": "SIMPANG SELO",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/N1GcfEUZrt/s.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "AMPEL",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/i0aybRBciG/s.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Depan Rumdin",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/zh2UCpk7BN/s.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Gambiran Barat",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/VuqsKynehM/s.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Gambiran Timur",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/EKcuZfCNy1/s.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Gelanggang Anuraga",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/QrAyWZ6jNK/s.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Pandan Alas Selatan",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/eZFlS3yZuW/s.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Pandan Alas Timur",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/CdJOAAetyw/s.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Pandan Alas Timur (Dishub)",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/U2D7ppdHJ5/s.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Pandan Alas Utara",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/mizT2CuShk/s.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Perempatan Smp 2",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/qmfBsabOGB/s.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Pojok PLN Barat",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/e0GNEVkglQ/s.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Simpang Driyan",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/zwJg89acRj/s.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Simpang Lima",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/NPOz5dQq5b/s.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Simpang Lima PTZ",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/kaJfZeJ11d/s.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Simpang Lodalang",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/EhMTu25S1B/s.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Simpang RSPA",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/TDzW9tu82h/s.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "SMA BK Arah Barat",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/K1Rj4TvRJY/s.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "SMA BK Arah Timur",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/r0yXXcFoAi/s.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "SMA BK Arah Utara",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/8fsywTtt3o/s.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Sonolayu",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/QxpGBV42ST/s.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "SUROWEDANAN",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/OBOuXdpbl1/s.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "Susu Tumpah",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/IgRz8BX5Hl/s.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "Terminal Lama Arah Timur",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/jX8ESfrRKV/s.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Terminal Lama PTZ",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/KVLvaPeCHI/s.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Terminal Lama Selatan",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/WpBGZhsI9r/s.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Terminal Penggung Barat",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/2Q7DUNhfEW/s.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "Terminal Penggung Timur",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/CyvPcJkztn/s.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "Tiga Menara",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/lvcGHIbukh/s.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "Alun-Alun Kidul",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/pp8k0yUxON/s.m3u8"
+  },
+  {
+    "id": "31",
+    "name": "Lembu Sora",
+    "url": "https://stream.boyolali.go.id/f8310953677622324901f04ba5a9c4e3/hls/fQqDdrj4Xd/cT9jzMtAO7/s.m3u8"
+  },
+  {
+    "id": "32",
+    "name": "Lembu Sora Barat",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/mp4/fQqDdrj4Xd/XBTxfQFpk0/s.mp4"
+  },
+  {
+    "id": "33",
+    "name": "Museum Hamong Wardoyo",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/On3C4SdmFz/s.m3u8"
+  },
+  {
+    "id": "34",
+    "name": "Patung Sudirman",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/CV0FyTUqqU/s.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "Patung Sudirman Timur",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/KLa8MRC6ku/s.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "Patung Sukarno Arah Barat",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/3psf3c0joh/s.m3u8"
+  },
+  {
+    "id": "37",
+    "name": "PEREMPATAN DKP",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/E3ZahyEXOl/s.m3u8"
+  },
+  {
+    "id": "38",
+    "name": "Pojok Dinsos",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/l2GXyht2Ra/s.m3u8"
+  },
+  {
+    "id": "39",
+    "name": "POJOK DISPERTAN",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/4VoMZVE0SP/s.m3u8"
+  },
+  {
+    "id": "40",
+    "name": "POJOK MERAPI FM",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/7XXPze49kZ/s.m3u8"
+  },
+  {
+    "id": "41",
+    "name": "Pojok Satpol Pp",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/3aFK9eJBYQ/s.m3u8"
+  },
+  {
+    "id": "42",
+    "name": "Pojok Setda Timur",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/LZh5JAR6BD/s.m3u8"
+  },
+  {
+    "id": "43",
+    "name": "Simpang DPRD",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/oXICsrB8hk/s.m3u8"
+  },
+  {
+    "id": "44",
+    "name": "Simpang Solidaritas Barat",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/lquQSghf82/s.m3u8"
+  },
+  {
+    "id": "45",
+    "name": "Simpang Solidaritas Selatan",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/OhMem0JSsw/s.m3u8"
+  },
+  {
+    "id": "46",
+    "name": "Simpang Solidaritas Timur (PTZ)",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/C4ToCP6XFr/s.m3u8"
+  },
+  {
+    "id": "47",
+    "name": "Simpang Wika Barat",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/LfvLRTDecV/s.m3u8"
+  },
+  {
+    "id": "48",
+    "name": "Simpang Wika Timur",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/6PGWHwxZIl/s.m3u8"
+  },
+  {
+    "id": "49",
+    "name": "Simpang Wika Utara",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/6ErJ1nPGF2/s.m3u8"
+  },
+  {
+    "id": "50",
+    "name": "SPBU Kemiri Arah Barat",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/0VkyUHTR2O/s.m3u8"
+  },
+  {
+    "id": "51",
+    "name": "SPBU Kemiri Arah Timur",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/aRxyonmTzZ/s.m3u8"
+  },
+  {
+    "id": "52",
+    "name": "Sukarno Barat (Dishub)",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/DJpG0MVkDr/s.m3u8"
+  },
+  {
+    "id": "53",
+    "name": "SUKARNO PTZ",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/Ls3Vn0A4LY/s.m3u8"
+  },
+  {
+    "id": "54",
+    "name": "Sukarno PTZ (Dishub)",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/Zl34s67Fwz/s.m3u8"
+  },
+  {
+    "id": "55",
+    "name": "Sukarno Selatan (Dishub)",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/B52A5iyjYb/s.m3u8"
+  },
+  {
+    "id": "56",
+    "name": "Sukarno Timur (Dishub)",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/g7b3qGqGKt/s.m3u8"
+  },
+  {
+    "id": "57",
+    "name": "TAMAN KALPATARU",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/SW5INz1hk8/s.m3u8"
+  },
+  {
+    "id": "58",
+    "name": "TAMAN SMART CITY",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/pE4dN5PwPq/s.m3u8"
+  },
+  {
+    "id": "59",
+    "name": "Tugu Berlian",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/fXDSWcfPTf/s.m3u8"
+  },
+  {
+    "id": "60",
+    "name": "Tugu Jagung",
+    "url": "https://stream.boyolali.go.id/uTX4MuMtvRra6OkNHlXqNOR6WMtkwP/hls/fQqDdrj4Xd/0Tb3lLxRdp/s.m3u8"
+  },
+  {
+    "id": "61",
+    "name": "Tugu Jagung Arah Selatan",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/ZFIwK4CdTC/s.m3u8"
+  },
+  {
+    "id": "62",
+    "name": "Jalinan Teras Barat",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/gMeqlvbupe/s.m3u8"
+  },
+  {
+    "id": "63",
+    "name": "Jalinan Teras PTZ",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/ezlqCHUo5m/s.m3u8"
+  },
+  {
+    "id": "64",
+    "name": "Jalinan Teras Selatan",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/9GflkYcJ9U/s.m3u8"
+  },
+  {
+    "id": "65",
+    "name": "Jalinan Teras Timur",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/YevoMbx0kC/s.m3u8"
+  },
+  {
+    "id": "66",
+    "name": "Jalinan Teras Utara",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/jNxgy1MZVJ/s.m3u8"
+  },
+  {
+    "id": "67",
+    "name": "Randusari Barat",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/PZnO8iIcxq/s.m3u8"
+  },
+  {
+    "id": "68",
+    "name": "Randusari PTZ",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/fx2eUZOfeg/s.m3u8"
+  },
+  {
+    "id": "69",
+    "name": "Randusari Selatan",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/QiDdGeZGEa/s.m3u8"
+  },
+  {
+    "id": "70",
+    "name": "Ngangkruk Arah Barat",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/E8VBmeIBv0/s.m3u8"
+  },
+  {
+    "id": "71",
+    "name": "Ngangkruk Arah Timur",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/clC8WNwJyr/s.m3u8"
+  },
+  {
+    "id": "72",
+    "name": "Ngangkruk PTZ",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/IsTYxKNuLh/s.m3u8"
+  },
+  {
+    "id": "73",
+    "name": "Ngangkruk Selatan",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/l4aLnxpmAi/s.m3u8"
+  },
+  {
+    "id": "74",
+    "name": "SImpang Simo",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/yN0OqaY0qY/s.m3u8"
+  },
+  {
+    "id": "75",
+    "name": "Karanggede",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/h452PDO3V5/s.m3u8"
+  },
+  {
+    "id": "76",
+    "name": "Klego Barat",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/YoTfuexcdm/s.m3u8"
+  },
+  {
+    "id": "77",
+    "name": "Klego Timur",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/HMv49s6gib/s.m3u8"
+  },
+  {
+    "id": "78",
+    "name": "Simpang Andong",
+    "url": "https://stream2.boyolali.go.id/YySBtrqUftLkJEMY3nTHQk12c9pGBu/hls/RqYtpUpJPD/Tk5VrV4hK0/s.m3u8"
+  }
+]
