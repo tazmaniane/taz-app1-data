@@ -1,0 +1,457 @@
+[
+  {
+    "id": "1",
+    "name": "SIMPANG 4 501 - JLN. SIDO MAKMUR",
+    "url": "rtsp://dishub:dishub888@10.10.77.105:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "2",
+    "name": "SIMPANG 4 501 - JLN. TIRTA RAYA",
+    "url": "rtsp://dishub:dishub888@10.10.77.106:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "3",
+    "name": "SIMPANG 4 501- JLN. URIP SUMOHARJO ( 501 )",
+    "url": "rtsp://dishub:dishub888@10.10.77.107:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "4",
+    "name": "SIMPANG 4 501 - JLN. URIP SUMOHARJO DARI ARAH TIMUR",
+    "url": "rtsp://admin:@Dishub78@10.10.77.108:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "5",
+    "name": "SIMPANG 4 AGUS SALIM - JLN. MERPATI",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.29:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "6",
+    "name": "SIMPANG 4 AGUS SALIM - JLN. AGUS SALIM ARAH ALUN - ALUN",
+    "url": "rtsp://admin:@Dishub78@10.10.77.26:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "7",
+    "name": "SIMPANG 4 AGUS SALIM - JLN. AGUS SALIM",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.28:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "8",
+    "name": "SIMPANG 4 AGUS SALIM - JLN. CITANDUI",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.27:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "9",
+    "name": "SIMPANG 4 COKROAMINOTO - JLN. SAWO BARAT",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.125:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "10",
+    "name": "COKRO AMINOTO ARAH UTARA",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.154:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "11",
+    "name": "SIMPANG 4 JLN. COKROAMINOTO ARAH SELATAN",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.126:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "12",
+    "name": "SIMPANG 4 FATUR - JLN. KELAPA MANIS",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.55:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "13",
+    "name": "SIMPANG 4 FATUR - JLN. TAMAN PRAJA",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.53:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "14",
+    "name": "SIMPANG 4 FATUR - JLN. SUMBER KARYA",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.54:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "15",
+    "name": "SIMPANG 4 FATUR - JLN. LETKOL SUWARNO",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.52:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "16",
+    "name": "SIMPANG 3 GADING - JLN. RAYA SOLO",
+    "url": "rtsp://dishub:dishub888@10.10.77.82:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "17",
+    "name": "SIMPANG 3 GADING - JLN. RING ROAD UTARA",
+    "url": "rtsp://dishub:dishub888@10.10.77.101:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "18",
+    "name": "SIMPANG 3 GADING - JLN. URIP SUMOHARJO",
+    "url": "rtsp://dishub:dishub888@10.10.77.80:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "19",
+    "name": "SIMPANG 4 GAJAH - JLN. KALIMOSODO",
+    "url": "rtsp://admin:Cendrawasih73@10.10.77.97:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "20",
+    "name": "SIMPANG 4 GAJAH - JLN. CILIWUNG",
+    "url": "rtsp://dishub:dishub888@10.10.77.95:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "21",
+    "name": "SIMPANG 4 GAJAH - ARAH DARI TE'AN",
+    "url": "rtsp://admin:@Dishub78@10.10.77.98:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "22",
+    "name": "SIMPANG 4 GAJAH - JLN. SOEKARNO HATTA",
+    "url": "rtsp://dishub:dishub888@10.10.77.96:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "23",
+    "name": "SIMPANG 4 IKIP - JLN. AURI",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.188:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "24",
+    "name": "SIMPANG 4 IKIP - JLN. LETKOL SUWARNO",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.189:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "25",
+    "name": "SIMPANG 4 IKIP - JLN. SETIA BUDI ( ARAH TIMUR )",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.190:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "26",
+    "name": "SIMPANG 4 IKIP - JLN. SETIA BUDI ( ARAH BARAT )",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.187:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "27",
+    "name": "SIMPANG 4 KLEGEN - JLN. M.T HARYONO",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.60:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "28",
+    "name": "SIMPANG 4 KLEGEN - JLN. MASTRIP",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.57:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "29",
+    "name": "SIMPANG 4 KLEGEN - JLN. THAMRIN",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.59:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "30",
+    "name": "SIMPANG 4 KLEGEN - JLN. SETIA BUDI",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.58:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "31",
+    "name": "SIMPANG 4 PANDAN - JLN. SEMERU",
+    "url": "rtsp://dishub:dishub888@10.10.77.92:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "32",
+    "name": "SIMPANG 4 PANDAN - ALUN - ALUN BARAT",
+    "url": "rtsp://dishub:dishub888@10.10.77.94:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "33",
+    "name": "SIMPANG 4 PANDAN - JLN. PANDAN",
+    "url": "rtsp://dishub:dishub888@10.10.77.91:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "34",
+    "name": "SIMPANG 4 PANDAN - ALUN - ALUN SELATAN",
+    "url": "rtsp://dishub:dishub888@10.10.77.93:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "35",
+    "name": "SIMPANG 4 PGA - JLN. M.T HARYONO UTARA",
+    "url": "rtsp://dishub:dishub888@10.10.77.83:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "36",
+    "name": "SIMPANG 4 PGA - JLN. M.T HARYONO SELATAN",
+    "url": "rtsp://dishub:dishub888@10.10.77.85:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "37",
+    "name": "SIMPANG 4 PGA - JLN. TULUS BAKTI",
+    "url": "rtsp://dishub:dishub888@10.10.77.84:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "38",
+    "name": "SIMPANG 4 PGA - JLN. SUMBER KARYA",
+    "url": "rtsp://dishub:dishub888@10.10.77.86:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "39",
+    "name": "SIMPANG 4 SLEKO - JLN. TRUNOJOYO",
+    "url": "rtsp://dishub:dishub888@10.10.77.25:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "40",
+    "name": "SIMPANG 4 SLEKO - JLN. MUSI",
+    "url": "rtsp://dishub:dishub888@10.10.77.64:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "41",
+    "name": "SIMPANG 4 SLEKO - JLN. AGUS SALIM",
+    "url": "rtsp://dishub:dishub888@10.10.77.62:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "42",
+    "name": "SIMPANG 4 SLEKO - JLN. MEYJEN SUNGKONO",
+    "url": "rtsp://dishub:dishub888@10.10.77.63:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "43",
+    "name": "SIMPANG 4 TEAN - JLN. D.I PANJAITAN",
+    "url": "rtsp://dishub:dishub888@10.10.77.38:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "44",
+    "name": "SIMPANG 4 TEAN - JLN. RAYA MADIUN-PONOROGO",
+    "url": "rtsp://dishub:dishub888@10.10.77.30:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "45",
+    "name": "SIMPANG 4 TEAN - JLN. KAPTEN TENDEAN",
+    "url": "rtsp://dishub:dishub888@10.10.77.61:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "46",
+    "name": "SIMPANG 4 TUGU - JLN. PANGLIMA SUDIRMAN ARAH DARI ALUN - ALUN",
+    "url": "rtsp://dishub:dishub888@10.10.77.79:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "47",
+    "name": "SIMPANG 4 TUGU - TUGU 0 KILOMETER",
+    "url": "rtsp://dishub:dishub888@10.10.77.81:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "48",
+    "name": "SIMPANG 3 MERAK - JLN. TRUNOJOYO",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.42:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "49",
+    "name": "SIMPANG 3 MERAK - JLN. SOEKARNO HATTA",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.35:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "50",
+    "name": "SIMPANG 3 MERAK - JLN. MERAK",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.36:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "51",
+    "name": "SIMPANG 4 REJOAGUNG - JLN. RAYA MADIUN - CARUBAN",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.56:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "52",
+    "name": "SIMPANG 4 REJOAGUNG - JLN. RING ROAD UTARA",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.48:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "53",
+    "name": "SIMPANG 4 REJOAGUNG - JLN. YOS SUDARSO",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.49:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "54",
+    "name": "SIMPANG 4 SERAYU - JLN. D.I PANJAITAN ARAH UTARA",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.37:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "55",
+    "name": "SIMPANG 4 SERAYU - JLN. SERAYU TIMUR ARAH BUNDERAN",
+    "url": "rtsp://dishub:dishub888@10.10.77.20:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "56",
+    "name": "SIMPANG 4 SERAYU - JLN. SERAYU ARAH BARAT",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.40:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "57",
+    "name": "SIMPANG 4 SERAYU - JLN. D.I PANJAITAN ARAH SELATAN",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.39:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "58",
+    "name": "SIMPANG 5 TUGU PENDEKAR - JLN. DIPONEGORO TIMUR",
+    "url": "rtsp://dishub:dishub888@10.10.77.18:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "59",
+    "name": "SIMPANG 5 TUGU PENDEKAR - JLN. DIPONEGORO BARAT",
+    "url": "rtsp://dishub:dishub888@10.10.77.17:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "60",
+    "name": "SIMPANG 5 TUGU PENDEKAR - JLN. THAMRIN",
+    "url": "rtsp://dishub:dishub888@10.10.77.24:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "61",
+    "name": "SIMPANG 5 TUGU PENDEKAR - JLN. S. PARMAN",
+    "url": "rtsp://dishub:dishub888@10.10.77.21:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "62",
+    "name": "SIMPANG 3 PRAMBANAN - JLN. YOS SUDARSO ARAH UTARA",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.151:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "63",
+    "name": "SIMPANG 3 PRAMBANAN - JLN. PRAMBANAN",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.152:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "64",
+    "name": "SIMPANG 3 PRAMBANAN - JLN. YOS SUDARSO ARAH SELATAN",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.150:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "65",
+    "name": "SIMPANG 4 RING ROAD - JLN. WAHYU HIDAYAT III",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.136:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "66",
+    "name": "SIMPANG 4 RING ROAD ARAH SELATAN",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.137:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "67",
+    "name": "SIMPANG 4 RING ROAD - JLN. KENINGAR",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.134:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "68",
+    "name": "SIMPANG 4 ASAHAN - JLN. KAPUAS",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.153:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "69",
+    "name": "SIMPANG 4 ASAHAN - JLN. ASAHAN ( SELATAN )",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.128:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "70",
+    "name": "SIMPANG 4 ASAHAN- JLN. ASAHAN  ( UTARA )",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.129:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "71",
+    "name": "SIMPANG 3 PULE - JLN. PANGLIMA SUDIRMAN",
+    "url": "rtsp://dishub:dishub888@10.10.77.110:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "72",
+    "name": "SIMPANG 3 PULE - JLN. DR. SOETOMO",
+    "url": "rtsp://dishub:dishub888@10.10.77.109:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "73",
+    "name": "SIMPANG 3 PULE - JLN. PANGLIMA SUDIRMAN (ARAH PASAR BESAR)",
+    "url": "rtsp://dishub:dishub888@10.10.77.115:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "74",
+    "name": "SIMPANG 3 HAYAM WURUK - JLN. URIP SUMOHARJO ( BARAT )",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.33:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "75",
+    "name": "SIMPANG 3 HAYAM WURUK - JLN. URIP SUMOHARJO ( TIMUR )",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.32:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "76",
+    "name": "SIMPANG 3 HAYAM WURUK - JLN. HAYAM WURUK",
+    "url": "rtsp://dishub:Cendrawasih73@10.10.77.31:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "77",
+    "name": "SIMPANG 3 JOYO - JLN. SLAMET RIYADI",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.34:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "78",
+    "name": "SIMPANG 3 JOYO - JLN. IMAM BONJOL",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.41:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "79",
+    "name": "SIMPANG 3 JOYO - JLN. DIPONEGORO",
+    "url": "rtsp://dishub:dishub888@10.10.77.43:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "80",
+    "name": "SIMPANG 4 PAHLAWAN - JLN. A. YANI",
+    "url": "rtsp://dishub:dishub888@10.10.77.5:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "81",
+    "name": "SIMPANG 4 PAHLAWAN - JLN. PAHLAWAN (PSC)",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.7:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "82",
+    "name": "SIMPANG 4 PAHLAWAN - JLN. PAHLAWAN UTARA",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.6:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "83",
+    "name": "SIMPANG 4 PAHLAWAN - JLN. JAWA",
+    "url": "rtsp://dishub:dishub888@10.10.77.8:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "84",
+    "name": "SIMPANG 4 PUSPOWARNO - JLN. RAYA SIDOMULYO",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.44:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "85",
+    "name": "SIMPANG 4 PUSPOWARNO - JLN. RING ROAD BARAT",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.47:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "86",
+    "name": "SIMPANG 4 PUSPOWARNO - JLN. PUSPOWARNO",
+    "url": "rtsp://dishub:@Dishub78@10.10.77.45:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "87",
+    "name": "SIMPANG 4 PUSPOWARNO - JLN. RING ROAD UTARA",
+    "url": "rtsp://dishub:dishub888@10.10.77.46:554/cam/realmonitor?channel=1&subtype=1"
+  },
+  {
+    "id": "88",
+    "name": "SIMPANG 4 SRITI - JLN. MEYJEN SUNGKONO",
+    "url": "rtsp://dishub:dishub888@10.10.77.100:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "89",
+    "name": "SIMPANG 4 SRITI - JLN. A. YANI",
+    "url": "rtsp://dishub:dishub888@10.10.77.71:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "90",
+    "name": "SIMPANG 4 SRITI - JLN. URIP SUMOHARJO",
+    "url": "rtsp://dishub:dishub888@10.10.77.16:554/cam/realmonitor?channel=1&subtype=0"
+  },
+  {
+    "id": "91",
+    "name": "SIMPANG 4 SRITI - JLN. KOLONEL MARHADI",
+    "url": "rtsp://dishub:dishub888@10.10.77.3:554/cam/realmonitor?channel=1&subtype=0"
+  }
+]
