@@ -1,4 +1,514 @@
 [
+   {
+        "id": "1",
+        "name": "Alun-alun 01 - Banceuy",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTo.m3u8"
+    },
+    {
+        "id": "2",
+        "name": "Alun-alun 02 - Asia Afrika",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8"
+    },
+    {
+        "id": "3",
+        "name": "Alun-alun_03",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/ALUN.m3u8"
+    },
+    {
+        "id": "4",
+        "name": "Antapani-depan Borma 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Ant.m3u8"
+    },
+    {
+        "id": "5",
+        "name": "Antapani-depan Borma 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Antt.m3u8"
+    },
+    {
+        "id": "6",
+        "name": "Batas Kota 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/BatasKo.m3u8"
+    },
+    {
+        "id": "7",
+        "name": "Batas Kota 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/cibeurem.m3u8"
+    },
+    {
+        "id": "8",
+        "name": "Borma Cikutra 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/CIK.m3u8"
+    },
+    {
+        "id": "9",
+        "name": "Borma Cikutra 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/CIKUT.m3u8"
+    },
+    {
+        "id": "10",
+        "name": "Braga 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/braga.m3u8"
+    },
+    {
+        "id": "11",
+        "name": "Braga 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bragaa.m3u8"
+    },
+    {
+        "id": "12",
+        "name": "Braga 03",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bragaaa.m3u8"
+    },
+    {
+        "id": "13",
+        "name": "Braga 1-naripan 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Nar.m3u8"
+    },
+    {
+        "id": "14",
+        "name": "Braga 1-naripan 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Nari.m3u8"
+    },
+    {
+        "id": "15",
+        "name": "Buah Batu-depan Griya 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Buahgriya.m3u8"
+    },
+    {
+        "id": "16",
+        "name": "Bubat Kordon 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/BUB.m3u8"
+    },
+    {
+        "id": "17",
+        "name": "Bubat Kordon 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/BUBA.m3u8"
+    },
+    {
+        "id": "18",
+        "name": "Burangrang Bpi 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/burangrangbpi.m3u8"
+    },
+    {
+        "id": "19",
+        "name": "Burangrang Bpi 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/burangrangbpii.m3u8"
+    },
+    {
+        "id": "20",
+        "name": "Ciateul 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIAT.m3u8"
+    },
+    {
+        "id": "21",
+        "name": "Ciateul 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIA.m3u8"
+    },
+    {
+        "id": "22",
+        "name": "Cibaduyut-dekat Tps 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cibatps.m3u8"
+    },
+    {
+        "id": "23",
+        "name": "Cibaduyut-dekat Tps 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cibaytps.m3u8"
+    },
+    {
+        "id": "24",
+        "name": "Cicabe_01",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CICA.m3u8"
+    },
+    {
+        "id": "25",
+        "name": "Cicabe_02",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIC.m3u8"
+    },
+    {
+        "id": "26",
+        "name": "Cicadas-gateway_01",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CI.m3u8"
+    },
+    {
+        "id": "27",
+        "name": "Cicadas-gateway_02",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CICAB.m3u8"
+    },
+    {
+        "id": "28",
+        "name": "Cicendo - Kb Kawung 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/Cicendo.m3u8"
+    },
+    {
+        "id": "29",
+        "name": "Cicendo - Kb Kawung 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/Cicend.m3u8"
+    },
+    {
+        "id": "30",
+        "name": "Cicendo - Kb Kawung 03",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/Cicen.m3u8"
+    },
+    {
+        "id": "31",
+        "name": "Cihampelas_01",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIHA.m3u8"
+    },
+    {
+        "id": "32",
+        "name": "Cihampelas_02",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIH.m3u8"
+    },
+    {
+        "id": "33",
+        "name": "Cihampelas-gandok 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihampelasgan.m3u8"
+    },
+    {
+        "id": "34",
+        "name": "Cihampelas-gandok 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/CihampelasGand.m3u8"
+    },
+    {
+        "id": "35",
+        "name": "Cihampelas-skywalk 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihamsky.m3u8"
+    },
+    {
+        "id": "36",
+        "name": "Cihampelas-skywalk 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihampsky.m3u8"
+    },
+    {
+        "id": "37",
+        "name": "Cijerah Pal Tilu 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/paltiluu.m3u8"
+    },
+    {
+        "id": "38",
+        "name": "Cikutra-tmp 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Ciktm.m3u8"
+    },
+    {
+        "id": "39",
+        "name": "Cikutra-tmp 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Ciktmp.m3u8"
+    },
+    {
+        "id": "40",
+        "name": "Cimindi-jembatan_01",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMINDI.m3u8"
+    },
+    {
+        "id": "41",
+        "name": "Cimindi-jembatan_02",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMIND.m3u8"
+    },
+    {
+        "id": "42",
+        "name": "Cimindi-jembatan_03",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMIN.m3u8"
+    },
+    {
+        "id": "43",
+        "name": "Cimindi-kharisma_01",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMI.m3u8"
+    },
+    {
+        "id": "44",
+        "name": "Cimindi-kharisma_02",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIM.m3u8"
+    },
+    {
+        "id": "45",
+        "name": "Cimindi-sukaraja_01",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMND.m3u8"
+    },
+    {
+        "id": "46",
+        "name": "Cimindi-sukaraja_02",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMD.m3u8"
+    },
+    {
+        "id": "47",
+        "name": "Cipaganti-nyland 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cipany.m3u8"
+    },
+    {
+        "id": "48",
+        "name": "Cipaganti-nyland 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cipanyl.m3u8"
+    },
+    {
+        "id": "49",
+        "name": "Dago 1-cikapayang 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagcik.m3u8"
+    },
+    {
+        "id": "50",
+        "name": "Dago 2-sma 1 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagsm.m3u8"
+    },
+    {
+        "id": "51",
+        "name": "Dago 2-sma 1 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagsma.m3u8"
+    },
+    {
+        "id": "52",
+        "name": "Dago 3-borromeus 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagbr.m3u8"
+    },
+    {
+        "id": "53",
+        "name": "Dago 3-borromeus 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagbor.m3u8"
+    },
+    {
+        "id": "54",
+        "name": "Dago 4 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagos.m3u8"
+    },
+    {
+        "id": "55",
+        "name": "Dago 4 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagoss.m3u8"
+    },
+    {
+        "id": "56",
+        "name": "Dalam Kaum-pedestrian 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dalkaum.m3u8"
+    },
+    {
+        "id": "57",
+        "name": "Depan Pendopo 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Deppen.m3u8"
+    },
+    {
+        "id": "58",
+        "name": "Depan Pendopo 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Deppendo.m3u8"
+    },
+    {
+        "id": "59",
+        "name": "Depan Rsud Ujung Berung 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rsud.m3u8"
+    },
+    {
+        "id": "60",
+        "name": "Depan Rsud Ujung Berung 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rsudd.m3u8"
+    },
+    {
+        "id": "61",
+        "name": "Depan Terminal Cicaheum 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/terminalcicaheum.m3u8"
+    },
+    {
+        "id": "62",
+        "name": "Depan Terminal Cicaheum 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/terminalcicaheumm.m3u8"
+    },
+    {
+        "id": "63",
+        "name": "Dipatiukur Sekeloa 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunpad.m3u8"
+    },
+    {
+        "id": "64",
+        "name": "Dipatiukur Sekeloa 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunp.m3u8"
+    },
+    {
+        "id": "65",
+        "name": "Dipati Ukur-unikom 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaun.m3u8"
+    },
+    {
+        "id": "66",
+        "name": "Dipati Ukur-unikom 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunik.m3u8"
+    },
+    {
+        "id": "67",
+        "name": "Dipatiukur Unpad 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipa.m3u8"
+    },
+    {
+        "id": "68",
+        "name": "Dipatiukur Unpad 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipati.m3u8"
+    },
+    {
+        "id": "69",
+        "name": "Fly Over Antapani 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flyant.m3u8"
+    },
+    {
+        "id": "70",
+        "name": "Fly Over Antapani 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flyantpa.m3u8"
+    },
+    {
+        "id": "71",
+        "name": "Fly Over Cimindi-jl. Budi 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flycim.m3u8"
+    },
+    {
+        "id": "72",
+        "name": "Fly Over Cimindi-jl. Budi 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flycimin.m3u8"
+    },
+    {
+        "id": "73",
+        "name": "Fly Over Kopo-leuwi Panjang 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flykop.m3u8"
+    },
+    {
+        "id": "74",
+        "name": "Fly Over Kopo-leuwi Panjang 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flykopo.m3u8"
+    },
+    {
+        "id": "75",
+        "name": "Gasibu_01",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/GASIBU.m3u8"
+    },
+    {
+        "id": "76",
+        "name": "Gasibu_02",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/GASI.m3u8"
+    },
+    {
+        "id": "77",
+        "name": "Gatot Subroto-binong_01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatsubin.m3u8"
+    },
+    {
+        "id": "78",
+        "name": "Gatot Subroto-binong_02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatbino.m3u8"
+    },
+    {
+        "id": "79",
+        "name": "Gatot Subroto - Tsm_01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatsusub.m3u8"
+    },
+    {
+        "id": "80",
+        "name": "Gatot Subroto - Tsm_02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatsusubro.m3u8"
+    },
+    {
+        "id": "81",
+        "name": "Gedebage_01",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/GEDEBAGE.m3u8"
+    },
+    {
+        "id": "82",
+        "name": "Gedebage_02",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/GEDEB.m3u8"
+    },
+    {
+        "id": "83",
+        "name": "Gerbang Kebon Binatang 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bonbin.m3u8"
+    },
+    {
+        "id": "84",
+        "name": "Gerbang Kebon Binatang 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bonbinn.m3u8"
+    },
+    {
+        "id": "85",
+        "name": "Husein 01 - St Halte",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/husein.m3u8"
+    },
+    {
+        "id": "86",
+        "name": "Husein 03 - St Halte",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/huse.m3u8"
+    },
+    {
+        "id": "87",
+        "name": "Itb Kebun Binatang 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/ITBKebun.m3u8"
+    },
+    {
+        "id": "88",
+        "name": "Itb Kebun Binatang 03",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/ITBKeb.m3u8"
+    },
+    {
+        "id": "89",
+        "name": "Itc Kebon Kalapa 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/ITCkebonk.m3u8"
+    },
+    {
+        "id": "90",
+        "name": "Itc Kebon Kalapa 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/ITCkebon.m3u8"
+    },
+    {
+        "id": "91",
+        "name": "Jakarta-hkbp_02",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/JAK.m3u8"
+    },
+    {
+        "id": "92",
+        "name": "Jalan Citarum-pet Park 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Citpet.m3u8"
+    },
+    {
+        "id": "93",
+        "name": "Jalan Citarum-pet Park 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Citpetpark.m3u8"
+    },
+    {
+        "id": "94",
+        "name": "Jalan Garut-kpu Prov 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Garutkp.m3u8"
+    },
+    {
+        "id": "95",
+        "name": "Jalan Ir. Soekarno 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soe.m3u8"
+    },
+    {
+        "id": "96",
+        "name": "Jalan Ir. Soekarno 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soekar.m3u8"
+    },
+    {
+        "id": "97",
+        "name": "Jalan Kembar Baru 23-sma 11 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kem.m3u8"
+    },
+    {
+        "id": "98",
+        "name": "Jalan Kembar Baru 23-sma 11 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kembar.m3u8"
+    },
+    {
+        "id": "99",
+        "name": "Jalan Riau-asmtb 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riauasmtb.m3u8"
+    },
+    {
+        "id": "100",
+        "name": "Jalan Riau-asmtb 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riauasmtbb.m3u8"
+    },
+    {
+        "id": "101",
+        "name": "Jalaprang 01",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/Jalaprang.m3u8"
+    },
+    {
+        "id": "102",
+        "name": "Jalaprang 02",
+        "url": "https://pelindung.bandung.go.id:3443/video/DAHUA/Jalapra.m3u8"
+    },
   {
     "id": "1",
     "name": "SP TOL PASTEUR",
