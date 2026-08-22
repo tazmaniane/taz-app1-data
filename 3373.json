@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "name": "Simpang Kecandran Selatan",
+    "url": "https://restreamer.salatiga.go.id/memfs/34f5cb55-5bf8-4a73-bd36-8993df16aee2.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Simpang Cebongan Utara",
+    "url": "https://restreamer.salatiga.go.id/memfs/0597120c-9a17-43eb-9748-e9436973c958.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Simpang Cebongan Selatan",
+    "url": "https://restreamer.salatiga.go.id/memfs/edcfccff-7407-4f5a-9666-a3e263d8c6d2.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Simpang Pulutan Utara",
+    "url": "https://restreamer.salatiga.go.id/memfs/6257f313-5db4-4b88-8f22-0ddc9427808e.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Simpang 4 Pasar Sapi",
+    "url": "https://restreamer.salatiga.go.id/memfs/290488df-9871-4a19-8752-565bee426e3f.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Simpang 3 Pasar Sapi",
+    "url": "https://restreamer.salatiga.go.id/memfs/eddbd084-36ea-4571-807e-415f3d38122e.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Simpang Jetis",
+    "url": "https://restreamer.salatiga.go.id/memfs/93e5efe0-cf8e-4e21-a3f5-2a4fe51db504.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Simpang ABC (dari Solo)",
+    "url": "https://restreamer.salatiga.go.id/memfs/c7b21a16-6740-4576-b8d2-7438988895e7.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Simpang ABC (Jl. Argotunggal)",
+    "url": "https://restreamer.salatiga.go.id/memfs/476d6a15-b1a4-494c-9112-205456799aa8.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Simpang ABC (Dome)",
+    "url": "https://restreamer.salatiga.go.id/memfs/9ca726bb-429c-40af-9b42-6f798d53ea50.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Simpang ABC (Jl. Argoyuwono)",
+    "url": "https://restreamer.salatiga.go.id/memfs/cd4244c9-d881-48cd-b348-65b8eb5375b9.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Simpang ABC (dari Kota)",
+    "url": "https://restreamer.salatiga.go.id/memfs/ee1e0d76-96b9-43ce-a1bb-d647245a35c0.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Simpang Tingkir (Dome)",
+    "url": "https://restreamer.salatiga.go.id/memfs/142aad5b-6baf-494c-be5a-0bbdafab3ab4.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Simpang Tingkir (Jl. Soekarno Hatta)",
+    "url": "https://restreamer.salatiga.go.id/memfs/fd95302c-0895-429e-bb77-2b0b1d5e491f.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Simpang Tingkir (Jl. Tingkir Raya)",
+    "url": "https://restreamer.salatiga.go.id/memfs/8a141a15-6083-4001-b157-94bbfc87204b.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Simpang Tingkir (Jl. Cebongan Raya)",
+    "url": "https://restreamer.salatiga.go.id/memfs/b094c5d7-4ec5-40e9-afdd-60b5ab030454.m3u8"
+  }
+
+]
