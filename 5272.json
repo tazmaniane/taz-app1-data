@@ -1,132 +1,47 @@
 [
     {
         "id": "1",
-        "name": "Amahami",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=taman-amahami"
+        "name": "Terminal Jatibaru",
+        "url": "https://stream.bimakota.go.id/CCTVKotaBima/streams/JATIBARU01.m3u8"
     },
     {
         "id": "2",
-        "name": "Batas Kota Niu 1",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=batasKotaNiu1"
+        "name": "Pertigaan Tanjung",
+        "url": "https://stream.bimakota.go.id/CCTVKotaBima/streams/tanjung.m3u8"
     },
     {
         "id": "3",
-        "name": "Batas Kota Niu 2",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=batasKotaNiu2"
+        "name": "Lapangan Lampe",
+        "url": "https://stream.bimakota.go.id/CCTVKotaBima/streams/Admin333333.m3u8"
     },
     {
         "id": "4",
-        "name": "Bendungan Kodo",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=kodo"
+        "name": "Lampu Merah Santi",
+        "url": "https://stream.bimakota.go.id/CCTVKotaBima/streams/Santi.m3u8"
     },
     {
         "id": "5",
-        "name": "Cabang Dokter Agung (Lapangan Pahlawan)",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=A8Hg7lYISTfs1754356691745"
+        "name": "Lampu Merah Lewirato",
+        "url": "https://stream.bimakota.go.id/CCTVKotaBima/streams/Lewirato.m3u8"
     },
     {
         "id": "6",
-        "name": "Jembatan Jatibaru",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=JATIBARU02"
+        "name": "Kantor Pos Ranggo",
+        "url": "https://stream.bimakota.go.id/CCTVKotaBima/streams/ranggo.m3u8"
     },
     {
         "id": "7",
-        "name": "Jembatan Penatoi 1",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=Admin555555"
+        "name": "Jembatan Rontu",
+        "url": "https://stream.bimakota.go.id/CCTVKotaBima/streams/rontu.m3u8"
     },
     {
         "id": "8",
         "name": "Jembatan Penatoi 2",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=Admin666666"
+        "url": "https://stream.bimakota.go.id/CCTVKotaBima/streams/Admin666666.m3u8"
     },
     {
         "id": "9",
-        "name": "Jembatan Rontu",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=rontu"
-    },
-    {
-        "id": "10",
-        "name": "Lampu Merah Kantor Pos Ranggo",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=ranggo"
-    },
-    {
-        "id": "11",
-        "name": "Lampu Merah Lewirato",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=Lewirato"
-    },
-    {
-        "id": "12",
-        "name": "Lampu Merah Pasar Raya",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=pasarlama"
-    },
-    {
-        "id": "13",
-        "name": "Lampu Merah Perempatan Sadia",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?id=cabangsadia"
-    },
-    {
-        "id": "14",
-        "name": "Lampu Merah Polres Bimakota",
-        "url": "https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=polres"
-    },
-    {
-        "id": "15",
-        "name": "Lampu Merah Santi",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=Santi"
-    },
-    {
-        "id": "16",
-        "name": "Lapangan Lampe",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=Admin333333"
-    },
-    {
-        "id": "17",
-        "name": "Lapangan Serasuba",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=v3BEXDWqfFpn1753929827044"
-    },
-    {
-        "id": "18",
-        "name": "Pasar Amahami",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=pasar02"
-    },
-    {
-        "id": "19",
-        "name": "Pertigaan Bulog",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=bulog"
-    },
-    {
-        "id": "20",
-        "name": "Pertigaan Duta Ban",
-        "url": "https://stream.bimakota.go.id/CCTVKotaBima/play.html?name=R6W3JQW3TdSt1722585322741"
-    },
-    {
-        "id": "21",
-        "name": "Pertigaan Tanjung",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=tanjung"
-    },
-    {
-        "id": "22",
-        "name": "Pertigaan Terminal Kumbe",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=Admin444444"
-    },
-    {
-        "id": "23",
-        "name": "Taman Kodo",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?id=tamankodo"
-    },
-    {
-        "id": "24",
-        "name": "Tanjakan Ule 1",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=Admin888888"
-    },
-    {
-        "id": "25",
-        "name": "Tanjakan Ule 2",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=Admin999999"
-    },
-    {
-        "id": "26",
-        "name": "Terminal Jatibaru",
-        "url": "https://stream.bimakota.go.id:/CCTVKotaBima/play.html?name=JATIBARU01"
+        "name": "Jembatan Penatoi 1",
+        "url": "https://stream.bimakota.go.id/CCTVKotaBima/streams/Admin555555.m3u8"
     }
 ]
