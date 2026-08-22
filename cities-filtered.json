@@ -1267,6 +1267,13 @@
     "alt_name": "KOTA JAKARTA TIMUR",
     "latitude": -6.2521,
     "longitude": 106.884
+  },{
+    "id": "31731",
+    "province_id": "31",
+    "name": "Tol Dalam Kota",
+    "alt_name": "Tol Dalam Kota",
+    "latitude": -6.1777,
+    "longitude": 106.8403
   },
   {
     "id": "3173",
