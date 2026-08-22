@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Tol Dalam Kota - Kamera 1",
+    "url": "https://camera.jtd.co.id/camera/share/tios/4/35/index.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Tol Dalam Kota - Kamera 2",
+    "url": "https://camera.jtd.co.id/camera/share/tios/2/78/index.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Tol Dalam Kota - Kamera 3",
+    "url": "https://camera.jtd.co.id/camera/share/tios/2/20/index.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Tol Dalam Kota - Kamera 4",
+    "url": "https://camera.jtd.co.id/camera/share/tios/2/19/index.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Tol Dalam Kota - Kamera 5",
+    "url": "https://camera.jtd.co.id/camera/share/tios/2/80/index.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Tol Dalam Kota - Kamera 6",
+    "url": "https://camera.jtd.co.id/camera/share/tios/2/27/index.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Tol Dalam Kota - Kamera 7",
+    "url": "https://camera.jtd.co.id/camera/share/tios/2/81/index.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Tol Dalam Kota - Kamera 9",
+    "url": "https://camera.jtd.co.id/camera/share/tios/2/25/index.m3u8"
+  }
+]
