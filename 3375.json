@@ -21,7 +21,7 @@
   },
   {
     "id": "5",
-    "name": "",
+    "name": "Kecamatan Utara",
     "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:47554"
   },
   {
@@ -46,17 +46,17 @@
   },
   {
     "id": "10",
-    "name": "",
+    "name": "ALUN ALUN UTARA",
     "url": "rtsp://admin:dishub.pkl@172.38.38.3:554/Streaming/Channels/101"
   },
   {
     "id": "11",
-    "name": "",
+    "name": "ALUN-ALUN DEPAN MINIMARKET 1",
     "url": "rtsp://admin:dishub.pkl@172.38.38.4:554/Streaming/Channels/101"
   },
   {
     "id": "12",
-    "name": "",
+    "name": "ALUN-ALUN DEPAN MINIMARKET 2",
     "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:39554"
   },
   {
@@ -101,12 +101,12 @@
   },
   {
     "id": "21",
-    "name": "",
+    "name": "Alun Alun Selatan (Depan Pendopo)",
     "url": "rtsp://admin:cctv@2024@20.100.240.4:554/Streaming/Channels/101"
   },
   {
     "id": "22",
-    "name": "",
+    "name": "Kecamatan Barat",
     "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:47554"
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "id": "26",
-    "name": "",
+    "name": "Depan Balai Kota 1",
     "url": "rtsp://admin:Admin123@172.20.68.30:554"
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "id": "43",
-    "name": "",
+    "name": "ALUN-ALUN DEPAN MASJID",
     "url": "rtsp://diskominfo:D15k0m1nf0@172.38.38.4:554"
   },
   {
@@ -226,22 +226,22 @@
   },
   {
     "id": "46",
-    "name": "",
+    "name": "Halaman SETDA",
     "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:40554"
   },
   {
     "id": "47",
-    "name": "",
+    "name": "Mataram Pojok Selatan",
     "url": "rtsp://admin:12345678a@172.20.68.5:554"
   },
   {
     "id": "48",
-    "name": "",
+    "name": "Pertigaan Kel. Klego 1",
     "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:45554/Streaming/Channels/101"
   },
   {
     "id": "49",
-    "name": "",
+    "name": "Pertigaan Kel. Klego 2",
     "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:46554/Streaming/Channels/101"
   },
   {
@@ -286,7 +286,7 @@
   },
   {
     "id": "58",
-    "name": "",
+    "name": "Kel. Kandang Panjang",
     "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:41554"
   },
   {
@@ -321,7 +321,7 @@
   },
   {
     "id": "65",
-    "name": "",
+    "name": "Perempatan Kominfo 2",
     "url": "rtsp://diskominfo:D15k0m1nf0@172.20.68.4:554"
   },
   {
@@ -336,12 +336,12 @@
   },
   {
     "id": "68",
-    "name": "",
+    "name": "Depan Taspen 1",
     "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:30554"
   },
   {
     "id": "69",
-    "name": "",
+    "name": "Depan Taspen 2",
     "url": "rtsp://diskominfo:D15k0m1nf0@103.97.101.14:31554"
   },
   {
