@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "name": "Simpang Bupati",
+    "url": "https://cctv.langkatkab.go.id/camera/1/stream"
+  },
+  {
+    "id": "2",
+    "name": "Jembatan Wampu",
+    "url": "https://cctv.langkatkab.go.id/camera/3/stream"
+  }
+]
