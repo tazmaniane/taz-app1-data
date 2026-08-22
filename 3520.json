@@ -1,0 +1,142 @@
+[
+    {
+        "id": "1",
+        "name": "Jl. Taman Asri - S3 Perum T. Asri",
+        "url": "https://saranganvision.my.id:847/stream20/file.m3u8"
+    },
+    {
+        "id": "2",
+        "name": "Jl. Mayjend Sukowati - S3 KPR Asabri",
+        "url": "https://saranganvision.my.id:842/stream7/file.m3u8"
+    },
+    {
+        "id": "3",
+        "name": "Jl. Mayjend Sungkono - S4 Pasar Sayur",
+        "url": "https://saranganvision.my.id:842/stream1/file.m3u8"
+    },
+    {
+        "id": "4",
+        "name": "Jl. S. Parman Asrama Kodim",
+        "url": "https://saranganvision.my.id:847/stream22/file.m3u8"
+    },
+    {
+        "id": "5",
+        "name": "Jl. Yos Sudarso - S4 Rani Puri",
+        "url": "https://saranganvision.my.id:842/stream3/file.m3u8"
+    },
+    {
+        "id": "6",
+        "name": "Jl. Basuki Rahmat Timur - Alun-Alun",
+        "url": "https://saranganvision.my.id:842/stream2/file.m3u8"
+    },
+    {
+        "id": "7",
+        "name": "Jl. Basuki Rahmat Barat - S4 Gubernur Suryo Alun-Alun",
+        "url": "https://saranganvision.my.id:850/stream8/file.m3u8"
+    },
+    {
+        "id": "8",
+        "name": "S4 Jl Timor-Lombok",
+        "url": "https://saranganvision.my.id:847/stream21/file.m3u8"
+    },
+    {
+        "id": "9",
+        "name": "Jl. Mongindisi - Blok M",
+        "url": "https://saranganvision.my.id:847/stream23/file.m3u8"
+    },
+    {
+        "id": "10",
+        "name": "Jl. Dr. Soetomo - S3",
+        "url": "https://saranganvision.my.id:842/stream5/file.m3u8"
+    },
+    {
+        "id": "11",
+        "name": "S4 Panekan",
+        "url": "https://saranganvision.my.id:847/stream24/file.m3u8"
+    },
+    {
+        "id": "12",
+        "name": "S4 Cepoko",
+        "url": "https://saranganvision.my.id:847/stream18/file.m3u8"
+    },
+    {
+        "id": "13",
+        "name": "S4 Milangasri",
+        "url": "https://saranganvision.my.id:847\\stream19\\file.m3u8"
+    },
+    {
+        "id": "14",
+        "name": "S3 Sidorejo",
+        "url": "https://saranganvision.my.id:850/stream13/file.m3u8"
+    },
+    {
+        "id": "15",
+        "name": "Terminal Maospati",
+        "url": "https://saranganvision.my.id:847/stream14/file.m3u8"
+    },
+    {
+        "id": "16",
+        "name": "Jl. Raya Maospati - S4 Pasar Jengglong",
+        "url": "https://saranganvision.my.id:842/stream4/file.m3u8"
+    },
+    {
+        "id": "17",
+        "name": "Jl. Raya Maospati - S4 Bani Solan",
+        "url": "https://saranganvision.my.id:842/stream6/file.m3u8"
+    },
+    {
+        "id": "18",
+        "name": "S4 Mandoran - Loket Wisata T. Sarangan",
+        "url": "https://saranganvision.my.id:845/stream101/file.m3u8"
+    },
+    {
+        "id": "19",
+        "name": "S3 Singolangu Bawah - Pintu Masuk Sarangan",
+        "url": "https://saranganvision.my.id:845/stream102/file.m3u8"
+    },
+    {
+        "id": "20",
+        "name": "Parkiran Sarangan",
+        "url": "https://saranganvision.my.id:845/stream103/file.m3u8"
+    },
+    {
+        "id": "21",
+        "name": "Wisata Telaga Sarangan",
+        "url": "https://saranganvision.my.id:845/stream105/file.m3u8"
+    },
+    {
+        "id": "22",
+        "name": "S3 Omah Jowo Pintu Masuk Sarangan",
+        "url": "https://saranganvision.my.id:845/stream106/file.m3u8"
+    },
+    {
+        "id": "23",
+        "name": "Wisata Strawberry",
+        "url": "https://saranganvision.my.id:845/stream107/file.m3u8"
+    },
+    {
+        "id": "24",
+        "name": "Singolangu Atas - Sarangan",
+        "url": "https://saranganvision.my.id:845/stream104/file.m3u8"
+    },
+    {
+        "id": "25",
+        "name": "S4 Parang",
+        "url": "https://saranganvision.my.id:847/stream15/file.m3u8"
+    },
+    {
+        "id": "26",
+        "name": "S3 Pasar Plaosan",
+        "url": "https://saranganvision.my.id:847/stream16/file.m3u8"
+    },
+    {
+        "id": "27",
+        "name": "S3 Polsek Plaosan",
+        "url": "https://saranganvision.my.id:845/stream24/file.m3u8"
+    },
+    {
+        "id": "28",
+        "name": "S4 Ngariboyo",
+        "url": "https://saranganvision.my.id:850/stream25/file.m3u8"
+    }
+]
