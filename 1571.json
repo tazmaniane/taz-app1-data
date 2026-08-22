@@ -1,0 +1,112 @@
+[
+    {
+        "id": "1",
+        "name": "Tugu Keris SIGINJAI 2",
+        "url": "https://cctv.jambikota.go.id/stream/2/stream.m3u8"
+    },
+    {
+        "id": "2",
+        "name": "Tugu Keris 3",
+        "url": "https://cctv.jambikota.go.id/stream/23/stream.m3u8"
+    },
+    {
+        "id": "3",
+        "name": "Tugu Keris 4",
+        "url": "https://cctv.jambikota.go.id/stream/24/stream.m3u8"
+    },
+    {
+        "id": "4",
+        "name": "Tugu Keris PTZ",
+        "url": "https://cctv.jambikota.go.id/stream/25/stream.m3u8"
+    },
+    {
+        "id": "5",
+        "name": "Simpang BI 1",
+        "url": "https://cctv.jambikota.go.id/stream/26/stream.m3u8"
+    },
+    {
+        "id": "6",
+        "name": "Simpang BI 2",
+        "url": "https://cctv.jambikota.go.id/stream/3/stream.m3u8"
+    },
+    {
+        "id": "7",
+        "name": "Simpang BI 3",
+        "url": "https://cctv.jambikota.go.id/stream/27/stream.m3u8"
+    },
+    {
+        "id": "8",
+        "name": "Simpang BI 4",
+        "url": "https://cctv.jambikota.go.id/stream/4/stream.m3u8"
+    },
+    {
+        "id": "9",
+        "name": "Persijam 1",
+        "url": "https://cctv.jambikota.go.id/stream/28/stream.m3u8"
+    },
+    {
+        "id": "10",
+        "name": "Persijam 2",
+        "url": "https://cctv.jambikota.go.id/stream/5/stream.m3u8"
+    },
+    {
+        "id": "11",
+        "name": "Persijam 3",
+        "url": "https://cctv.jambikota.go.id/stream/6/stream.m3u8"
+    },
+    {
+        "id": "12",
+        "name": "Persijam 4",
+        "url": "https://cctv.jambikota.go.id/stream/29/stream.m3u8"
+    },
+    {
+        "id": "13",
+        "name": "Persijam PTZ",
+        "url": "https://cctv.jambikota.go.id/stream/30/stream.m3u8"
+    },
+    {
+        "id": "14",
+        "name": "Mayang 1",
+        "url": "https://cctv.jambikota.go.id/stream/7/stream.m3u8"
+    },
+    {
+        "id": "15",
+        "name": "Mayang 2",
+        "url": "https://cctv.jambikota.go.id/stream/8/stream.m3u8"
+    },
+    {
+        "id": "16",
+        "name": "Mayang PTZ",
+        "url": "https://cctv.jambikota.go.id/stream/32/stream.m3u8"
+    },
+    {
+        "id": "17",
+        "name": "Puncak 2",
+        "url": "https://cctv.jambikota.go.id/stream/12/stream.m3u8"
+    },
+    {
+        "id": "18",
+        "name": "Puncak PTZ",
+        "url": "https://cctv.jambikota.go.id/stream/11/stream.m3u8"
+    },
+    {
+        "id": "19",
+        "name": "Kota Baru 1",
+        "url": "https://cctv.jambikota.go.id/stream/17/stream.m3u8"
+    },
+    {
+        "id": "20",
+        "name": "Nurdin H 1",
+        "url": "https://cctv.jambikota.go.id/stream/19/stream.m3u8"
+    },
+    {
+        "id": "21",
+        "name": "Nurdin H 2",
+        "url": "https://cctv.jambikota.go.id/stream/20/stream.m3u8"
+    },
+    {
+        "id": "22",
+        "name": "Nurdin H 3",
+        "url": "https://cctv.jambikota.go.id/stream/34/stream.m3u8"
+    }
+]
