@@ -1,0 +1,252 @@
+[
+  {
+    "id": "1",
+    "name": "Jembatan Sigagak Medan",
+    "url": "https://stream.rekasadigital.id/sigagak_medan/index.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Jembatan Sigagak Siantar",
+    "url": "https://stream.rekasadigital.id/jembatan_sigagak_siantar/index.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Jalan Medan Simpang Karang Sari",
+    "url": "https://stream.rekasadigital.id/jalan_medan_simpang_karang_sari/index.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Jalan Medan Simpang AMD Terminal",
+    "url": "https://stream.rekasadigital.id/jalan_medan_simpang_amd/index.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Simpang Rambung Merah",
+    "url": "https://stream.rekasadigital.id/simpang_rb_merah/index.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Simpang Rambung Merah Kota",
+    "url": "https://stream.rekasadigital.id/simpang_rambung_merah_kota/index.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Terminal Polsek Siantar Utara",
+    "url": "https://stream.rekasadigital.id/cctv_terminal_polsek_siantar_utara/index.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Terminal Simpang Rambung Merah",
+    "url": "https://stream.rekasadigital.id/terminal_simpang_rambung_merah/index.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Perempatan Lorong 20",
+    "url": "https://stream.rekasadigital.id/perempatan_lorong_20/index.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Simpang BDB Medan",
+    "url": "https://stream.rekasadigital.id/simpang_bdb_medan/index.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Simpang BDB Kota",
+    "url": "https://stream.rekasadigital.id/simpang_bdb_kota/index.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Simpang Sambo",
+    "url": "https://stream.rekasadigital.id/simpang_sambo/index.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Jalan Sutomo Makam Pahlawan",
+    "url": "https://stream.rekasadigital.id/sutomo_makam_pahlawan/index.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Jalan Sutomo Pasar Horas",
+    "url": "https://stream.rekasadigital.id/jalan_sutomo_vihara_square/index.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Jalan Sutomo Vihara Square",
+    "url": "https://stream.rekasadigital.id/jalan_sutomo_pasar_horas/index.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Jalan Sutomo Simpang Jalan Bandung",
+    "url": "https://stream.rekasadigital.id/jalan_sutomo_polres_siantar/index.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Jalan Sutomo Simpang Surabaya",
+    "url": "https://stream.rekasadigital.id/jalan_sutomo_siantar_square/index.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Jl. Mh. Sitorus",
+    "url": "https://stream.rekasadigital.id/jl_mh_sitorus/index.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Jl. Sudirman Simpang BRI",
+    "url": "https://stream.rekasadigital.id/simpang_bri/index.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Jl. Merdeka / Depan Balai Kota",
+    "url": "https://stream.rekasadigital.id/jl_merdeka/index.m3u8"
+  },
+  {
+    "id": "21",
+    "name": "Simpang 4 Bundaran",
+    "url": "https://stream.rekasadigital.id/simpang_4_bundaran/index.m3u8"
+  },
+  {
+    "id": "22",
+    "name": "Simpang Farel Pasaribu Kota",
+    "url": "https://stream.rekasadigital.id/simpang_farel_pasaribu_kota/index.m3u8"
+  },
+  {
+    "id": "23",
+    "name": "Simpang Farel Pasaribu Tanah Jawa",
+    "url": "https://stream.rekasadigital.id/simpang_farel_pasaribu_tanah_jawa/index.m3u8"
+  },
+  {
+    "id": "24",
+    "name": "Jalan Melanthon Siregar Simpang Bah Kora II Atas",
+    "url": "https://stream.rekasadigital.id/jl_melanthon_siregar_simpang_bah_kora_ii_atas/index.m3u8"
+  },
+  {
+    "id": "25",
+    "name": "Jalan Singa Jalan Bali",
+    "url": "https://stream.rekasadigital.id/jalan_singa_jalan_bali/index.m3u8"
+  },
+  {
+    "id": "26",
+    "name": "Simpang Jalan Bali",
+    "url": "https://stream.rekasadigital.id/simpang_jalan_bali/index.m3u8"
+  },
+  {
+    "id": "27",
+    "name": "Simpang 4 Jalan Gereja",
+    "url": "https://stream.rekasadigital.id/simpang_4_jalan_gereja/index.m3u8"
+  },
+  {
+    "id": "28",
+    "name": "Simpang Dua",
+    "url": "https://stream.rekasadigital.id/simpang_dua/index.m3u8"
+  },
+  {
+    "id": "29",
+    "name": "Simpang Dua Jalan Sisingamangaraja Kota",
+    "url": "https://stream.rekasadigital.id/simpang_dua_jl_sisisingamnagaraja_kota/index.m3u8"
+  },
+  {
+    "id": "30",
+    "name": "Jalan Saribudolok Ring Road Tol Simpang Panei",
+    "url": "https://stream.rekasadigital.id/jl_saribu_dolok_simpang_ringroad_tol_simpang_panei/index.m3u8"
+  },
+  {
+    "id": "31",
+    "name": "Jalan Saribudolok Simpang Dua",
+    "url": "https://stream.rekasadigital.id/jalan_saribudolok_simpang_dua/index.m3u8"
+  },
+  {
+    "id": "32",
+    "name": "Jalan Parapat Ringroad",
+    "url": "https://stream.rekasadigital.id/jalan_parapat_ringroad/index.m3u8"
+  },
+  {
+    "id": "33",
+    "name": "Jalan Parapat Bah Kora II",
+    "url": "https://stream.rekasadigital.id/jalan_parapat_bahkora_ii/index.m3u8"
+  },
+  {
+    "id": "34",
+    "name": "Simarimbun Kota",
+    "url": "https://stream.rekasadigital.id/simarimbun_kota/index.m3u8"
+  },
+  {
+    "id": "35",
+    "name": "Simarimbun Parapat Sidamanik",
+    "url": "https://stream.rekasadigital.id/simarimbun_parapat_sidamanik/index.m3u8"
+  },
+  {
+    "id": "36",
+    "name": "Pasar Horas Jalan Merdeka Bawah",
+    "url": "https://stream.rekasadigital.id/pasar_horas_1/index.m3u8"
+  },
+  {
+    "id": "37",
+    "name": "Pasar Horas Gedung IV",
+    "url": "https://stream.rekasadigital.id/pasar_horas_4/index.m3u8"
+  },
+  {
+    "id": "38",
+    "name": "Pasar Horas Gedung IV Alt",
+    "url": "https://stream.rekasadigital.id/pasar_horas_5/index.m3u8"
+  },
+  {
+    "id": "39",
+    "name": "Pasar Horas Jalan Merdeka Simpang Wahidin",
+    "url": "https://stream.rekasadigital.id/pasar_horas_6/index.m3u8"
+  },
+  {
+    "id": "40",
+    "name": "Jalan Sudirman Ke Lap. Adam Malik",
+    "url": "https://stream.rekasadigital.id/jalan_sudirman_ke_lap_adam_malik/index.m3u8"
+  },
+  {
+    "id": "41",
+    "name": "Jalan Sudirman Ke Jalan Ade Irma",
+    "url": "https://stream.rekasadigital.id/jalan_sudirman_ke_jalan_ade_irma/index.m3u8"
+  },
+  {
+    "id": "42",
+    "name": "Jalan Gereja Menuju Parapat",
+    "url": "https://stream.rekasadigital.id/jalan_gereja_menuju_parapat/index.m3u8"
+  },
+  {
+    "id": "43",
+    "name": "Persimpangan Tugu Wahana Tata Nugraha",
+    "url": "https://stream.rekasadigital.id/persimpangan_tugu_wahana_tata_nugraha/index.m3u8"
+  },
+  {
+    "id": "44",
+    "name": "Jalan Merdeka Bawah",
+    "url": "https://stream.rekasadigital.id/jalan_merdeka_bawah/index.m3u8"
+  },
+  {
+    "id": "45",
+    "name": "Jln Sangnawaluh Ke Jln Asahan",
+    "url": "https://stream.rekasadigital.id/jln_sangnawaluh_ke_jln_asahan/index.m3u8"
+  },
+  {
+    "id": "46",
+    "name": "Jln Sangnawaluh Ke Jln Ahmad Yani",
+    "url": "https://stream.rekasadigital.id/jln_sangnawaluh_ke_jln_ahmad_yani/index.m3u8"
+  },
+  {
+    "id": "47",
+    "name": "Jalan Gereja Ke Jalan M.H. Sitorus",
+    "url": "https://stream.rekasadigital.id/jalan_gereja_ke_jalan_mh_sitorus/index.m3u8"
+  },
+  {
+    "id": "48",
+    "name": "Pertigaan Simpang USI",
+    "url": "https://stream.rekasadigital.id/pertigaan_simpang_usi/index.m3u8"
+  },
+  {
+    "id": "49",
+    "name": "Terminal Tanjung Pinggir 1",
+    "url": "https://stream.rekasadigital.id/pasar_horas_2/index.m3u8"
+  },
+  {
+    "id": "50",
+    "name": "Terminal Tanjung Pinggir 2",
+    "url": "https://stream.rekasadigital.id/pasar_horas_3/index.m3u8"
+  }
+]
