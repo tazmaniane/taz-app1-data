@@ -2,121 +2,121 @@
   {
     "id": "1",
     "name": "Soetta",
-    "url": "https://stream.kebumenkab.go.id/cam1/index.m3u8"
+    "url": "https://stream.kebumenkab.go.id/cam1/whep"
   },
   {
     "id": "2",
     "name": "Soetta 2",
-    "url": "https://stream.kebumenkab.go.id/cam2/index.m3u8"
+    "url": "https://stream.kebumenkab.go.id/cam2/whep"
   },
   {
     "id": "3",
     "name": "Simpang 4 (SMP N 5 Kebumen)",
-    "url": "https://stream.kebumenkab.go.id/cam3/index.m3u8"
+    "url": "https://stream.kebumenkab.go.id/cam3/whep"
   },
   {
     "id": "4",
     "name": "Merdeka (Timur 1)",
-    "url": "https://stream.kebumenkab.go.id/cam4/index.m3u8"
+    "url": "https://stream.kebumenkab.go.id/cam4/whep"
   },
   {
     "id": "5",
     "name": "Merdeka (Timur 2)",
-    "url": "https://stream.kebumenkab.go.id/cam5/index.m3u8"
+    "url": "https://stream.kebumenkab.go.id/cam5/whep"
   },
   {
     "id": "6",
-    "name": "Alun-Alun (Parkiran Timur)",
-    "url": "https://stream.kebumenkab.go.id/cam6/index.m3u8"
+    "name": "Alun Alun (Parkiran Timur)",
+    "url": "https://stream.kebumenkab.go.id/cam6/whep"
   },
   {
     "id": "7",
-    "name": "Alun-Alun (Parkiran Selatan & Fitnes)",
-    "url": "https://stream.kebumenkab.go.id/cam7/index.m3u8"
+    "name": "Alun Alun (Parkiran Selatan & Fitnes)",
+    "url": "https://stream.kebumenkab.go.id/cam7/whep"
   },
   {
     "id": "8",
-    "name": "Alun-Alun (Pos Keamanan)",
-    "url": "https://stream.kebumenkab.go.id/cam8/index.m3u8"
+    "name": "Alun Alun (Pos Keamanan)",
+    "url": "https://stream.kebumenkab.go.id/cam8/whep"
   },
   {
     "id": "9",
-    "name": "Alun-Alun (Selatan-Barat)",
-    "url": "https://stream.kebumenkab.go.id/cam9/index.m3u8"
+    "name": "Alun Alun (Selatan Barat)",
+    "url": "https://stream.kebumenkab.go.id/cam9/whep"
   },
   {
     "id": "10",
-    "name": "Alun-Alun (Selatan-Timur)",
-    "url": "https://stream.kebumenkab.go.id/cam10/index.m3u8"
+    "name": "Alun Alun (Selatan Timur)",
+    "url": "https://stream.kebumenkab.go.id/cam10/whep"
   },
   {
     "id": "11",
-    "name": "Alun-Alun (Fitnes)",
-    "url": "https://stream.kebumenkab.go.id/cam11/index.m3u8"
+    "name": "Alun Alun (Fitnes)",
+    "url": "https://stream.kebumenkab.go.id/cam11/whep"
   },
   {
     "id": "12",
-    "name": "Alun-Alun (Pintu Masuk Timur)",
-    "url": "https://stream.kebumenkab.go.id/cam12/index.m3u8"
+    "name": "Alun Alun (Pintu Masuk Timur)",
+    "url": "https://stream.kebumenkab.go.id/cam12/whep"
   },
   {
     "id": "13",
-    "name": "Alun-Alun (Pintu Keluar Timur)",
-    "url": "https://stream.kebumenkab.go.id/cam13/index.m3u8"
+    "name": "Alun Alun (Pintu Keluar Timur)",
+    "url": "https://stream.kebumenkab.go.id/cam13/whep"
   },
   {
     "id": "14",
-    "name": "Alun-Alun (Toilet Utara-Timur)",
-    "url": "https://stream.kebumenkab.go.id/cam14/index.m3u8"
+    "name": "Alun Alun (Toilet Utara Timur)",
+    "url": "https://stream.kebumenkab.go.id/cam14/whep"
   },
   {
     "id": "15",
-    "name": "Alun-Alun (Lapangan Utara-Timur)",
-    "url": "https://stream.kebumenkab.go.id/cam18/index.m3u8"
+    "name": "Alun Alun (Lapangan Utara Timur)",
+    "url": "https://stream.kebumenkab.go.id/cam18/whep"
   },
   {
     "id": "16",
-    "name": "Alun-Alun (Air Mancur Timur)",
-    "url": "https://stream.kebumenkab.go.id/cam19/index.m3u8"
+    "name": "Alun Alun (Air Mancur Timur)",
+    "url": "https://stream.kebumenkab.go.id/cam19/whep"
   },
   {
     "id": "17",
-    "name": "Alun-Alun (Air Mancur Barat)",
-    "url": "https://stream.kebumenkab.go.id/cam15/index.m3u8"
+    "name": "Alun Alun (Air Mancur Barat)",
+    "url": "https://stream.kebumenkab.go.id/cam15/whep"
   },
   {
     "id": "18",
-    "name": "Alun-Alun (Teater)",
-    "url": "https://stream.kebumenkab.go.id/cam16/index.m3u8"
+    "name": "Alun Alun (Teater)",
+    "url": "https://stream.kebumenkab.go.id/cam16/whep"
   },
   {
     "id": "19",
-    "name": "Alun-Alun (Pintu Keluar Barat)",
-    "url": "https://stream.kebumenkab.go.id/cam17/index.m3u8"
+    "name": "Alun Alun (Pintu Keluar Barat)",
+    "url": "https://stream.kebumenkab.go.id/cam17/whep"
   },
   {
     "id": "20",
-    "name": "Alun-Alun (Pintu Masuk Barat)",
-    "url": "https://stream.kebumenkab.go.id/cam22/index.m3u8"
+    "name": "Alun Alun (Pintu Masuk Barat)",
+    "url": "https://stream.kebumenkab.go.id/cam22/whep"
   },
   {
     "id": "21",
-    "name": "Alun-Alun (Parkiran Barat)",
-    "url": "https://stream.kebumenkab.go.id/cam20/index.m3u8"
+    "name": "Alun Alun (Parkiran Barat)",
+    "url": "https://stream.kebumenkab.go.id/cam20/whep"
   },
   {
     "id": "22",
-    "name": "Alun-Alun (Lapangan Utara Barat)",
-    "url": "https://stream.kebumenkab.go.id/cam21/index.m3u8"
+    "name": "Alun Alun (Lapangan Utara Barat)",
+    "url": "https://stream.kebumenkab.go.id/cam21/whep"
   },
   {
     "id": "23",
     "name": "Pendopo",
-    "url": "https://stream.kebumenkab.go.id/cam23/index.m3u8"
+    "url": "https://stream.kebumenkab.go.id/cam23/whep"
   },
   {
     "id": "24",
     "name": "DPRD",
-    "url": "https://stream.kebumenkab.go.id/cam24/index.m3u8"
+    "url": "https://stream.kebumenkab.go.id/cam24/whep"
   }
 ]
