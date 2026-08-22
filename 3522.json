@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Simpang 4 Bundaran Jetak",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/af39d772-e7e0-493c-aba1-4460d473bfa8.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Simpang 4 Rajekwesi - Sosrodilogo",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/05dfbeca-138c-4e12-a89a-c7b4f08375e7.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Simpang 4 U.Suropati - Panglima Polim",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/b707920d-4922-40cd-aa3a-40335f4d1139.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Simpang 4 Krempyeng - Gajah Mada",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/fd9a18d4-a5f9-4046-b60c-065512722ee9.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Simpang 3 Jambean - Basuki Rahmat",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/7535db5e-d96f-4fc9-ae7d-ff1dc41f79ce.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Simpang 3 Ahmad Yani - Veteran",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/121464f4-cfbc-4bbf-bd2e-247de018f401.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Simpang 4 Diponegoro",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/470ccddf-90a1-42c3-827a-c17976900567.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Simpang 4 PLN - Sawunggaling",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/94774749-ebac-4563-b91e-cd24249f15ba.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Simpang 4 Mlaten",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/285b6a91-2eb3-4d8b-aee8-4f4d459302df.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Simpang 3 Campurejo - Lettu Suyitno",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/9f01c568-f320-489f-8422-23003b18b678.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Simpang 4 Basuki Rahmat - Dr. Cipto",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/4d630ff3-a34a-45bc-b265-d63b004cd2c0.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Depan Uji Kendaraan Bermotor",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/0682655b-c640-40a5-a611-fe3a6b905502.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Simpang 4 Dr. Cipto - Dr. Suharso",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/e48d590c-9788-45d1-b3e2-32243074e6a8.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "Simpang 4 Teuku Umar",
+    "url": "https://data.bojonegorokab.go.id/live-botic/local/744634a6-f7ac-41b0-8334-7a8bd49aec65.m3u8"
+  }
+]
