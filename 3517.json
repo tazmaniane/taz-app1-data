@@ -1,122 +1,307 @@
 [
-    {
-        "id": "1",
-        "name": "Alun-Alun Jombang - Lapangan Sintetis",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=120&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3MDQ4LCJleHAiOjE3NzM1NTQyNDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.j13Hm3O2hk0HqIr7TwMrAU6hoM_am4IyUwYTGnnDt0I"
-    },
-    {
-        "id": "2",
-        "name": "Alun-Alun Jombang - Area Tempat Duduk",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=121&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3MDQ4LCJleHAiOjE3NzM1NTQyNDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.j13Hm3O2hk0HqIr7TwMrAU6hoM_am4IyUwYTGnnDt0I"
-    },
-    {
-        "id": "3",
-        "name": "Alun-Alun Jombang - Area Playgorund",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=122&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3MDQ4LCJleHAiOjE3NzM1NTQyNDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.j13Hm3O2hk0HqIr7TwMrAU6hoM_am4IyUwYTGnnDt0I"
-    },
-    {
-        "id": "4",
-        "name": "Alun-Alun Jombang - Area Tempat Duduk Timur",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=124&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3MTAyLCJleHAiOjE3NzM1NTQzMDIsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.5Qzt5Q-HWm-tY2H-3h9d1gFQd6Y48D5rA2R_dGJKqLU"
-    },
-    {
-        "id": "5",
-        "name": "Alun-Alun Jombang - Parkiran Selatan",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=123&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3MTAyLCJleHAiOjE3NzM1NTQzMDIsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.5Qzt5Q-HWm-tY2H-3h9d1gFQd6Y48D5rA2R_dGJKqLU"
-    },
-    {
-        "id": "6",
-        "name": "Sentra Wisata Kuliner 1",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=98&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3Mzc2LCJleHAiOjE3NzM1NTQ1NzYsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.pKjbM5nexAm79uWC350IwjM5mPdLDgdDb_T2FrqGRnc"
-    },
-    {
-        "id": "7",
-        "name": "Sentra Wisata Kuliner 2",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=100&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3Mzc2LCJleHAiOjE3NzM1NTQ1NzYsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.pKjbM5nexAm79uWC350IwjM5mPdLDgdDb_T2FrqGRnc"
-    },
-    {
-        "id": "8",
-        "name": "Sentra Wisata Kuliner 3",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=100&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3Mzc2LCJleHAiOjE3NzM1NTQ1NzYsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.pKjbM5nexAm79uWC350IwjM5mPdLDgdDb_T2FrqGRnc"
-    },
-    {
-        "id": "9",
-        "name": "Sentra Wisata Kuliner 4",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=101&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3Mzc2LCJleHAiOjE3NzM1NTQ1NzYsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.pKjbM5nexAm79uWC350IwjM5mPdLDgdDb_T2FrqGRnc"
-    },
-    {
-        "id": "10",
-        "name": "Sentra Wisata Kuliner 6",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=98&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQzNzU1LCJleHAiOjE3NzM1NTA5NTUsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.tddtE8DTYpl94WOv945S9qtpyUH4IBKDDlO9y9ncFmo"
-    },
-    {
-        "id": "11",
-        "name": "Sentra Wisata Kuliner 7",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=104&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3Mzc2LCJleHAiOjE3NzM1NTQ1NzYsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.pKjbM5nexAm79uWC350IwjM5mPdLDgdDb_T2FrqGRnc"
-    },
-    {
-        "id": "12",
-        "name": "Sentra Wisata Kuliner 5",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=102&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3Mzc2LCJleHAiOjE3NzM1NTQ1NzYsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.pKjbM5nexAm79uWC350IwjM5mPdLDgdDb_T2FrqGRnc"
-    },
-    {
-        "id": "13",
-        "name": "Sentra Wisata Kuliner 8",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=105&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3Mzc2LCJleHAiOjE3NzM1NTQ1NzYsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.pKjbM5nexAm79uWC350IwjM5mPdLDgdDb_T2FrqGRnc"
-    },
-    {
-        "id": "14",
-        "name": "Perbatasan Mojoagung (Barat)",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=96&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NTA4LCJleHAiOjE3NzM1NTQ3MDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.wN9NB03P6MUjDMTItRQsYTXZ7tGyrsVzXrNiXMZQIS8"
-    },
-    {
-        "id": "15",
-        "name": "Perbatasan Mojoagung (Timur)",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=106&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NTA4LCJleHAiOjE3NzM1NTQ3MDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.wN9NB03P6MUjDMTItRQsYTXZ7tGyrsVzXrNiXMZQIS8"
-    },
-    {
-        "id": "16",
-        "name": "Perbatasan Rejoagung Ngoro (Selatan)",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=107&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NzM3LCJleHAiOjE3NzM1NTQ5MzcsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.k72MUAMakv5xNptcO_2jG_-368ouIMM2wqNDqVrsc-A"
-    },
-    {
-        "id": "17",
-        "name": "Perbatasan Rejoagung Ngoro (Utara)",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=108&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NzM3LCJleHAiOjE3NzM1NTQ5MzcsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.k72MUAMakv5xNptcO_2jG_-368ouIMM2wqNDqVrsc-A"
-    },
-    {
-        "id": "18",
-        "name": "Perbatasan Bandarkedungmulyo (Timur)",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=109&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NzM3LCJleHAiOjE3NzM1NTQ5MzcsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.k72MUAMakv5xNptcO_2jG_-368ouIMM2wqNDqVrsc-A"
-    },
-    {
-        "id": "19",
-        "name": "Perbatasan Bandarkedungmulyo (Barat)",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=110&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NzM3LCJleHAiOjE3NzM1NTQ5MzcsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.k72MUAMakv5xNptcO_2jG_-368ouIMM2wqNDqVrsc-A"
-    },
-    {
-        "id": "20",
-        "name": "Perbatasan Kabuh (Utara)",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=111&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NzM3LCJleHAiOjE3NzM1NTQ5MzcsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.k72MUAMakv5xNptcO_2jG_-368ouIMM2wqNDqVrsc-A"
-    },
-    {
-        "id": "21",
-        "name": "Perbatasan Kabuh (Selatan)",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=112&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NzM3LCJleHAiOjE3NzM1NTQ5MzcsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.k72MUAMakv5xNptcO_2jG_-368ouIMM2wqNDqVrsc-A"
-    },
-    {
-        "id": "22",
-        "name": "Perbatasan Jombok Ngoro (Selatan)",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=113&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3ODg5LCJleHAiOjE3NzM1NTUwODksInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.F-aLz8a5Tw9-EdY8_fJSo5ewvRdyUle1mrNkM2Md4xw"
-    },
-    {
-        "id": "23",
-        "name": "Perbatasan Jombok Ngoro (Utara)",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=114&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3ODg5LCJleHAiOjE3NzM1NTUwODksInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.F-aLz8a5Tw9-EdY8_fJSo5ewvRdyUle1mrNkM2Md4xw"
-    },
-    {
-        "id": "24",
-        "name": "Simpang Mojongapit (Barat)",
-        "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=139&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4MjA4LCJleHAiOjE3NzM1NTU0MDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.SBvoVnIpkSFfkbp7AhSvCK31XcFoGrj-wUDPej5TeXE"
-    }
+  {
+    "id": "1",
+    "name": "Alun Alun Jombang - Lapangan Sintetis",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=120&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3MDQ4LCJleHAiOjE3NzM1NTQyNDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.j13Hm3O2hk0HqIr7TwMrAU6hoM_am4IyUwYTGnnDt0I"
+  },
+  {
+    "id": "2",
+    "name": "Alun Alun Jombang - Area Tempat Duduk",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=121&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3MDQ4LCJleHAiOjE3NzM1NTQyNDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.j13Hm3O2hk0HqIr7TwMrAU6hoM_am4IyUwYTGnnDt0I"
+  },
+  {
+    "id": "3",
+    "name": "Alun Alun Jombang - Area Playgorund",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=122&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3MDQ4LCJleHAiOjE3NzM1NTQyNDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.j13Hm3O2hk0HqIr7TwMrAU6hoM_am4IyUwYTGnnDt0I"
+  },
+  {
+    "id": "4",
+    "name": "Alun Alun Jombang - Area Tempat Duduk Timur",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=124&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3MTAyLCJleHAiOjE3NzM1NTQzMDIsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.5Qzt5Q-HWm-tY2H-3h9d1gFQd6Y48D5rA2R_dGJKqLU"
+  },
+  {
+    "id": "5",
+    "name": "Alun Alun Jombang - Parkiran Selatan",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=123&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3MTAyLCJleHAiOjE3NzM1NTQzMDIsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.5Qzt5Q-HWm-tY2H-3h9d1gFQd6Y48D5rA2R_dGJKqLU"
+  },
+  {
+    "id": "6",
+    "name": "Sentra Wisata Kuliner 1",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=98&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3Mzc2LCJleHAiOjE3NzM1NTQ1NzYsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.pKjbM5nexAm79uWC350IwjM5mPdLDgdDb_T2FrqGRnc"
+  },
+  {
+    "id": "7",
+    "name": "Sentra Wisata Kuliner 2",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=100&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3Mzc2LCJleHAiOjE3NzM1NTQ1NzYsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.pKjbM5nexAm79uWC350IwjM5mPdLDgdDb_T2FrqGRnc"
+  },
+  {
+    "id": "8",
+    "name": "Sentra Wisata Kuliner 3",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=100&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3Mzc2LCJleHAiOjE3NzM1NTQ1NzYsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.pKjbM5nexAm79uWC350IwjM5mPdLDgdDb_T2FrqGRnc"
+  },
+  {
+    "id": "9",
+    "name": "Sentra Wisata Kuliner 4",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=101&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3Mzc2LCJleHAiOjE3NzM1NTQ1NzYsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.pKjbM5nexAm79uWC350IwjM5mPdLDgdDb_T2FrqGRnc"
+  },
+  {
+    "id": "10",
+    "name": "Sentra Wisata Kuliner 6",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=98&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQzNzU1LCJleHAiOjE3NzM1NTA5NTUsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.tddtE8DTYpl94WOv945S9qtpyUH4IBKDDlO9y9ncFmo"
+  },
+  {
+    "id": "11",
+    "name": "Sentra Wisata Kuliner 7",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=104&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3Mzc2LCJleHAiOjE3NzM1NTQ1NzYsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.pKjbM5nexAm79uWC350IwjM5mPdLDgdDb_T2FrqGRnc"
+  },
+  {
+    "id": "12",
+    "name": "Sentra Wisata Kuliner 5",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=102&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3Mzc2LCJleHAiOjE3NzM1NTQ1NzYsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.pKjbM5nexAm79uWC350IwjM5mPdLDgdDb_T2FrqGRnc"
+  },
+  {
+    "id": "13",
+    "name": "Sentra Wisata Kuliner 8",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=105&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3Mzc2LCJleHAiOjE3NzM1NTQ1NzYsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.pKjbM5nexAm79uWC350IwjM5mPdLDgdDb_T2FrqGRnc"
+  },
+  {
+    "id": "14",
+    "name": "Perbatasan Mojoagung (Barat)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=96&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NTA4LCJleHAiOjE3NzM1NTQ3MDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.wN9NB03P6MUjDMTItRQsYTXZ7tGyrsVzXrNiXMZQIS8"
+  },
+  {
+    "id": "15",
+    "name": "Perbatasan Mojoagung (Timur)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=106&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NTA4LCJleHAiOjE3NzM1NTQ3MDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.wN9NB03P6MUjDMTItRQsYTXZ7tGyrsVzXrNiXMZQIS8"
+  },
+  {
+    "id": "16",
+    "name": "Perbatasan Rejoagung Ngoro (Selatan)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=107&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NzM3LCJleHAiOjE3NzM1NTQ5MzcsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.k72MUAMakv5xNptcO_2jG_-368ouIMM2wqNDqVrsc-A"
+  },
+  {
+    "id": "17",
+    "name": "Perbatasan Rejoagung Ngoro (Utara)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=108&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NzM3LCJleHAiOjE3NzM1NTQ5MzcsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.k72MUAMakv5xNptcO_2jG_-368ouIMM2wqNDqVrsc-A"
+  },
+  {
+    "id": "18",
+    "name": "Perbatasan Bandarkedungmulyo (Timur)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=109&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NzM3LCJleHAiOjE3NzM1NTQ5MzcsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.k72MUAMakv5xNptcO_2jG_-368ouIMM2wqNDqVrsc-A"
+  },
+  {
+    "id": "19",
+    "name": "Perbatasan Bandarkedungmulyo (Barat)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=110&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NzM3LCJleHAiOjE3NzM1NTQ5MzcsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.k72MUAMakv5xNptcO_2jG_-368ouIMM2wqNDqVrsc-A"
+  },
+  {
+    "id": "20",
+    "name": "Perbatasan Kabuh (Utara)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=111&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NzM3LCJleHAiOjE3NzM1NTQ5MzcsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.k72MUAMakv5xNptcO_2jG_-368ouIMM2wqNDqVrsc-A"
+  },
+  {
+    "id": "21",
+    "name": "Perbatasan Kabuh (Selatan)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=112&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3NzM3LCJleHAiOjE3NzM1NTQ5MzcsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.k72MUAMakv5xNptcO_2jG_-368ouIMM2wqNDqVrsc-A"
+  },
+  {
+    "id": "22",
+    "name": "Perbatasan Jombok Ngoro (Selatan)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=113&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3ODg5LCJleHAiOjE3NzM1NTUwODksInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.F-aLz8a5Tw9-EdY8_fJSo5ewvRdyUle1mrNkM2Md4xw"
+  },
+  {
+    "id": "23",
+    "name": "Perbatasan Jombok Ngoro (Utara)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=114&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3ODg5LCJleHAiOjE3NzM1NTUwODksInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.F-aLz8a5Tw9-EdY8_fJSo5ewvRdyUle1mrNkM2Md4xw"
+  },
+  {
+    "id": "24",
+    "name": "Simpang Mojongapit (Barat)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=139&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4MjA4LCJleHAiOjE3NzM1NTU0MDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.SBvoVnIpkSFfkbp7AhSvCK31XcFoGrj-wUDPej5TeXE"
+  },
+  {
+    "id": "25",
+    "name": "Simpang Mojongapit (Timur)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=140&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4MjA4LCJleHAiOjE3NzM1NTU0MDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.SBvoVnIpkSFfkbp7AhSvCK31XcFoGrj-wUDPej5TeXE"
+  },
+  {
+    "id": "26",
+    "name": "Simpang Mojongapit (Utara)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=141&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4MjA4LCJleHAiOjE3NzM1NTU0MDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.SBvoVnIpkSFfkbp7AhSvCK31XcFoGrj-wUDPej5TeXE"
+  },
+  {
+    "id": "27",
+    "name": "Simpang Keplaksari (Timur)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=133&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4MDkyLCJleHAiOjE3NzM1NTUyOTIsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.9ufaMvWzMDkjuwcieEyk-mQINcZVVvtHFHVj0u8emFo"
+  },
+  {
+    "id": "28",
+    "name": "Simpang Keplaksari (Barat)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=134&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4MDkyLCJleHAiOjE3NzM1NTUyOTIsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.9ufaMvWzMDkjuwcieEyk-mQINcZVVvtHFHVj0u8emFo"
+  },
+  {
+    "id": "29",
+    "name": "Simpang Keplaksari (Utara)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=138&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4MDkyLCJleHAiOjE3NzM1NTUyOTIsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.9ufaMvWzMDkjuwcieEyk-mQINcZVVvtHFHVj0u8emFo"
+  },
+  {
+    "id": "30",
+    "name": "Simpang Terminal (Utara)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=136&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4ODQ5LCJleHAiOjE3NzM1NTYwNDksInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.j-oOTUkEF6MIWA8quIG10tJ-LMEANZsWLzebqOIWG5A"
+  },
+  {
+    "id": "31",
+    "name": "Simpang Terminal (Selatan)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=137&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4ODQ5LCJleHAiOjE3NzM1NTYwNDksInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.j-oOTUkEF6MIWA8quIG10tJ-LMEANZsWLzebqOIWG5A"
+  },
+  {
+    "id": "32",
+    "name": "Simpang Terminal (Barat)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=135&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4OTIyLCJleHAiOjE3NzM1NTYxMjIsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.MRmADGRtBaZLnjcXdu3ZA0OoHaoEsIH0_otJF1Ui5JY"
+  },
+  {
+    "id": "33",
+    "name": "Simpang Stadion (Selatan)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=142&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4OTIyLCJleHAiOjE3NzM1NTYxMjIsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.MRmADGRtBaZLnjcXdu3ZA0OoHaoEsIH0_otJF1Ui5JY"
+  },
+  {
+    "id": "34",
+    "name": "Simpang Weru (Selatan)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=143&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4NkyLCJleHAiOjE3NzM1NTU4OTIsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.8yQ5tOlObDTXMNa4cBOlxFyB3_5BgXdxdvhkaMzrtRs"
+  },
+  {
+    "id": "35",
+    "name": "Simpang Weru (Utara)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=144&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4NkyLCJleHAiOjE3NzM1NTU4OTIsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.8yQ5tOlObDTXMNa4cBOlxFyB3_5BgXdxdvhkaMzrtRs"
+  },
+  {
+    "id": "36",
+    "name": "Simpang Tugu (Utara)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=145&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4ODQ5LCJleHAiOjE3NzM1NTYwNDksInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.j-oOTUkEF6MIWA8quIG10tJ-LMEANZsWLzebqOIWG5A"
+  },
+  {
+    "id": "37",
+    "name": "Simpang Tugu (Selatan)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=147&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4ODQ5LCJleHAiOjE3NzM1NTYwNDksInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.j-oOTUkEF6MIWA8quIG10tJ-LMEANZsWLzebqOIWG5A"
+  },
+  {
+    "id": "38",
+    "name": "Simpang Tugu (Timur)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=148&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4ODQ5LCJleHAiOjE3NzM1NTYwNDksInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.j-oOTUkEF6MIWA8quIG10tJ-LMEANZsWLzebqOIWG5A"
+  },
+  {
+    "id": "39",
+    "name": "Simpang Tugu (Barat)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=146&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4ODQ5LCJleHAiOjE3NzM1NTYwNDksInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.j-oOTUkEF6MIWA8quIG10tJ-LMEANZsWLzebqOIWG5A"
+  },
+  {
+    "id": "40",
+    "name": "Simpang RSUD (Utara)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=149&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4MzIxLCJleHAiOjE3NzM1NTU1MjEsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.kpEk7cgK1eB5_S2zo5lSDDgUZq_YrgBI21ObmFiTlZM"
+  },
+  {
+    "id": "41",
+    "name": "Simpang RSUD (Selatan)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=152&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4MzIxLCJleHAiOjE3NzM1NTU1MjEsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.kpEk7cgK1eB5_S2zo5lSDDgUZq_YrgBI21ObmFiTlZM"
+  },
+  {
+    "id": "42",
+    "name": "Simpang RSUD (Timur)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=151&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4MzIxLCJleHAiOjE3NzM1NTU1MjEsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.kpEk7cgK1eB5_S2zo5lSDDgUZq_YrgBI21ObmFiTlZM"
+  },
+  {
+    "id": "43",
+    "name": "Simpang RSUD (Barat)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=150&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4MzIxLCJleHAiOjE3NzM1NTU1MjEsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.kpEk7cgK1eB5_S2zo5lSDDgUZq_YrgBI21ObmFiTlZM"
+  },
+  {
+    "id": "44",
+    "name": "Simpang Kebonrojo (Barat)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=153&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3ODg5LCJleHAiOjE3NzM1NTUwODksInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.F-aLz8a5Tw9-EdY8_fJSo5ewvRdyUle1mrNkM2Md4xw"
+  },
+  {
+    "id": "45",
+    "name": "Simpang Kebonrojo (Timur)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=154&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4MDkyLCJleHAiOjE3NzM1NTUyOTIsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.9ufaMvWzMDkjuwcieEyk-mQINcZVVvtHFHVj0u8emFo"
+  },
+  {
+    "id": "46",
+    "name": "Simpang Sman 2 Jombang (Utara)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=155&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4NkyLCJleHAiOjE3NzM1NTU4OTIsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.8yQ5tOlObDTXMNa4cBOlxFyB3_5BgXdxdvhkaMzrtRs"
+  },
+  {
+    "id": "47",
+    "name": "Simpang Sman 2 Jombang (Selatan)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=157&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4NkyLCJleHAiOjE3NzM1NTU4OTIsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.8yQ5tOlObDTXMNa4cBOlxFyB3_5BgXdxdvhkaMzrtRs"
+  },
+  {
+    "id": "48",
+    "name": "Simpang Sman 2 Jombang (Timur)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=158&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4NDU3LCJleHAiOjE3NzM1NTU2NTcsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.BykXY_HwiyMfFyKCEgwi-E6Evd-Ec8PXgL5gNialnXc"
+  },
+  {
+    "id": "49",
+    "name": "Simpang Sman 2 Jombang (Barat)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=156&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4NDU3LCJleHAiOjE3NzM1NTU2NTcsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.BykXY_HwiyMfFyKCEgwi-E6Evd-Ec8PXgL5gNialnXc"
+  },
+  {
+    "id": "50",
+    "name": "Simpang Sengon (Timur)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=159&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ1NTg0LCJleHAiOjE3NzM1NTI3ODQsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.1XU6bFT9vDVQlDu-pfCneG8U0PDFXinRsw1JC_S7h1Y"
+  },
+  {
+    "id": "51",
+    "name": "Simpang Sengon (Selatan)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=159&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ1NTg0LCJleHAiOjE3NzM1NTI3ODQsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.1XU6bFT9vDVQlDu-pfCneG8U0PDFXinRsw1JC_S7h1Y"
+  },
+  {
+    "id": "52",
+    "name": "Simpang Sengon (Barat)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=159&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ1NTg0LCJleHAiOjE3NzM1NTI3ODQsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.1XU6bFT9vDVQlDu-pfCneG8U0PDFXinRsw1JC_S7h1Y"
+  },
+  {
+    "id": "53",
+    "name": "Simpang Sengon (Utara)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=159&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ1NTg0LCJleHAiOjE3NzM1NTI3ODQsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.1XU6bFT9vDVQlDu-pfCneG8U0PDFXinRsw1JC_S7h1Y"
+  },
+  {
+    "id": "54",
+    "name": "Simpang Pg Jombang (Timur)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=163&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4MjA4LCJleHAiOjE3NzM1NTU0MDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.SBvoVnIpkSFfkbp7AhSvCK31XcFoGrj-wUDPej5TeXE"
+  },
+  {
+    "id": "55",
+    "name": "Simpang Pg Jombang (Barat)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=165&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4MjA4LCJleHAiOjE3NzM1NTU0MDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.SBvoVnIpkSFfkbp7AhSvCK31XcFoGrj-wUDPej5TeXE"
+  },
+  {
+    "id": "56",
+    "name": "Simpang Pg Jombang (Selatan)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=164&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ4MjA4LCJleHAiOjE3NzM1NTU0MDgsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.SBvoVnIpkSFfkbp7AhSvCK31XcFoGrj-wUDPej5TeXE"
+  },
+  {
+    "id": "57",
+    "name": "Simpang Ka Pandanwangi (Utara)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=166&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3ODg5LCJleHAiOjE3NzM1NTUwODksInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.F-aLz8a5Tw9-EdY8_fJSo5ewvRdyUle1mrNkM2Md4xw"
+  },
+  {
+    "id": "58",
+    "name": "Simpang Ka Pandanwangi (Timur)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=167&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3ODg5LCJleHAiOjE3NzM1NTUwODksInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.F-aLz8a5Tw9-EdY8_fJSo5ewvRdyUle1mrNkM2Md4xw"
+  },
+  {
+    "id": "59",
+    "name": "Simpang Ka Pandanwangi (Selatan)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=168&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ3ODg5LCJleHAiOjE3NzM1NTUwODksInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.F-aLz8a5Tw9-EdY8_fJSo5ewvRdyUle1mrNkM2Md4xw"
+  },
+  {
+    "id": "60",
+    "name": "Dprd Jombang (Selatan)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=116&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ1OTA0LCJleHAiOjE3NzM1NTMxMDQsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.rPxevNlL1nhcMb_Xq79nZBYb3K4wEFVQ2GcdnrL1Ork"
+  },
+  {
+    "id": "61",
+    "name": "Sdn Wijana (Utara)",
+    "url": "https://cctv.jombangkab.go.id/zm/cgi-bin/nph-zms?monitor=119&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzczNTQ1OTA0LCJleHAiOjE3NzM1NTMxMDQsInVzZXIiOiJmcm9udGVuZCIsInR5cGUiOiJhY2Nlc3MifQ.rPxevNlL1nhcMb_Xq79nZBYb3K4wEFVQ2GcdnrL1Ork"
+  }
 ]
