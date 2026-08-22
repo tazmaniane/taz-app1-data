@@ -1,191 +1,191 @@
 [
   {
-    "id": "1",
+    "id": "bbf10519-a922-4be8-af37-ac2df7bcef2a",
     "name": "Bundaran Pacet",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fbbf10519-a922-4be8-af37-ac2df7bcef2a&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "2",
+    "id": "d91db3c2-43f6-4da5-8d94-9bbac72e279a",
     "name": "Jalur Bundaran Pacet - Mojosari",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fd91db3c2-43f6-4da5-8d94-9bbac72e279a&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "3",
+    "id": "ee000cb3-309d-47b6-b31d-5314c45fca7f",
     "name": "Ketapan Rame 1",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fee000cb3-309d-47b6-b31d-5314c45fca7f&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "4",
+    "id": "5040342c-5b36-4445-a49a-4ec670c39ee5",
     "name": "Ketapan Rame 2",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F5040342c-5b36-4445-a49a-4ec670c39ee5&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "5",
+    "id": "f47208c3-b223-4186-9b9e-5b0cee20dad1",
     "name": "Sisi Barat 1",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Ff47208c3-b223-4186-9b9e-5b0cee20dad1&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "6",
+    "id": "85e9e150-8e1b-4312-9fb7-83f035c3be28",
     "name": "Sisi Barat 2",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F85e9e150-8e1b-4312-9fb7-83f035c3be28&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "7",
+    "id": "6b2d55e4-833a-4735-b8ac-70456ece8798",
     "name": "Simpang 3 Gondang Ptz",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F6b2d55e4-833a-4735-b8ac-70456ece8798&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "8",
+    "id": "22bb463d-4434-47bd-8d63-e9cfad47e1f8",
     "name": "Sisi Selatan 1",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F22bb463d-4434-47bd-8d63-e9cfad47e1f8&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "9",
+    "id": "8c527bcf-6a9f-491b-83a9-f41c532ea001",
     "name": "Sisi Selatan 2",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F8c527bcf-6a9f-491b-83a9-f41c532ea001&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "10",
+    "id": "44d9bdfb-5720-4097-8ff4-125dd81dc17d",
     "name": "Sisi Utara 1",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F44d9bdfb-5720-4097-8ff4-125dd81dc17d&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "11",
+    "id": "7825b9f5-0ee6-4bdb-9089-4ad86345689b",
     "name": "Sisi Utara 2",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F7825b9f5-0ee6-4bdb-9089-4ad86345689b&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "12",
+    "id": "2a4d1f89-0481-4169-8905-030b997ce362",
     "name": "Jalur Ubalan - Air Panas",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F2a4d1f89-0481-4169-8905-030b997ce362&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "13",
+    "id": "b6a45d58-09c0-4eda-9cf6-5c95e45e1554",
     "name": "Jalur Ubalan - Pacet",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fb6a45d58-09c0-4eda-9cf6-5c95e45e1554&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "14",
+    "id": "d727e1b0-fdcd-4ca5-a70e-c9cbfbfc438f",
     "name": "Simpang 4 Kemlagi Sisi Barat",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fd727e1b0-fdcd-4ca5-a70e-c9cbfbfc438f&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "15",
+    "id": "6781c5bd-d2fa-48d6-86ef-b998fb946b71",
     "name": "Simpang 4 Kemlagi Sisi Selatan",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F6781c5bd-d2fa-48d6-86ef-b998fb946b71&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "16",
+    "id": "28c37e7e-5e4b-4236-888e-551dd671b1d7",
     "name": "Simpang 4 Kemlagi Sisi Selatan Ptz",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F28c37e7e-5e4b-4236-888e-551dd671b1d7&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "17",
+    "id": "b56ef5c9-4ec2-4f23-b2cd-74b4abe274e6",
     "name": "Simpang 4 Kemlagi Sisi Timur Ptz",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fb56ef5c9-4ec2-4f23-b2cd-74b4abe274e6&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "18",
+    "id": "a497df1b-9a98-489e-a50c-0f1f4570ca42",
     "name": "Simpang 4 Kemlagi Sisi Utara",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fa497df1b-9a98-489e-a50c-0f1f4570ca42&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "19",
+    "id": "d06c50c4-12c0-48e6-99bc-43f2c8a8f044",
     "name": "Simpng 4 Kupang Barat",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fd06c50c4-12c0-48e6-99bc-43f2c8a8f044&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "20",
+    "id": "ba8c7e29-83df-4337-8141-92be729f9984",
     "name": "Simpang 4 Kupang Selatan",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fba8c7e29-83df-4337-8141-92be729f9984&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "21",
+    "id": "cac41b7b-ba6b-4fb5-adf9-8c4d2e25d28a",
     "name": "Simpang 4 Kupang Selatan Ptz",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fcac41b7b-ba6b-4fb5-adf9-8c4d2e25d28a&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "22",
+    "id": "98bcc159-2505-4330-8ff6-878e0c6d9478",
     "name": "Simpang 4 Kupang Timur",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F98bcc159-2505-4330-8ff6-878e0c6d9478&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "23",
+    "id": "e9f93597-9b23-410d-ad68-2f8f1cc38b51",
     "name": "Simpang 4 Kupang Utara",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fe9f93597-9b23-410d-ad68-2f8f1cc38b51&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "24",
+    "id": "657108c1-9934-40e6-b900-a99c3872917b",
     "name": "Pacet - Cangar",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F657108c1-9934-40e6-b900-a99c3872917b&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "25",
+    "id": "cda98eb2-64f8-44f5-9b2f-e4aa4032399e",
     "name": "Pekukuhan Cam 1",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fcda98eb2-64f8-44f5-9b2f-e4aa4032399e&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "26",
+    "id": "e84a78cf-89ec-4ffd-aca3-e5d512cfca5e",
     "name": "Ptz Simpang 4 Pekukuhan",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fe84a78cf-89ec-4ffd-aca3-e5d512cfca5e&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "27",
+    "id": "5c3a4619-29be-4fa7-907b-cd53e3be2c34",
     "name": "Pekukuhan Cam 2",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F5c3a4619-29be-4fa7-907b-cd53e3be2c34&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "28",
+    "id": "ed5dcf70-dff0-4818-8a39-a473a65f07f4",
     "name": "Pekukuhan Cam 3",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fed5dcf70-dff0-4818-8a39-a473a65f07f4&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "29",
+    "id": "e91d07c3-fa81-4b70-a193-2976c3387f7e",
     "name": "Pekukuhan Cam 4",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fe91d07c3-fa81-4b70-a193-2976c3387f7e&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "30",
+    "id": "717abc53-6c6d-4ecc-9cfe-763d99a884ac",
     "name": "Itc Simpang 4 Sooko Sisi Barat",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F717abc53-6c6d-4ecc-9cfe-763d99a884ac&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "31",
+    "id": "17761641-0d63-4def-b776-9dab7cb334a9",
     "name": "Itc Simpang 4 Sooko Sisi Selatan",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F17761641-0d63-4def-b776-9dab7cb334a9&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "32",
+    "id": "50013ec6-745d-4b1c-aeca-01a151b5df28",
     "name": "Simpang 4 Sooko Ptz Selatan",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F50013ec6-745d-4b1c-aeca-01a151b5df28&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "33",
+    "id": "f17b6166-b738-445e-9e18-45feabbb3866",
     "name": "Itc Simpang 4 Sooko Sisi Timur",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Ff17b6166-b738-445e-9e18-45feabbb3866&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "34",
+    "id": "5716c3f0-7123-11ed-afd0-8a7f1a7d5dd4",
     "name": "Itc Simpang 4 Sooko Sisi Utara",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F5716c3f0-7123-11ed-afd0-8a7f1a7d5dd4&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "35",
+    "id": "f1322ae0-23d1-4674-a7ce-136b3e249cb8",
     "name": "Simpang 4 Sooko Ptz Utara",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Ff1322ae0-23d1-4674-a7ce-136b3e249cb8&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "36",
+    "id": "76fca701-8644-4410-bf6d-1ba6ce65cb1d",
     "name": "Depan Taman Ganjaran",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F76fca701-8644-4410-bf6d-1ba6ce65cb1d&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "37",
+    "id": "b140e98c-7660-44b0-8ca9-bb11ad936869",
     "name": "Jalur Taman Ganjaran - Prigen",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2Fb140e98c-7660-44b0-8ca9-bb11ad936869&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   },
   {
-    "id": "38",
+    "id": "63c83b2a-a04b-4f75-b152-677fa7666630",
     "name": "Jalur Taman Ghanjaran - Trawas",
     "url": "https://dishubcctv.mojokertokab.go.id/ws/proxy?target=wss%3A%2F%2Fdishubstreaming.mojokertokab.go.id%2Frtsp%2F63c83b2a-a04b-4f75-b152-677fa7666630&origin=https%3A%2F%2Fdishubcctv.mojokertokab.go.id&insecure=1"
   }
