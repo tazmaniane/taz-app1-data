@@ -1,0 +1,97 @@
+[
+  {
+    "id": "1",
+    "name": "Alun-Alun Selatan Barat",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv8_alon2_selatan.smil/playlist.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Pendopo",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv2_pendopo.smil/playlist.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Pasar Sore",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv5_pasar_sore.smil/playlist.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Dinas PMPTSP",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv6_ptsp.smil/playlist.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Masjid Agung",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv7_masjid_agung.smil/playlist.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Candi Brawijaya",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv12_taman_brawijaya.smil/playlist.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Pasar Pon",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv10_pasar_pon.smil/playlist.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Pujasera Pasar Pon",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv13_pasar_pon_pujasera.smil/playlist.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Pertigaan Setda",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv11_alon2_utara.smil/playlist.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Alun-Alun Selatan Timur",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv1_alon2_selatan_timur.smil/playlist.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Alun-Alun Selatan",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv9_alon2_selatan_barat.smil/playlist.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Kecamatan Panggul",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv14_kecamatan_panggul.smil/playlist.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Jembatan Tamanan",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv15_jembatan_tamanan.smil/playlist.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Jembatan Ngasinan Timur",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv16_jembatan_ngasinan_timur.smil/playlist.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Jembatan Ngasinan Barat",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv17_jembatan_ngasinan_barat.smil/playlist.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Sungai Temon",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv18_sungai_temon.smil/playlist.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Jembatan Ngadirenggo",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv19_ngadirenggo.smil/playlist.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Jalan Ponorogo Tugu",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv20_dermosari_tugu.smil/playlist.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Pertigaan Panggul Little Jogja",
+    "url": "https://stream.trenggalekkab.go.id:443/live/smil:cctv21_panggul_pertigaan_jogja.smil/playlist.m3u8"
+  }
+]
