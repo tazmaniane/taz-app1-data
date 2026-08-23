@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sampang-1",
+    "name": "Depan Hawai Arah Utara",
+    "url": "https://pantau.sampangkab.go.id/LiveApp/streams/alun-alun-1.m3u8"
+  },
+  {
+    "id": "sampang-2",
+    "name": "Selatan Arah Timur",
+    "url": "https://pantau.sampangkab.go.id/LiveApp/streams/alun-alun-2.m3u8"
+  },
+  {
+    "id": "sampang-3",
+    "name": "Utara Arah Timur",
+    "url": "https://pantau.sampangkab.go.id/LiveApp/streams/alun-alun-3.m3u8"
+  },
+  {
+    "id": "sampang-4",
+    "name": "Payung",
+    "url": "https://pantau.sampangkab.go.id/LiveApp/streams/alun-alun-4.m3u8"
+  },
+  {
+    "id": "sampang-5",
+    "name": "Barat Tengah Arah Utara",
+    "url": "https://pantau.sampangkab.go.id/LiveApp/streams/alun-alun-5.m3u8"
+  },
+  {
+    "id": "sampang-6",
+    "name": "Barat Tengah Arah Selatan",
+    "url": "https://pantau.sampangkab.go.id/LiveApp/streams/alun-alun-6.m3u8"
+  },
+  {
+    "id": "sampang-7",
+    "name": "Area Bermain Selatan",
+    "url": "https://pantau.sampangkab.go.id/LiveApp/streams/alun-alun-7.m3u8"
+  },
+  {
+    "id": "sampang-8",
+    "name": "Genset",
+    "url": "https://pantau.sampangkab.go.id/LiveApp/streams/alun-alun-8.m3u8"
+  },
+  {
+    "id": "sampang-9",
+    "name": "Taman Bunga Adipura - Camera 1",
+    "url": "https://pantau.sampangkab.go.id/LiveApp/streams/taman-kota1.m3u8"
+  },
+  {
+    "id": "sampang-10",
+    "name": "Taman Bunga Adipura - Camera 2",
+    "url": "https://pantau.sampangkab.go.id/LiveApp/streams/taman-kota2.m3u8"
+  },
+  {
+    "id": "sampang-11",
+    "name": "Taman Bunga Adipura - Camera 3",
+    "url": "https://pantau.sampangkab.go.id/LiveApp/streams/taman-kota3.m3u8"
+  },
+  {
+    "id": "sampang-12",
+    "name": "Taman Bunga Adipura - Camera 4",
+    "url": "https://pantau.sampangkab.go.id/LiveApp/streams/taman-kota4.m3u8"
+  },
+  {
+    "id": "sampang-13",
+    "name": "Taman Bunga Adipura - Camera 5",
+    "url": "https://pantau.sampangkab.go.id/LiveApp/streams/taman-kota5.m3u8"
+  },
+  {
+    "id": "sampang-14",
+    "name": "Taman Bunga Adipura - Camera 6",
+    "url": "https://pantau.sampangkab.go.id/LiveApp/streams/taman-kota6.m3u8"
+  }
+]
