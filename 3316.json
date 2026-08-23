@@ -2,17 +2,17 @@
   {
     "id": "blora-1",
     "name": "Md Mall",
-    "url": "https://www.youtube.com/embed/XgQD9Q1l1S4?si=i1mWxwqBV-gg3VmR?controls=0&mute=1&autoplay=1"
+    "url": "https://cctv.blorakab.go.id/memfs/0a373ba1-b1a7-4f67-983c-27af1661f47f.m3u8"
   },
   {
     "id": "blora-2",
     "name": "Kejaksaan",
-    "url": "https://www.youtube.com/embed/DVvuyeLZc8k?si=WtI4em1sK9U8Epo-?controls=0&mute=1&autoplay=1"
+    "url": "https://cctv.blorakab.go.id/memfs/372e9c88-f4ac-4892-a7e7-b81df3786ac6.m3u8"
   },
   {
     "id": "blora-3",
     "name": "Smp 6",
-    "url": "https://www.youtube.com/embed/nCsFpR-7Qoc?si=9lZXr9S5CS_CLvjk?controls=0&mute=1&autoplay=1"
+    "url": "https://cctv.blorakab.go.id/memfs/1a1dbde9-9dd6-4ae3-a8a0-77ad6eebf8b9.m3u8"
   },
   {
     "id": "blora-4",
@@ -22,26 +22,21 @@
   {
     "id": "blora-5",
     "name": "Smp 1",
-    "url": "https://www.youtube.com/embed/74MmprVNqLg?si=ee8C7xGuyYk9xE61?controls=0&mute=1&autoplay=1"
+    "url": "https://cctv.blorakab.go.id/memfs/01f7e151-423c-45ed-88b8-d9b2d9de9fd3.m3u8"
   },
   {
     "id": "blora-6",
     "name": "Biandono",
-    "url": "https://www.youtube.com/embed/r6CZ-IUpV9o?si=f0qqyLHNVobmbH8f?controls=0&mute=1&autoplay=1"
-  },
-  {
-    "id": "blora-7",
-    "name": "Terminal Ngawen",
-    "url": "https://www.youtube.com/embed/dOLiICxm_4w?si=EHvocIaAEwvRtkSD?controls=0&mute=1&autoplay=1"
+    "url": "https://cctv.blorakab.go.id/memfs/e5f50e95-1ca0-41c9-aa03-fa408100e51d.m3u8"
   },
   {
     "id": "blora-8",
     "name": "Nyah Atak",
-    "url": "https://www.youtube.com/embed/2q7dtpmWxVk?si=8Gjy29yZhtRFMgj0?controls=0&mute=1&autoplay=1"
+    "url": "https://cctv.blorakab.go.id/memfs/1374d5b5-ea50-41df-8527-d9d4477472dd.m3u8"
   },
   {
     "id": "blora-9",
     "name": "Kamolan",
-    "url": "https://www.youtube.com/embed/kdLBrkXm_To?si=Sx-v6Y-v93eQ86s4?controls=0&mute=1&autoplay=1"
+    "url": "https://cctv.blorakab.go.id/memfs/4af4ac9f-8c4a-41cb-b99d-38a4a9e46f74.m3u8"
   }
 ]
