@@ -1,0 +1,362 @@
+[
+  {
+    "id": "banjarbaru-arah-polresta",
+    "name": "Arah Polresta",
+    "url": "https://stream.banjarbarukota.go.id/arah_polresta/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-arah-museum",
+    "name": "Arah Museum",
+    "url": "https://stream.banjarbarukota.go.id/arah_museum/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-arah-gerbang-ulm",
+    "name": "Arah Gerbang Ulm",
+    "url": "https://stream.banjarbarukota.go.id/arah_gerbang_ulm/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-arah-purnama-ulm",
+    "name": "Arah Purnama Ulm",
+    "url": "https://stream.banjarbarukota.go.id/arah_purnama/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-a1-spbu-simpang-4",
+    "name": "A1 Spbu Simpang 4",
+    "url": "https://stream.banjarbarukota.go.id/a1_simpang4_arah_pom/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-a2-ulin-simpang-4",
+    "name": "A2 Ulin Simpang 4",
+    "url": "https://stream.banjarbarukota.go.id/a2_simpang4_arah_sungai_ulin/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-a3-ptz-simpang-4",
+    "name": "A3 Ptz Simpang 4",
+    "url": "https://stream.banjarbarukota.go.id/a3_ptz_simpang4/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-b2-cempaka-simpang-4",
+    "name": "B2 Cempaka Simpang 4",
+    "url": "https://stream.banjarbarukota.go.id/b2_arah_cempaka/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-c1-polisi-simpang-4",
+    "name": "C1 Polisi Simpang 4",
+    "url": "https://stream.banjarbarukota.go.id/c1_simpang4_arah_cempaka/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-c2-banjarmasin-simpang-4",
+    "name": "C2 Banjarmasin Simpang 4",
+    "url": "https://stream.banjarbarukota.go.id/c2_simpang4_arah_banjarmasin/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-c3-ptz-simpang-4",
+    "name": "C3 Ptz Simpang 4",
+    "url": "https://stream.banjarbarukota.go.id/c3_ptz_simpang4_banjarbaru/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-d2-martapura-simpang-4",
+    "name": "D2 Martapura Simpang 4",
+    "url": "https://stream.banjarbarukota.go.id/d2_arah_martapura/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-bundaran-amaco",
+    "name": "Bundaran Amaco",
+    "url": "https://stream.banjarbarukota.go.id/bundaran_amaco/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-qmall-arah-simpang-empat",
+    "name": "Qmall Arah Simpang Empat",
+    "url": "https://stream.banjarbarukota.go.id/qmall_arah_simpang_empat/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-qmall-arah-batas-kota",
+    "name": "Qmall Arah Batas Kota",
+    "url": "https://stream.banjarbarukota.go.id/qmall_arah_batas_kota/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-rebatig-ptz",
+    "name": "Rebatig Ptz",
+    "url": "https://stream.banjarbarukota.go.id/rebatig/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-bundaran-topi-toga",
+    "name": "Bundaran Topi Toga",
+    "url": "https://stream.banjarbarukota.go.id/bundaran_stm/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-jpo-dalam-utara",
+    "name": "Jpo Dalam Utara",
+    "url": "https://stream.banjarbarukota.go.id/jpo_dalam_utara/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-jpo-dalam-selatan",
+    "name": "Jpo Dalam Selatan",
+    "url": "https://stream.banjarbarukota.go.id/jpo_dalam_selatan/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-jpo-tangga-utara",
+    "name": "Jpo Tangga Utara",
+    "url": "https://stream.banjarbarukota.go.id/jpo_tangga_utara/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-jpo-tangga-selatan",
+    "name": "Jpo Tangga Selatan",
+    "url": "https://stream.banjarbarukota.go.id/jpo_tangga_selatan/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-jembatan-kembar-arah-banjarmasin",
+    "name": "Jembatan Kembar Arah Banjarmasin",
+    "url": "https://stream.banjarbarukota.go.id/jembatan_kembar_arah_banjarmasin/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-jembatan-kembar-arah-banjarbaru",
+    "name": "Jembatan Kembar Arah Banjarbaru",
+    "url": "https://stream.banjarbarukota.go.id/jembatan_kembar_arah_banjarbaru/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-km33-utara-arah-banjarbaru",
+    "name": "Km33 Utara Arah Banjarbaru",
+    "url": "https://stream.banjarbarukota.go.id/lampu_merah_ro_ulin_arah_bjb/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-km33-utara-arah-ro-ulin",
+    "name": "Km33 Utara Arah Ro-Ulin",
+    "url": "https://stream.banjarbarukota.go.id/km33_barat_arah_ROulin/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-jembatan-tonhar-landasan-ulin",
+    "name": "Jembatan Tonhar Landasan Ulin",
+    "url": "https://stream.banjarbarukota.go.id/jembatan_tonhar/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-jembatan-cempaka-1",
+    "name": "Jembatan Cempaka 1",
+    "url": "https://stream.banjarbarukota.go.id/jembatan_cempaka_1/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-jembatan-al-mansyur",
+    "name": "Jembatan Al-Mansyur",
+    "url": "https://stream.banjarbarukota.go.id/jembatan_al_mansyur/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-arah-dispenduk-pangeran-antasari",
+    "name": "Arah Dispenduk Pangeran Antasari",
+    "url": "https://stream.banjarbarukota.go.id/depan_disdukcapil/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-brimob-arah-banjarmasin",
+    "name": "Brimob Arah Banjarmasin",
+    "url": "https://stream.banjarbarukota.go.id/marka_brimob_arah_banjarmasin/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-jembatan-kemuning",
+    "name": "Jembatan Kemuning",
+    "url": "https://stream.banjarbarukota.go.id/jembatan_kemuning/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-taman-minggu-raya",
+    "name": "Taman Minggu Raya",
+    "url": "https://stream.banjarbarukota.go.id/taman_minggu_raya/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-bundaran-palam-trikora-taman-pama",
+    "name": "Bundaran Palam Trikora Taman Pama",
+    "url": "https://stream.banjarbarukota.go.id/taman_pama_arah_bundaran/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-bundaran-palam-trikora-depan-indomaret",
+    "name": "Bundaran Palam Trikora Depan Indomaret",
+    "url": "https://stream.banjarbarukota.go.id/bundaran_palam_depan_indomaret/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-depan-stimik-arah-banjarmasin",
+    "name": "Depan Stimik Arah Banjarmasin",
+    "url": "https://stream.banjarbarukota.go.id/depan_stimik_arah_banjarmasin/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-lapangan-murdjani-ptz",
+    "name": "Lapangan Murdjani Ptz",
+    "url": "https://stream.banjarbarukota.go.id/ptz_murjani/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-sultan-agung-arah-banjarbaru",
+    "name": "Sultan Agung Arah Banjarbaru",
+    "url": "https://stream.banjarbarukota.go.id/sultan_agung_arah_banjarbaru/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-sultan-agung-arah-banjarmasin",
+    "name": "Sultan Agung Arah Banjarmasin",
+    "url": "https://stream.banjarbarukota.go.id/sultan_agung_arah_banjarmasin/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-polsek-bjb-arah-simpang-empat",
+    "name": "Polsek Bjb Arah Simpang Empat",
+    "url": "https://stream.banjarbarukota.go.id/depan_polsek_arah_simpang4/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-polsek-bjb-arah-banjarmasin",
+    "name": "Polsek Bjb Arah Banjarmasin",
+    "url": "https://stream.banjarbarukota.go.id/depan_polsek_arah_banjarmasin/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-bundaran-trikora-masjid-al-munawarah",
+    "name": "Bundaran Trikora Masjid Al-Munawarah",
+    "url": "https://stream.banjarbarukota.go.id/bundaran_mesjid_al_munawwarah/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-trikora-a.yani-ujung",
+    "name": "Trikora A.Yani Ujung",
+    "url": "https://stream.banjarbarukota.go.id/trikora_a_yani_ujung/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-pertigaan-ambulung",
+    "name": "Pertigaan Ambulung",
+    "url": "https://stream.banjarbarukota.go.id/pertigaan_ambulung/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-bundaran-kamaratih-gerai-pelayanan-arah-jalan-angkasa",
+    "name": "Bundaran Kamaratih Gerai Pelayanan Arah Jalan Angkasa",
+    "url": "https://stream.banjarbarukota.go.id/kamaratih_arah_mall/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-bundaran-kamaratih-arah-jalan-hercules",
+    "name": "Bundaran Kamaratih Arah Jalan Hercules",
+    "url": "https://stream.banjarbarukota.go.id/bundaran_kamaratih_arah_hercules/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-bundaran-kamaratih-arah-jalan-angkasa",
+    "name": "Bundaran Kamaratih Arah Jalan Angkasa",
+    "url": "https://stream.banjarbarukota.go.id/kamaratih_arah_angkasa/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-bundaran-kamaratih-arah-banjarmasin",
+    "name": "Bundaran Kamaratih Arah Banjarmasin",
+    "url": "https://stream.banjarbarukota.go.id/kamaratih_arah_banjarmasin/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-halte-ro.ulin",
+    "name": "Halte Ro.Ulin",
+    "url": "https://stream.banjarbarukota.go.id/ip_camera71/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-taman-mawar",
+    "name": "Taman Mawar",
+    "url": "https://stream.banjarbarukota.go.id/taman_mawar_arah_taman_tengah/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-ptz-ro-ulin-33-arah-banjarmasin",
+    "name": "Ptz Ro Ulin 33 Arah Banjarmasin",
+    "url": "https://stream.banjarbarukota.go.id/ptz_ro_ulin/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-pertigaan-sungai-ulin-arah-banjarbaru",
+    "name": "Pertigaan Sungai Ulin Arah Banjarbaru",
+    "url": "https://stream.banjarbarukota.go.id/simpang_3_sungai_ulin_arah_banjarbaru/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-ptz-taman-mawar-arah-sd",
+    "name": "Ptz Taman Mawar Arah Sd",
+    "url": "https://stream.banjarbarukota.go.id/taman_mawar_ptz_arah_sd/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-ptz-brimob-arah-palam",
+    "name": "Ptz Brimob Arah Palam",
+    "url": "https://stream.banjarbarukota.go.id/ptz_brimob/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-brimob-arah-simpang-3",
+    "name": "Brimob Arah Simpang 3",
+    "url": "https://stream.banjarbarukota.go.id/brimob_arah_simpang_3/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-perempatan-taruna-praja-(barjad)",
+    "name": "Perempatan Taruna Praja (Barjad)",
+    "url": "https://stream.banjarbarukota.go.id/simpang_4_barjad/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-stimik-arah-banjarbaru",
+    "name": "Stimik Arah Banjarbaru",
+    "url": "https://stream.banjarbarukota.go.id/depan_stimik_arah_banjarbaru/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-pertigaan-sungai-ulin-arah-mandiangin",
+    "name": "Pertigaan Sungai Ulin Arah Mandiangin",
+    "url": "https://stream.banjarbarukota.go.id/simpang_3_sungai_ulin_arah_mandiangin/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-pertigaan-trikora-ro-ulin-arah-masjid-agung",
+    "name": "Pertigaan Trikora Ro Ulin Arah Masjid Agung",
+    "url": "https://stream.banjarbarukota.go.id/pertigaan_trikora_arah_mesjid_agung/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-cctv-pertigaan-trikora-arah-ro-ulin",
+    "name": "Pertigaan Trikora Arah Ro Ulin",
+    "url": "https://stream.banjarbarukota.go.id/pertigaan_trikora_arah_ro_ulin/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-balai-kota-arah-murdjani",
+    "name": "Balai Kota Arah Murdjani",
+    "url": "https://stream.banjarbarukota.go.id/balai_kota_murjani/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-cctv-pertigaan-kebun-karet",
+    "name": "Pertigaan Kebun Karet",
+    "url": "https://stream.banjarbarukota.go.id/pertigaan_kebun_karet/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-d1-simpang-4-bjb",
+    "name": "D1 Simpang 4 Bjb",
+    "url": "https://stream.banjarbarukota.go.id/d1_arah_banjarbaru/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-halte_minggu_raya",
+    "name": "Halte Minggu Raya",
+    "url": "https://stream.banjarbarukota.go.id/Halte_minggu_raya/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-km33-depan-mesjid",
+    "name": "Km33 Depan Mesjid",
+    "url": "https://stream.banjarbarukota.go.id/marka_depan_mesjid_33/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-halte_unlam_1",
+    "name": "Halte Unlam 1",
+    "url": "https://stream.banjarbarukota.go.id/halte_unlam_1/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-halte_stimik",
+    "name": "Halte Stimik",
+    "url": "https://stream.banjarbarukota.go.id/halte_STIMIK/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-depan-pasar-ulin-raya",
+    "name": "Depan Pasar Ulin Raya",
+    "url": "https://stream.banjarbarukota.go.id/depan_pasar_ulin/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-trikora-cempaka",
+    "name": "Trikora Cempaka",
+    "url": "https://stream.banjarbarukota.go.id/s3_trikora_cempaka/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-trikora-cempaka-arah-banjarbaru",
+    "name": "Trikora Cempaka Arah Banjarbaru",
+    "url": "https://stream.banjarbarukota.go.id/s3_trikora_arah_bjb/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-depan-g.bhayangkara",
+    "name": "Depan G.Bhayangkara",
+    "url": "https://stream.banjarbarukota.go.id/depan_gg_bhayangkara/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-jembatan-cempaka-2",
+    "name": "Jembatan Cempaka 2",
+    "url": "https://stream.banjarbarukota.go.id/jembatan_cempaka_2/index.m3u8"
+  },
+  {
+    "id": "banjarbaru-the-breeze-water-park",
+    "name": "The Breeze Water Park",
+    "url": "https://stream.banjarbarukota.go.id/breeze/index.m3u8"
+  }
+]
