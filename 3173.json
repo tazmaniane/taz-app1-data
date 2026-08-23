@@ -1,0 +1,3027 @@
+[
+  {
+    "id": "jakarta-balitower-700014_1",
+    "name": "Bendungan Hilir 003 - Kamera 1",
+    "url": "https://cctv.balitower.co.id/Bendungan-Hilir-003-700014_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-700014_2",
+    "name": "Bendungan Hilir 003 - Kamera 2",
+    "url": "https://cctv.balitower.co.id/Bendungan-Hilir-003-700014_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-700014_3",
+    "name": "Bendungan Hilir 003 - Kamera 3",
+    "url": "https://cctv.balitower.co.id/Bendungan-Hilir-003-700014_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-700014_4",
+    "name": "Bendungan Hilir 003 - Kamera 4",
+    "url": "https://cctv.balitower.co.id/Bendungan-Hilir-003-700014_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-700470_2",
+    "name": "Gelora Bung Karno (GBK) 017 - Kamera 1",
+    "url": "https://cctv.balitower.co.id/Gelora-017-700470_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-700470_3",
+    "name": "Gelora Bung Karno (GBK) 017 - Kamera 2",
+    "url": "https://cctv.balitower.co.id/Gelora-017-700470_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-700470_4",
+    "name": "Gelora Bung Karno (GBK) 017 - Kamera 3",
+    "url": "https://cctv.balitower.co.id/Gelora-017-700470_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-700470_5",
+    "name": "Gelora Bung Karno (GBK) 017 - Kamera 4",
+    "url": "https://cctv.balitower.co.id/Gelora-017-700470_5/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-700470_6",
+    "name": "Gelora Bung Karno (GBK) 017 - Kamera 5",
+    "url": "https://cctv.balitower.co.id/Gelora-017-700470_6/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-700470_7",
+    "name": "Gelora Bung Karno (GBK) 017 - Kamera 6",
+    "url": "https://cctv.balitower.co.id/Gelora-017-700470_7/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-700470_8",
+    "name": "Gelora Bung Karno (GBK) 017 - Kamera 7",
+    "url": "https://cctv.balitower.co.id/Gelora-017-700470_8/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-700470_9",
+    "name": "Gelora Bung Karno (GBK) 017 - Kamera 8",
+    "url": "https://cctv.balitower.co.id/Gelora-017-700470_9/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-700470_10",
+    "name": "Gelora Bung Karno (GBK) 017 - Kamera 9",
+    "url": "https://cctv.balitower.co.id/Gelora-017-700470_10/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-GBKC1002",
+    "name": "GBK Jalan Asia Afrika - Kamera 1",
+    "url": "https://cctv.balitower.co.id/GBKC1002/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-GBKC1003",
+    "name": "GBK Jalan Asia Afrika - Kamera 2",
+    "url": "https://cctv.balitower.co.id/GBKC1003/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-GBKC1004",
+    "name": "GBK Jalan Asia Afrika - Kamera 3",
+    "url": "https://cctv.balitower.co.id/GBKC1004/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-GBKC1005",
+    "name": "GBK Jalan Asia Afrika - Kamera 4",
+    "url": "https://cctv.balitower.co.id/GBKC1005/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-702471_2",
+    "name": "Tanjung Duren Utara 005 - Kamera 1",
+    "url": "https://cctv.balitower.co.id/Tanjung-Duren-Utara-005-702471_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-702471_3",
+    "name": "Tanjung Duren Utara 005 - Kamera 2",
+    "url": "https://cctv.balitower.co.id/Tanjung-Duren-Utara-005-702471_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-702471_4",
+    "name": "Tanjung Duren Utara 005 - Kamera 3",
+    "url": "https://cctv.balitower.co.id/Tanjung-Duren-Utara-005-702471_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-702108_2",
+    "name": "Tomang 004 - Kamera 1",
+    "url": "https://cctv.balitower.co.id/Tomang-004-702108_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-702108_3",
+    "name": "Tomang 004 - Kamera 2",
+    "url": "https://cctv.balitower.co.id/Tomang-004-702108_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-702017_2",
+    "name": "Jati Pulo 001 - Kamera 1",
+    "url": "https://cctv.balitower.co.id/Jati-Pulo-001-702017_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-702017_3",
+    "name": "Jati Pulo 001 - Kamera 2",
+    "url": "https://cctv.balitower.co.id/Jati-Pulo-001-702017_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-702017_4",
+    "name": "Jati Pulo 001 - Kamera 3",
+    "url": "https://cctv.balitower.co.id/Jati-Pulo-001-702017_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-792405_2",
+    "name": "Kemanggisan 038 - Kamera 1",
+    "url": "https://cctv.balitower.co.id/Kemanggisan-038-792405_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-792405_3",
+    "name": "Kemanggisan 038 - Kamera 2",
+    "url": "https://cctv.balitower.co.id/Kemanggisan-038-792405_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-507302_1",
+    "name": "Menteng Tenggulun - Kamera 1",
+    "url": "https://cctv.balitower.co.id/Menteng-Tenggulun-P01-507302_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-507302_2",
+    "name": "Menteng Tenggulun - Kamera 2",
+    "url": "https://cctv.balitower.co.id/Menteng-Tenggulun-P01-507302_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-507302_3",
+    "name": "Menteng Tenggulun - Kamera 3",
+    "url": "https://cctv.balitower.co.id/Menteng-Tenggulun-P01-507302_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-795129_4",
+    "name": "Pasar Manggis 014",
+    "url": "https://cctv.balitower.co.id/Pasar-Manggis-014-795129_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-705087_1",
+    "name": "Senayan 004 - Kamera 1",
+    "url": "https://cctv.balitower.co.id/Senayan-004-705087_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-705087_2",
+    "name": "Senayan 004 - Kamera 2",
+    "url": "https://cctv.balitower.co.id/Senayan-004-705087_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-705087_3",
+    "name": "Senayan 004 - Kamera 3",
+    "url": "https://cctv.balitower.co.id/Senayan-004-705087_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-705087_4",
+    "name": "Senayan 004 - Kamera 4",
+    "url": "https://cctv.balitower.co.id/Senayan-004-705087_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-705052_3",
+    "name": "Kuningan Barat 003 - Kamera 1",
+    "url": "https://cctv.balitower.co.id/Kuningan-Barat-003-705052_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-705052_4",
+    "name": "Kuningan Barat 003 - Kamera 2",
+    "url": "https://cctv.balitower.co.id/Kuningan-Barat-003-705052_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-705651_2",
+    "name": "Cikoko 006 - Kamera 1",
+    "url": "https://cctv.balitower.co.id/Cikoko-006-705651_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-705651_3",
+    "name": "Cikoko 006 - Kamera 2",
+    "url": "https://cctv.balitower.co.id/Cikoko-006-705651_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-705651_4",
+    "name": "Cikoko 006 - Kamera 3",
+    "url": "https://cctv.balitower.co.id/Cikoko-006-705651_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-702131_2",
+    "name": "Cengkareng Barat 013",
+    "url": "https://cctv.balitower.co.id/Cengkareng-Barat-013-702131_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-Manggarai-PA_1",
+    "name": "Pintu Air Manggarai - Kamera 1",
+    "url": "https://cctv.balitower.co.id/Manggarai-Pintu-Air_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-Manggarai-PA_2",
+    "name": "Pintu Air Manggarai - Kamera 2",
+    "url": "https://cctv.balitower.co.id/Manggarai-Pintu-Air_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-balitower-Manggarai-PA_3",
+    "name": "Pintu Air Manggarai - Kamera 3",
+    "url": "https://cctv.balitower.co.id/Manggarai-Pintu-Air_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Bintaro-008-705120",
+    "name": "Bintaro 008",
+    "url": "https://cctv.balitower.co.id/Bintaro-008-705120_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Kebayoran-Lama-Utara-PTSP-506668",
+    "name": "Kel Kebayoran Lama Utara PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Kebayoran-Lama-Utara-PTSP-506668_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kec-Cipayung-PTSP-506151",
+    "name": "Kec Cipayung PTSP",
+    "url": "https://cctv.balitower.co.id/Kec-Cipayung-PTSP-506151_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pondok-Pinang-001-MP-601117",
+    "name": "Pondok Pinang 001",
+    "url": "https://cctv.balitower.co.id/Pondok-Pinang-001-MP-601117_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Jagakarsa-PTSP",
+    "name": "Kel Jagakarsa PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Jagakarsa-PTSP_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Pondok-Labu-PTSP-506181",
+    "name": "Kel Pondok Labu PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Pondok-Labu-PTSP-506181_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Lebak-Bulus-005-705343",
+    "name": "Lebak Bulus 005",
+    "url": "https://cctv.balitower.co.id/Lebak-Bulus-005-705343_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Jati-Padang-008-705270",
+    "name": "Jati Padang 008",
+    "url": "https://cctv.balitower.co.id/Jati-Padang-008-705270_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Lebak-Bulus-031-705471",
+    "name": "Lebak Bulus 031",
+    "url": "https://cctv.balitower.co.id/Lebak-Bulus-031-705471_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tanjung-Barat-001-705005",
+    "name": "Tanjung Barat 001",
+    "url": "https://cctv.balitower.co.id/Tanjung-Barat-001-705005_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cilandak-Barat-013-705153",
+    "name": "Cilandak Barat 013",
+    "url": "https://cctv.balitower.co.id/Cilandak-Barat-013-705153_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tanjung-Barat-013-705857",
+    "name": "Tanjung Barat 013",
+    "url": "https://cctv.balitower.co.id/Tanjung-Barat-013-705857_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Lebak-Bulus-PTSP-506170",
+    "name": "Kel Lebak Bulus PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Lebak-Bulus-PTSP-506170_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Cilandak-Timur-PTSP-506161",
+    "name": "Kel Cilandak Timur PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Cilandak-Timur-PTSP-506161_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Jati-Padang-010-705665",
+    "name": "Jati Padang 010",
+    "url": "https://cctv.balitower.co.id/Jati-Padang-010-705665_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pejanten-Barat-006-705412",
+    "name": "Pejanten Barat 006",
+    "url": "https://cctv.balitower.co.id/Pejanten-Barat-006-705412_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kec-Pasar-Minggu-PTSP-506054",
+    "name": "Kec Pasar Minggu PTSP",
+    "url": "https://cctv.balitower.co.id/Kec-Pasar-Minggu-PTSP-506054_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Pejaten-Timur-PTSP-506610",
+    "name": "Kel Pejaten Timur PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Pejaten-Timur-PTSP-506610_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Ragunan-001-MP-601140",
+    "name": "Ragunan 001",
+    "url": "https://cctv.balitower.co.id/Ragunan-001-MP-601140_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Jagakarsa-004-705247",
+    "name": "Jagakarsa 004",
+    "url": "https://cctv.balitower.co.id/Jagakarsa-004-705247_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kebagusan-012-705268",
+    "name": "Kebagusan 012",
+    "url": "https://cctv.balitower.co.id/Kebagusan-012-705268_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kec-Makasar-PTSP-506709",
+    "name": "Kec Makasar PTSP",
+    "url": "https://cctv.balitower.co.id/Kec-Makasar-PTSP-506709_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cilandak-Timur-008-705475",
+    "name": "Cilandak Timur 008",
+    "url": "https://cctv.balitower.co.id/Cilandak-Timur-008-705475_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pondok-Labu-001-MP-601129",
+    "name": "Pondok Labu 001",
+    "url": "https://cctv.balitower.co.id/Pondok-Labu-001-MP-601129_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Srengseng-Sawah-007-705539",
+    "name": "Srengseng Sawah 007",
+    "url": "https://cctv.balitower.co.id/Srengseng-Sawah-007-705539_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cilandak-Timur-002-MP-601190",
+    "name": "Cilandak Timur 002",
+    "url": "https://cctv.balitower.co.id/Cilandak-Timur-002-MP-601190_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pondok-Labu-006-705478",
+    "name": "Pondok Labu 006",
+    "url": "https://cctv.balitower.co.id/Pondok-Labu-006-705478_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Lebak-Bulus-015-705776",
+    "name": "Lebak Bulus 015",
+    "url": "https://cctv.balitower.co.id/Lebak-Bulus-015-705776_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Pasar-Minggu-PTSP-506175",
+    "name": "Kel Pasar Minggu PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Pasar-Minggu-PTSP-506175_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cilandak-Barat-008-705148",
+    "name": "Cilandak Barat 008",
+    "url": "https://cctv.balitower.co.id/Cilandak-Barat-008-705148_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Bangka-004-705098",
+    "name": "Bangka 004",
+    "url": "https://cctv.balitower.co.id/Bangka-004-705098_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Lebak-Bulus-021-705782",
+    "name": "Lebak Bulus 021",
+    "url": "https://cctv.balitower.co.id/Lebak-Bulus-021-705782_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tanjung-Barat-014-705858",
+    "name": "Tanjung Barat 014",
+    "url": "https://cctv.balitower.co.id/Tanjung-Barat-014-705858_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Johar-Baru-005-700076",
+    "name": "Johar Baru 005",
+    "url": "https://cctv.balitower.co.id/Johar-Baru-005-700076_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Batu-Ampar-PTSP-506158",
+    "name": "Kel Batu Ampar PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Batu-Ampar-PTSP-506158_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tanjung-Barat-001-MP-601148",
+    "name": "Tanjung Barat 001",
+    "url": "https://cctv.balitower.co.id/Tanjung-Barat-001-MP-601148_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Jagakarsa-005-705248",
+    "name": "Jagakarsa 005",
+    "url": "https://cctv.balitower.co.id/Jagakarsa-005-705248_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Ragunan-PTSP",
+    "name": "Kel Ragunan PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Ragunan-PTSP_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kec-Cilandak-PTSP-506153",
+    "name": "Kec Cilandak PTSP",
+    "url": "https://cctv.balitower.co.id/Kec-Cilandak-PTSP-506153_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pasar-Minggu-008-705406",
+    "name": "Pasar Minggu 008",
+    "url": "https://cctv.balitower.co.id/Pasar-Minggu-008-705406_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Pondok-Pinang-PTSP-506629",
+    "name": "Kel Pondok Pinang PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Pondok-Pinang-PTSP-506629_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Jati-Padang-001-705031",
+    "name": "Jati Padang 001",
+    "url": "https://cctv.balitower.co.id/Jati-Padang-001-705031_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Jati-Padang-PTSP-506064",
+    "name": "Kel Jati Padang PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Jati-Padang-PTSP-506064_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pasar-Minggu-012-705803",
+    "name": "Pasar Minggu 012",
+    "url": "https://cctv.balitower.co.id/Pasar-Minggu-012-705803_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Balekambang-PTSP-506156",
+    "name": "Kel Balekambang PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Balekambang-PTSP-506156_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kalibata-010-705281",
+    "name": "Kalibata 010",
+    "url": "https://cctv.balitower.co.id/Kalibata-010-705281_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Jagakarsa-001-MP-601139",
+    "name": "Jagakarsa 001",
+    "url": "https://cctv.balitower.co.id/Jagakarsa-001-MP-601139_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Cililitan-PTSP-506714",
+    "name": "Kel Cililitan PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Cililitan-PTSP-506714_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Ciliwung-Baru-001-704003",
+    "name": "Ciliwung Baru 001",
+    "url": "https://cctv.balitower.co.id/Ciliwung-Baru-001-704003_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Ragunan-010-705508",
+    "name": "Ragunan 010",
+    "url": "https://cctv.balitower.co.id/Ragunan-010-705508_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Pejaten-Barat-PTSP-506177",
+    "name": "Kel Pejaten Barat PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Pejaten-Barat-PTSP-506177_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Lebak-Bulus-001-MP-601121",
+    "name": "Lebak Bulus 001",
+    "url": "https://cctv.balitower.co.id/Lebak-Bulus-001-MP-601121_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pasar-Minggu-001-MP-601146",
+    "name": "Pasar Minggu 001",
+    "url": "https://cctv.balitower.co.id/Pasar-Minggu-001-MP-601146_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gedong-002-704187",
+    "name": "Gedong 002",
+    "url": "https://cctv.balitower.co.id/Gedong-002-704187_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Bambu-Apus-001-MP-601170",
+    "name": "Bambu Apus 001",
+    "url": "https://cctv.balitower.co.id/Bambu-Apus-001-MP-601170_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Susukan-PTSP-506184",
+    "name": "Kel Susukan PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Susukan-PTSP-506184_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kampung-Tengah-005-704245",
+    "name": "Kampung Tengah 005",
+    "url": "https://cctv.balitower.co.id/Kampung-Tengah-005-704245_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Bambu_Apus-PTSP",
+    "name": "Kel Bambu Apus PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Bambu_Apus-PTSP_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Setu-PTSP-506183",
+    "name": "Kel Setu PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Setu-PTSP-506183_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Pinang-Ranti-506179-PTSP",
+    "name": "Kel Pinang Ranti 506179 PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Pinang-Ranti-506179-PTSP_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Cipayung-PTSP-506162",
+    "name": "Kel Cipayung PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Cipayung-PTSP-506162_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Gedong-PTSP-506517",
+    "name": "Kel Gedong PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Gedong-PTSP-506517_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Rambutan-001-MP-601158",
+    "name": "Rambutan 001",
+    "url": "https://cctv.balitower.co.id/Rambutan-001-MP-601158_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Susukan-011-704469",
+    "name": "Susukan 011",
+    "url": "https://cctv.balitower.co.id/Susukan-011-704469_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Ciracas-001-704158",
+    "name": "Ciracas 001",
+    "url": "https://cctv.balitower.co.id/Ciracas-001-704158_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cibubur-001-MP-601160",
+    "name": "Cibubur 001",
+    "url": "https://cctv.balitower.co.id/Cibubur-001-MP-601160_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kelapa-Dua-Wetan-014-704784",
+    "name": "Kelapa Dua Wetan 014",
+    "url": "https://cctv.balitower.co.id/Kelapa-Dua-Wetan-014-704784_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Susukan-010-704468",
+    "name": "Susukan 010",
+    "url": "https://cctv.balitower.co.id/Susukan-010-704468_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Lubang-Buaya-001-MP-601168",
+    "name": "Lubang Buaya 001",
+    "url": "https://cctv.balitower.co.id/Lubang-Buaya-001-MP-601168_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Bambu-Apus-008-704050",
+    "name": "Bambu Apus 008",
+    "url": "https://cctv.balitower.co.id/Bambu-Apus-008-704050_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Lubang-Buaya-PTSP-506171",
+    "name": "Kel Lubang Buaya PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Lubang-Buaya-PTSP-506171_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Makasar-PTSP-506586",
+    "name": "Kel Makasar PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Makasar-PTSP-506586_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kampung-Tengah-004-704244",
+    "name": "Kampung Tengah 004",
+    "url": "https://cctv.balitower.co.id/Kampung-Tengah-004-704244_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Batu-Ampar-002-MP-601188",
+    "name": "Batu Ampar 002",
+    "url": "https://cctv.balitower.co.id/Batu-Ampar-002-MP-601188_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kec-Kramat-Jati-PTSP-506155",
+    "name": "Kec Kramat Jati PTSP",
+    "url": "https://cctv.balitower.co.id/Kec-Kramat-Jati-PTSP-506155_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pinang-Ranti-001-704020",
+    "name": "Pinang Ranti 001",
+    "url": "https://cctv.balitower.co.id/Pinang-Ranti-001-704020_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cilangkap-013-704709",
+    "name": "Cilangkap 013",
+    "url": "https://cctv.balitower.co.id/Cilangkap-013-704709_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Dukuh-006-704739",
+    "name": "Dukuh 006",
+    "url": "https://cctv.balitower.co.id/Dukuh-006-704739_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pinang-Ranti-004-704314",
+    "name": "Pinang Ranti 004",
+    "url": "https://cctv.balitower.co.id/Pinang-Ranti-004-704314_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Cilangkap-PTSP-506152",
+    "name": "Kel Cilangkap PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Cilangkap-PTSP-506152_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cipulir-017-705984",
+    "name": "Cipulir 017",
+    "url": "https://cctv.balitower.co.id/Cipulir-017-705984_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Kelapa-Dua-PTSP-506564",
+    "name": "Kel Kelapa Dua PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Kelapa-Dua-PTSP-506564_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Meruya-Selatan-005-702348",
+    "name": "Meruya Selatan 005",
+    "url": "https://cctv.balitower.co.id/Meruya-Selatan-005-702348_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Joglo-026-702661",
+    "name": "Joglo 026",
+    "url": "https://cctv.balitower.co.id/Joglo-026-702661_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Meruya-Selatan-001-MP-601106",
+    "name": "Meruya Selatan 001",
+    "url": "https://cctv.balitower.co.id/Meruya-Selatan-001-MP-601106_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kelapa-Dua-002-702051",
+    "name": "Kelapa Dua 002",
+    "url": "https://cctv.balitower.co.id/Kelapa-Dua-002-702051_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kelapa-Dua-006-702450",
+    "name": "Kelapa Dua 006",
+    "url": "https://cctv.balitower.co.id/Kelapa-Dua-006-702450_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Meruya-Utara-029-702087",
+    "name": "Meruya Utara 029",
+    "url": "https://cctv.balitower.co.id/Meruya-Utara-029-702087_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Sukabumi-Selatan-PTSP-506415",
+    "name": "Kel Sukabumi Selatan PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Sukabumi-Selatan-PTSP-506415_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Petukangan-Selatan-001-MP-601110",
+    "name": "Petukangan Selatan 001",
+    "url": "https://cctv.balitower.co.id/Petukangan-Selatan-001-MP-601110_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Srengseng-014-702446",
+    "name": "Srengseng 014",
+    "url": "https://cctv.balitower.co.id/Srengseng-014-702446_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Meruya-Utara-030-702089",
+    "name": "Meruya Utara 030",
+    "url": "https://cctv.balitower.co.id/Meruya-Utara-030-702089_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Srengseng-001-MP-601111",
+    "name": "Srengseng 001",
+    "url": "https://cctv.balitower.co.id/Srengseng-001-MP-601111_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kebon-Jeruk-004-702037",
+    "name": "Kebon Jeruk 004",
+    "url": "https://cctv.balitower.co.id/Kebon-Jeruk-004-702037_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kelapa-Dua-003-702052",
+    "name": "Kelapa Dua 003",
+    "url": "https://cctv.balitower.co.id/Kelapa-Dua-003-702052_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Srengseng-PTSP-506413",
+    "name": "Kel Srengseng PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Srengseng-PTSP-506413_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Ulujami-001-MP-601115",
+    "name": "Ulujami 001",
+    "url": "https://cctv.balitower.co.id/Ulujami-001-MP-601115_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Meruya-Utara-PTSP-506598",
+    "name": "Kel Meruya Utara PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Meruya-Utara-PTSP-506598_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Grogol-Selatan-005-705223",
+    "name": "Grogol Selatan 005",
+    "url": "https://cctv.balitower.co.id/Grogol-Selatan-005-705223_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Menteng-009-700256",
+    "name": "Menteng 009",
+    "url": "https://cctv.balitower.co.id/Menteng-009-700256_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Bendungan-Hilir-015-700383",
+    "name": "Bendungan Hilir 015",
+    "url": "https://cctv.balitower.co.id/Bendungan-Hilir-015-700383_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duren-Tiga-002-MP-601195",
+    "name": "Duren Tiga 002",
+    "url": "https://cctv.balitower.co.id/Duren-Tiga-002-MP-601195_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Pulo-PTSP-506069",
+    "name": "Kel Pulo PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Pulo-PTSP-506069_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kelapa-Dua-001-702050",
+    "name": "Kelapa Dua 001",
+    "url": "https://cctv.balitower.co.id/Kelapa-Dua-001-702050_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Setiabudi-001-705089",
+    "name": "Setiabudi 001",
+    "url": "https://cctv.balitower.co.id/Setiabudi-001-705089_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Karet-002-705034",
+    "name": "Karet 002",
+    "url": "https://cctv.balitower.co.id/Karet-002-705034_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Menteng-004-700126",
+    "name": "Menteng 004",
+    "url": "https://cctv.balitower.co.id/Menteng-004-700126_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Menteng-PTSP-1",
+    "name": "Kel Menteng PTSP 1",
+    "url": "https://cctv.balitower.co.id/Kel-Menteng-PTSP-1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Manggarai-Selatan-004-705364",
+    "name": "Manggarai Selatan 004",
+    "url": "https://cctv.balitower.co.id/Manggarai-Selatan-004-705364_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gondangdia-004-700055",
+    "name": "Gondangdia 004",
+    "url": "https://cctv.balitower.co.id/Gondangdia-004-700055_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tebet-Barat-001-705091",
+    "name": "Tebet Barat 001",
+    "url": "https://cctv.balitower.co.id/Tebet-Barat-001-705091_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kuningan-Barat-003-705052",
+    "name": "Kuningan Barat 003",
+    "url": "https://cctv.balitower.co.id/Kuningan-Barat-003-705052_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Karet-Tengsin-016-700525",
+    "name": "Karet Tengsin 016",
+    "url": "https://cctv.balitower.co.id/Karet-Tengsin-016-700525_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kuningan-Timur-011-705693",
+    "name": "Kuningan Timur 011",
+    "url": "https://cctv.balitower.co.id/Kuningan-Timur-011-705693_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Grogol-Utara-030-705956",
+    "name": "Grogol Utara 030",
+    "url": "https://cctv.balitower.co.id/Grogol-Utara-030-705956_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Karet-Tengsin-PTSP-506551",
+    "name": "Kel Karet Tengsin PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Karet-Tengsin-PTSP-506551_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Rawa-Barat-PTSP-506394",
+    "name": "Kel Rawa Barat PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Rawa-Barat-PTSP-506394_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Melawai-001-705064",
+    "name": "Melawai 001",
+    "url": "https://cctv.balitower.co.id/Melawai-001-705064_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Jatinegara-PTSP-506065",
+    "name": "Kel Jatinegara PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Jatinegara-PTSP-506065_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Menteng-PTSP-2",
+    "name": "Kel Menteng PTSP 2",
+    "url": "https://cctv.balitower.co.id/Kel-Menteng-PTSP-2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kebon-Melati-010-700332",
+    "name": "Kebon Melati 010",
+    "url": "https://cctv.balitower.co.id/Kebon-Melati-010-700332_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Rawa-Sari-002-700153",
+    "name": "Rawa Sari 002",
+    "url": "https://cctv.balitower.co.id/Rawa-Sari-002-700153_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Karet-Tengsin-001-700082",
+    "name": "Karet Tengsin 001",
+    "url": "https://cctv.balitower.co.id/Karet-Tengsin-001-700082_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Bukit-Duri-003-705123",
+    "name": "Bukit Duri 003",
+    "url": "https://cctv.balitower.co.id/Bukit-Duri-003-705123_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Grogol-Selatan-003-705018",
+    "name": "Grogol Selatan 003",
+    "url": "https://cctv.balitower.co.id/Grogol-Selatan-003-705018_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Senayan-001-705084",
+    "name": "Senayan 001",
+    "url": "https://cctv.balitower.co.id/Senayan-001-705084_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kec-Kebayoran-Lama-506221",
+    "name": "Kec Kebayoran Lama",
+    "url": "https://cctv.balitower.co.id/Kec-Kebayoran-Lama-506221_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Menteng-024-700529",
+    "name": "Menteng 024",
+    "url": "https://cctv.balitower.co.id/Menteng-024-700529_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cikoko-006-705651",
+    "name": "Cikoko 006",
+    "url": "https://cctv.balitower.co.id/Cikoko-006-705651_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Karet-Tengsin-003-700084",
+    "name": "Karet Tengsin 003",
+    "url": "https://cctv.balitower.co.id/Karet-Tengsin-003-700084_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Grogol-Utara-PTSP-506522",
+    "name": "Kel Grogol Utara PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Grogol-Utara-PTSP-506522_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Grogol-Selatan-011-705229",
+    "name": "Grogol Selatan 011",
+    "url": "https://cctv.balitower.co.id/Grogol-Selatan-011-705229_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Paseban-002-700137",
+    "name": "Paseban 002",
+    "url": "https://cctv.balitower.co.id/Paseban-002-700137_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tebet-Barat-014-705708",
+    "name": "Tebet Barat 014",
+    "url": "https://cctv.balitower.co.id/Tebet-Barat-014-705708_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kayu-Manis-001-704012",
+    "name": "Kayu Manis 001",
+    "url": "https://cctv.balitower.co.id/Kayu-Manis-001-704012_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Bangka-003-705008",
+    "name": "Bangka 003",
+    "url": "https://cctv.balitower.co.id/Bangka-003-705008_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Gandaria-Utara-PTSP-506516",
+    "name": "Kel Gandaria Utara PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Gandaria-Utara-PTSP-506516_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Palmerah-020-702609",
+    "name": "Palmerah 020",
+    "url": "https://cctv.balitower.co.id/Palmerah-020-702609_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pondok-Pinang-006-705485",
+    "name": "Pondok Pinang 006",
+    "url": "https://cctv.balitower.co.id/Pondok-Pinang-006-705485_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gelora-012-700388",
+    "name": "Gelora 012",
+    "url": "https://cctv.balitower.co.id/Gelora-012-700388_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Melawai-008-705368",
+    "name": "Melawai 008",
+    "url": "https://cctv.balitower.co.id/Melawai-008-705368_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Karet-Tengsin-002-700083",
+    "name": "Karet Tengsin 002",
+    "url": "https://cctv.balitower.co.id/Karet-Tengsin-002-700083_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tebet-Barat-019-705981",
+    "name": "Tebet Barat 019",
+    "url": "https://cctv.balitower.co.id/Tebet-Barat-019-705981_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gelora-013-700389",
+    "name": "Gelora 013",
+    "url": "https://cctv.balitower.co.id/Gelora-013-700389_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Palmerah-017-702606",
+    "name": "Palmerah 017",
+    "url": "https://cctv.balitower.co.id/Palmerah-017-702606_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Bangka-PTSP-506058",
+    "name": "Kel Bangka PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Bangka-PTSP-506058_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Grogol-Utara-002-705020",
+    "name": "Grogol Utara 002",
+    "url": "https://cctv.balitower.co.id/Grogol-Utara-002-705020_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kenari-006-700109",
+    "name": "Kenari 006",
+    "url": "https://cctv.balitower.co.id/Kenari-006-700109_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gondangdia-013-700330",
+    "name": "Gondangdia 013",
+    "url": "https://cctv.balitower.co.id/Gondangdia-013-700330_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gelora-005-700048",
+    "name": "Gelora 005",
+    "url": "https://cctv.balitower.co.id/Gelora-005-700048_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Senayan-004-705087",
+    "name": "Senayan 004",
+    "url": "https://cctv.balitower.co.id/Senayan-004-705087_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tebet-Timur-006-705568",
+    "name": "Tebet Timur 006",
+    "url": "https://cctv.balitower.co.id/Tebet-Timur-006-705568_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Bukit-Duri-010-705699",
+    "name": "Bukit Duri 010",
+    "url": "https://cctv.balitower.co.id/Bukit-Duri-010-705699_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Kramat-Pela-PTSP-506169",
+    "name": "Kel Kramat Pela PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Kramat-Pela-PTSP-506169_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Karet-001-705033",
+    "name": "Karet 001",
+    "url": "https://cctv.balitower.co.id/Karet-001-705033_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gelora-006-700049",
+    "name": "Gelora 006",
+    "url": "https://cctv.balitower.co.id/Gelora-006-700049_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kebayoran-Lama-Utara-001-705011",
+    "name": "Kebayoran Lama Utara 001",
+    "url": "https://cctv.balitower.co.id/Kebayoran-Lama-Utara-001-705011_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cipulir-002-MP-601193",
+    "name": "Cipulir 002",
+    "url": "https://cctv.balitower.co.id/Cipulir-002-MP-601193_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pal-Meriem-001-704019",
+    "name": "Pal Meriem 001",
+    "url": "https://cctv.balitower.co.id/Pal-Meriem-001-704019_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kuningan-Timur-004-705057",
+    "name": "Kuningan Timur 004",
+    "url": "https://cctv.balitower.co.id/Kuningan-Timur-004-705057_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tebet-Timur-001-705095",
+    "name": "Tebet Timur 001",
+    "url": "https://cctv.balitower.co.id/Tebet-Timur-001-705095_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Pal-Meriam-PTSP-506174",
+    "name": "Kel Pal Meriam PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Pal-Meriam-PTSP-506174_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Grogol-Utara-001-705019",
+    "name": "Grogol Utara 001",
+    "url": "https://cctv.balitower.co.id/Grogol-Utara-001-705019_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Menteng-PTSP-4",
+    "name": "Kel Menteng PTSP 4",
+    "url": "https://cctv.balitower.co.id/Kel-Menteng-PTSP-4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Melawai-004-705067",
+    "name": "Melawai 004",
+    "url": "https://cctv.balitower.co.id/Melawai-004-705067_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Pegangsaan-PTSP-506176",
+    "name": "Kel Pegangsaan PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Pegangsaan-PTSP-506176_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Petamburan-007-700397",
+    "name": "Petamburan 007",
+    "url": "https://cctv.balitower.co.id/Petamburan-007-700397_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Sukabumi-Utara-002-MP-601194",
+    "name": "Sukabumi Utara 002",
+    "url": "https://cctv.balitower.co.id/Sukabumi-Utara-002-MP-601194_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Tebet-Barat-PTSP-506073",
+    "name": "Kel Tebet Barat PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Tebet-Barat-PTSP-506073_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cipete-Utara-001-MP-601128",
+    "name": "Cipete Utara 001",
+    "url": "https://cctv.balitower.co.id/Cipete-Utara-001-MP-601128_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cikini-003-700033",
+    "name": "Cikini 003",
+    "url": "https://cctv.balitower.co.id/Cikini-003-700033_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Palmerah-004-702366",
+    "name": "Palmerah 004",
+    "url": "https://cctv.balitower.co.id/Palmerah-004-702366_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Bangka-001-MP-601138",
+    "name": "Bangka 001",
+    "url": "https://cctv.balitower.co.id/Bangka-001-MP-601138_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gelora-001-700043",
+    "name": "Gelora 001",
+    "url": "https://cctv.balitower.co.id/Gelora-001-700043_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Grogol-Utara-023-705628",
+    "name": "Grogol Utara 023",
+    "url": "https://cctv.balitower.co.id/Grogol-Utara-023-705628_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Selong-004-705083",
+    "name": "Selong 004",
+    "url": "https://cctv.balitower.co.id/Selong-004-705083_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Menteng-005-700127",
+    "name": "Menteng 005",
+    "url": "https://cctv.balitower.co.id/Menteng-005-700127_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kebon-Melati-001-700101",
+    "name": "Kebon Melati 001",
+    "url": "https://cctv.balitower.co.id/Kebon-Melati-001-700101_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Rawa-Jati-PTSP-506397",
+    "name": "Kel Rawa Jati PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Rawa-Jati-PTSP-506397_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Grogol-Selatan-014-705232",
+    "name": "Grogol Selatan 014",
+    "url": "https://cctv.balitower.co.id/Grogol-Selatan-014-705232_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Bukit-Duri-009-705698",
+    "name": "Bukit Duri 009",
+    "url": "https://cctv.balitower.co.id/Bukit-Duri-009-705698_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Grogol-Utara-011-705237",
+    "name": "Grogol Utara 011",
+    "url": "https://cctv.balitower.co.id/Grogol-Utara-011-705237_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kebayoran-Lama-Selatan-009-705313",
+    "name": "Kebayoran Lama Selatan 009",
+    "url": "https://cctv.balitower.co.id/Kebayoran-Lama-Selatan-009-705313_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pela-Mampang-008-705437",
+    "name": "Pela Mampang 008",
+    "url": "https://cctv.balitower.co.id/Pela-Mampang-008-705437_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Bangka-012-705106",
+    "name": "Bangka 012",
+    "url": "https://cctv.balitower.co.id/Bangka-012-705106_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Sukabumi-Utara-007-702460",
+    "name": "Sukabumi Utara 007",
+    "url": "https://cctv.balitower.co.id/Sukabumi-Utara-007-702460_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Karet-Tengsin-004-700085",
+    "name": "Karet Tengsin 004",
+    "url": "https://cctv.balitower.co.id/Karet-Tengsin-004-700085_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Utan-Kayu-Selatan-PTSP-506148",
+    "name": "Kel Utan Kayu Selatan PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Utan-Kayu-Selatan-PTSP-506148_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Selong-005-705527",
+    "name": "Selong 005",
+    "url": "https://cctv.balitower.co.id/Selong-005-705527_5/index.m3u8"
+  },
+  {
+    "id": "jakarta-Rawajati-004_705525",
+    "name": "Rawajati 004 705525",
+    "url": "https://cctv.balitower.co.id/Rawajati-004_705525_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Petogogan-001-705073",
+    "name": "Petogogan 001",
+    "url": "https://cctv.balitower.co.id/Petogogan-001-705073_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pegangsaan-001_MP_601149",
+    "name": "Pegangsaan 001 MP 601149",
+    "url": "https://cctv.balitower.co.id/Pegangsaan-001_MP_601149_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Petamburan-PTSP-506674",
+    "name": "Kel Petamburan PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Petamburan-PTSP-506674_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gelora-004-700047",
+    "name": "Gelora 004",
+    "url": "https://cctv.balitower.co.id/Gelora-004-700047_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Karet-Tengsin-005-700086",
+    "name": "Karet Tengsin 005",
+    "url": "https://cctv.balitower.co.id/Karet-Tengsin-005-700086_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pengadegan-001-705140",
+    "name": "Pengadegan 001",
+    "url": "https://cctv.balitower.co.id/Pengadegan-001-705140_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Kampung-Melayu-PTSP-506166",
+    "name": "Kel Kampung Melayu PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Kampung-Melayu-PTSP-506166_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Karet-Kuningan-001-MP-601141",
+    "name": "Karet Kuningan 001",
+    "url": "https://cctv.balitower.co.id/Karet-Kuningan-001-MP-601141_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Guntur-PTSP-506523",
+    "name": "Kel Guntur PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Guntur-PTSP-506523_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Pasar-Manggis-PTSP-506605",
+    "name": "Kel Pasar Manggis PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Pasar-Manggis-PTSP-506605_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Menteng-PTSP-3",
+    "name": "Kel Menteng PTSP 3",
+    "url": "https://cctv.balitower.co.id/Kel-Menteng-PTSP-3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pondok-Pinang-010-705489",
+    "name": "Pondok Pinang 010",
+    "url": "https://cctv.balitower.co.id/Pondok-Pinang-010-705489_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tebet-Barat-002-705092",
+    "name": "Tebet Barat 002",
+    "url": "https://cctv.balitower.co.id/Tebet-Barat-002-705092_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Manggarai-Pintu-Air",
+    "name": "Manggarai Pintu Air",
+    "url": "https://cctv.balitower.co.id/Manggarai-Pintu-Air_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pulo-004-705430",
+    "name": "Pulo 004",
+    "url": "https://cctv.balitower.co.id/Pulo-004-705430_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pela-Mampang-002-705431",
+    "name": "Pela Mampang 002",
+    "url": "https://cctv.balitower.co.id/Pela-Mampang-002-705431_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Selong-003-705082",
+    "name": "Selong 003",
+    "url": "https://cctv.balitower.co.id/Selong-003-705082_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pegangsaan-006-700139",
+    "name": "Pegangsaan 006",
+    "url": "https://cctv.balitower.co.id/Pegangsaan-006-700139_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gunung-002-705027",
+    "name": "Gunung 002",
+    "url": "https://cctv.balitower.co.id/Gunung-002-705027_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Utan-Kayu-Utara-PTSP-506437",
+    "name": "Kel Utan Kayu Utara PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Utan-Kayu-Utara-PTSP-506437_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kenari-002-700110",
+    "name": "Kenari 002",
+    "url": "https://cctv.balitower.co.id/Kenari-002-700110_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Bendungan-Hilir-003-700014",
+    "name": "Bendungan Hilir 003",
+    "url": "https://cctv.balitower.co.id/Bendungan-Hilir-003-700014_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kenari-005-700113",
+    "name": "Kenari 005",
+    "url": "https://cctv.balitower.co.id/Kenari-005-700113_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Kebon_Baru-PTSP",
+    "name": "Kel Kebon Baru PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Kebon_Baru-PTSP_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Gunung-PTSP-506165",
+    "name": "Kel Gunung PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Gunung-PTSP-506165_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Menteng-001-700123",
+    "name": "Menteng 001",
+    "url": "https://cctv.balitower.co.id/Menteng-001-700123_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Sukabumi-Utara-011-702852",
+    "name": "Sukabumi Utara 011",
+    "url": "https://cctv.balitower.co.id/Sukabumi-Utara-011-702852_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Paseban-001-700136",
+    "name": "Paseban 001",
+    "url": "https://cctv.balitower.co.id/Paseban-001-700136_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Menteng-002-700124",
+    "name": "Menteng 002",
+    "url": "https://cctv.balitower.co.id/Menteng-002-700124_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Sukabumi-Utara-PTSP-506416",
+    "name": "Kel Sukabumi Utara PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Sukabumi-Utara-PTSP-506416_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Selong-007-705529",
+    "name": "Selong 007",
+    "url": "https://cctv.balitower.co.id/Selong-007-705529_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Melawai-PTSP-506187",
+    "name": "Kel Melawai PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Melawai-PTSP-506187_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Gelora-PTSP-506164",
+    "name": "Kel Gelora PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Gelora-PTSP-506164_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Bendungan-Hilir-PTSP-506238",
+    "name": "Kel Bendungan Hilir PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Bendungan-Hilir-PTSP-506238_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Melawai-007-705367",
+    "name": "Melawai 007",
+    "url": "https://cctv.balitower.co.id/Melawai-007-705367_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gunung-001-MP_601125",
+    "name": "Gunung 001 MP 601125",
+    "url": "https://cctv.balitower.co.id/Gunung-001-MP_601125_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Grogol-Utara-003-705021",
+    "name": "Grogol Utara 003",
+    "url": "https://cctv.balitower.co.id/Grogol-Utara-003-705021_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Guntur-002-705242",
+    "name": "Guntur 002",
+    "url": "https://cctv.balitower.co.id/Guntur-002-705242_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Manggarai-Selatan-001-MP-601147",
+    "name": "Manggarai Selatan 001",
+    "url": "https://cctv.balitower.co.id/Manggarai-Selatan-001-MP-601147_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pulo-Gebang-001-MP-601185",
+    "name": "Pulo Gebang 001",
+    "url": "https://cctv.balitower.co.id/Pulo-Gebang-001-MP-601185_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pondok-Kelapa-001-MP-601184",
+    "name": "Pondok Kelapa 001",
+    "url": "https://cctv.balitower.co.id/Pondok-Kelapa-001-MP-601184_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cawang-001-MP-601154",
+    "name": "Cawang 001",
+    "url": "https://cctv.balitower.co.id/Cawang-001-MP-601154_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duren-Sawit-008-704174",
+    "name": "Duren Sawit 008",
+    "url": "https://cctv.balitower.co.id/Duren-Sawit-008-704174_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pulo-Gebang-012-704437",
+    "name": "Pulo Gebang 012",
+    "url": "https://cctv.balitower.co.id/Pulo-Gebang-012-704437_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Penggilingan-006-704342",
+    "name": "Penggilingan 006",
+    "url": "https://cctv.balitower.co.id/Penggilingan-006-704342_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Malaka-Jaya-002-704317",
+    "name": "Malaka Jaya 002",
+    "url": "https://cctv.balitower.co.id/Malaka-Jaya-002-704317_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Bali-Mester-006-704644",
+    "name": "Bali Mester 006",
+    "url": "https://cctv.balitower.co.id/Bali-Mester-006-704644_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pisangan-Timur-014-704640",
+    "name": "Pisangan Timur 014",
+    "url": "https://cctv.balitower.co.id/Pisangan-Timur-014-704640_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pisangan-Timur-002-704127",
+    "name": "Pisangan Timur 002",
+    "url": "https://cctv.balitower.co.id/Pisangan-Timur-002-704127_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cipinang-Muara-001-704145",
+    "name": "Cipinang Muara 001",
+    "url": "https://cctv.balitower.co.id/Cipinang-Muara-001-704145_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Klender-001-704018",
+    "name": "Klender 001",
+    "url": "https://cctv.balitower.co.id/Klender-001-704018_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pulo-Gebang-003-704425",
+    "name": "Pulo Gebang 003",
+    "url": "https://cctv.balitower.co.id/Pulo-Gebang-003-704425_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pondok-Kopi-003-704407",
+    "name": "Pondok Kopi 003",
+    "url": "https://cctv.balitower.co.id/Pondok-Kopi-003-704407_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Klender-008-704288",
+    "name": "Klender 008",
+    "url": "https://cctv.balitower.co.id/Klender-008-704288_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Makasar-003-704309",
+    "name": "Makasar 003",
+    "url": "https://cctv.balitower.co.id/Makasar-003-704309_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cipinang-Besar-Selatan-002-MP-601198",
+    "name": "Cipinang Besar Selatan 002",
+    "url": "https://cctv.balitower.co.id/Cipinang-Besar-Selatan-002-MP-601198_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Utan-Kayu-Utara-002-704034",
+    "name": "Utan Kayu Utara 002",
+    "url": "https://cctv.balitower.co.id/Utan-Kayu-Utara-002-704034_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Rawamangun-PTSP-506147",
+    "name": "Kel Rawamangun PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Rawamangun-PTSP-506147_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duren-Sawit-001-MP-601176",
+    "name": "Duren Sawit 001",
+    "url": "https://cctv.balitower.co.id/Duren-Sawit-001-MP-601176_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cipinang-Muara-001-MP-601167",
+    "name": "Cipinang Muara 001",
+    "url": "https://cctv.balitower.co.id/Cipinang-Muara-001-MP-601167_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Malaka-Jaya-001-704316",
+    "name": "Malaka Jaya 001",
+    "url": "https://cctv.balitower.co.id/Malaka-Jaya-001-704316_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cililitan-006-704110",
+    "name": "Cililitan 006",
+    "url": "https://cctv.balitower.co.id/Cililitan-006-704110_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Bali-Mester-PTSP-506157",
+    "name": "Kel Bali Mester PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Bali-Mester-PTSP-506157_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Jati-004-704027",
+    "name": "Jati 004",
+    "url": "https://cctv.balitower.co.id/Jati-004-704027_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Malaka-Jaya-PTSP-506172",
+    "name": "Kel Malaka Jaya PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Malaka-Jaya-PTSP-506172_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Klender-002-704282",
+    "name": "Klender 002",
+    "url": "https://cctv.balitower.co.id/Klender-002-704282_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cipinang-002-704120",
+    "name": "Cipinang 002",
+    "url": "https://cctv.balitower.co.id/Cipinang-002-704120_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Jatinegara-028-704897",
+    "name": "Jatinegara 028",
+    "url": "https://cctv.balitower.co.id/Jatinegara-028-704897_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kampung-Melayu-001-MP-601156",
+    "name": "Kampung Melayu 001",
+    "url": "https://cctv.balitower.co.id/Kampung-Melayu-001-MP-601156_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pisangan-Timur-012-704638",
+    "name": "Pisangan Timur 012",
+    "url": "https://cctv.balitower.co.id/Pisangan-Timur-012-704638_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duren-Sawit-014-704181",
+    "name": "Duren Sawit 014",
+    "url": "https://cctv.balitower.co.id/Duren-Sawit-014-704181_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duren-Sawit-002-MP-601177",
+    "name": "Duren Sawit 002",
+    "url": "https://cctv.balitower.co.id/Duren-Sawit-002-MP-601177_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Utan-Kayu-Selatan-001-MP-601157",
+    "name": "Utan Kayu Selatan 001",
+    "url": "https://cctv.balitower.co.id/Utan-Kayu-Selatan-001-MP-601157_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cipinang-Muara-004-704148",
+    "name": "Cipinang Muara 004",
+    "url": "https://cctv.balitower.co.id/Cipinang-Muara-004-704148_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Malaka-Jaya-003-704322",
+    "name": "Malaka Jaya 003",
+    "url": "https://cctv.balitower.co.id/Malaka-Jaya-003-704322_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cipinang-Muara-013-704571",
+    "name": "Cipinang Muara 013",
+    "url": "https://cctv.balitower.co.id/Cipinang-Muara-013-704571_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Pisangan-Timur-PTSP-506146",
+    "name": "Kel Pisangan Timur PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Pisangan-Timur-PTSP-506146_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cipinang-001-MP-601166",
+    "name": "Cipinang 001",
+    "url": "https://cctv.balitower.co.id/Cipinang-001-MP-601166_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cipinang-Muara-015-704573",
+    "name": "Cipinang Muara 015",
+    "url": "https://cctv.balitower.co.id/Cipinang-Muara-015-704573_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Cipinang-PTSP-506144",
+    "name": "Kel Cipinang PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Cipinang-PTSP-506144_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Rawa-Bunga-PTSP",
+    "name": "Kel Rawa Bunga PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Rawa-Bunga-PTSP_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kec-Duren-Sawit-506705",
+    "name": "Kec Duren Sawit",
+    "url": "https://cctv.balitower.co.id/Kec-Duren-Sawit-506705_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cipinang-Muara-005-704149",
+    "name": "Cipinang Muara 005",
+    "url": "https://cctv.balitower.co.id/Cipinang-Muara-005-704149_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kampung-Melayu-012-704767",
+    "name": "Kampung Melayu 012",
+    "url": "https://cctv.balitower.co.id/Kampung-Melayu-012-704767_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Penggilingan-001-MP-601182",
+    "name": "Penggilingan 001",
+    "url": "https://cctv.balitower.co.id/Penggilingan-001-MP-601182_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duren-Sawit-016-704183",
+    "name": "Duren Sawit 016",
+    "url": "https://cctv.balitower.co.id/Duren-Sawit-016-704183_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Penggilingan-PTSP-506068",
+    "name": "Kel Penggilingan PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Penggilingan-PTSP-506068_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Jatinegara-Kaum-002-704228",
+    "name": "Jatinegara Kaum 002",
+    "url": "https://cctv.balitower.co.id/Jatinegara-Kaum-002-704228_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Jatinegara-017-704211",
+    "name": "Jatinegara 017",
+    "url": "https://cctv.balitower.co.id/Jatinegara-017-704211_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cawang-001-704090",
+    "name": "Cawang 001",
+    "url": "https://cctv.balitower.co.id/Cawang-001-704090_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pondok-Bambu-014-704380",
+    "name": "Pondok Bambu 014",
+    "url": "https://cctv.balitower.co.id/Pondok-Bambu-014-704380_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cipinang-Cempedak-016-704725",
+    "name": "Cipinang Cempedak 016",
+    "url": "https://cctv.balitower.co.id/Cipinang-Cempedak-016-704725_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Utan-Kayu-Selatan-004-704477",
+    "name": "Utan Kayu Selatan 004",
+    "url": "https://cctv.balitower.co.id/Utan-Kayu-Selatan-004-704477_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duren-Sawit-004-704170",
+    "name": "Duren Sawit 004",
+    "url": "https://cctv.balitower.co.id/Duren-Sawit-004-704170_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pondok-Kopi-001-MP-601183",
+    "name": "Pondok Kopi 001",
+    "url": "https://cctv.balitower.co.id/Pondok-Kopi-001-MP-601183_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Klender-012-704293",
+    "name": "Klender 012",
+    "url": "https://cctv.balitower.co.id/Klender-012-704293_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Malaka-Sari-PTSP-506173",
+    "name": "Kel Malaka Sari PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Malaka-Sari-PTSP-506173_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kampung-Melayu-002-704002",
+    "name": "Kampung Melayu 002",
+    "url": "https://cctv.balitower.co.id/Kampung-Melayu-002-704002_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kampung-Melayu-001-705003",
+    "name": "Kampung Melayu 001",
+    "url": "https://cctv.balitower.co.id/Kampung-Melayu-001-705003_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Jatinegara-012-704225",
+    "name": "Jatinegara 012",
+    "url": "https://cctv.balitower.co.id/Jatinegara-012-704225_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cipinang-Cempedak-006-704139",
+    "name": "Cipinang Cempedak 006",
+    "url": "https://cctv.balitower.co.id/Cipinang-Cempedak-006-704139_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cipinang-Muara-008-704152",
+    "name": "Cipinang Muara 008",
+    "url": "https://cctv.balitower.co.id/Cipinang-Muara-008-704152_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Pisangan-Baru-PTSP-506180",
+    "name": "Kel Pisangan Baru PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Pisangan-Baru-PTSP-506180_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duren-Sawit-001-704008",
+    "name": "Duren Sawit 001",
+    "url": "https://cctv.balitower.co.id/Duren-Sawit-001-704008_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kec-Pulo-Gadung-PTSP-506055",
+    "name": "Kec Pulo Gadung PTSP",
+    "url": "https://cctv.balitower.co.id/Kec-Pulo-Gadung-PTSP-506055_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kedoya-Selatan-003-702046",
+    "name": "Kedoya Selatan 003",
+    "url": "https://cctv.balitower.co.id/Kedoya-Selatan-003-702046_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kapuk-009-702249",
+    "name": "Kapuk 009",
+    "url": "https://cctv.balitower.co.id/Kapuk-009-702249_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kapuk-001-MP-601109",
+    "name": "Kapuk 001",
+    "url": "https://cctv.balitower.co.id/Kapuk-001-MP-601109_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kapuk-Muara-040-702248",
+    "name": "Kapuk Muara 040",
+    "url": "https://cctv.balitower.co.id/Kapuk-Muara-040-702248_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kebon-Jeruk-007-702040",
+    "name": "Kebon Jeruk 007",
+    "url": "https://cctv.balitower.co.id/Kebon-Jeruk-007-702040_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kedoya-Utara-013-702292",
+    "name": "Kedoya Utara 013",
+    "url": "https://cctv.balitower.co.id/Kedoya-Utara-013-702292_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kembangan-Utara-018-702582",
+    "name": "Kembangan Utara 018",
+    "url": "https://cctv.balitower.co.id/Kembangan-Utara-018-702582_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kembangan-Utara-015-702579",
+    "name": "Kembangan Utara 015",
+    "url": "https://cctv.balitower.co.id/Kembangan-Utara-015-702579_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kedoya-Selatan-006-702274",
+    "name": "Kedoya Selatan 006",
+    "url": "https://cctv.balitower.co.id/Kedoya-Selatan-006-702274_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kembangan-Selatan-012-702315",
+    "name": "Kembangan Selatan 012",
+    "url": "https://cctv.balitower.co.id/Kembangan-Selatan-012-702315_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kalideres-001-MP-601103",
+    "name": "Kalideres 001",
+    "url": "https://cctv.balitower.co.id/Kalideres-001-MP-601103_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kembangan-Selatan-001-MP-601108",
+    "name": "Kembangan Selatan 001",
+    "url": "https://cctv.balitower.co.id/Kembangan-Selatan-001-MP-601108_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kembangan-Utara-005-702290",
+    "name": "Kembangan Utara 005",
+    "url": "https://cctv.balitower.co.id/Kembangan-Utara-005-702290_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Rawa-Buaya-001-MP-601107",
+    "name": "Rawa Buaya 001",
+    "url": "https://cctv.balitower.co.id/Rawa-Buaya-001-MP-601107_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kembangan-Utara-019-702583",
+    "name": "Kembangan Utara 019",
+    "url": "https://cctv.balitower.co.id/Kembangan-Utara-019-702583_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cengkareng-Barat-013-702131",
+    "name": "Cengkareng Barat 013",
+    "url": "https://cctv.balitower.co.id/Cengkareng-Barat-013-702131_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kedoya-Selatan-011-702043",
+    "name": "Kedoya Selatan 011",
+    "url": "https://cctv.balitower.co.id/Kedoya-Selatan-011-702043_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kembangan-Utara-006-702313",
+    "name": "Kembangan Utara 006",
+    "url": "https://cctv.balitower.co.id/Kembangan-Utara-006-702313_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Meruya-Utara-015-702361",
+    "name": "Meruya Utara 015",
+    "url": "https://cctv.balitower.co.id/Meruya-Utara-015-702361_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kembangan-Utara-003-702284",
+    "name": "Kembangan Utara 003",
+    "url": "https://cctv.balitower.co.id/Kembangan-Utara-003-702284_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Kedoya-Selatan-PTSP-506563",
+    "name": "Kel Kedoya Selatan PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Kedoya-Selatan-PTSP-506563_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cengkareng-Barat-001-702117",
+    "name": "Cengkareng Barat 001",
+    "url": "https://cctv.balitower.co.id/Cengkareng-Barat-001-702117_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kelapa-Gading-Timur-007-701124",
+    "name": "Kelapa Gading Timur 007",
+    "url": "https://cctv.balitower.co.id/Kelapa-Gading-Timur-007-701124_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kembangan-Utara-016-702580",
+    "name": "Kembangan Utara 016",
+    "url": "https://cctv.balitower.co.id/Kembangan-Utara-016-702580_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Kebon-Jeruk-PTSP-506556",
+    "name": "Kel Kebon Jeruk PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Kebon-Jeruk-PTSP-506556_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kembangan-Utara-009-702320",
+    "name": "Kembangan Utara 009",
+    "url": "https://cctv.balitower.co.id/Kembangan-Utara-009-702320_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kembangan-Utara-021-702585",
+    "name": "Kembangan Utara 021",
+    "url": "https://cctv.balitower.co.id/Kembangan-Utara-021-702585_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pegadungan-001-MP-601101",
+    "name": "Pegadungan 001",
+    "url": "https://cctv.balitower.co.id/Pegadungan-001-MP-601101_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duri-Kosambi-041-702773",
+    "name": "Duri Kosambi 041",
+    "url": "https://cctv.balitower.co.id/Duri-Kosambi-041-702773_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kembangan-Utara-014-702578",
+    "name": "Kembangan Utara 014",
+    "url": "https://cctv.balitower.co.id/Kembangan-Utara-014-702578_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kembangan-Utara-010-702321",
+    "name": "Kembangan Utara 010",
+    "url": "https://cctv.balitower.co.id/Kembangan-Utara-010-702321_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kedoya-Selatan-001-MP-601113",
+    "name": "Kedoya Selatan 001",
+    "url": "https://cctv.balitower.co.id/Kedoya-Selatan-001-MP-601113_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cengkareng-Barat-002-MP-601191",
+    "name": "Cengkareng Barat 002",
+    "url": "https://cctv.balitower.co.id/Cengkareng-Barat-002-MP-601191_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Duri-Kepa-PTSP-506510",
+    "name": "Kel Duri Kepa PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Duri-Kepa-PTSP-506510_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kembangan-Utara-013-702324",
+    "name": "Kembangan Utara 013",
+    "url": "https://cctv.balitower.co.id/Kembangan-Utara-013-702324_5/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kedoya-Utara-001-702047",
+    "name": "Kedoya Utara 001",
+    "url": "https://cctv.balitower.co.id/Kedoya-Utara-001-702047_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kembangan-Selatan-008-702279",
+    "name": "Kembangan Selatan 008",
+    "url": "https://cctv.balitower.co.id/Kembangan-Selatan-008-702279_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Rawa-Buaya-014-702770",
+    "name": "Rawa Buaya 014",
+    "url": "https://cctv.balitower.co.id/Rawa-Buaya-014-702770_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Timur-003_c",
+    "name": "Monas Timur 003 C",
+    "url": "https://cctv.balitower.co.id/Monas-Timur-003_c/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Utara-003_b",
+    "name": "Monas Utara 003 B",
+    "url": "https://cctv.balitower.co.id/Monas-Utara-003_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Tanah-Sereal-PTSP-506424",
+    "name": "Kel Tanah Sereal PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Tanah-Sereal-PTSP-506424_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Karang-Anyar-001-MP-601142",
+    "name": "Karang Anyar 001",
+    "url": "https://cctv.balitower.co.id/Karang-Anyar-001-MP-601142_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gondangdia-021-700531",
+    "name": "Gondangdia 021",
+    "url": "https://cctv.balitower.co.id/Gondangdia-021-700531_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Petojo-Utara-011-700280",
+    "name": "Petojo Utara 011",
+    "url": "https://cctv.balitower.co.id/Petojo-Utara-011-700280_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Roa-Malaka-PTSP-506401",
+    "name": "Kel Roa Malaka PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Roa-Malaka-PTSP-506401_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Mangga-Dua-Selatan-003-700120",
+    "name": "Mangga Dua Selatan 003",
+    "url": "https://cctv.balitower.co.id/Mangga-Dua-Selatan-003-700120_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Timur-005_b",
+    "name": "Monas Timur 005 B",
+    "url": "https://cctv.balitower.co.id/Monas-Timur-005_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Utara-001_a",
+    "name": "Monas Utara 001 A",
+    "url": "https://cctv.balitower.co.id/Monas-Utara-001_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Timur-002_a",
+    "name": "Monas Timur 002 A",
+    "url": "https://cctv.balitower.co.id/Monas-Timur-002_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Utara-003_c",
+    "name": "Monas Utara 003 C",
+    "url": "https://cctv.balitower.co.id/Monas-Utara-003_c/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duri-Kepa-008-702144",
+    "name": "Duri Kepa 008",
+    "url": "https://cctv.balitower.co.id/Duri-Kepa-008-702144_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kebon-Kelapa-005-700093",
+    "name": "Kebon Kelapa 005",
+    "url": "https://cctv.balitower.co.id/Kebon-Kelapa-005-700093_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gambir-009-700209",
+    "name": "Gambir 009",
+    "url": "https://cctv.balitower.co.id/Gambir-009-700209_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Mangga-Dua-Selatan-PTSP-506591",
+    "name": "Kel Mangga Dua Selatan PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Mangga-Dua-Selatan-PTSP-506591_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kenari-009-700372",
+    "name": "Kenari 009",
+    "url": "https://cctv.balitower.co.id/Kenari-009-700372_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-001_b",
+    "name": "Monas Barat 001 B",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-001_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Kemanggisan-PTSP-506568",
+    "name": "Kel Kemanggisan PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Kemanggisan-PTSP-506568_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kec-Grogol-Petamburan-506216",
+    "name": "Kec Grogol Petamburan",
+    "url": "https://cctv.balitower.co.id/Kec-Grogol-Petamburan-506216_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-006_b",
+    "name": "Monas Selatan 006 B",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-006_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tanah-Tinggi-010-700528",
+    "name": "Tanah Tinggi 010",
+    "url": "https://cctv.balitower.co.id/Tanah-Tinggi-010-700528_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Utara-003_a",
+    "name": "Monas Utara 003 A",
+    "url": "https://cctv.balitower.co.id/Monas-Utara-003_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Penjaringan-001-701001",
+    "name": "Penjaringan 001",
+    "url": "https://cctv.balitower.co.id/Penjaringan-001-701001_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-006_a",
+    "name": "Monas Selatan 006 A",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-006_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Mangga-Besar-001-702069",
+    "name": "Mangga Besar 001",
+    "url": "https://cctv.balitower.co.id/Mangga-Besar-001-702069_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Tangki-PTSP-506734",
+    "name": "Kel Tangki PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Tangki-PTSP-506734_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pasar-Baru-001-MP-601143",
+    "name": "Pasar Baru 001",
+    "url": "https://cctv.balitower.co.id/Pasar-Baru-001-MP-601143_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duri-Kepa-017-702154",
+    "name": "Duri Kepa 017",
+    "url": "https://cctv.balitower.co.id/Duri-Kepa-017-702154_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kebon-Kelapa-008-700096",
+    "name": "Kebon Kelapa 008",
+    "url": "https://cctv.balitower.co.id/Kebon-Kelapa-008-700096_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Utara-003_d",
+    "name": "Monas Utara 003 D",
+    "url": "https://cctv.balitower.co.id/Monas-Utara-003_d/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-004_b",
+    "name": "Monas Selatan 004 B",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-004_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kota-Bambu-Utara-009-702859",
+    "name": "Kota Bambu Utara 009",
+    "url": "https://cctv.balitower.co.id/Kota-Bambu-Utara-009-702859_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-009-506632",
+    "name": "Monas Barat 009",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-009-506632_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tanjung-Duren-Utara-002-702468",
+    "name": "Tanjung Duren Utara 002",
+    "url": "https://cctv.balitower.co.id/Tanjung-Duren-Utara-002-702468_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Timur-006_a",
+    "name": "Monas Timur 006 A",
+    "url": "https://cctv.balitower.co.id/Monas-Timur-006_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gondangdia-005-700125",
+    "name": "Gondangdia 005",
+    "url": "https://cctv.balitower.co.id/Gondangdia-005-700125_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kampung-Bali-004-700226",
+    "name": "Kampung Bali 004",
+    "url": "https://cctv.balitower.co.id/Kampung-Bali-004-700226_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kalijodo-C03-506762",
+    "name": "Kalijodo C03",
+    "url": "https://cctv.balitower.co.id/Kalijodo-C03-506762_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-002_a",
+    "name": "Monas Selatan 002 A",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-002_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Jelambar-012-702469",
+    "name": "Jelambar 012",
+    "url": "https://cctv.balitower.co.id/Jelambar-012-702469_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Timur-001_a",
+    "name": "Monas Timur 001 A",
+    "url": "https://cctv.balitower.co.id/Monas-Timur-001_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pasar-Baru-010-700362",
+    "name": "Pasar Baru 010",
+    "url": "https://cctv.balitower.co.id/Pasar-Baru-010-700362_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-006_c",
+    "name": "Monas Selatan 006 C",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-006_c/index.m3u8"
+  },
+  {
+    "id": "jakarta-Maphar-001-702071",
+    "name": "Maphar 001",
+    "url": "https://cctv.balitower.co.id/Maphar-001-702071_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gondangdia-011-700328",
+    "name": "Gondangdia 011",
+    "url": "https://cctv.balitower.co.id/Gondangdia-011-700328_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duri-Pulo-003-702181",
+    "name": "Duri Pulo 003",
+    "url": "https://cctv.balitower.co.id/Duri-Pulo-003-702181_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pejagalan-012-701154",
+    "name": "Pejagalan 012",
+    "url": "https://cctv.balitower.co.id/Pejagalan-012-701154_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Utara-001_b",
+    "name": "Monas Utara 001 B",
+    "url": "https://cctv.balitower.co.id/Monas-Utara-001_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-003_b",
+    "name": "Monas Selatan 003 B",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-003_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-001_a",
+    "name": "Monas Barat 001 A",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-001_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duri-Kepa-013-702150",
+    "name": "Duri Kepa 013",
+    "url": "https://cctv.balitower.co.id/Duri-Kepa-013-702150_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cikini-001-700031",
+    "name": "Cikini 001",
+    "url": "https://cctv.balitower.co.id/Cikini-001-700031_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-006_c",
+    "name": "Monas Barat 006 C",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-006_c/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kenari-001-700009",
+    "name": "Kenari 001",
+    "url": "https://cctv.balitower.co.id/Kenari-001-700009_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Sunter-Agung-001-MP-601151",
+    "name": "Sunter Agung 001",
+    "url": "https://cctv.balitower.co.id/Sunter-Agung-001-MP-601151_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kemanggisan-003-702055",
+    "name": "Kemanggisan 003",
+    "url": "https://cctv.balitower.co.id/Kemanggisan-003-702055_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Wijaya-Kesuma-008-702485",
+    "name": "Wijaya Kesuma 008",
+    "url": "https://cctv.balitower.co.id/Wijaya-Kesuma-008-702485_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-005_c",
+    "name": "Monas Barat 005 C",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-005_c/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tanah-Tinggi-002-700165",
+    "name": "Tanah Tinggi 002",
+    "url": "https://cctv.balitower.co.id/Tanah-Tinggi-002-700165_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Ciliwung-Kebon-Sirih-001-700008",
+    "name": "Ciliwung Kebon Sirih 001",
+    "url": "https://cctv.balitower.co.id/Ciliwung-Kebon-Sirih-001-700008_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Johar-Baru-003-700074",
+    "name": "Johar Baru 003",
+    "url": "https://cctv.balitower.co.id/Johar-Baru-003-700074_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Ancol-015-701094",
+    "name": "Ancol 015",
+    "url": "https://cctv.balitower.co.id/Ancol-015-701094_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Timur-005_a",
+    "name": "Monas Timur 005 A",
+    "url": "https://cctv.balitower.co.id/Monas-Timur-005_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Petamburan-006-700269",
+    "name": "Petamburan 006",
+    "url": "https://cctv.balitower.co.id/Petamburan-006-700269_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duri-Kepa-011-702148",
+    "name": "Duri Kepa 011",
+    "url": "https://cctv.balitower.co.id/Duri-Kepa-011-702148_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kalijodo-C02-506761",
+    "name": "Kalijodo C02",
+    "url": "https://cctv.balitower.co.id/Kalijodo-C02-506761_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-006_b",
+    "name": "Monas Barat 006 B",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-006_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gunung-Sahari-Selatan-001-MP-601187",
+    "name": "Gunung Sahari Selatan 001",
+    "url": "https://cctv.balitower.co.id/Gunung-Sahari-Selatan-001-MP-601187_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kalijodo-C01-506760",
+    "name": "Kalijodo C01",
+    "url": "https://cctv.balitower.co.id/Kalijodo-C01-506760_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Petamburan-010-700532",
+    "name": "Petamburan 010",
+    "url": "https://cctv.balitower.co.id/Petamburan-010-700532_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cideng-009-700537",
+    "name": "Cideng 009",
+    "url": "https://cctv.balitower.co.id/Cideng-009-700537_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tanah-Tinggi-001-700164",
+    "name": "Tanah Tinggi 001",
+    "url": "https://cctv.balitower.co.id/Tanah-Tinggi-001-700164_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Keagungan-004-702613",
+    "name": "Keagungan 004",
+    "url": "https://cctv.balitower.co.id/Keagungan-004-702613_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-004_a",
+    "name": "Monas Barat 004 A",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-004_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-004_b",
+    "name": "Monas Barat 004 B",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-004_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gambir-006-700040",
+    "name": "Gambir 006",
+    "url": "https://cctv.balitower.co.id/Gambir-006-700040_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Ancol-003-701004",
+    "name": "Ancol 003",
+    "url": "https://cctv.balitower.co.id/Ancol-003-701004_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-007_c",
+    "name": "Monas Barat 007 C",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-007_c/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Timur-003_a",
+    "name": "Monas Timur 003 A",
+    "url": "https://cctv.balitower.co.id/Monas-Timur-003_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Timur-001_b",
+    "name": "Monas Timur 001 B",
+    "url": "https://cctv.balitower.co.id/Monas-Timur-001_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gambir-011-700304",
+    "name": "Gambir 011",
+    "url": "https://cctv.balitower.co.id/Gambir-011-700304_5/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Timur-002_b",
+    "name": "Monas Timur 002 B",
+    "url": "https://cctv.balitower.co.id/Monas-Timur-002_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-007_a",
+    "name": "Monas Barat 007 A",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-007_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-005_a",
+    "name": "Monas Selatan 005 A",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-005_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Karang-Anyar-004-700230",
+    "name": "Karang Anyar 004",
+    "url": "https://cctv.balitower.co.id/Karang-Anyar-004-700230_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kalijodo-C04-506763",
+    "name": "Kalijodo C04",
+    "url": "https://cctv.balitower.co.id/Kalijodo-C04-506763_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cikini-001-MP-601144",
+    "name": "Cikini 001",
+    "url": "https://cctv.balitower.co.id/Cikini-001-MP-601144_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-003_a",
+    "name": "Monas Barat 003 A",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-003_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duri-Kepa-001-MP-601119",
+    "name": "Duri Kepa 001",
+    "url": "https://cctv.balitower.co.id/Duri-Kepa-001-MP-601119_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kemanggisan-018-702601",
+    "name": "Kemanggisan 018",
+    "url": "https://cctv.balitower.co.id/Kemanggisan-018-702601_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tanah-Tinggi-004-700167",
+    "name": "Tanah Tinggi 004",
+    "url": "https://cctv.balitower.co.id/Tanah-Tinggi-004-700167_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Timur-004_a",
+    "name": "Monas Timur 004 A",
+    "url": "https://cctv.balitower.co.id/Monas-Timur-004_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Petojo-Selatan-008-700272",
+    "name": "Petojo Selatan 008",
+    "url": "https://cctv.balitower.co.id/Petojo-Selatan-008-700272_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Ancol-016-701093",
+    "name": "Ancol 016",
+    "url": "https://cctv.balitower.co.id/Ancol-016-701093_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gondangdia-002-700052",
+    "name": "Gondangdia 002",
+    "url": "https://cctv.balitower.co.id/Gondangdia-002-700052_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-005_a",
+    "name": "Monas Barat 005 A",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-005_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gambir-001-MP-601133",
+    "name": "Gambir 001",
+    "url": "https://cctv.balitower.co.id/Gambir-001-MP-601133_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cempaka-Putih-Barat-001-700024",
+    "name": "Cempaka Putih Barat 001",
+    "url": "https://cctv.balitower.co.id/Cempaka-Putih-Barat-001-700024_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-003_b",
+    "name": "Monas Barat 003 B",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-003_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tambora-001-MP-601134",
+    "name": "Tambora 001",
+    "url": "https://cctv.balitower.co.id/Tambora-001-MP-601134_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cempaka-Putih-Barat-011-700297",
+    "name": "Cempaka Putih Barat 011",
+    "url": "https://cctv.balitower.co.id/Cempaka-Putih-Barat-011-700297_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Duri-Kepa-002-702009",
+    "name": "Duri Kepa 002",
+    "url": "https://cctv.balitower.co.id/Duri-Kepa-002-702009_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cikini-002-700032",
+    "name": "Cikini 002",
+    "url": "https://cctv.balitower.co.id/Cikini-002-700032_5/index.m3u8"
+  },
+  {
+    "id": "jakarta-Jelambar-Baru-001-702024",
+    "name": "Jelambar Baru 001",
+    "url": "https://cctv.balitower.co.id/Jelambar-Baru-001-702024_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-007_b",
+    "name": "Monas Selatan 007 B",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-007_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gambir-018-700457",
+    "name": "Gambir 018",
+    "url": "https://cctv.balitower.co.id/Gambir-018-700457_5/index.m3u8"
+  },
+  {
+    "id": "jakarta-Angke-001-702002",
+    "name": "Angke 001",
+    "url": "https://cctv.balitower.co.id/Angke-001-702002_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Wijaya-Kesuma-001-MP-601120",
+    "name": "Wijaya Kesuma 001",
+    "url": "https://cctv.balitower.co.id/Wijaya-Kesuma-001-MP-601120_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Utara-002_b",
+    "name": "Monas Utara 002 B",
+    "url": "https://cctv.balitower.co.id/Monas-Utara-002_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kec-Johar-Baru-PTSP-506154",
+    "name": "Kec Johar Baru PTSP",
+    "url": "https://cctv.balitower.co.id/Kec-Johar-Baru-PTSP-506154_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cempaka-Putih-Barat-005-700186",
+    "name": "Cempaka Putih Barat 005",
+    "url": "https://cctv.balitower.co.id/Cempaka-Putih-Barat-005-700186_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Senen-007-700381",
+    "name": "Senen 007",
+    "url": "https://cctv.balitower.co.id/Senen-007-700381_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-004_a",
+    "name": "Monas Selatan 004 A",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-004_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Maphar-007-702910",
+    "name": "Maphar 007",
+    "url": "https://cctv.balitower.co.id/Maphar-007-702910_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Utara-002_a",
+    "name": "Monas Utara 002 A",
+    "url": "https://cctv.balitower.co.id/Monas-Utara-002_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Timur-003_b",
+    "name": "Monas Timur 003 B",
+    "url": "https://cctv.balitower.co.id/Monas-Timur-003_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Ciliwung-Pademangan-Barat-004-701005",
+    "name": "Ciliwung Pademangan Barat 004",
+    "url": "https://cctv.balitower.co.id/Ciliwung-Pademangan-Barat-004-701005_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-005_b",
+    "name": "Monas Selatan 005 B",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-005_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Harapan-Mulya-002-700218",
+    "name": "Harapan Mulya 002",
+    "url": "https://cctv.balitower.co.id/Harapan-Mulya-002-700218_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gambir-003-700037",
+    "name": "Gambir 003",
+    "url": "https://cctv.balitower.co.id/Gambir-003-700037_5/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kebon-Jeruk-001-MP-601124",
+    "name": "Kebon Jeruk 001",
+    "url": "https://cctv.balitower.co.id/Kebon-Jeruk-001-MP-601124_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-006_a",
+    "name": "Monas Barat 006 A",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-006_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Petojo-Selatan-007-700271",
+    "name": "Petojo Selatan 007",
+    "url": "https://cctv.balitower.co.id/Petojo-Selatan-007-700271_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kenari-003-700111",
+    "name": "Kenari 003",
+    "url": "https://cctv.balitower.co.id/Kenari-003-700111_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gunung-Sahari-Selatan-001-700056",
+    "name": "Gunung Sahari Selatan 001",
+    "url": "https://cctv.balitower.co.id/Gunung-Sahari-Selatan-001-700056_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Ancol-002-701003",
+    "name": "Ancol 002",
+    "url": "https://cctv.balitower.co.id/Ancol-002-701003_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Wijaya-Kesuma-004-702156",
+    "name": "Wijaya Kesuma 004",
+    "url": "https://cctv.balitower.co.id/Wijaya-Kesuma-004-702156_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Mangga-Dua-Selatan-005-700122",
+    "name": "Mangga Dua Selatan 005",
+    "url": "https://cctv.balitower.co.id/Mangga-Dua-Selatan-005-700122_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Ancol-001-MP-601131",
+    "name": "Ancol 001",
+    "url": "https://cctv.balitower.co.id/Ancol-001-MP-601131_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Tanjung-Duren-Utara-007-702473",
+    "name": "Tanjung Duren Utara 007",
+    "url": "https://cctv.balitower.co.id/Tanjung-Duren-Utara-007-702473_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-001_b",
+    "name": "Monas Selatan 001 B",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-001_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gondangdia-001-700051",
+    "name": "Gondangdia 001",
+    "url": "https://cctv.balitower.co.id/Gondangdia-001-700051_5/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gondangdia-017-700334",
+    "name": "Gondangdia 017",
+    "url": "https://cctv.balitower.co.id/Gondangdia-017-700334_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-003_a",
+    "name": "Monas Selatan 003 A",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-003_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kebon-Kacang-007-700393",
+    "name": "Kebon Kacang 007",
+    "url": "https://cctv.balitower.co.id/Kebon-Kacang-007-700393_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pademangan-Barat-003-701033",
+    "name": "Pademangan Barat 003",
+    "url": "https://cctv.balitower.co.id/Pademangan-Barat-003-701033_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Wijaya-Kesuma-015-702022",
+    "name": "Wijaya Kesuma 015",
+    "url": "https://cctv.balitower.co.id/Wijaya-Kesuma-015-702022_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-007_b",
+    "name": "Monas Barat 007 B",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-007_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-002_b",
+    "name": "Monas Selatan 002 B",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-002_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kalianyar-001-702030",
+    "name": "Kalianyar 001",
+    "url": "https://cctv.balitower.co.id/Kalianyar-001-702030_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kebon-Jeruk-029-702839",
+    "name": "Kebon Jeruk 029",
+    "url": "https://cctv.balitower.co.id/Kebon-Jeruk-029-702839_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pademangan-Barat-006-701035",
+    "name": "Pademangan Barat 006",
+    "url": "https://cctv.balitower.co.id/Pademangan-Barat-006-701035_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gambir-008-700042",
+    "name": "Gambir 008",
+    "url": "https://cctv.balitower.co.id/Gambir-008-700042_5/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-007_a",
+    "name": "Monas Selatan 007 A",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-007_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pasar-Baru-018-700370",
+    "name": "Pasar Baru 018",
+    "url": "https://cctv.balitower.co.id/Pasar-Baru-018-700370_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Ciliwung-Gambir-001-700006",
+    "name": "Ciliwung Gambir 001",
+    "url": "https://cctv.balitower.co.id/Ciliwung-Gambir-001-700006_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gambir-004-700038",
+    "name": "Gambir 004",
+    "url": "https://cctv.balitower.co.id/Gambir-004-700038_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Rawa-Sari-013-700302",
+    "name": "Rawa Sari 013",
+    "url": "https://cctv.balitower.co.id/Rawa-Sari-013-700302_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Ancol-001-701002",
+    "name": "Ancol 001",
+    "url": "https://cctv.balitower.co.id/Ancol-001-701002_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cikini-004-700034",
+    "name": "Cikini 004",
+    "url": "https://cctv.balitower.co.id/Cikini-004-700034_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gunung-Sahari-Utara-001-700002",
+    "name": "Gunung Sahari Utara 001",
+    "url": "https://cctv.balitower.co.id/Gunung-Sahari-Utara-001-700002_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-005_b",
+    "name": "Monas Barat 005 B",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-005_b/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cempaka-Putih-Barat-014-700454",
+    "name": "Cempaka Putih Barat 014",
+    "url": "https://cctv.balitower.co.id/Cempaka-Putih-Barat-014-700454_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-008-506631",
+    "name": "Monas Barat 008",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-008-506631_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Taman-Sari-PTSP-506733",
+    "name": "Kel Taman Sari PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Taman-Sari-PTSP-506733_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Roa-Malaka-002-702084",
+    "name": "Roa Malaka 002",
+    "url": "https://cctv.balitower.co.id/Roa-Malaka-002-702084_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-010-506633",
+    "name": "Monas Barat 010",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-010-506633_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cideng-002-MP-601197",
+    "name": "Cideng 002",
+    "url": "https://cctv.balitower.co.id/Cideng-002-MP-601197_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kota-Bambu-Utara-001-MP-601186",
+    "name": "Kota Bambu Utara 001",
+    "url": "https://cctv.balitower.co.id/Kota-Bambu-Utara-001-MP-601186_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gambir-019-700094",
+    "name": "Gambir 019",
+    "url": "https://cctv.balitower.co.id/Gambir-019-700094_5/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kemanggisan-008-702301",
+    "name": "Kemanggisan 008",
+    "url": "https://cctv.balitower.co.id/Kemanggisan-008-702301_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cempaka-Putih-Barat-015-700155",
+    "name": "Cempaka Putih Barat 015",
+    "url": "https://cctv.balitower.co.id/Cempaka-Putih-Barat-015-700155_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-001_a",
+    "name": "Monas Selatan 001 A",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-001_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Grogol-Utara-016-705621",
+    "name": "Grogol Utara 016",
+    "url": "https://cctv.balitower.co.id/Grogol-Utara-016-705621_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kebon-Sirih-008-700340",
+    "name": "Kebon Sirih 008",
+    "url": "https://cctv.balitower.co.id/Kebon-Sirih-008-700340_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Gondangdia-006-700211",
+    "name": "Gondangdia 006",
+    "url": "https://cctv.balitower.co.id/Gondangdia-006-700211_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Utara-003_e",
+    "name": "Monas Utara 003 E",
+    "url": "https://cctv.balitower.co.id/Monas-Utara-003_e/index.m3u8"
+  },
+  {
+    "id": "jakarta-Mangga-Dua-Selatan-007-700358",
+    "name": "Mangga Dua Selatan 007",
+    "url": "https://cctv.balitower.co.id/Mangga-Dua-Selatan-007-700358_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Petojo-Utara-001-700148",
+    "name": "Petojo Utara 001",
+    "url": "https://cctv.balitower.co.id/Petojo-Utara-001-700148_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kemanggisan-007-702300",
+    "name": "Kemanggisan 007",
+    "url": "https://cctv.balitower.co.id/Kemanggisan-007-702300_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-004_c",
+    "name": "Monas Barat 004 C",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-004_c/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Timur-005_c",
+    "name": "Monas Timur 005 C",
+    "url": "https://cctv.balitower.co.id/Monas-Timur-005_c/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kramat-002-700116",
+    "name": "Kramat 002",
+    "url": "https://cctv.balitower.co.id/Kramat-002-700116_3/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Petojo-Utara-PTSP-506178",
+    "name": "Kel Petojo Utara PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Petojo-Utara-PTSP-506178_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kebon-Sirih-003-700106",
+    "name": "Kebon Sirih 003",
+    "url": "https://cctv.balitower.co.id/Kebon-Sirih-003-700106_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Selatan-005_c",
+    "name": "Monas Selatan 005 C",
+    "url": "https://cctv.balitower.co.id/Monas-Selatan-005_c/index.m3u8"
+  },
+  {
+    "id": "jakarta-Monas-Barat-002_a",
+    "name": "Monas Barat 002 A",
+    "url": "https://cctv.balitower.co.id/Monas-Barat-002_a/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kelapa-Gading-Barat-037-701401",
+    "name": "Kelapa Gading Barat 037",
+    "url": "https://cctv.balitower.co.id/Kelapa-Gading-Barat-037-701401_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Sunter-Jaya-022-701350",
+    "name": "Sunter Jaya 022",
+    "url": "https://cctv.balitower.co.id/Sunter-Jaya-022-701350_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pegangsaan-Dua-001-MP-601174",
+    "name": "Pegangsaan Dua 001",
+    "url": "https://cctv.balitower.co.id/Pegangsaan-Dua-001-MP-601174_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cempaka-Putih-Timur-010-700200",
+    "name": "Cempaka Putih Timur 010",
+    "url": "https://cctv.balitower.co.id/Cempaka-Putih-Timur-010-700200_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cempaka-Putih-Barat-010-700192",
+    "name": "Cempaka Putih Barat 010",
+    "url": "https://cctv.balitower.co.id/Cempaka-Putih-Barat-010-700192_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Rawa-Terate-001-704023",
+    "name": "Rawa Terate 001",
+    "url": "https://cctv.balitower.co.id/Rawa-Terate-001-704023_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Sunter-Jaya-021-701349",
+    "name": "Sunter Jaya 021",
+    "url": "https://cctv.balitower.co.id/Sunter-Jaya-021-701349_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kayu-Putih-006-704251",
+    "name": "Kayu Putih 006",
+    "url": "https://cctv.balitower.co.id/Kayu-Putih-006-704251_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kayu-Putih-012-704257",
+    "name": "Kayu Putih 012",
+    "url": "https://cctv.balitower.co.id/Kayu-Putih-012-704257_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Sumur-Batu-PTSP-506418",
+    "name": "Kel Sumur Batu PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Sumur-Batu-PTSP-506418_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cempaka-Putih-Timur-006-700196",
+    "name": "Cempaka Putih Timur 006",
+    "url": "https://cctv.balitower.co.id/Cempaka-Putih-Timur-006-700196_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cempaka-Baru-001-601152",
+    "name": "Cempaka Baru 001",
+    "url": "https://cctv.balitower.co.id/Cempaka-Baru-001-601152_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pulo-Gadung-011-704487",
+    "name": "Pulo Gadung 011",
+    "url": "https://cctv.balitower.co.id/Pulo-Gadung-011-704487_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Rawa-Sari-015-700462",
+    "name": "Rawa Sari 015",
+    "url": "https://cctv.balitower.co.id/Rawa-Sari-015-700462_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kayu-Putih-008-704253",
+    "name": "Kayu Putih 008",
+    "url": "https://cctv.balitower.co.id/Kayu-Putih-008-704253_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pulo-Gadung-004-704418",
+    "name": "Pulo Gadung 004",
+    "url": "https://cctv.balitower.co.id/Pulo-Gadung-004-704418_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kec-Cempaka-Putih-506704",
+    "name": "Kec Cempaka Putih",
+    "url": "https://cctv.balitower.co.id/Kec-Cempaka-Putih-506704_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Jati-015-704895",
+    "name": "Jati 015",
+    "url": "https://cctv.balitower.co.id/Jati-015-704895_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pulo-Gadung-010-704484",
+    "name": "Pulo Gadung 010",
+    "url": "https://cctv.balitower.co.id/Pulo-Gadung-010-704484_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Rawa-Sari-003-700154",
+    "name": "Rawa Sari 003",
+    "url": "https://cctv.balitower.co.id/Rawa-Sari-003-700154_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cempaka-Putih-Timur-002-700185",
+    "name": "Cempaka Putih Timur 002",
+    "url": "https://cctv.balitower.co.id/Cempaka-Putih-Timur-002-700185_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Sumur-Batu-001-700163",
+    "name": "Sumur Batu 001",
+    "url": "https://cctv.balitower.co.id/Sumur-Batu-001-700163_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kayu-Putih-026-704773",
+    "name": "Kayu Putih 026",
+    "url": "https://cctv.balitower.co.id/Kayu-Putih-026-704773_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kayu-Putih-001-MP-601164",
+    "name": "Kayu Putih 001",
+    "url": "https://cctv.balitower.co.id/Kayu-Putih-001-MP-601164_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Sumur-Batu-002-700289",
+    "name": "Sumur Batu 002",
+    "url": "https://cctv.balitower.co.id/Sumur-Batu-002-700289_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cakung-Timur-011-704667",
+    "name": "Cakung Timur 011",
+    "url": "https://cctv.balitower.co.id/Cakung-Timur-011-704667_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kelapa-Gading-Barat-002-701020",
+    "name": "Kelapa Gading Barat 002",
+    "url": "https://cctv.balitower.co.id/Kelapa-Gading-Barat-002-701020_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cakung-Barat-014-704658",
+    "name": "Cakung Barat 014",
+    "url": "https://cctv.balitower.co.id/Cakung-Barat-014-704658_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Sumur-Batu-005-700179",
+    "name": "Sumur Batu 005",
+    "url": "https://cctv.balitower.co.id/Sumur-Batu-005-700179_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cempaka-Putih-Timur-005-700194",
+    "name": "Cempaka Putih Timur 005",
+    "url": "https://cctv.balitower.co.id/Cempaka-Putih-Timur-005-700194_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Rawamangun-004-704029",
+    "name": "Rawamangun 004",
+    "url": "https://cctv.balitower.co.id/Rawamangun-004-704029_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Jatinegara-001-MP-601175",
+    "name": "Jatinegara 001",
+    "url": "https://cctv.balitower.co.id/Jatinegara-001-MP-601175_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kayu-Putih-014-704261",
+    "name": "Kayu Putih 014",
+    "url": "https://cctv.balitower.co.id/Kayu-Putih-014-704261_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Sunter-Jaya-002-MP-601161",
+    "name": "Sunter Jaya 002",
+    "url": "https://cctv.balitower.co.id/Sunter-Jaya-002-MP-601161_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Sunter-Agung-006-701203",
+    "name": "Sunter Agung 006",
+    "url": "https://cctv.balitower.co.id/Sunter-Agung-006-701203_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cempaka-Putih-Timur-008-700198",
+    "name": "Cempaka Putih Timur 008",
+    "url": "https://cctv.balitower.co.id/Cempaka-Putih-Timur-008-700198_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kelapa-Gading-Barat-003-701021",
+    "name": "Kelapa Gading Barat 003",
+    "url": "https://cctv.balitower.co.id/Kelapa-Gading-Barat-003-701021_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Sunter-Jaya-030-701500",
+    "name": "Sunter Jaya 030",
+    "url": "https://cctv.balitower.co.id/Sunter-Jaya-030-701500_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cempaka-Putih-Timur-001-700184",
+    "name": "Cempaka Putih Timur 001",
+    "url": "https://cctv.balitower.co.id/Cempaka-Putih-Timur-001-700184_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cempaka-Putih-Timur-003-700191",
+    "name": "Cempaka Putih Timur 003",
+    "url": "https://cctv.balitower.co.id/Cempaka-Putih-Timur-003-700191_2/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cempaka-Baru-007-700402",
+    "name": "Cempaka Baru 007",
+    "url": "https://cctv.balitower.co.id/Cempaka-Baru-007-700402_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Rawa-Sari-001-700152",
+    "name": "Rawa Sari 001",
+    "url": "https://cctv.balitower.co.id/Rawa-Sari-001-700152_4/index.m3u8"
+  },
+  {
+    "id": "jakarta-Ujung-Menteng-002-704432",
+    "name": "Ujung Menteng 002",
+    "url": "https://cctv.balitower.co.id/Ujung-Menteng-002-704432_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Cakung-Timur-008-704664",
+    "name": "Cakung Timur 008",
+    "url": "https://cctv.balitower.co.id/Cakung-Timur-008-704664_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kel-Cakung-Timur-PTSP-506159",
+    "name": "Kel Cakung Timur PTSP",
+    "url": "https://cctv.balitower.co.id/Kel-Cakung-Timur-PTSP-506159_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kamal-Muara-010-701372",
+    "name": "Kamal Muara 010",
+    "url": "https://cctv.balitower.co.id/Kamal-Muara-010-701372_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Kamal-012-702689",
+    "name": "Kamal 012",
+    "url": "https://cctv.balitower.co.id/Kamal-012-702689_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Pluit-026-701307",
+    "name": "Pluit 026",
+    "url": "https://cctv.balitower.co.id/Pluit-026-701307_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Semper-Barat-001-701077",
+    "name": "Semper Barat 001",
+    "url": "https://cctv.balitower.co.id/Semper-Barat-001-701077_1/index.m3u8"
+  },
+  {
+    "id": "jakarta-Koja-008-701188",
+    "name": "Koja 008",
+    "url": "https://cctv.balitower.co.id/Koja-008-701188_1/index.m3u8"
+  }
+]
