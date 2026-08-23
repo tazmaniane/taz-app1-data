@@ -1,0 +1,217 @@
+[
+  {
+    "id": "46",
+    "name": "Simpang Tiga Ngingas : Arah Yogyakarta",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang3ngingas_arahyogyakarta.m3u8"
+  },
+  {
+    "id": "47",
+    "name": "Simpang Tiga Ngingas : Ptz",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang3ngingas_ptz.m3u8"
+  },
+  {
+    "id": "48",
+    "name": "Simpang Tiga Ngingas : Arah Ronggowarsito",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang3ngingas_arahronggowarsito.m3u8"
+  },
+  {
+    "id": "49",
+    "name": "Simpang Tiga Ngingas : Arah Solo",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang3ngingas_arahsolo.m3u8"
+  },
+  {
+    "id": "50",
+    "name": "Simpang Empat Bareng : Arah Sungkur",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang4bareng_arahsungkur.m3u8"
+  },
+  {
+    "id": "51",
+    "name": "Simpang Empat Bareng : Arah Solo",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang4bareng_arahsolo.m3u8"
+  },
+  {
+    "id": "52",
+    "name": "Simpang Empat Bareng : Arah Rajawali",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang4bareng_arahrajawali.m3u8"
+  },
+  {
+    "id": "53",
+    "name": "Simpang Empat Bareng : Ptz",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang4bareng_ptz.m3u8"
+  },
+  {
+    "id": "54",
+    "name": "Simpang Empat Bareng : Arah Yogyakarta",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang4bareng_arahyogyakarta.m3u8"
+  },
+  {
+    "id": "55",
+    "name": "Simpang Empat Pandanrejo: Arah Sungkur",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang4pandanrejo_arahsungkur.m3u8"
+  },
+  {
+    "id": "56",
+    "name": "Simpang Empat Pandanrejo: Arah Yogyakarta",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang4pandanrejo_arahyogyakarta.m3u8"
+  },
+  {
+    "id": "57",
+    "name": "Simpang Empat Pandanrejo: Ptz",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang4pandanrejo_ptz.m3u8"
+  },
+  {
+    "id": "58",
+    "name": "Simpang Empat Pandanrejo: Arah Matahari",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang4pandanrejo_arahmatahari.m3u8"
+  },
+  {
+    "id": "59",
+    "name": "Simpang Empat Pandanrejo: Arah Solo",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang4pandanrejo_arahsolo.m3u8"
+  },
+  {
+    "id": "60",
+    "name": "Simpang Lima Matahari : Arah Yogyakarta",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang5matahari_arahyogyakarta.m3u8"
+  },
+  {
+    "id": "61",
+    "name": "Simpang Lima Matahari : Arah Solo",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang5matahari_arahsolo.m3u8"
+  },
+  {
+    "id": "62",
+    "name": "Simpang Lima Matahari : Arah Pandanrejo",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang5matahari_arahpandanrejo.m3u8"
+  },
+  {
+    "id": "63",
+    "name": "Simpang Lima Matahari : Arah Pasar",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang5matahari_arahpasar.m3u8"
+  },
+  {
+    "id": "64",
+    "name": "Simpang Lima Matahari : Ptz",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang5matahari_ptz.m3u8"
+  },
+  {
+    "id": "65",
+    "name": "Simpang Empat Pemda : Arah Solo",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang4pemda_arahsolo.m3u8"
+  },
+  {
+    "id": "66",
+    "name": "Simpang Empat Pemda : Arah Yogyakarta",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang4pemda_arahyogyakarta.m3u8"
+  },
+  {
+    "id": "67",
+    "name": "Simpang Empat Pemda : Ptz",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang4pemda_ptz.m3u8"
+  },
+  {
+    "id": "68",
+    "name": "Simpang Empat Pemda : Arah Melati",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang4pemda_arahmelati.m3u8"
+  },
+  {
+    "id": "69",
+    "name": "Simpang Empat Pemda : Arah Pemda",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpang4pemda_arahpemda.m3u8"
+  },
+  {
+    "id": "70",
+    "name": "Simpang Al-Aqsa : Arah Kota",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpangalaqsa_arahkota.m3u8"
+  },
+  {
+    "id": "71",
+    "name": "Simpang Al-Aqsa : Ptz",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpangalaqsa_ptz.m3u8"
+  },
+  {
+    "id": "72",
+    "name": "Simpang Al-Aqsa : Arah Bypass",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpangalaqsa_arahbypass.m3u8"
+  },
+  {
+    "id": "73",
+    "name": "Simpang Al-Aqsa : Arah Solo",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpangalaqsa_arahsolo.m3u8"
+  },
+  {
+    "id": "74",
+    "name": "Posko Merapi : Desa Balerante 1",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/posko_balerante1.m3u8"
+  },
+  {
+    "id": "75",
+    "name": "Posko Merapi : Desa Tegal Mulyo 1",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/posko_tegalmulyo1.m3u8"
+  },
+  {
+    "id": "76",
+    "name": "Posko Merapi : Desa Sidorejo 1",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/posko_sidorejo1.m3u8"
+  },
+  {
+    "id": "77",
+    "name": "Posko Merapi : Desa Sidorejo 2",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/posko_sidorejo2.m3u8"
+  },
+  {
+    "id": "78",
+    "name": "Bpbd : Gunung Merapi",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/cctv_merapi_bpbd.m3u8"
+  },
+  {
+    "id": "79",
+    "name": "Bpbd : Pos Induk",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/bpbd_merapi_pos_induk.m3u8"
+  },
+  {
+    "id": "80",
+    "name": "Simpang Tegalyoso 1",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpangtegalyoso_panoramic1.m3u8"
+  },
+  {
+    "id": "81",
+    "name": "Simpang Tegalyoso Ptz",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpangtegalyoso_ptz.m3u8"
+  },
+  {
+    "id": "82",
+    "name": "Simpang Tegalyoso 2",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/simpangtegalyoso_panoramic2.m3u8"
+  },
+  {
+    "id": "83",
+    "name": "Alun Alun Ptz",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/alunalun_ptz.m3u8"
+  },
+  {
+    "id": "84",
+    "name": "Alun Alun",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/alunalun_panoramic.m3u8"
+  },
+  {
+    "id": "85",
+    "name": "Gor Ptz",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/gor_ptz.m3u8"
+  },
+  {
+    "id": "86",
+    "name": "Gor",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/gor_panoramic.m3u8"
+  },
+  {
+    "id": "87",
+    "name": "Posko Merapi : Desa Balerante 2",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/posko_balerante2.m3u8"
+  },
+  {
+    "id": "88",
+    "name": "Posko Merapi : Desa Tegal Mulyo 2",
+    "url": "https://stream.klaten.go.id:8080/cctv/hls/posko_tegalmulyo2.m3u8"
+  }
+]
