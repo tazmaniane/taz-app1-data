@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "name": "Masjid Agung",
+    "url": "https://cctv.asahankab.go.id/video/simpangmesjidagung.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "Simpang Bunut",
+    "url": "https://cctv.asahankab.go.id/video/simpangbunut.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "Mas Mansyur",
+    "url": "https://cctv.asahankab.go.id/video/masmansyurok.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Taman Manti Madjizat",
+    "url": "https://cctv.asahankab.go.id/video/simpangmesjidagung.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Pos Polisi",
+    "url": "https://cctv.asahankab.go.id/video/simpangmesjidagung.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Masjid Raya",
+    "url": "https://cctv.asahankab.go.id/video/simpangmesjidagung.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Pangkal Titi",
+    "url": "https://cctv.asahankab.go.id/video/simpangmesjidagung.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Simpang Pelita",
+    "url": "https://cctv.asahankab.go.id/video/simpangmesjidagung.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Simpang Stadion",
+    "url": "https://cctv.asahankab.go.id/video/simpangmesjidagung.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Simpang Lima",
+    "url": "https://cctv.asahankab.go.id/video/simpangmesjidagung.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Simpang Enam",
+    "url": "https://cctv.asahankab.go.id/video/simpangmesjidagung.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "Simpang Kedai Ledang",
+    "url": "https://cctv.asahankab.go.id/video/simpangmesjidagung.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Simpang Kawat",
+    "url": "https://cctv.asahankab.go.id/video/simpangmesjidagung.m3u8"
+  }
+]
