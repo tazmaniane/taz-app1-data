@@ -1269,6 +1269,15 @@
     "longitude": 106.884
   },
   {
+    "id": "3173",
+    "province_id": "31",
+    "name": "KOTA JAKARTA PUSAT",
+    "alt_name": "KOTA JAKARTA PUSAT",
+    "status": "ON",
+    "latitude": -6.1777,
+    "longitude": 106.8403
+  },
+  {
     "id": "31731",
     "province_id": "31",
     "name": "Tol Dalam Kota",
@@ -1283,14 +1292,6 @@
     "name": "Akses Tanjung Priok",
     "alt_name": "Akses Tanjung Priok",
     "status": "ON",
-    "latitude": -6.1777,
-    "longitude": 106.8403
-  },
-  {
-    "id": "3173",
-    "province_id": "31",
-    "name": "KOTA JAKARTA PUSAT",
-    "alt_name": "KOTA JAKARTA PUSAT",
     "latitude": -6.1777,
     "longitude": 106.8403
   },
