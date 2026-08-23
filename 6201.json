@@ -1,0 +1,77 @@
+[
+  {
+    "id": "kobar-1",
+    "name": "Bundaran Pramuka",
+    "url": "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv1/a1.m3u8"
+  },
+  {
+    "id": "kobar-2",
+    "name": "Simpang 3 City Mall",
+    "url": "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv2/a2.m3u8"
+  },
+  {
+    "id": "kobar-3",
+    "name": "Bundaran Pancasila",
+    "url": "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv3/a3.m3u8"
+  },
+  {
+    "id": "kobar-4",
+    "name": "Simpang 3 Bank Kalteng",
+    "url": "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv4/a4.m3u8"
+  },
+  {
+    "id": "kobar-5",
+    "name": "Kantor Bupati",
+    "url": "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv5/a5.m3u8"
+  },
+  {
+    "id": "kobar-6",
+    "name": "Simpang 3 Rssi",
+    "url": "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv6/a6.m3u8"
+  },
+  {
+    "id": "kobar-7",
+    "name": "Depan Rssi",
+    "url": "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv7/a7.m3u8"
+  },
+  {
+    "id": "kobar-8",
+    "name": "Simpang Pdam",
+    "url": "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv8/a8.m3u8"
+  },
+  {
+    "id": "kobar-9",
+    "name": "Simpang 3 Gereja Imanuel",
+    "url": "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv9/a9.m3u8"
+  },
+  {
+    "id": "kobar-10",
+    "name": "Simpang 4 Perkim",
+    "url": "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv10/a10.m3u8"
+  },
+  {
+    "id": "kobar-11",
+    "name": "Simpang 3 Smpn 1 Arsel",
+    "url": "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv11/a11.m3u8"
+  },
+  {
+    "id": "kobar-12",
+    "name": "Bundaran Misbar",
+    "url": "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv12/a12.m3u8"
+  },
+  {
+    "id": "kobar-13",
+    "name": "Simpang 4 Pasir Baru",
+    "url": "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv13/a13.m3u8"
+  },
+  {
+    "id": "kobar-14",
+    "name": "Simpang 4 A. Yani",
+    "url": "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv14/a14.m3u8"
+  },
+  {
+    "id": "kobar-20",
+    "name": "20",
+    "url": "https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv20/a20.m3u8"
+  }
+]
