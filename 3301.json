@@ -1,0 +1,162 @@
+[
+  {
+    "id": "cilacap-cctv-1",
+    "name": "Alun-Alun 2",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=1&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-2",
+    "name": "Alun Alun 3",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=2&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-3",
+    "name": "Klenteng Arah Rita",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=3&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-4",
+    "name": "Klenteng Arah Borobudur",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=4&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-5",
+    "name": "Klenteng Arah Laut",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=5&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-6",
+    "name": "Komprengan",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=6&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-7",
+    "name": "Pasar Kuripan",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=7&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-8",
+    "name": "Kandang Macan",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=8&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-9",
+    "name": "Simpang Bisma",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=9&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-10",
+    "name": "Tugu Lilin 1",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=10&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-11",
+    "name": "Tugu Lilin 2",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=11&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-12",
+    "name": "Simpang Terminal",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=12&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-13",
+    "name": "Simpang Damalang",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=13&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-14",
+    "name": "Holcim",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=14&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-15",
+    "name": "Simpang Rspc",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=15&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-16",
+    "name": "Simpang Proliman",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=16&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-17",
+    "name": "Simpang Kalimantan",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=17&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-18",
+    "name": "Simpang Bandengan",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=18&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-19",
+    "name": "Karangsuci",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=19&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-20",
+    "name": "Batas Kota",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=20&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-21",
+    "name": "Pasar Sangkal Putung",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=21&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-22",
+    "name": "Rawa Bendungan",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=22&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-23",
+    "name": "Alun-Alun 1",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=23&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-24",
+    "name": "Bluemoon",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=24&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-25",
+    "name": "Simpang Menganti",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=25&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-26",
+    "name": "Pepaya Menganti",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=26&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-27",
+    "name": "Jalan Munggur Barat 1",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=27&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-28",
+    "name": "Jalan Munggur Barat 2",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=28&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-29",
+    "name": "Jalan Laut Menganti",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=29&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-30",
+    "name": "Pantai Kemiren",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=30&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-31",
+    "name": "Simpang Jeruk - Manggis Menganti",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=31&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  },
+  {
+    "id": "cilacap-cctv-32",
+    "name": "Pertigaan Cpm",
+    "url": "https://zoneminder.cilacapkab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=32&scale=100&maxfps=5&buffer=5000&user=lihat&pass=lihat123"
+  }
+]
