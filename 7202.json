@@ -1,257 +1,112 @@
 [
   {
-    "id": "1",
+    "id": "banggai-433",
     "name": "Pertigaan Smp 1 Luwuk 99.34",
-    "url": "rtsp://admin:kominfo_2024@192.168.99.34:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=25&rand=0.0021690555988435056"
   },
   {
-    "id": "2",
+    "id": "banggai-446",
     "name": "Pertigaan Toko Maju 99.40",
-    "url": "rtsp://admin:kominfo_2024@192.168.99.40:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=50&rand=0.7568467037540784"
   },
   {
-    "id": "3",
+    "id": "banggai-466",
     "name": "Gardu Km 1 - 99.79",
-    "url": "rtsp://admin:kominfo_2024@192.168.99.79:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=11&rand=0.8623697085847387"
   },
   {
-    "id": "4",
+    "id": "banggai-470",
     "name": "Pelabuhan Rotan 99.85",
-    "url": "rtsp://admin:kominfo_2024@192.168.99.85:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=40&rand=0.045569524251888205"
   },
   {
-    "id": "5",
+    "id": "banggai-485",
     "name": "Perempatan Samping Sma 1 96",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.39:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=20&rand=0.621542231023495"
   },
   {
-    "id": "6",
-    "name": "Perempatan Jam Kota 230",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.247:554/11"
-  },
-  {
-    "id": "7",
+    "id": "banggai-495",
     "name": "Pertigaan Rsud Luwuk 238",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.232:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=56&rand=0.4511782046070426"
   },
   {
-    "id": "8",
+    "id": "banggai-591",
     "name": "Perempatan Untika 95",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.34:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=47&rand=0.7111372048216592"
   },
   {
-    "id": "9",
+    "id": "banggai-604",
     "name": "Depan Spbu Bunga 178",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.66:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=23&rand=0.6159452489039915"
   },
   {
-    "id": "10",
+    "id": "banggai-614",
     "name": "Perempatan Lampu Merah Mts 109",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.26:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=36&rand=0.6587864073060677"
   },
   {
-    "id": "11",
+    "id": "banggai-625",
     "name": "Perempatan Alun - Alun 100",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.35:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=32&rand=0.801973253188166"
   },
   {
-    "id": "12",
+    "id": "banggai-634",
     "name": "Perempatan Untika 93",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.32:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=19&rand=0.3195960783605192"
   },
   {
-    "id": "13",
+    "id": "banggai-642",
     "name": "Dalam Lapangan Persibal 262",
-    "url": "rtsp://admin:kominfo_2024@192.168.99.5:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=29&rand=0.7808576176924175"
   },
   {
-    "id": "14",
+    "id": "banggai-647",
     "name": "Pertigaan Kilo 5 Baru 98.82",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.82:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=13&rand=0.6810107381698386"
   },
   {
-    "id": "15",
+    "id": "banggai-649",
     "name": "Gedung Baru Kilo 5 224",
-    "url": "rtsp://admin:kominfo_2024@192.168.99.4:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=30&rand=0.4259597739478522"
   },
   {
-    "id": "16",
+    "id": "banggai-652",
     "name": "Lpr-12 Videotron Gapura Adipura 253",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.254:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=36&rand=0.6272297820740069"
   },
   {
-    "id": "17",
+    "id": "banggai-679",
     "name": "Perempatan Biak 175",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.72:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=49&rand=0.6299466057355485"
   },
   {
-    "id": "18",
+    "id": "banggai-688",
     "name": "Tugu Adipura 86",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.8:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=35&rand=0.7250879730668606"
   },
   {
-    "id": "19",
+    "id": "banggai-705",
     "name": "Luwuk Seafood 43",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.74:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=48&rand=0.990003819621334"
   },
   {
-    "id": "20",
+    "id": "banggai-707",
     "name": "Jl. Cakalang 54",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.93:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=41&rand=0.47381606938518483"
   },
   {
-    "id": "21",
+    "id": "banggai-710",
     "name": "Terminal Km8 4",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.54:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=30&rand=0.5076209738648588"
   },
   {
-    "id": "22",
+    "id": "banggai-711",
     "name": "Pertigaan Masjid Kompi 67",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.137:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=27&rand=0.6866064984138959"
   },
   {
-    "id": "23",
+    "id": "banggai-716",
     "name": "Lpr-01 Lampu Merah Kraton 82",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.44:554/11"
-  },
-  {
-    "id": "24",
-    "name": "Perempatan Kelapa 2 69",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.126:554/11"
-  },
-  {
-    "id": "25",
-    "name": "Pertigaan Alswalayan Kilongan 159",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.187:554/11"
-  },
-  {
-    "id": "26",
-    "name": "Spec Iklan Dishub 125",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.30:554/11"
-  },
-  {
-    "id": "27",
-    "name": "Spbu Simpong 61",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.96:554/11"
-  },
-  {
-    "id": "28",
-    "name": "Tugu Adipura 84",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.6:554/11"
-  },
-  {
-    "id": "29",
-    "name": "Klinik Medika 248",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.236:554/11"
-  },
-  {
-    "id": "30",
-    "name": "Bundaran Teluk Lalong 2 259",
-    "url": "rtsp://admin:kominfo_2024@192.168.99.10:554/11"
-  },
-  {
-    "id": "31",
-    "name": "Fat Gapura Adipura 254",
-    "url": "rtsp://admin:kominfo_2024@192.168.99.22:554/11"
-  },
-  {
-    "id": "32",
-    "name": "Spbu Km 5 13",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.90:554/11"
-  },
-  {
-    "id": "33",
-    "name": "Pertigaan Sd Inpres Simpong 63",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.130:554/11"
-  },
-  {
-    "id": "34",
-    "name": "Pertigaan Spbu Masjid Agung 121",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.143:554/11"
-  },
-  {
-    "id": "35",
-    "name": "Perempatan Smp 2 89",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.48:554/11"
-  },
-  {
-    "id": "36",
-    "name": "Jalan Keluar Pasar Bri Unit Simpong 198",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.212:554/11"
-  },
-  {
-    "id": "37",
-    "name": "Rth Teluk Lalong 191",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.173:554/11"
-  },
-  {
-    "id": "38",
-    "name": "Rth Teluk Lalong 192",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.174:554/11"
-  },
-  {
-    "id": "39",
-    "name": "Dalam Pasar Tiang Ujung Fat 201",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.210:554/11"
-  },
-  {
-    "id": "40",
-    "name": "Pertigaan Pelabuhan Rakyat 186",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.202:554/11"
-  },
-  {
-    "id": "41",
-    "name": "Depan Bank Sulteng 120",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.10:554/11"
-  },
-  {
-    "id": "42",
-    "name": "Spec Iklan Perempatan Unismuh 131",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.154:554/11"
-  },
-  {
-    "id": "43",
-    "name": "Tribun Mirqan 272",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.150:554/11"
-  },
-  {
-    "id": "44",
-    "name": "Luwuk Seafood 44",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.75:554/11"
-  },
-  {
-    "id": "45",
-    "name": "Sd Maahas 229",
-    "url": "rtsp://admin:kominfo_2024@192.168.99.20:554/11"
-  },
-  {
-    "id": "46",
-    "name": "Spbu Simpong 62",
-    "url": "rtsp://admin:kominfo_2024@192.168.98.97:554/11"
-  },
-  {
-    "id": "47",
-    "name": "Lpr-10 Gapura Bunga 30.160",
-    "url": "rtsp://admin:kominfo_2025@192.168.30.160:554/11"
-  },
-  {
-    "id": "48",
-    "name": "Depan Bank Muamalat 30.93",
-    "url": "rtsp://admin:kominfo_2025@192.168.30.93:554/11"
-  },
-  {
-    "id": "49",
-    "name": "Depan Graha Pemda 30.79",
-    "url": "rtsp://admin:kominfo_2025@192.168.30.79:554/11"
-  },
-  {
-    "id": "50",
-    "name": "Depan Makam Pahlawan 30.135",
-    "url": "rtsp://admin:kominfo_2025@192.168.30.135:554/11"
-  },
-  {
-    "id": "51",
-    "name": "Depan Pintu Masuk Pelabuhan Ferry 30.136",
-    "url": "rtsp://admin:kominfo_2025@192.168.30.136:554/11"
+    "url": "https://pantau-cctv.banggaikab.go.id/zm2/cgi-bin/nph-zms?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJab25lTWluZGVyIiwiaWF0IjoxNzU4MjY1MjAyLCJleHAiOjE3NTgyNzI0MDIsInVzZXIiOiJhZG1pbiIsInR5cGUiOiJhY2Nlc3MifQ.NRP07Hl4WqcZs2ea99wAlwdc8PBh1XycHV2Vsfu938k&scale=75&mode=jpeg&maxfps=8&monitor=26&rand=0.5413260197890859"
   }
 ]
