@@ -1,0 +1,377 @@
+[
+  {
+    "id": "tulungagung-1UO5qdNvKlIdnFYlwZCuGC",
+    "name": "Parkir Gor Lembupeteng",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=1UO5qdNvKlIdnFYlwZCuGC&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-2lB9MkxJMpQVBMDGoFLzLR",
+    "name": "Apollo Selatan",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=2lB9MkxJMpQVBMDGoFLzLR&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-2w6Pu93G6xcvT3gbq0FvTS",
+    "name": "Depan Bank Mega",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=2w6Pu93G6xcvT3gbq0FvTS&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-6A60V2ETV5ISEk89RMALj2",
+    "name": "Cuiri Utara",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=6A60V2ETV5ISEk89RMALj2&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-1BaqcVsY5lu8hlcioZyGv4",
+    "name": "Prayit Utara",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=1BaqcVsY5lu8hlcioZyGv4&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-1kllmXE1gmEo29yNS0NtYo",
+    "name": "Jetakan Barat",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=1kllmXE1gmEo29yNS0NtYo&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-1y88AEMExkgbzZezz0hQlZ",
+    "name": "Pemda Timur",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=1y88AEMExkgbzZezz0hQlZ&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-3sQXTEuWzOBjB9I4Mk7cYn",
+    "name": "Prayit Timur",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=3sQXTEuWzOBjB9I4Mk7cYn&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-4PFpk07M1LoeSrnR5Fb3iS",
+    "name": "Pemda Barat",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=4PFpk07M1LoeSrnR5Fb3iS&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-4gfxhsdMxZZN8mJ5TW682X",
+    "name": "Rs Lama Utara",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=4gfxhsdMxZZN8mJ5TW682X&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-69r52EwHgtU6uyVVJmjzeT",
+    "name": "Plandaan Barat",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=69r52EwHgtU6uyVVJmjzeT&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-712oh6k1GUfCVl4J2jPmc1",
+    "name": "Jetakan Utara",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=712oh6k1GUfCVl4J2jPmc1&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-0RNzySlpgG6fnzEIkdu35F",
+    "name": "Rs Lama Ptz",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=0RNzySlpgG6fnzEIkdu35F&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-2fjrHZiqQ7bQEA53m7sQym",
+    "name": "Bta Selatan",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=2fjrHZiqQ7bQEA53m7sQym&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-5hTwqPipLetUDfSligHusr",
+    "name": "Al-Muslimun Timur",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=5hTwqPipLetUDfSligHusr&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-5nCQlRTnzv8p3QRquaXjRt",
+    "name": "Al-Muslimun Selatan",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=5nCQlRTnzv8p3QRquaXjRt&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-0ElmgOZh7lVLuzw4WPq5aD",
+    "name": "Cuiri Barat",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=0ElmgOZh7lVLuzw4WPq5aD&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-459JcSVebiWYUPZq0Aub9S",
+    "name": "Karangrejo Utara",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=459JcSVebiWYUPZq0Aub9S&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-0H1ANyWngtggRDYco3u6lt",
+    "name": "Rs Lama Timur",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=0H1ANyWngtggRDYco3u6lt&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-0HnRzyvEsH9DO7xibMvwZ6",
+    "name": "Mangunsari Timur",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=0HnRzyvEsH9DO7xibMvwZ6&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-0I0rsOpZtGC1bj9d6BsF14",
+    "name": "Tugu Reog Kendang",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=0I0rsOpZtGC1bj9d6BsF14&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-0V4s2fjabI2JWv1qNZVrh5",
+    "name": "Apollo Utara",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=0V4s2fjabI2JWv1qNZVrh5&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-0zVY7jHB8HE5V52knIJbLA",
+    "name": "Ngunut Timur",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=0zVY7jHB8HE5V52knIJbLA&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-19jgBba6fMSbfqVtX63Phz",
+    "name": "Depan Bca",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=19jgBba6fMSbfqVtX63Phz&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-1F27JC1FGKmgwjE352sVVq",
+    "name": "Rs Lama Selatan",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=1F27JC1FGKmgwjE352sVVq&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-1JMmZkKev58vTxzLQ98yQI",
+    "name": "Ngujang Ptz",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=1JMmZkKev58vTxzLQ98yQI&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-2nrJFaf58kQiWnGd87VuTn",
+    "name": "Ngujang Utara",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=2nrJFaf58kQiWnGd87VuTn&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-2sxyXfkiQFHeKJ6Ngi5REP",
+    "name": "Pendopo",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=2sxyXfkiQFHeKJ6Ngi5REP&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-2z9WrRaniq5qaqPtWhEOxv",
+    "name": "Gleduk Timur",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=2z9WrRaniq5qaqPtWhEOxv&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-3xY7GKj7OHpyac7bNNqU7Q",
+    "name": "Ngunut Barat",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=3xY7GKj7OHpyac7bNNqU7Q&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-47jE7mFFWfi2zXnlgH1scf",
+    "name": "Plandaan Utara",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=47jE7mFFWfi2zXnlgH1scf&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-4CVuJrGheF0odPxGReqfs9",
+    "name": "Plandaan Ptz",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=4CVuJrGheF0odPxGReqfs9&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-4YnHF5COCfexlRPXd9IUQj",
+    "name": "Gleduk Utara",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=4YnHF5COCfexlRPXd9IUQj&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-4r3W2gkSAa3Z7OYjgymBTF",
+    "name": "Cuiri Selatan",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=4r3W2gkSAa3Z7OYjgymBTF&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-5konbg5r6njWfIvRHDZ2cn",
+    "name": "Mangusari Ptz",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=5konbg5r6njWfIvRHDZ2cn&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-5vCMVzSllQk6IhGPicpnKt",
+    "name": "Karangrejo Selatan",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=5vCMVzSllQk6IhGPicpnKt&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-6PollFJegWspON1RFAgFKD",
+    "name": "Mangunsari Selatan",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=6PollFJegWspON1RFAgFKD&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-6U0xzFLmztkbgOfIYJ6s2s",
+    "name": "Jetakan Timur",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=6U0xzFLmztkbgOfIYJ6s2s&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-6YWI77e3irLFRtK5RhkXFG",
+    "name": "Depan Gor",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=6YWI77e3irLFRtK5RhkXFG&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-6mm0bUt7MmAHw6Q7PJcO3F",
+    "name": "Ahmad Yani Barat",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=6mm0bUt7MmAHw6Q7PJcO3F&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-6obsLy9Xu8kS4U6lMdd1U9",
+    "name": "Weringin",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=6obsLy9Xu8kS4U6lMdd1U9&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-6vbM5lwO4t241O0RbyXz45",
+    "name": "Ngujang Selatan",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=6vbM5lwO4t241O0RbyXz45&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-7OY4hluW8b4bS1ZZ0P9h1t",
+    "name": "Mangunsari Barat",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=7OY4hluW8b4bS1ZZ0P9h1t&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-7QQJrjgvbTwRFZIMHAjiPP",
+    "name": "Campurdarat Barat",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=7QQJrjgvbTwRFZIMHAjiPP&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-7lmenF9qKLCmTte7rrru1p",
+    "name": "Cuiri Timur",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=7lmenF9qKLCmTte7rrru1p&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-0804X1kXte4FbriieaseU1",
+    "name": "Plandaan Selatan",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=0804X1kXte4FbriieaseU1&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-0XHrdN76BgLudE2aqdqdWQ",
+    "name": "Campurdarat Timur",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=0XHrdN76BgLudE2aqdqdWQ&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-0bOcBrjXmtZ3v2fI1DkRVQ",
+    "name": "Prayit Ptz",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=0bOcBrjXmtZ3v2fI1DkRVQ&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-154OiIApcfxaNkO4YAZpLu",
+    "name": "Gleduk Selatan",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=154OiIApcfxaNkO4YAZpLu&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-1o7D8f5546wY3NaMqIpIbX",
+    "name": "Kemuning Barat",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=1o7D8f5546wY3NaMqIpIbX&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-1x8PtNmrvo7dRTAfVpKQNp",
+    "name": "Ngunut Ptz",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=1x8PtNmrvo7dRTAfVpKQNp&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-1yrCLYdi2FD1gxaSSxRAKQ",
+    "name": "Bta Ptz",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=1yrCLYdi2FD1gxaSSxRAKQ&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-337HT5rumEius5LPkFry3M",
+    "name": "Kemuning Timur",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=337HT5rumEius5LPkFry3M&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-4VRJhtzuQ4VlOUuLmfsxRC",
+    "name": "Bta Timur",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=4VRJhtzuQ4VlOUuLmfsxRC&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-5VQFvyJ7L0kJgt0LmSCInI",
+    "name": "Campurdarat Ptz",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=5VQFvyJ7L0kJgt0LmSCInI&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-6EvtIToMe3hFX7ID0e5XOA",
+    "name": "Kemuning Ptz",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=6EvtIToMe3hFX7ID0e5XOA&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-7NXgCZh7PXf5fYmUNe5Djp",
+    "name": "Prayit Selatan",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=7NXgCZh7PXf5fYmUNe5Djp&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-7lJlthZHgvZcTmiQcmRqJR",
+    "name": "Bta Utara",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=7lJlthZHgvZcTmiQcmRqJR&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-0JzbNjKnQTcR3cCTCLV924",
+    "name": "Depan Kantor Dprd",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=0JzbNjKnQTcR3cCTCLV924&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-379HEAeP0yMm8Q48wb3lZo",
+    "name": "Pemda Ptz",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=379HEAeP0yMm8Q48wb3lZo&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-3k4cnRnx82lQqs6CoH7CQs",
+    "name": "El Sagaff",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=3k4cnRnx82lQqs6CoH7CQs&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-4pyTZwa0YqzSWbm5T7kOaE",
+    "name": "Gleduk Barat",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=4pyTZwa0YqzSWbm5T7kOaE&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-71RTgdNFiMKn7BTM3RugCE",
+    "name": "Karangrejo Timur",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=71RTgdNFiMKn7BTM3RugCE&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-7YdLvMnI5AN26WQp8IzqQn",
+    "name": "Dekranasda",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=7YdLvMnI5AN26WQp8IzqQn&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-7bBE7GtevxKM5Hn5Mou57q",
+    "name": "Mh Thamrin",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=7bBE7GtevxKM5Hn5Mou57q&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-7cImJyeZoHvvZEXxgDkYsR",
+    "name": "Basuki Rahmat",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=7cImJyeZoHvvZEXxgDkYsR&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-01lqSaQbdhqawFmkGULdQh",
+    "name": "Al-Muslimun Barat",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=01lqSaQbdhqawFmkGULdQh&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-11ouxbkN4DZzWsWA9dE3xQ",
+    "name": "Al-Muslimun Ptz",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=11ouxbkN4DZzWsWA9dE3xQ&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-2F5HFBf2HF2TzqHDzRaXS6",
+    "name": "Bis Goling Barat",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=2F5HFBf2HF2TzqHDzRaXS6&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-2PCPcNGdm1MOToSAt1Ldmh",
+    "name": "Bandung Ptz",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=2PCPcNGdm1MOToSAt1Ldmh&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-3Wqs7lfH6JlH2o85FVo1Lt",
+    "name": "Bandung Barat",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=3Wqs7lfH6JlH2o85FVo1Lt&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-3vCBuWVj4JGEKGdJXKt9tn",
+    "name": "Bis Goling Ptz",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=3vCBuWVj4JGEKGdJXKt9tn&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-58TE8ha3vN9K9wOtNE3Qhi",
+    "name": "Bandung Selatan",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=58TE8ha3vN9K9wOtNE3Qhi&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-5KiNQvpTTVMNVCbNAC5VoL",
+    "name": "Bandung Utara",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=5KiNQvpTTVMNVCbNAC5VoL&mp4=flac&video=h264"
+  },
+  {
+    "id": "tulungagung-5a25Xyf5VM86sTyJvhNMKH",
+    "name": "Bis Goling Timur",
+    "url": "https://cctvdishub.tulungagung.go.id/api/stream.m3u8?src=5a25Xyf5VM86sTyJvhNMKH&mp4=flac&video=h264"
+  }
+]
