@@ -38,5 +38,66 @@
     "id": "8",
     "name": "Tol Dalam Kota - Kamera 9",
     "url": "https://camera.jtd.co.id/camera/share/tios/2/25/index.m3u8"
+  },
+{
+    "id": "binamarga-61-400-a",
+    "name": "61+400 A",
+    "url": "https://extstream.hk-opt2.com/LiveApp/streams/756751654695732090756915.m3u8"
+  },
+  {
+    "id": "binamarga-59-000-b",
+    "name": "59+000 B",
+    "url": "https://extstream.hk-opt2.com/LiveApp/streams/956464037412277558025165.m3u8"
+  },
+  {
+    "id": "binamarga-58-400-b",
+    "name": "58+400 B",
+    "url": "https://extstream.hk-opt2.com/LiveApp/streams/501264524429471982550467.m3u8"
+  },
+  {
+    "id": "binamarga-58-400-a",
+    "name": "58+400 A",
+    "url": "https://extstream.hk-opt2.com/LiveApp/streams/687489889091511277827377.m3u8"
+  },
+  {
+    "id": "binamarga-60-000-b",
+    "name": "60+000 B",
+    "url": "https://extstream.hk-opt2.com/LiveApp/streams/381024135984437558197100.m3u8"
+  },
+  {
+    "id": "binamarga-59-400-b",
+    "name": "59+400 B",
+    "url": "https://extstream.hk-opt2.com/LiveApp/streams/675323017321643087627650.m3u8"
+  },
+  {
+    "id": "binamarga-59-000-a",
+    "name": "59+000 A",
+    "url": "https://extstream.hk-opt2.com/LiveApp/streams/095660838019901274554950.m3u8"
+  },
+  {
+    "id": "binamarga-59-400-a",
+    "name": "59+400 A",
+    "url": "https://extstream.hk-opt2.com/LiveApp/streams/675323017321643087627650.m3u8"
+  },
+  {
+    "id": "binamarga-61-400-b",
+    "name": "61+400 B",
+    "url": "https://extstream.hk-opt2.com/LiveApp/streams/241370079371388169899174.m3u8"
+  },
+  {
+    "id": "binamarga-60-000-a",
+    "name": "60+000 A",
+    "url": "https://extstream.hk-opt2.com/LiveApp/streams/062223762734246730973930.m3u8"
+  },
+  {
+    "id": "binamarga-kkdm-km-02-000-a",
+    "name": "Km 02+000 A",
+    "url": "https://cctv.kkdm.co.id/api/cctv/1/3/index.m3u8"
+  },
+  {
+    "id": "binamarga-kkdm-km-03-000-a",
+    "name": "Km 03+000 A",
+    "url": "https://cctv.kkdm.co.id/api/cctv/1/4/index.m3u8"
   }
+
 ]
