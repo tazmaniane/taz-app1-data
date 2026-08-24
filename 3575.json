@@ -1,0 +1,797 @@
+[
+  {
+    "id": "pasuruan-12",
+    "name": "Alun - Alun Timur",
+    "url": "https://cam.pasuruankota.go.id/kamera"
+  },
+  {
+    "id": "pasuruan-15",
+    "name": "Taman Kota (01)",
+    "url": "https://cam.pasuruankota.go.id/tm-kota-1"
+  },
+  {
+    "id": "pasuruan-16",
+    "name": "Taman Lansia (01)",
+    "url": "https://cam.pasuruankota.go.id/tm-sekargadung-1"
+  },
+  {
+    "id": "pasuruan-17",
+    "name": "Taman Sekargadung (01)",
+    "url": "https://cam.pasuruankota.go.id/tm-kota-2"
+  },
+  {
+    "id": "pasuruan-19",
+    "name": "Taman Sekargadung (02)",
+    "url": "https://cam.pasuruankota.go.id/tm-sekargadung-3"
+  },
+  {
+    "id": "pasuruan-20",
+    "name": "Taman Sekargadung (03)",
+    "url": "https://cam.pasuruankota.go.id/tm-sekargadung-4"
+  },
+  {
+    "id": "pasuruan-21",
+    "name": "Taman Sekargadung (04)",
+    "url": "https://cam.pasuruankota.go.id/tm-sekargadung-5"
+  },
+  {
+    "id": "pasuruan-22",
+    "name": "Taman Sekargadung (05)",
+    "url": "https://cam.pasuruankota.go.id/tm-sekargadung-6"
+  },
+  {
+    "id": "pasuruan-23",
+    "name": "Taman Sekargadung (06)",
+    "url": "https://cam.pasuruankota.go.id/tm-lansia-2"
+  },
+  {
+    "id": "pasuruan-24",
+    "name": "Taman Lansia (02)",
+    "url": "https://cam.pasuruankota.go.id/tm-lansia-3"
+  },
+  {
+    "id": "pasuruan-25",
+    "name": "Taman Lansia (03)",
+    "url": "https://cam.pasuruankota.go.id/tm-lansia-4"
+  },
+  {
+    "id": "pasuruan-26",
+    "name": "Taman Lansia (04)",
+    "url": "https://cam.pasuruankota.go.id/tm-lansia-5"
+  },
+  {
+    "id": "pasuruan-27",
+    "name": "Taman Lansia (05)",
+    "url": "https://cam.pasuruankota.go.id/tm-lansia-6"
+  },
+  {
+    "id": "pasuruan-28",
+    "name": "Taman Lansia (06)",
+    "url": "https://cam.pasuruankota.go.id/tm-gor-1"
+  },
+  {
+    "id": "pasuruan-29",
+    "name": "Taman Gor (01)",
+    "url": "https://cam.pasuruankota.go.id/tm-gor-2"
+  },
+  {
+    "id": "pasuruan-30",
+    "name": "Taman Gor (02)",
+    "url": "https://cam.pasuruankota.go.id/tm-gor-3"
+  },
+  {
+    "id": "pasuruan-31",
+    "name": "Taman Gor (03)",
+    "url": "https://cam.pasuruankota.go.id/tm-pekuncen-1"
+  },
+  {
+    "id": "pasuruan-32",
+    "name": "Taman Pekuncen (01)",
+    "url": "https://cam.pasuruankota.go.id/tm-pekuncen-2"
+  },
+  {
+    "id": "pasuruan-33",
+    "name": "Taman Pekuncen (02)",
+    "url": "https://cam.pasuruankota.go.id/tm-pekuncen-3"
+  },
+  {
+    "id": "pasuruan-34",
+    "name": "Taman Pekuncen (03)",
+    "url": "https://cam.pasuruankota.go.id/tm-pekuncen-4"
+  },
+  {
+    "id": "pasuruan-35",
+    "name": "Taman Pekuncen (04)",
+    "url": "https://cam.pasuruankota.go.id/tm-pekuncen-5"
+  },
+  {
+    "id": "pasuruan-36",
+    "name": "Taman Pekuncen (05)",
+    "url": "https://cam.pasuruankota.go.id/tm-pekuncen-6"
+  },
+  {
+    "id": "pasuruan-37",
+    "name": "Taman Pekuncen (06)",
+    "url": "https://cam.pasuruankota.go.id/tm-pekuncen-7"
+  },
+  {
+    "id": "pasuruan-38",
+    "name": "Taman Pekuncen (07)",
+    "url": "https://cam.pasuruankota.go.id/tm-kota-2"
+  },
+  {
+    "id": "pasuruan-43",
+    "name": "Taman Kota (02)",
+    "url": "https://cam.pasuruankota.go.id/tm-kota-3"
+  },
+  {
+    "id": "pasuruan-44",
+    "name": "Taman Kota (03)",
+    "url": "https://cam.pasuruankota.go.id/tm-kota-4"
+  },
+  {
+    "id": "pasuruan-45",
+    "name": "Taman Kota (04)",
+    "url": "https://cam.pasuruankota.go.id/tm-kota-5"
+  },
+  {
+    "id": "pasuruan-46",
+    "name": "Taman Kota (05)",
+    "url": "https://cam.pasuruankota.go.id/tm-kota-6"
+  },
+  {
+    "id": "pasuruan-47",
+    "name": "Taman Kota (06)",
+    "url": "https://cam.pasuruankota.go.id/tm-kota-7"
+  },
+  {
+    "id": "pasuruan-48",
+    "name": "Taman Kota (07)",
+    "url": "https://cam.pasuruankota.go.id/tm-kota-8"
+  },
+  {
+    "id": "pasuruan-49",
+    "name": "Taman Kota (08)",
+    "url": "https://cam.pasuruankota.go.id/alun-1"
+  },
+  {
+    "id": "pasuruan-50",
+    "name": "Alun-Alun 1",
+    "url": "https://cam.pasuruankota.go.id/alun-2"
+  },
+  {
+    "id": "pasuruan-51",
+    "name": "Alun-Alun 2",
+    "url": "https://cam.pasuruankota.go.id/alun-3"
+  },
+  {
+    "id": "pasuruan-52",
+    "name": "Alun-Alun 3",
+    "url": "https://cam.pasuruankota.go.id/alun-4"
+  },
+  {
+    "id": "pasuruan-53",
+    "name": "Alun-Alun 4",
+    "url": "https://cam.pasuruankota.go.id/alun-6"
+  },
+  {
+    "id": "pasuruan-54",
+    "name": "Alun-Alun Pintu Selatan 1",
+    "url": "https://cam.pasuruankota.go.id/alun-6"
+  },
+  {
+    "id": "pasuruan-55",
+    "name": "Alun-Alun Pintu Selatan 2",
+    "url": "https://cam.pasuruankota.go.id/alun-7"
+  },
+  {
+    "id": "pasuruan-56",
+    "name": "Alun-Alun Pintu Timur 1",
+    "url": "https://cam.pasuruankota.go.id/alun-8"
+  },
+  {
+    "id": "pasuruan-57",
+    "name": "Alun-Alun Pintu Timur 2",
+    "url": "https://cam.pasuruankota.go.id/alun-9"
+  },
+  {
+    "id": "pasuruan-58",
+    "name": "Alun-Alun Pintu Utara 1",
+    "url": "https://cam.pasuruankota.go.id/alun-10"
+  },
+  {
+    "id": "pasuruan-59",
+    "name": "Alun-Alun Pintu Utara 2",
+    "url": "https://cam.pasuruankota.go.id/bukir-101"
+  },
+  {
+    "id": "pasuruan-61",
+    "name": "Bukir Pintu Masuk 1",
+    "url": "https://cam.pasuruankota.go.id/bukir-102"
+  },
+  {
+    "id": "pasuruan-62",
+    "name": "Bukir Pintu Masuk 2",
+    "url": "https://cam.pasuruankota.go.id/bukir-103"
+  },
+  {
+    "id": "pasuruan-63",
+    "name": "Bukir Simpang Tengah 1",
+    "url": "https://cam.pasuruankota.go.id/bukir-104"
+  },
+  {
+    "id": "pasuruan-64",
+    "name": "Bukir Simpang Tengah 2",
+    "url": "https://cam.pasuruankota.go.id/bukir-106"
+  },
+  {
+    "id": "pasuruan-65",
+    "name": "Kampung Mebel Bukir",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-1"
+  },
+  {
+    "id": "pasuruan-66",
+    "name": "Pintu Belakang",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-2"
+  },
+  {
+    "id": "pasuruan-67",
+    "name": "Area Samping",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-3"
+  },
+  {
+    "id": "pasuruan-69",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-4"
+  },
+  {
+    "id": "pasuruan-70",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-5"
+  },
+  {
+    "id": "pasuruan-71",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-6"
+  },
+  {
+    "id": "pasuruan-72",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-7"
+  },
+  {
+    "id": "pasuruan-73",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-8"
+  },
+  {
+    "id": "pasuruan-74",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-9"
+  },
+  {
+    "id": "pasuruan-75",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-10"
+  },
+  {
+    "id": "pasuruan-76",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-11"
+  },
+  {
+    "id": "pasuruan-77",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-12"
+  },
+  {
+    "id": "pasuruan-78",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-13"
+  },
+  {
+    "id": "pasuruan-79",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-14"
+  },
+  {
+    "id": "pasuruan-80",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-15"
+  },
+  {
+    "id": "pasuruan-81",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-16"
+  },
+  {
+    "id": "pasuruan-82",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-17"
+  },
+  {
+    "id": "pasuruan-83",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-18"
+  },
+  {
+    "id": "pasuruan-84",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-19"
+  },
+  {
+    "id": "pasuruan-85",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-20"
+  },
+  {
+    "id": "pasuruan-86",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-21"
+  },
+  {
+    "id": "pasuruan-87",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-22"
+  },
+  {
+    "id": "pasuruan-88",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-23"
+  },
+  {
+    "id": "pasuruan-89",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-24"
+  },
+  {
+    "id": "pasuruan-90",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/kebonagung-25"
+  },
+  {
+    "id": "pasuruan-91",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/tm-kota-9"
+  },
+  {
+    "id": "pasuruan-92",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/tm-kota-10"
+  },
+  {
+    "id": "pasuruan-93",
+    "name": "Pasar Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/tm-kota-11"
+  },
+  {
+    "id": "pasuruan-94",
+    "name": "Taman Kota",
+    "url": "https://cam.pasuruankota.go.id/tm-kota-12"
+  },
+  {
+    "id": "pasuruan-95",
+    "name": "Taman Kota",
+    "url": "https://cam.pasuruankota.go.id/alun-12"
+  },
+  {
+    "id": "pasuruan-96",
+    "name": "Taman Kota",
+    "url": "https://cam.pasuruankota.go.id/alun-13"
+  },
+  {
+    "id": "pasuruan-97",
+    "name": "Taman Kota",
+    "url": "https://cam.pasuruankota.go.id/alun-14"
+  },
+  {
+    "id": "pasuruan-98",
+    "name": "Alun-Alun",
+    "url": "https://cam.pasuruankota.go.id/alun-15"
+  },
+  {
+    "id": "pasuruan-99",
+    "name": "Alun-Alun",
+    "url": "https://cam.pasuruankota.go.id/alun-16"
+  },
+  {
+    "id": "pasuruan-100",
+    "name": "Alun-Alun",
+    "url": "https://cam.pasuruankota.go.id/alun-17"
+  },
+  {
+    "id": "pasuruan-101",
+    "name": "Alun Alun",
+    "url": "https://cam.pasuruankota.go.id/alun-18"
+  },
+  {
+    "id": "pasuruan-102",
+    "name": "Alun-Alun",
+    "url": "https://cam.pasuruankota.go.id/alun-19"
+  },
+  {
+    "id": "pasuruan-103",
+    "name": "Alun Alun",
+    "url": "https://cam.pasuruankota.go.id/terminal-7"
+  },
+  {
+    "id": "pasuruan-104",
+    "name": "Alun Alun",
+    "url": "https://cam.pasuruankota.go.id/terminal-6"
+  },
+  {
+    "id": "pasuruan-105",
+    "name": "Alun Alun",
+    "url": "https://cam.pasuruankota.go.id/terminal-5"
+  },
+  {
+    "id": "pasuruan-106",
+    "name": "Terminal Wisata",
+    "url": "https://cam.pasuruankota.go.id/terminal-4"
+  },
+  {
+    "id": "pasuruan-107",
+    "name": "Terminal Wisata",
+    "url": "https://cam.pasuruankota.go.id/terminal-3"
+  },
+  {
+    "id": "pasuruan-108",
+    "name": "Terminal Wisata",
+    "url": "https://cam.pasuruankota.go.id/terminal-2"
+  },
+  {
+    "id": "pasuruan-109",
+    "name": "Terminal Wisata",
+    "url": "https://cam.pasuruankota.go.id/terminal-10"
+  },
+  {
+    "id": "pasuruan-110",
+    "name": "Terminal Wisata",
+    "url": "https://cam.pasuruankota.go.id/terminal-8"
+  },
+  {
+    "id": "pasuruan-111",
+    "name": "Terminal Wisata",
+    "url": "https://cam.pasuruankota.go.id/karangketug-1"
+  },
+  {
+    "id": "pasuruan-112",
+    "name": "Terminal Wisata",
+    "url": "https://cam.pasuruankota.go.id/karangketug-2"
+  },
+  {
+    "id": "pasuruan-113",
+    "name": "Terminal Wisata",
+    "url": "https://cam.pasuruankota.go.id/karangketug-3"
+  },
+  {
+    "id": "pasuruan-114",
+    "name": "Terminal Wisata",
+    "url": "https://cam.pasuruankota.go.id/karangketug-4"
+  },
+  {
+    "id": "pasuruan-115",
+    "name": "Terminal Wisata",
+    "url": "https://cam.pasuruankota.go.id/karangketug-5"
+  },
+  {
+    "id": "pasuruan-116",
+    "name": "Parkiran Upt",
+    "url": "https://cam.pasuruankota.go.id/karangketug-6"
+  },
+  {
+    "id": "pasuruan-117",
+    "name": "Pos Depan Upt",
+    "url": "https://cam.pasuruankota.go.id/karangketug-7"
+  },
+  {
+    "id": "pasuruan-118",
+    "name": "Pos Depan 1",
+    "url": "https://cam.pasuruankota.go.id/karangketug-8"
+  },
+  {
+    "id": "pasuruan-119",
+    "name": "Pos Depan 2",
+    "url": "https://cam.pasuruankota.go.id/karangketug-9"
+  },
+  {
+    "id": "pasuruan-120",
+    "name": "Pos Depan 3",
+    "url": "https://cam.pasuruankota.go.id/karangketug-10"
+  },
+  {
+    "id": "pasuruan-121",
+    "name": "Parkiran Utara 1",
+    "url": "https://cam.pasuruankota.go.id/karangketug-11"
+  },
+  {
+    "id": "pasuruan-122",
+    "name": "Parkiran Utara 2",
+    "url": "https://cam.pasuruankota.go.id/karangketug-12"
+  },
+  {
+    "id": "pasuruan-123",
+    "name": "Lorong Tengah 1",
+    "url": "https://cam.pasuruankota.go.id/karangketug-13"
+  },
+  {
+    "id": "pasuruan-124",
+    "name": "Lorong Tengah 2",
+    "url": "https://cam.pasuruankota.go.id/karangketug-14"
+  },
+  {
+    "id": "pasuruan-125",
+    "name": "Lorong Tengah 3",
+    "url": "https://cam.pasuruankota.go.id/karangketug-15"
+  },
+  {
+    "id": "pasuruan-126",
+    "name": "Pos Tengah",
+    "url": "https://cam.pasuruankota.go.id/karangketug-16"
+  },
+  {
+    "id": "pasuruan-127",
+    "name": "Area Tengah 1",
+    "url": "https://cam.pasuruankota.go.id/karangketug-17"
+  },
+  {
+    "id": "pasuruan-128",
+    "name": "Area Tengah 2",
+    "url": "https://cam.pasuruankota.go.id/karangketug-18"
+  },
+  {
+    "id": "pasuruan-129",
+    "name": "Area Tengah 3",
+    "url": "https://cam.pasuruankota.go.id/karangketug-19"
+  },
+  {
+    "id": "pasuruan-130",
+    "name": "Area Tengah 4",
+    "url": "https://cam.pasuruankota.go.id/karangketug-20"
+  },
+  {
+    "id": "pasuruan-131",
+    "name": "Pasar Burung 1",
+    "url": "https://cam.pasuruankota.go.id/karangketug-21"
+  },
+  {
+    "id": "pasuruan-132",
+    "name": "Pasar Burung 2",
+    "url": "https://cam.pasuruankota.go.id/karangketug-22"
+  },
+  {
+    "id": "pasuruan-133",
+    "name": "Pasar Burung 3",
+    "url": "https://cam.pasuruankota.go.id/karangketug-23"
+  },
+  {
+    "id": "pasuruan-134",
+    "name": "Pasar Burung 4",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-1"
+  },
+  {
+    "id": "pasuruan-135",
+    "name": "Pasar Burung 5",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-2"
+  },
+  {
+    "id": "pasuruan-136",
+    "name": "Pasar Burung 6",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-3"
+  },
+  {
+    "id": "pasuruan-137",
+    "name": "Pos Belakang 1",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-4"
+  },
+  {
+    "id": "pasuruan-138",
+    "name": "Pos Belakang 2",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-5"
+  },
+  {
+    "id": "pasuruan-139",
+    "name": "Pintu Masuk 1",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-6"
+  },
+  {
+    "id": "pasuruan-140",
+    "name": "Pintu Masuk 2",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-7"
+  },
+  {
+    "id": "pasuruan-141",
+    "name": "Pintu Masuk 2",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-8"
+  },
+  {
+    "id": "pasuruan-142",
+    "name": "Pos Depan 1",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-9"
+  },
+  {
+    "id": "pasuruan-143",
+    "name": "Pos Depan 2",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-10"
+  },
+  {
+    "id": "pasuruan-144",
+    "name": "Area Tengah 1",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-11"
+  },
+  {
+    "id": "pasuruan-145",
+    "name": "Area Tengah 2",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-12"
+  },
+  {
+    "id": "pasuruan-146",
+    "name": "Area Tengah 3",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-13"
+  },
+  {
+    "id": "pasuruan-147",
+    "name": "Area Selatan 1",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-14"
+  },
+  {
+    "id": "pasuruan-148",
+    "name": "Area Selatan 2",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-15"
+  },
+  {
+    "id": "pasuruan-149",
+    "name": "Pos Tengah 1",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-16"
+  },
+  {
+    "id": "pasuruan-150",
+    "name": "Pos Tengah 2",
+    "url": "https://cam.pasuruankota.go.id/tm-hayati-17"
+  },
+  {
+    "id": "pasuruan-151",
+    "name": "Pos Tengah 3",
+    "url": "https://cam.pasuruankota.go.id/sm-apotek-1"
+  },
+  {
+    "id": "pasuruan-152",
+    "name": "Pos Belakang 1",
+    "url": "https://cam.pasuruankota.go.id/sm-apotek-2"
+  },
+  {
+    "id": "pasuruan-153",
+    "name": "Pos Belakang 2",
+    "url": "https://cam.pasuruankota.go.id/sm-apotek-3"
+  },
+  {
+    "id": "pasuruan-154",
+    "name": "Pos Belakang 3",
+    "url": "https://cam.pasuruankota.go.id/sm-apotek-4"
+  },
+  {
+    "id": "pasuruan-155",
+    "name": "Pos Belakang 4",
+    "url": "https://cam.pasuruankota.go.id/bts-blandongan"
+  },
+  {
+    "id": "pasuruan-156",
+    "name": "Simpang Apotek",
+    "url": "https://cam.pasuruankota.go.id/sm-ketepeng-1"
+  },
+  {
+    "id": "pasuruan-157",
+    "name": "Simpang Apotek",
+    "url": "https://cam.pasuruankota.go.id/sm-ketepeng-2"
+  },
+  {
+    "id": "pasuruan-158",
+    "name": "Simpang Apotek",
+    "url": "https://cam.pasuruankota.go.id/sm-ketepeng-3"
+  },
+  {
+    "id": "pasuruan-159",
+    "name": "Simpang Apotek",
+    "url": "https://cam.pasuruankota.go.id/sm-ketepeng-4"
+  },
+  {
+    "id": "pasuruan-160",
+    "name": "Batas Timur Kota",
+    "url": "https://cam.pasuruankota.go.id/bts-karangketug"
+  },
+  {
+    "id": "pasuruan-161",
+    "name": "Simpang Ketepeng",
+    "url": "https://cam.pasuruankota.go.id/bts-kebonagung"
+  },
+  {
+    "id": "pasuruan-162",
+    "name": "Simpang Ketepeng",
+    "url": "https://cam.pasuruankota.go.id/bts-tembokrejo"
+  },
+  {
+    "id": "pasuruan-163",
+    "name": "Simpang Ketepeng",
+    "url": "https://cam.pasuruankota.go.id/sm-kebonagung-1"
+  },
+  {
+    "id": "pasuruan-164",
+    "name": "Simpang Ketepeng",
+    "url": "https://cam.pasuruankota.go.id/sm-kebonagung-2"
+  },
+  {
+    "id": "pasuruan-165",
+    "name": "Batas Barat Kota",
+    "url": "https://cam.pasuruankota.go.id/sm-kebonagung-3"
+  },
+  {
+    "id": "pasuruan-166",
+    "name": "Batas Selatan Kota 1",
+    "url": "https://cam.pasuruankota.go.id/sm-kebonagung-4"
+  },
+  {
+    "id": "pasuruan-167",
+    "name": "Batas Selatan Kota 2",
+    "url": "https://cam.pasuruankota.go.id/sm-kebonagung-5"
+  },
+  {
+    "id": "pasuruan-168",
+    "name": "Simpang Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/sm-bugul-1"
+  },
+  {
+    "id": "pasuruan-169",
+    "name": "Simpang Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/sm-bugul-2"
+  },
+  {
+    "id": "pasuruan-170",
+    "name": "Simpang Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/sm-bugul-3"
+  },
+  {
+    "id": "pasuruan-171",
+    "name": "Simpang Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/sm-bugul-4"
+  },
+  {
+    "id": "pasuruan-172",
+    "name": "Simpang Kebonagung",
+    "url": "https://cam.pasuruankota.go.id/sm-bugul-5"
+  },
+  {
+    "id": "pasuruan-173",
+    "name": "Simpang Bugul Kidul",
+    "url": "https://cam.pasuruankota.go.id/bukir-104"
+  },
+  {
+    "id": "pasuruan-174",
+    "name": "Simpang Bugul Kidul",
+    "url": "https://cam.pasuruankota.go.id/bukir-105"
+  },
+  {
+    "id": "pasuruan-175",
+    "name": "Simpang Bugul Kidul",
+    "url": "https://cam.pasuruankota.go.id/sm-bugul-3"
+  },
+  {
+    "id": "pasuruan-176",
+    "name": "Simpang Bugul Kidul",
+    "url": "https://cam.pasuruankota.go.id/sm-bugul-3"
+  },
+  {
+    "id": "pasuruan-177",
+    "name": "Simpang Bugul Kidul",
+    "url": "https://cam.pasuruankota.go.id/sm-bugul-3"
+  },
+  {
+    "id": "pasuruan-178",
+    "name": "Gerbang Depan",
+    "url": "https://cam.pasuruankota.go.id/sm-bugul-3"
+  },
+  {
+    "id": "pasuruan-179",
+    "name": "Tengah",
+    "url": "https://cam.pasuruankota.go.id/sm-bugul-3"
+  }
+]
