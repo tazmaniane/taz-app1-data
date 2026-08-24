@@ -78,5 +78,320 @@
     "id": "14",
     "name": "TLOGOSARI",
     "url": "https://livepantau.semarangkota.go.id/1e2d26a9-2fcb-4f22-b5f4-087bd22b352a/index.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "SUPRIYADI",
+    "url": "https://livepantau.semarangkota.go.id/5aeee130-7781-48c1-8e1f-727209cbe2e7/index.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "DPU-Museum Kota Lama",
+    "url": "https://livepantau.semarangkota.go.id/f0db4af1-6dec-4a92-b00a-59040704f8e4/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "PETERONGAN",
+    "url": "https://livepantau.semarangkota.go.id/0d167ccf-9405-42fc-8896-7906c23b70a9/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Jembatan Mberok",
+    "url": "https://livepantau.semarangkota.go.id/110c0652-bc7a-410b-9308-239ebd3e9e5c/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Simpang Lima 1 360",
+    "url": "https://livepantau.semarangkota.go.id/60a2470e-dca8-4356-bb8a-5489e7bb0e15/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Simpang Lima 2",
+    "url": "https://livepantau.semarangkota.go.id/01b239ba-f202-4c25-b999-aafd64281375/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "DPU Pahlawan",
+    "url": "https://livepantau.semarangkota.go.id/51e354eb-e854-45de-995b-78a4be3d2cf9/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Simpang Akpol",
+    "url": "https://livepantau.semarangkota.go.id/18f688f5-1489-4459-9ce4-d5549a4da59b/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Indraprasta - Imam Bonjol",
+    "url": "https://livepantau.semarangkota.go.id/c17d3f13-338a-4656-b555-1dd1a18153f3/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Bea Cukai",
+    "url": "https://livepantau.semarangkota.go.id/2d79e358-6c83-49f0-83c2-77bf8d1c0e3d/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Jrakah",
+    "url": "https://livepantau.semarangkota.go.id/b8f42795-4dbd-4712-9329-880e097fc614/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "DPU Kel Wonosari",
+    "url": "https://livepantau.semarangkota.go.id/6c239119-5ac2-49e3-8bf0-22f583e2bbdc/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Balai Kota - Pintu Masuk 1",
+    "url": "https://livepantau.semarangkota.go.id/29260b0e-3462-4989-9d63-177caa8aa93b/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Balai Kota - Pintu Masuk 2",
+    "url": "https://livepantau.semarangkota.go.id/239c2ee3-1bfa-495c-8ee7-f68e548be4a7/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Balai Kota - Pintu Masuk 3",
+    "url": "https://livepantau.semarangkota.go.id/24a943ca-def5-44a0-aff9-9895022af832/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Balai Kota - Halaman",
+    "url": "https://livepantau.semarangkota.go.id/fa6b1767-874f-4348-8fc8-d186d1e8d253/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Balai Kota - Pintu Keluar 1",
+    "url": "https://livepantau.semarangkota.go.id/97f4e76c-ff66-4fef-8d8d-d6bfdf46c372/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Balai Kota - Pintu Keluar 2",
+    "url": "https://livepantau.semarangkota.go.id/11815d10-c439-42e1-9225-22c3f3acf187/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Balai Kota - Pintu Keluar 3",
+    "url": "https://livepantau.semarangkota.go.id/3dc9ca52-e594-42e7-9820-8cc010322b67/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Balai Kota - Pintu Belakang 1",
+    "url": "https://livepantau.semarangkota.go.id/38c82d6e-ad01-4f85-9ff9-3d6258e87725/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Balai Kota - Pintu Belakang 2",
+    "url": "https://livepantau.semarangkota.go.id/d6887205-d6b7-42b5-8edb-370b28e2123e/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Balai Kota - Pintu Belakang 3",
+    "url": "https://livepantau.semarangkota.go.id/22ba1c40-51e4-47e1-ad52-e509a2bb88a5/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Pahlawan PTZ 1",
+    "url": "https://livepantau.semarangkota.go.id/ce7f738e-7e30-4e64-888c-1bd22062f225/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Pahlawan PTZ 2",
+    "url": "https://livepantau.semarangkota.go.id/a5e69eea-cd60-4cb1-a51a-209ec3704a71/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Pahlawan 180",
+    "url": "https://livepantau.semarangkota.go.id/67e8ae0e-2ca1-4074-84fb-6a76503cd792/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Pucang Gading",
+    "url": "https://livepantau.semarangkota.go.id/b617b591-40c5-4c65-af49-6de63e39aa47/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Fatmawati",
+    "url": "https://livepantau.semarangkota.go.id/d8aa2edc-0a25-4508-933b-17ca47eba5be/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "DPU Terowongan Soetta USM",
+    "url": "https://livepantau.semarangkota.go.id/7601927a-ebc3-4452-9cc6-41d175f5fc64/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Metro Johar",
+    "url": "https://livepantau.semarangkota.go.id/c7340916-43bd-46fa-a85f-48dd05d85d1c/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Pemuda - Gajah Mada",
+    "url": "https://livepantau.semarangkota.go.id/10d35089-abda-4772-ac32-6f15e53328ce/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Simpang Paragon",
+    "url": "https://livepantau.semarangkota.go.id/38f1ad01-62aa-446d-8a91-305e405e3d69/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Tugumuda 3",
+    "url": "https://livepantau.semarangkota.go.id/3cd13e1a-22fd-48b4-8928-33edc5044595/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Tugumuda 3-2",
+    "url": "https://livepantau.semarangkota.go.id/a89ba74a-fdd9-4192-ae00-a99adea38932/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Tugumuda",
+    "url": "https://livepantau.semarangkota.go.id/41cc4b59-c86f-4307-939c-13a2026ff606/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Kyai Saleh",
+    "url": "https://livepantau.semarangkota.go.id/a10c85e5-a1ef-4041-9a0b-6c2e98c876bf/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Simpang Thamrin",
+    "url": "https://livepantau.semarangkota.go.id/53c881b4-ef2f-41dd-9367-b4a7651bc168/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Batan Thamrin",
+    "url": "https://livepantau.semarangkota.go.id/4cfc43e9-73a2-41e7-89d8-4f1132245876/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Thamrin Pandanaran 360",
+    "url": "https://livepantau.semarangkota.go.id/e910f4f2-a77d-4cf8-8341-aa2e6c6b65c9/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Simpang Tentrem Mall",
+    "url": "https://livepantau.semarangkota.go.id/1ecaa846-da47-4eae-b239-6625325f56a6/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "MT Haryono",
+    "url": "https://livepantau.semarangkota.go.id/df53c838-efa5-460d-8f41-8a399e137c3b/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Simpang Lima 1 360",
+    "url": "https://livepantau.semarangkota.go.id/60a2470e-dca8-4356-bb8a-5489e7bb0e15/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Simpang Lima 2",
+    "url": "https://livepantau.semarangkota.go.id/01b239ba-f202-4c25-b999-aafd64281375/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Bergota 360",
+    "url": "https://livepantau.semarangkota.go.id/b72f8f10-915b-4cac-b8d8-750886a58806/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Arah Pandanaran",
+    "url": "https://livepantau.semarangkota.go.id/81585de0-f70c-4e95-a330-4b3886ad644a/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Arah Tugu Tunas",
+    "url": "https://livepantau.semarangkota.go.id/1c874802-f4bd-47e6-8cd6-f14025691245/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Polda 360",
+    "url": "https://livepantau.semarangkota.go.id/a8da81c4-d251-40fd-9bad-993cfae8c1ac/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Ki Mangun Sarkoro",
+    "url": "https://livepantau.semarangkota.go.id/47159b17-2776-4509-a9cd-363062084d80/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Bangkong",
+    "url": "https://livepantau.semarangkota.go.id/bca0b6e3-434f-4617-a8d1-7de8dee4a1d8/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Milo",
+    "url": "https://livepantau.semarangkota.go.id/79c24687-f5f7-4822-8a5a-9007af0d7a09/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Sriwijaya 2",
+    "url": "https://livepantau.semarangkota.go.id/66632103-6b19-4f55-97b9-1d4ea18bb7c0/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Sriwijaya 1",
+    "url": "https://livepantau.semarangkota.go.id/481481b7-c444-499f-b32e-7445c29f48e9/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Bundaran Diponegoro",
+    "url": "https://livepantau.semarangkota.go.id/d272202d-046b-4327-b9d5-ff958c22725e/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Simpang Wagisan Taman Kasmaran",
+    "url": "https://livepantau.semarangkota.go.id/e670cf31-b3f6-49a7-b197-cf4eaa45fc58/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Kariadi",
+    "url": "https://livepantau.semarangkota.go.id/72246533-76a5-41e4-bce4-882f375d30b1/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Kaligarang",
+    "url": "https://livepantau.semarangkota.go.id/82226691-f696-41eb-8a74-8b3c9d78b595/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Bundaran Madukoro",
+    "url": "https://livepantau.semarangkota.go.id/114bad06-4fc9-4c14-9c07-4d16720918c4/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Kalibanteng 1",
+    "url": "https://livepantau.semarangkota.go.id/516e0b27-49d0-41bc-924b-da7e07d389af/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Kalibanteng 2",
+    "url": "https://livepantau.semarangkota.go.id/1ba1a3b8-ff0b-4bbe-a1a1-ebb3ab40e6ed/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Hanoman",
+    "url": "https://livepantau.semarangkota.go.id/24d5674c-1193-4a41-a101-2a8bb6d7898c/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Ruas Krapyak",
+    "url": "https://livepantau.semarangkota.go.id/07c53946-b067-4d23-a4c8-38ac75223c31/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Counting Krapyak",
+    "url": "https://livepantau.semarangkota.go.id/6237c48f-a8e8-46f8-bb7b-93641bb4fa8f/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Simpang Exit Tol Krapyak 360",
+    "url": "https://livepantau.semarangkota.go.id/79f0b673-df1b-470f-b3f1-5a81c7d2c578/index.m3u8"
+  },
+  {
+    "id": "",
+    "name": "Jrakah",
+    "url": "https://livepantau.semarangkota.go.id/b8f42795-4dbd-4712-9329-880e097fc614/index.m3u8"
   }
 ]
