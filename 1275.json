@@ -1,577 +1,937 @@
 [
   {
-    "id": "104",
-    "name": "AHMAD YANI - PEMUDA",
-    "url": "https://atcsdishub.medan.go.id/stream/L105AHMADYANIPEMUDA/index.m3u8"
+    "id": "medan-atcs-1-0",
+    "name": "Simpang Lapangan Merdeka",
+    "url": "https://atcsdishub.medan.go.id/stream/L1RADENSALEHBALAIKOTA/stream.m3u8"
   },
   {
-    "id": "2",
-    "name": "AHMAD YANI - PULAU PINANG",
-    "url": "https://atcsdishub.medan.go.id/stream/L2AHMADYANIPULAUPINANG/index.m3u8"
+    "id": "medan-atcs-2-0",
+    "name": "Simpang Lonsum",
+    "url": "https://atcsdishub.medan.go.id/stream/L2AHMADYANIPULAUPINANG/stream.m3u8"
   },
   {
-    "id": "34",
-    "name": "AH.NASUTION - BAJAK",
-    "url": "https://atcsdishub.medan.go.id/stream/L35NASUTIONBAJAK/index.m3u8"
+    "id": "medan-atcs-3-0",
+    "name": "Simpang Kesawan",
+    "url": "https://atcsdishub.medan.go.id/stream/L3KESAWANPALANGMERAH/stream.m3u8"
   },
   {
-    "id": "90",
-    "name": "AH. NASUTION - BRIGJEN KATAMSO",
-    "url": "https://atcsdishub.medan.go.id/stream/L91AHNASUTIONBRIGJENKATAMSO/index.m3u8"
+    "id": "medan-atcs-4-0",
+    "name": "Simpang Waspada",
+    "url": "https://atcsdishub.medan.go.id/stream/L4KATAMSOANIIDRUS/stream.m3u8"
   },
   {
-    "id": "91",
-    "name": "AH. NASUTION - DELITUA",
-    "url": "https://atcsdishub.medan.go.id/stream/L92AHNASUTIONDELITUA/index.m3u8"
+    "id": "medan-atcs-5-0",
+    "name": "Simpang Tirtanadi",
+    "url": "https://atcsdishub.medan.go.id/stream/L5PANDUCIREBON/stream.m3u8"
   },
   {
-    "id": "61",
-    "name": "AH.NASUTION - KARYA JAYA",
-    "url": "https://atcsdishub.medan.go.id/stream/L62NASUTIONKARYAJAYA/index.m3u8"
+    "id": "medan-atcs-6-0",
+    "name": "Simpang Istana Maimun",
+    "url": "https://atcsdishub.medan.go.id/stream/L6KATAMSOMASJIDRAYA/stream.m3u8"
   },
   {
-    "id": "62",
-    "name": "AH.NASUTION - KARYA WISATA",
-    "url": "https://atcsdishub.medan.go.id/stream/L63NASUTIONKARYAWISATA/index.m3u8"
+    "id": "medan-atcs-7-0",
+    "name": "Simpang Masjid Rya",
+    "url": "https://atcsdishub.medan.go.id/stream/L7SM.RAJAAMALIUN/stream.m3u8"
   },
   {
-    "id": "60",
-    "name": "AH.NASUTION - SITI HAJAR",
-    "url": "https://atcsdishub.medan.go.id/stream/L61NASUTIONSITIHAJAR/index.m3u8"
+    "id": "medan-atcs-8-0",
+    "name": "Simpang Mayestik",
+    "url": "https://atcsdishub.medan.go.id/stream/L8GURUPATIMPUSADAMMALIK/stream.m3u8"
   },
   {
-    "id": "52",
-    "name": "AMIR HAMZAH - GRIYA",
-    "url": "https://atcsdishub.medan.go.id/stream/L53GRIYA/index.m3u8"
+    "id": "medan-atcs-9-0",
+    "name": "Simpang Wisma Benteng",
+    "url": "https://atcsdishub.medan.go.id/stream/L9PENGADILANKPT.MAULANALUBIS/stream.m3u8"
   },
   {
-    "id": "59",
-    "name": "AMIR HAMZAH - KAPTEN MUSLIM",
-    "url": "https://atcsdishub.medan.go.id/stream/L60GRIYATURNING/index.m3u8"
+    "id": "medan-atcs-10-0",
+    "name": "Simpang Benteng 1",
+    "url": "https://atcsdishub.medan.go.id/stream/L10PERDANAIMAMBONJOL/stream.m3u8"
   },
   {
-    "id": "56",
-    "name": "ASRAMA - AMIR HAMZAH",
-    "url": "https://atcsdishub.medan.go.id/stream/L57HEL VETIA/index.m3u8"
+    "id": "medan-atcs-11-0",
+    "name": "Simpang Hdti",
+    "url": "https://atcsdishub.medan.go.id/stream/L11IMAMBONJOLZAINULARIFIN/stream.m3u8"
   },
   {
-    "id": "105",
-    "name": "BALAI KOTA - BUKIT BARISAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L106BALAIKOTABUKITBARISAN/index.m3u8"
+    "id": "medan-atcs-12-0",
+    "name": "Simpang Pizza Hut",
+    "url": "https://atcsdishub.medan.go.id/stream/L12SUPRAPTOMULTATULI/stream.m3u8"
   },
   {
-    "id": "112",
-    "name": "BALAI KOTA - MERDEKA",
-    "url": "https://atcsdishub.medan.go.id/stream/L113BALAIKOTAMERDEKA/index.m3u8"
+    "id": "medan-atcs-13-0",
+    "name": "Simpang Air Mancur",
+    "url": "https://atcsdishub.medan.go.id/stream/L13IMAMBONJOLSUPRAPTO/stream.m3u8"
   },
   {
-    "id": "107",
-    "name": "BRIGJEN KATAMSO - PROTON",
-    "url": "https://atcsdishub.medan.go.id/stream/L108BRIGJENKATAMSOPROTON/index.m3u8"
+    "id": "medan-atcs-14-0",
+    "name": "Simpang Bii",
+    "url": "https://atcsdishub.medan.go.id/stream/L14DIPONEGOROZAINULARIFIN/stream.m3u8"
   },
   {
-    "id": "71",
-    "name": "CIREBON - SM RAJA",
-    "url": "https://atcsdishub.medan.go.id/stream/L72CIREBONSMRAJA/index.m3u8"
+    "id": "medan-atcs-15-0",
+    "name": "Simpang Kartini",
+    "url": "https://atcsdishub.medan.go.id/stream/L15DIPONEGOROKARTINI/stream.m3u8"
   },
   {
-    "id": "97",
-    "name": "CUNDI - PERMATA",
-    "url": "https://atcsdishub.medan.go.id/stream/L98CUNDIPERMATA/index.m3u8"
+    "id": "medan-atcs-16-0",
+    "name": "Simpang Rd.Walikota",
+    "url": "https://atcsdishub.medan.go.id/stream/L16SUDIRMANDIPONEGORO/stream.m3u8"
   },
   {
-    "id": "15",
-    "name": "DIPONEGORO - KARTINI",
-    "url": "https://atcsdishub.medan.go.id/stream/L15DIPONEGOROKARTINI/index.m3u8"
+    "id": "medan-atcs-17-0",
+    "name": "Simpang Rd.Gubernur",
+    "url": "https://atcsdishub.medan.go.id/stream/L17SUDIRMANCIKDITIRO/stream.m3u8"
   },
   {
-    "id": "14",
-    "name": "DIPONEGORO - ZAINUL ARIFIN",
-    "url": "https://atcsdishub.medan.go.id/stream/L14DIPONEGOROZAINULARIFIN/index.m3u8"
+    "id": "medan-atcs-18-0",
+    "name": "Simpang Juanda Katamso",
+    "url": "https://atcsdishub.medan.go.id/stream/L18KATAMSOJUANDA/stream.m3u8"
   },
   {
-    "id": "67",
-    "name": "DR MANSYUR - MURA I",
-    "url": "https://atcsdishub.medan.go.id/stream/L68DRMANSYURMURAI/index.m3u8"
+    "id": "medan-atcs-19-0",
+    "name": "Simpang Polonia",
+    "url": "https://atcsdishub.medan.go.id/stream/L19JUANDAPOLONIA/stream.m3u8"
   },
   {
-    "id": "43",
-    "name": "GAHARU - PERINTIS KEMERDEKAAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L44GAHARUPERINTIS/index.m3u8"
+    "id": "medan-atcs-20-0",
+    "name": "Simpang Halat - Sm.Rja",
+    "url": "https://atcsdishub.medan.go.id/stream/L20SMRAJAHALAT/stream.m3u8"
   },
   {
-    "id": "94",
-    "name": "GAJAHMADA - ERLANGA",
-    "url": "https://atcsdishub.medan.go.id/stream/L95GAJAHMADAERLANGA/index.m3u8"
+    "id": "medan-atcs-21-0",
+    "name": "Simpang Pelangi - Sm.Raja",
+    "url": "https://atcsdishub.medan.go.id/stream/L21SMRAJAPELANGI/stream.m3u8"
   },
   {
-    "id": "50",
-    "name": "GAJAH MADA - S.PARMAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L51GAJAHMADASPARMAN/index.m3u8"
+    "id": "medan-atcs-22-0",
+    "name": "Simpang Pmh",
+    "url": "https://atcsdishub.medan.go.id/stream/L22SMRAJAPMH/stream.m3u8"
   },
   {
-    "id": "49",
-    "name": "GAJAH MADA - WAHID HASYIM",
-    "url": "https://atcsdishub.medan.go.id/stream/L50GAJAHMADAWAHIDHASYIM/index.m3u8"
+    "id": "medan-atcs-23-0",
+    "name": "Simpang Amplas",
+    "url": "https://atcsdishub.medan.go.id/stream/L23AMPLAS/stream.m3u8"
   },
   {
-    "id": "37",
-    "name": "GATOT SUBROTO - AYAHANDA",
-    "url": "https://atcsdishub.medan.go.id/stream/L38AYAHANDA/index.m3u8"
+    "id": "medan-atcs-24-0",
+    "name": "Simpang Uniland",
+    "url": "https://atcsdishub.medan.go.id/stream/L24UNILAND/stream.m3u8"
   },
   {
-    "id": "35",
-    "name": "GATOT SUBROTO - ISKANDAR MUDA",
-    "url": "https://atcsdishub.medan.go.id/stream/L36MEDANPLAZA/index.m3u8"
+    "id": "medan-atcs-25-0",
+    "name": "Simpang Medan Mall",
+    "url": "https://atcsdishub.medan.go.id/stream/L25MEDANMALL/stream.m3u8"
   },
   {
-    "id": "38",
-    "name": "GATOT SUBROTO - KAPTEN MUSLIM",
-    "url": "https://atcsdishub.medan.go.id/stream/L39SEISIKAMBING/index.m3u8"
+    "id": "medan-atcs-26-0",
+    "name": "Simpang Mt.Thamrin Sumatera",
+    "url": "https://atcsdishub.medan.go.id/stream/L26MTHARYONOTHAMRIN/stream.m3u8"
   },
   {
-    "id": "101",
-    "name": "GATOT SUBROTO - KAPTEN MUSLIM B",
-    "url": "https://atcsdishub.medan.go.id/stream/L102GATOTSUBROTOKAPTENMUSLIMB/index.m3u8"
+    "id": "medan-atcs-27-0",
+    "name": "Simpang Tvri",
+    "url": "https://atcsdishub.medan.go.id/stream/L27TVRI/stream.m3u8"
   },
   {
-    "id": "113",
-    "name": "GATOT SUBROTO - PODOMORO",
-    "url": "https://atcsdishub.medan.go.id/stream/L114GATOTSUBROTOPODOMORO/index.m3u8"
+    "id": "medan-atcs-29-0",
+    "name": "Simpang Sudirman Ujung",
+    "url": "https://atcsdishub.medan.go.id/stream/L29SUDIRMANUJUNG/stream.m3u8"
   },
   {
-    "id": "55",
-    "name": "GATOT SUBROTO - RINGROAD",
-    "url": "https://atcsdishub.medan.go.id/stream/L56KAMPUNGLALANG/index.m3u8"
+    "id": "medan-atcs-30-0",
+    "name": "Simpang Mangonsidi Patimura",
+    "url": "https://atcsdishub.medan.go.id/stream/L30MONGONSIDIPATTIMURA/stream.m3u8"
   },
   {
-    "id": "73",
-    "name": "GATOT SUBROTO - SEI SIKAMBING",
-    "url": "https://atcsdishub.medan.go.id/stream/L74GATOTSUBROTOSEISIKAMBING/index.m3u8"
+    "id": "medan-atcs-31-0",
+    "name": "Simpang Jm Ginting Ismud",
+    "url": "https://atcsdishub.medan.go.id/stream/L31JAMINGINTINGISMUD/stream.m3u8"
   },
   {
-    "id": "36",
-    "name": "GATOT SUBROTO - WAHID HASYIM",
-    "url": "https://atcsdishub.medan.go.id/stream/L37SEIWAMPU/index.m3u8"
+    "id": "medan-atcs-32-0",
+    "name": "Simpang Dr Mansyur Jm Ginting",
+    "url": "https://atcsdishub.medan.go.id/stream/L32JAMINGINTINGDRMANSYUR/stream.m3u8"
   },
   {
-    "id": "110",
-    "name": "GRIYA - HELVETIA",
-    "url": "https://atcsdishub.medan.go.id/stream/L111GRIYAHELVETIA/index.m3u8"
+    "id": "medan-atcs-33-0",
+    "name": "Simpang Sm Rja Hm Joni",
+    "url": "https://atcsdishub.medan.go.id/stream/L33SMRAJAHMJHONI/stream.m3u8"
   },
   {
-    "id": "8",
-    "name": "GURU PATIMPUS - ADAM MALIK",
-    "url": "https://atcsdishub.medan.go.id/stream/L8GURUPATIMPUSADAMMALIK/index.m3u8"
+    "id": "medan-atcs-34-0",
+    "name": "Simpang Alfalah Sm Raja",
+    "url": "https://atcsdishub.medan.go.id/stream/L34SMRAJAALFALAH/stream.m3u8"
   },
   {
-    "id": "89",
-    "name": "HALAT - BAKTI",
-    "url": "https://atcsdishub.medan.go.id/stream/L90HALATBAKTI/index.m3u8"
+    "id": "medan-atcs-35-0",
+    "name": "Simpang Bajak Nasution",
+    "url": "https://atcsdishub.medan.go.id/stream/L35NASUTIONBAJAK/stream.m3u8"
   },
   {
-    "id": "85",
-    "name": "HM YAMIN - KRAKATAU",
-    "url": "https://atcsdishub.medan.go.id/stream/L86HMYAMINKRAKATAU/index.m3u8"
+    "id": "medan-atcs-36-0",
+    "name": "Simpang Medan Plaza",
+    "url": "https://atcsdishub.medan.go.id/stream/L36MEDANPLAZA/stream.m3u8"
   },
   {
-    "id": "77",
-    "name": "HM YAMIN - MERBAU",
-    "url": "https://atcsdishub.medan.go.id/stream/L78HMYAMINMERBAU/index.m3u8"
+    "id": "medan-atcs-37-0",
+    "name": "Simpang Sei Wampu",
+    "url": "https://atcsdishub.medan.go.id/stream/L37SEIWAMPU/stream.m3u8"
   },
   {
-    "id": "114",
-    "name": "HM YAMIN - PERINTIS KEMERDEKAAN B",
-    "url": "https://atcsdishub.medan.go.id/stream/L115HMYAMINPERINTISKEMERDEKAANB/index.m3u8"
+    "id": "medan-atcs-38-0",
+    "name": "Simpang Ayahanda - Gatsu",
+    "url": "https://atcsdishub.medan.go.id/stream/L38AYAHANDA/stream.m3u8"
   },
   {
-    "id": "75",
-    "name": "HM YAMIN - SUTOMO",
-    "url": "https://atcsdishub.medan.go.id/stream/L76HMYAMINSUTOMO/index.m3u8"
+    "id": "medan-atcs-39-0",
+    "name": "Simpang Sei Kambing",
+    "url": "https://atcsdishub.medan.go.id/stream/L39SEISIKAMBING/stream.m3u8"
   },
   {
-    "id": "13",
-    "name": "IMAM BONJOL - SUPRAPTO",
-    "url": "https://atcsdishub.medan.go.id/stream/L13IMAMBONJOLSUPRAPTO/index.m3u8"
+    "id": "medan-atcs-40-0",
+    "name": "Simpang Ismud Gajah Mada",
+    "url": "https://atcsdishub.medan.go.id/stream/L40ISMUDGAJAHMADA/stream.m3u8"
   },
   {
-    "id": "11",
-    "name": "IMAM BONJOL - ZAINUL ARIFIN",
-    "url": "https://atcsdishub.medan.go.id/stream/L11IMAMBONJOLZAINULARIFIN/index.m3u8"
+    "id": "medan-atcs-41-0",
+    "name": "Simpang Hasnuddin Ismud",
+    "url": "https://atcsdishub.medan.go.id/stream/L41ISMUDHASANUDDIN/stream.m3u8"
   },
   {
-    "id": "41",
-    "name": "ISKANDAR MUDA - ABDULLAH LUBIS",
-    "url": "https://atcsdishub.medan.go.id/stream/L42ISMUDABDLUBIS/index.m3u8"
+    "id": "medan-atcs-42-0",
+    "name": "Simpang Ismud Abd Lubis",
+    "url": "https://atcsdishub.medan.go.id/stream/L42ISMUDABDLUBIS/stream.m3u8"
   },
   {
-    "id": "39",
-    "name": "ISKANDAR MUDA - GAJAH MADA ",
-    "url": "https://atcsdishub.medan.go.id/stream/L40ISMUDGAJAHMADA/index.m3u8"
+    "id": "medan-atcs-43-0",
+    "name": "Simpang Kejaksaan Sparman",
+    "url": "https://atcsdishub.medan.go.id/stream/L43KEJAKSAANSPARMAN/stream.m3u8"
   },
   {
-    "id": "40",
-    "name": "ISKANDAR MUDA - HASANUDDIN ",
-    "url": "https://atcsdishub.medan.go.id/stream/L41ISMUDHASANUDDIN/index.m3u8"
+    "id": "medan-atcs-44-0",
+    "name": "Simpang Gaharu Perintis",
+    "url": "https://atcsdishub.medan.go.id/stream/L44GAHARUPERINTIS/stream.m3u8"
   },
   {
-    "id": "65",
-    "name": "JAMIN GINTING - AH.NASUTION",
-    "url": "https://atcsdishub.medan.go.id/stream/L66SIMPANGPOS/index.m3u8"
+    "id": "medan-atcs-45-0",
+    "name": "Simpang Noumensen",
+    "url": "https://atcsdishub.medan.go.id/stream/L45NOUMENSEN/stream.m3u8"
   },
   {
-    "id": "31",
-    "name": "JAMIN GINTNG - DR.MANSYUR",
-    "url": "https://atcsdishub.medan.go.id/stream/L32JAMINGINTINGDRMANSYUR/index.m3u8"
+    "id": "medan-atcs-46-0",
+    "name": "Simpang Sutomo Yamin",
+    "url": "https://atcsdishub.medan.go.id/stream/L46SUTOMOYAMIN/stream.m3u8"
   },
   {
-    "id": "30",
-    "name": "JAMIN GINTING - ISKANDAR MUDA",
-    "url": "https://atcsdishub.medan.go.id/stream/L31JAMINGINTINGISMUD/index.m3u8"
+    "id": "medan-atcs-47-0",
+    "name": "Simpang Glugur",
+    "url": "https://atcsdishub.medan.go.id/stream/L47GLUGUR/stream.m3u8"
   },
   {
-    "id": "92",
-    "name": "JAMIN GINTING - RSUP ADAM MALIK",
-    "url": "https://atcsdishub.medan.go.id/stream/L93JAMINGINTINGRSUPADAMMALIK/index.m3u8"
+    "id": "medan-atcs-48-0",
+    "name": "Simpang Bilal Yosudarso",
+    "url": "https://atcsdishub.medan.go.id/stream/L48BILALYOSSUDARSO/stream.m3u8"
   },
   {
-    "id": "66",
-    "name": "JAMIN GINTING - SIMPANG KAMPUS USU",
-    "url": "https://atcsdishub.medan.go.id/stream/L67SIMPANGKAMPUSUSU/index.m3u8"
+    "id": "medan-atcs-49-0",
+    "name": "Simpang Brayan",
+    "url": "https://atcsdishub.medan.go.id/stream/L49BRAYAN/stream.m3u8"
   },
   {
-    "id": "93",
-    "name": "JAMIN GINTING - TUNTUNGAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L94JAMINGINTINGTUNTUNGAN/index.m3u8"
+    "id": "medan-atcs-50-0",
+    "name": "Simpang Gajah Mada Wahid Hasyim",
+    "url": "https://atcsdishub.medan.go.id/stream/L50GAJAHMADAWAHIDHASYIM/stream.m3u8"
   },
   {
-    "id": "19",
-    "name": "JUANDA - POLONIA ",
-    "url": "https://atcsdishub.medan.go.id/stream/L19JUANDAPOLONIA/index.m3u8"
+    "id": "medan-atcs-51-0",
+    "name": "Simpang Amir Hamzah Griya",
+    "url": "https://atcsdishub.medan.go.id/stream/L51GRIYA/stream.m3u8"
   },
   {
-    "id": "103",
-    "name": "JUANDA - WALIKOTA",
-    "url": "https://atcsdishub.medan.go.id/stream/L104JUANDAWALIKOTA/index.m3u8"
+    "id": "medan-atcs-52-0",
+    "name": "Simpang Sunggal Kasuari",
+    "url": "https://atcsdishub.medan.go.id/stream/L52SUNGGALKASUARI/stream.m3u8"
   },
   {
-    "id": "100",
-    "name": "KAPTEN MUSLIM - AMIR HAMZAH B",
-    "url": "https://atcsdishub.medan.go.id/stream/L101KAPTENMUSLIMAMIRHAMZAHB/index.m3u8"
+    "id": "medan-atcs-53-0",
+    "name": "Simpang Thamrin Yamin",
+    "url": "https://atcsdishub.medan.go.id/stream/L53THAMRINYAMIN/stream.m3u8"
   },
   {
-    "id": "53",
-    "name": "KAPTEN MUSLIM - MILLENIUM",
-    "url": "https://atcsdishub.medan.go.id/stream/L54KAPTENMUSLIMALMUNAWWARAH/index.m3u8"
+    "id": "medan-atcs-54-0",
+    "name": "Simpang Kejkassan T Umar",
+    "url": "https://atcsdishub.medan.go.id/stream/L54KEJAKSAANTUMAR/stream.m3u8"
   },
   {
-    "id": "54",
-    "name": "KAPTEN MUSLIM - SUMARSONO",
-    "url": "https://atcsdishub.medan.go.id/stream/L55KAPTENMUSLIMSUMARSONO/index.m3u8"
+    "id": "medan-atcs-55-0",
+    "name": "Simpang Juanda Walikota",
+    "url": "https://atcsdishub.medan.go.id/stream/L55JUANDAWALIKOTA/stream.m3u8"
   },
   {
-    "id": "63",
-    "name": "KARYA JAYA - KARYA SEJATI",
-    "url": "https://atcsdishub.medan.go.id/stream/L64KARYAJAYAKARYASEJATI/index.m3u8"
+    "id": "medan-atcs-56-0",
+    "name": "Simpang Rahmdsyah",
+    "url": "https://atcsdishub.medan.go.id/stream/L56RAHMADSYAH/stream.m3u8"
   },
   {
-    "id": "64",
-    "name": "KARYA JAYA - KARYA WISATA",
-    "url": "https://atcsdishub.medan.go.id/stream/L65KARYAJAYAKARYAWISATA/index.m3u8"
+    "id": "medan-atcs-57-0",
+    "name": "Simpang Stm Nasution",
+    "url": "https://atcsdishub.medan.go.id/stream/L57STMAHNASUTION/stream.m3u8"
   },
   {
-    "id": "102",
-    "name": "KARYA WISATA - AH NASUTION B",
-    "url": "https://atcsdishub.medan.go.id/stream/L103KARYAWISATAAHNASUTIONB/index.m3u8"
+    "id": "medan-atcs-59-0",
+    "name": "Simpang Sunggal Gagak Hitam",
+    "url": "https://atcsdishub.medan.go.id/stream/L59SUGGAL/stream.m3u8"
   },
   {
-    "id": "4",
-    "name": "KATAMSO - ANI IDRUS",
-    "url": "https://atcsdishub.medan.go.id/stream/L4KATAMSOANIIDRUS/index.m3u8"
+    "id": "medan-atcs-60-0",
+    "name": "Simpang Asoka",
+    "url": "https://atcsdishub.medan.go.id/stream/L60ASOKA/stream.m3u8"
   },
   {
-    "id": "18",
-    "name": "KATAMSO - JUANDA",
-    "url": "https://atcsdishub.medan.go.id/stream/L18KATAMSOJUANDA/index.m3u8"
+    "id": "medan-atcs-61-0",
+    "name": "Simpang Setia Budi",
+    "url": "https://atcsdishub.medan.go.id/stream/L61SETIABUDIINDUSTRI/stream.m3u8"
   },
   {
-    "id": "6",
-    "name": "KATAMSO - MASJID RAYA",
-    "url": "https://atcsdishub.medan.go.id/stream/L6KATAMSOMASJIDRAYA/index.m3u8"
+    "id": "medan-atcs-62-0",
+    "name": "Simpang Pos",
+    "url": "https://atcsdishub.medan.go.id/stream/L62SIMPANGPOS/stream.m3u8"
   },
   {
-    "id": "98",
-    "name": "KEJAKSAAN - BALAI KOTA",
-    "url": "https://atcsdishub.medan.go.id/stream/L99KEJAKSAANBALAIKOTA/index.m3u8"
+    "id": "medan-atcs-63-0",
+    "name": "Simpang Karyawisata",
+    "url": "https://atcsdishub.medan.go.id/stream/L63KARYAWISATA/stream.m3u8"
   },
   {
-    "id": "42",
-    "name": "KEJAKSAAN - S.PARMAN ",
-    "url": "https://atcsdishub.medan.go.id/stream/L43KEJAKSAANSPARMAN/index.m3u8"
+    "id": "medan-atcs-64-0",
+    "name": "Simpang Katmaso Pelangi",
+    "url": "https://atcsdishub.medan.go.id/stream/L64KATAMSOPELANGI/stream.m3u8"
   },
   {
-    "id": "3",
-    "name": "KESAWAN - PALANG MERAH",
-    "url": "https://atcsdishub.medan.go.id/stream/L3KESAWANPALANGMERAH/index.m3u8"
+    "id": "medan-atcs-65-0",
+    "name": "Simpang Katamso Sakti Lubis",
+    "url": "https://atcsdishub.medan.go.id/stream/L65KATAMSOSAKTILUBIS/stream.m3u8"
   },
   {
-    "id": "84",
-    "name": "KRAKATAU - BAMBU",
-    "url": "https://atcsdishub.medan.go.id/stream/L85KRAKATAUBAMBU/index.m3u8"
+    "id": "medan-atcs-66-0",
+    "name": "Simpang Sutomo Sutrisno",
+    "url": "https://atcsdishub.medan.go.id/stream/L66SUTOMOSUTRISNO/stream.m3u8"
   },
   {
-    "id": "81",
-    "name": "KRAKATAU - BILAL",
-    "url": "https://atcsdishub.medan.go.id/stream/L82KRAKATAUBILAL/index.m3u8"
+    "id": "medan-atcs-67-0",
+    "name": "Simpang Thamrin Sutrisno",
+    "url": "https://atcsdishub.medan.go.id/stream/L67THAMRINSUTRISNO/stream.m3u8"
   },
   {
-    "id": "82",
-    "name": "KRAKATAU - MUSTAFA",
-    "url": "https://atcsdishub.medan.go.id/stream/L83KRAKATAUMUSTAFA/index.m3u8"
+    "id": "medan-atcs-68-0",
+    "name": "Simpang Thamrin Asia",
+    "url": "https://atcsdishub.medan.go.id/stream/L68THAMRINASIA/stream.m3u8"
   },
   {
-    "id": "83",
-    "name": "KRAKATAU - PERMATA",
-    "url": "https://atcsdishub.medan.go.id/stream/L84KRAKATAUPERMATA/index.m3u8"
+    "id": "medan-atcs-69-0",
+    "name": "Simpang Sutomo Merbabu",
+    "url": "https://atcsdishub.medan.go.id/stream/L69SUTOMOMERBABU/stream.m3u8"
   },
   {
-    "id": "111",
-    "name": "KRAKATAU - VETERAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L112KRAKATAUVETERAN/index.m3u8"
+    "id": "medan-atcs-70-0",
+    "name": "Simpang Gaharu Bambu Ii",
+    "url": "https://atcsdishub.medan.go.id/stream/L70GAHARUBAMBU2/stream.m3u8"
   },
   {
-    "id": "86",
-    "name": "LETDA SUJONO - TEMBUNG",
-    "url": "https://atcsdishub.medan.go.id/stream/L87LETDASUJONOTEMBUNG/index.m3u8"
+    "id": "medan-atcs-71-0",
+    "name": "Simpang Sutomo Bambu Ii",
+    "url": "https://atcsdishub.medan.go.id/stream/L71SUTOMOBAMBU2/stream.m3u8"
   },
   {
-    "id": "29",
-    "name": "MONGONSIDI - PATIMURA",
-    "url": "https://atcsdishub.medan.go.id/stream/L30MONGONSIDIPATTIMURA/index.m3u8"
+    "id": "medan-atcs-72-0",
+    "name": "Simpang Krakatau Pasar Iii",
+    "url": "https://atcsdishub.medan.go.id/stream/L72KRAKATAUPASAR3/stream.m3u8"
   },
   {
-    "id": "26",
-    "name": "MT HARYONO - MH.THAMRIN",
-    "url": "https://atcsdishub.medan.go.id/stream/L26MTHARYONOTHAMRIN/index.m3u8"
+    "id": "medan-atcs-73-0",
+    "name": "Simpang Karkatau Bilal",
+    "url": "https://atcsdishub.medan.go.id/stream/L73KRAKATAUBILAL/stream.m3u8"
   },
   {
-    "id": "24",
-    "name": "MT.HARYONO - IRIAN BARAT",
-    "url": "https://atcsdishub.medan.go.id/stream/L24UNILAND/index.m3u8"
+    "id": "medan-atcs-74-0",
+    "name": "Simpang Sidorukun",
+    "url": "https://atcsdishub.medan.go.id/stream/L74KRAKATUSIDORUKUN/stream.m3u8"
   },
   {
-    "id": "25",
-    "name": "MT.HARYONO - SUTOMO",
-    "url": "https://atcsdishub.medan.go.id/stream/L25MEDANMALL/index.m3u8"
+    "id": "medan-atcs-75-0",
+    "name": "Simpang Wahid Hasyim",
+    "url": "https://atcsdishub.medan.go.id/stream/L75ABDLUBISWAHIDHASYIM/stream.m3u8"
   },
   {
-    "id": "5",
-    "name": "PANDU - CIREBON",
-    "url": "https://atcsdishub.medan.go.id/stream/L5PANDUCIREBON/index.m3u8"
+    "id": "medan-atcs-76-0",
+    "name": "Simpang Kraktau Cemara",
+    "url": "https://atcsdishub.medan.go.id/stream/L76KRAKATAUCEMARA/stream.m3u8"
   },
   {
-    "id": "99",
-    "name": "PENGADILAN - BALAI KOTA",
-    "url": "https://atcsdishub.medan.go.id/stream/L100PENGADILANBALAIKOTA/index.m3u8"
+    "id": "medan-atcs-77-0",
+    "name": "Simpang Skip",
+    "url": "https://atcsdishub.medan.go.id/stream/L77SKIPPABRIKTENUN/stream.m3u8"
   },
   {
-    "id": "9",
-    "name": "PENGADILAN - KPT.MAULANA LUBIS",
-    "url": "https://atcsdishub.medan.go.id/stream/L9PENGADILANKPT.MAULANALUBIS/index.m3u8"
+    "id": "medan-atcs-78-0",
+    "name": "Simpang Sei Serayu",
+    "url": "https://atcsdishub.medan.go.id/stream/L78ABDLUBISSEISERAYU/stream.m3u8"
   },
   {
-    "id": "10",
-    "name": "PERDANA - IMAM BONJOL",
-    "url": "https://atcsdishub.medan.go.id/stream/L10PERDANAIMAMBONJOL/index.m3u8"
+    "id": "medan-atcs-79-0",
+    "name": "Simpang Darussalam",
+    "url": "https://atcsdishub.medan.go.id/stream/L79GAJAHMADADARUSSALAM/stream.m3u8"
   },
   {
-    "id": "74",
-    "name": "PERINTIS KEMERDEKAAN - HM YAMIN",
-    "url": "https://atcsdishub.medan.go.id/stream/L75PERINTISKEMERDEKAANHMYAMIN/index.m3u8"
+    "id": "medan-atcs-80-0",
+    "name": "Simpang Dr Cipto",
+    "url": "https://atcsdishub.medan.go.id/stream/L80MANGONSIDIDRCIPTO/stream.m3u8"
   },
   {
-    "id": "78",
-    "name": "PERINTIS KEMERDEKAAN - MERBAU",
-    "url": "https://atcsdishub.medan.go.id/stream/L79PERINTISMERBAU/index.m3u8"
+    "id": "medan-atcs-81-0",
+    "name": "Simpang Yamin Perintis",
+    "url": "https://atcsdishub.medan.go.id/stream/L81HMYAMINPERINTIS/stream.m3u8"
   },
   {
-    "id": "44",
-    "name": "PERINTIS KEMERDEKAAN - SUTOMO",
-    "url": "https://atcsdishub.medan.go.id/stream/L45NOUMENSEN/index.m3u8"
+    "id": "medan-atcs-82-0",
+    "name": "Simpang Manhattan",
+    "url": "https://atcsdishub.medan.go.id/stream/L82GATSUASRAMA/stream.m3u8"
   },
   {
-    "id": "76",
-    "name": "PERINTIS KEMERDEKAAN - SUTOMO B",
-    "url": "https://atcsdishub.medan.go.id/stream/L77PERINTISSUTOMOB/index.m3u8"
+    "id": "medan-atcs-83-0",
+    "name": "Simpang Aksara - Willian Iskandar",
+    "url": "https://atcsdishub.medan.go.id/stream/L83ARHAKIMWILIAISKANDAR/stream.m3u8"
   },
   {
-    "id": "27",
-    "name": "PUTRI HIJAU - GURU PATIMPUS",
-    "url": "https://atcsdishub.medan.go.id/stream/L27TVRI/index.m3u8"
+    "id": "medan-atcs-84-0",
+    "name": "Simpang Pinang Baris",
+    "url": "https://atcsdishub.medan.go.id/stream/L84PINANGBARIS/stream.m3u8"
   },
   {
-    "id": "46",
-    "name": "PUTRI HIJAU - YOSUDARSO",
-    "url": "https://atcsdishub.medan.go.id/stream/L47GLUGUR/index.m3u8"
+    "id": "medan-atcs-85-0",
+    "name": "Simpang Asrama",
+    "url": "https://atcsdishub.medan.go.id/stream/L85GAPERTAASRAMA/stream.m3u8"
   },
   {
-    "id": "1",
-    "name": "RADEN SALEH - BALAI KOTA",
-    "url": "https://atcsdishub.medan.go.id/stream/L1RADENSALEHBALAIKOTA/index.m3u8"
+    "id": "medan-atcs-86-0",
+    "name": "Simpang Mandala",
+    "url": "https://atcsdishub.medan.go.id/stream/L86MANDALA/stream.m3u8"
   },
   {
-    "id": "69",
-    "name": "RINGROAD - SETIA BUDI",
-    "url": "https://atcsdishub.medan.go.id/stream/L70RINGROADSETIABUDI/index.m3u8"
+    "id": "medan-atcs-87-0",
+    "name": "Simpang Rs Adam Malik",
+    "url": "https://atcsdishub.medan.go.id/stream/L87RSADAMMALIK/stream.m3u8"
   },
   {
-    "id": "57",
-    "name": "RINGROAD - SUNGGAL",
-    "url": "https://atcsdishub.medan.go.id/stream/L58SUNGGAL/index.m3u8"
+    "id": "medan-atcs-88-0",
+    "name": "Simpang Selayang",
+    "url": "https://atcsdishub.medan.go.id/stream/L88SELAYANG/stream.m3u8"
   },
   {
-    "id": "58",
-    "name": "RINGROAD - WARKOP AROFAH",
-    "url": "https://atcsdishub.medan.go.id/stream/L59RINGROADA ROFAH/index.m3u8"
+    "id": "medan-atcs-89-0",
+    "name": "Simpang Pemda",
+    "url": "https://atcsdishub.medan.go.id/stream/L89PEMDA/stream.m3u8"
   },
   {
-    "id": "95",
-    "name": "S. PARMAN - ERLANGA",
-    "url": "https://atcsdishub.medan.go.id/stream/L96SPARMANERLANGA/index.m3u8"
+    "id": "medan-atcs-90-0",
+    "name": "Simpang Simalingkar",
+    "url": "https://atcsdishub.medan.go.id/stream/L90SIMALINGKAR/stream.m3u8"
   },
   {
-    "id": "51",
-    "name": "S.PARMAN - WAHLAB",
-    "url": "https://atcsdishub.medan.go.id/stream/L52SPARMANWALHAB/index.m3u8"
+    "id": "medan-atcs-91-0",
+    "name": "Simpang Sejati",
+    "url": "https://atcsdishub.medan.go.id/stream/L91SEJATI/stream.m3u8"
   },
   {
-    "id": "68",
-    "name": "SETIA BUDI - DR MANSYUR",
-    "url": "https://atcsdishub.medan.go.id/stream/L69SETIABUDIDRMANSYUR/index.m3u8"
+    "id": "medan-atcs-92-0",
+    "name": "Simpang Wahidn",
+    "url": "https://atcsdishub.medan.go.id/stream/L92WAHIDIN/stream.m3u8"
   },
   {
-    "id": "108",
-    "name": "SETIA BUDI - PASAR 3",
-    "url": "https://atcsdishub.medan.go.id/stream/L109SETIABUDIPASAR3/index.m3u8"
+    "id": "medan-atcs-93-0",
+    "name": "Simpang Sukaramai",
+    "url": "https://atcsdishub.medan.go.id/stream/L93SUKAIRAMAI/stream.m3u8"
   },
   {
-    "id": "109",
-    "name": "SETIA BUDI - PASAR 6",
-    "url": "https://atcsdishub.medan.go.id/stream/L110SETIABUDIPASAR6/index.m3u8"
+    "id": "medan-atcs-94-0",
+    "name": "Simpang Benteng 2",
+    "url": "https://atcsdishub.medan.go.id/stream/L94PENGADILANKEJAKASAAN/stream.m3u8"
   },
   {
-    "id": "22",
-    "name": "SM.RAJA - AH.NASUTION",
-    "url": "https://atcsdishub.medan.go.id/stream/L22SMRAJAPMH/index.m3u8"
+    "id": "medan-atcs-95-0",
+    "name": "Simpang Setia Budi Dr Mansyur",
+    "url": "https://atcsdishub.medan.go.id/stream/L95SETIABUDIDRMANSYUR/stream.m3u8"
   },
   {
-    "id": "33",
-    "name": "SM.RAJA - ALFALAH",
-    "url": "https://atcsdishub.medan.go.id/stream/L34SMRAJAALFALAH/index.m3u8"
+    "id": "medan-atcs-96-0",
+    "name": "Ruas Depan Rs Bunda Thamrin",
+    "url": "https://atcsdishub.medan.go.id/stream/L96DEPANRSBUNDATHAMRIN/stream.m3u8"
   },
   {
-    "id": "7",
-    "name": "SM.RAJA - AMALIUN",
-    "url": "https://atcsdishub.medan.go.id/stream/L7SM.RAJAAMALIUN/index.m3u8"
+    "id": "medan-atcs-97-0",
+    "name": "Ruas Sei Ular",
+    "url": "https://atcsdishub.medan.go.id/stream/L97SEIULARBARU/stream.m3u8"
   },
   {
-    "id": "20",
-    "name": "SM.RAJA - HALAT",
-    "url": "https://atcsdishub.medan.go.id/stream/L20SMRAJAHALAT/index.m3u8"
+    "id": "medan-atcs-98-0",
+    "name": "Ruas Titi Bobrok",
+    "url": "https://atcsdishub.medan.go.id/stream/L98TITIBOBROK/stream.m3u8"
   },
   {
-    "id": "32",
-    "name": "SM.RAJA - HM.JONI ",
-    "url": "https://atcsdishub.medan.go.id/stream/L33SMRAJAHMJHONI/index.m3u8"
+    "id": "medan-atcs-99-0",
+    "name": "Ruas Pintu 4 Usu",
+    "url": "https://atcsdishub.medan.go.id/stream/L99PINTU4USU/stream.m3u8"
   },
   {
-    "id": "23",
-    "name": "SM.RAJA - PANGLIMA DENAI",
-    "url": "https://atcsdishub.medan.go.id/stream/L23AMPLAS/index.m3u8"
+    "id": "medan-atcs-100-0",
+    "name": "Ruas Pintu 2 Usu",
+    "url": "https://atcsdishub.medan.go.id/stream/L100PINTU2USU/stream.m3u8"
   },
   {
-    "id": "21",
-    "name": "SM.RAJA - PELANGI",
-    "url": "https://atcsdishub.medan.go.id/stream/L21SMRAJAPELANGI/index.m3u8"
+    "id": "medan-atcs-101-0",
+    "name": "Ruas Sm.Raja Saudara",
+    "url": "https://atcsdishub.medan.go.id/stream/L101SMRAJASAUDARA/stream.m3u8"
   },
   {
-    "id": "72",
-    "name": "SM RAJA - PERINTIS KEMERDEKAAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L73SMRAJAPERINTISKEMERDEKAAN/index.m3u8"
+    "id": "medan-atcs-103-0",
+    "name": "Ruas Jawa Veteran",
+    "url": "https://atcsdishub.medan.go.id/stream/L103JAWAVETERAN/stream.m3u8"
   },
   {
-    "id": "17",
-    "name": "SUDIRMAN - CIK DITIRO",
-    "url": "https://atcsdishub.medan.go.id/stream/L17SUDIRMANCIKDITIRO/index.m3u8"
+    "id": "medan-atcs-104-0",
+    "name": "Ruas Veteran Timor",
+    "url": "https://atcsdishub.medan.go.id/stream/L104VETERANTIMOR/stream.m3u8"
   },
   {
-    "id": "16",
-    "name": "SUDIRMAN - DIPONEGORO",
-    "url": "https://atcsdishub.medan.go.id/stream/L16SUDIRMANDIPONEGORO/index.m3u8"
+    "id": "medan-atcs-105-0",
+    "name": "Ruas Hm.Thamrin Depan Yp Sutomo",
+    "url": "https://atcsdishub.medan.go.id/stream/L105HMTHAMRIN/stream.m3u8"
   },
   {
-    "id": "28",
-    "name": "SUDIRMAN - S.PARMAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L29SUDIRMANUJUNG/index.m3u8"
+    "id": "medan-atcs-106-0",
+    "name": "Ruas Kejaksaan Depan Kpu Kota Medan",
+    "url": "https://atcsdishub.medan.go.id/stream/L106KEJAKSAAN/stream.m3u8"
   },
   {
-    "id": "115",
-    "name": "SUNGGAL - SEI BATANG HARI",
-    "url": "https://atcsdishub.medan.go.id/stream/L116SUNGGALSEIBATANGHARI/index.m3u8"
+    "id": "medan-atcs-107-0",
+    "name": "Ruas Putri Hijau Hm Yamin",
+    "url": "https://atcsdishub.medan.go.id/stream/L107PUTRIHIJAUHMYAMIN/stream.m3u8"
   },
   {
-    "id": "12",
-    "name": "SUPRAPTO - MULTATULI",
-    "url": "https://atcsdishub.medan.go.id/stream/L12SUPRAPTOMULTATULI/index.m3u8"
+    "id": "medan-atcs-108-0",
+    "name": "Ruas Yos Sudarso",
+    "url": "https://atcsdishub.medan.go.id/stream/L108YOSSUDARSODARMAWANGSA/stream.m3u8"
   },
   {
-    "id": "106",
-    "name": "SUTOMO - BAMBU",
-    "url": "https://atcsdishub.medan.go.id/stream/L107SUTOMOBAMBU/index.m3u8"
+    "id": "medan-atcs-109-0",
+    "name": "Ruas Sutomo",
+    "url": "https://atcsdishub.medan.go.id/stream/L109SUTOMOTUGUKB/stream.m3u8"
   },
   {
-    "id": "45",
-    "name": "SUTOMO - HM.YAMIN",
-    "url": "https://atcsdishub.medan.go.id/stream/L46SUTOMOYAMIN/index.m3u8"
+    "id": "medan-atcs-110-0",
+    "name": "Ruas Perintis Timor",
+    "url": "https://atcsdishub.medan.go.id/stream/L110PERINTISTIMOR/stream.m3u8"
   },
   {
-    "id": "79",
-    "name": "SUTOMO - MERBAU",
-    "url": "https://atcsdishub.medan.go.id/stream/L80SUTOMOMERBAU/index.m3u8"
+    "id": "medan-atcs-111-0",
+    "name": "Ruas Jawa",
+    "url": "https://atcsdishub.medan.go.id/stream/L111JAWA/stream.m3u8"
   },
   {
-    "id": "87",
-    "name": "SUTOMO - MST. HARYONO",
-    "url": "https://atcsdishub.medan.go.id/stream/L88SUTOMOMSTHARYONO/index.m3u8"
+    "id": "medan-atcs-113-0",
+    "name": "Ruas Gatot Subroto Nibung",
+    "url": "https://atcsdishub.medan.go.id/stream/L113GATOTSUBRTONIBUNG/stream.m3u8"
   },
   {
-    "id": "88",
-    "name": "SUTOMO - MST. HARYONO B",
-    "url": "https://atcsdishub.medan.go.id/stream/L89SUTOMOMSTHARYONOB/index.m3u8"
+    "id": "medan-atcs-114-0",
+    "name": "Ruas Raden Saleh",
+    "url": "https://atcsdishub.medan.go.id/stream/L114RADENSALEH/stream.m3u8"
   },
   {
-    "id": "70",
-    "name": "WALIKOTA - SUDIRMAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L71WALIKOTASUDIRMAN/index.m3u8"
+    "id": "medan-atcs-115-0",
+    "name": "Ruas Zainul Arifin",
+    "url": "https://atcsdishub.medan.go.id/stream/L115ZAINULARIFIN/stream.m3u8"
   },
   {
-    "id": "80",
-    "name": "YOS SUDARSO - KRAKATAU",
-    "url": "https://atcsdishub.medan.go.id/stream/L81YOSSUDARSOKRAKATAU/index.m3u8"
+    "id": "medan-atcs-116-0",
+    "name": "Ruas Imam Bonjol",
+    "url": "https://atcsdishub.medan.go.id/stream/L116IMAMBONJOL/stream.m3u8"
   },
   {
-    "id": "47",
-    "name": "YOSUDARSO - PEMBANGUNAN ",
-    "url": "https://atcsdishub.medan.go.id/stream/L48BILALYOSSUDARSO/index.m3u8"
+    "id": "medan-atcs-117-0",
+    "name": "Ruas Diponegoro",
+    "url": "https://atcsdishub.medan.go.id/stream/L117DIPONEGORO/stream.m3u8"
   },
   {
-    "id": "48",
-    "name": "YOSUDARSO - PERTEMPURAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L49BRAYAN/index.m3u8"
+    "id": "medan-atcs-119-0",
+    "name": "Ruas Mt.Haryono",
+    "url": "https://atcsdishub.medan.go.id/stream/L119MTHARYONO/stream.m3u8"
   },
   {
-    "id": "96",
-    "name": "ZAINUL ARIFIN - S. PARMAN",
-    "url": "https://atcsdishub.medan.go.id/stream/L97ZAINULARIFINSPARMAN/index.m3u8"
+    "id": "medan-atcs-120-0",
+    "name": "Ruas Sp.Limun",
+    "url": "https://atcsdishub.medan.go.id/stream/L120SPLIMUN/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-121-0",
+    "name": "Ruas Depan Terminal Amplas",
+    "url": "https://atcsdishub.medan.go.id/stream/L121DEPANTERMINALAMPLAS/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-122-0",
+    "name": "Ruas S.Parman Hasanuddin",
+    "url": "https://atcsdishub.medan.go.id/stream/L122SPARMANHASANUDDIN/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-123-0",
+    "name": "Ruas S.Parman Zainuddin",
+    "url": "https://atcsdishub.medan.go.id/stream/L123SPARMANZAINUDDIN/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-125-0",
+    "name": "Ruas Kpt Maulana Lubis S.Parman",
+    "url": "https://atcsdishub.medan.go.id/stream/L125KPTMAULANALUBISSPARMAN/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-126-0",
+    "name": "Ruas Merak Jingga Hm Yamin",
+    "url": "https://atcsdishub.medan.go.id/stream/L126MERAKJINGGAHMYAMIN/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-127-0",
+    "name": "Ruas Merak Jingga Perintis Kemerdekaan",
+    "url": "https://atcsdishub.medan.go.id/stream/L127MERAKJINGGAPRINTISKEMERDEKAAN/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-128-0",
+    "name": "Ruas Hm.Said Printis Kemerdekaan",
+    "url": "https://atcsdishub.medan.go.id/stream/L128HMSAIDPRINTISKEMERDEKAAN/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-129-0",
+    "name": "Ruas Thamrin Printis Kemerdekaan",
+    "url": "https://atcsdishub.medan.go.id/stream/L129THAMRINPRINTISKEMERDEKAAN/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-130-0",
+    "name": "Ruas Yos Sudarso Cilincing",
+    "url": "https://atcsdishub.medan.go.id/stream/L130CILINCING/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-131-0",
+    "name": "Ruas Karya T.Amir Hamzah",
+    "url": "https://atcsdishub.medan.go.id/stream/L131KARYATAMIRHAMZAH/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-132-0",
+    "name": "Ruas Adam Malik T.Amir Hamzah",
+    "url": "https://atcsdishub.medan.go.id/stream/L132ADAMMALIKTAMIRHAMZAH/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-133-0",
+    "name": "Ruas Pajak Hindu",
+    "url": "https://atcsdishub.medan.go.id/stream/L133PAJAKHINDU/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-134-0",
+    "name": "Ruas Bundaran Polonia",
+    "url": "https://atcsdishub.medan.go.id/stream/L134BUNDARANPOLONIA/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-135-0",
+    "name": "Ruas Bundaran Hotel Pardede",
+    "url": "https://atcsdishub.medan.go.id/stream/L135BUNDARANHOTELPARDEDE/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-136-0",
+    "name": "Ruas Sm Raja",
+    "url": "https://atcsdishub.medan.go.id/stream/L136DEPANTUGUSMRAJA/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-137-0",
+    "name": "Ruas Juanda Saman Hudi",
+    "url": "https://atcsdishub.medan.go.id/stream/L137JUANDASAMANHUDI/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-138-0",
+    "name": "Ruas Kpt. Muslim",
+    "url": "https://atcsdishub.medan.go.id/stream/L138KPTMMUSLIM/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-139-0",
+    "name": "Ruas Gajah Mada",
+    "url": "https://atcsdishub.medan.go.id/stream/L139GAJAHMADA/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-141-0",
+    "name": "Ruas Stadion Teladan",
+    "url": "https://atcsdishub.medan.go.id/stream/L141STADION/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-142-0",
+    "name": "Ruas Sudirman",
+    "url": "https://atcsdishub.medan.go.id/stream/L142SUDIRMAN/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-143-0",
+    "name": "Ruas Imam Bonjol Cut Mutia",
+    "url": "https://atcsdishub.medan.go.id/stream/L143IMAMBONJOLCUTMUTIA/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-144-0",
+    "name": "Ruas Gatot Subroto",
+    "url": "https://atcsdishub.medan.go.id/stream/L144GATOTSUBROTO/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-145-0",
+    "name": "Ruas Gatot Subroto Prsu",
+    "url": "https://atcsdishub.medan.go.id/stream/L145GATOTSUBROTOPRSU/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-146-0",
+    "name": "Ruas Ahmad Yhani",
+    "url": "https://atcsdishub.medan.go.id/stream/L146AHMADYHANI/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-147-0",
+    "name": "Ruas Mongonsidi Perhubungan Depan Kfc",
+    "url": "https://atcsdishub.medan.go.id/stream/L147MONGONSIDIPPERHUBUNGAN/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-148-0",
+    "name": "Ruas Sutomo Ani Idrus",
+    "url": "https://atcsdishub.medan.go.id/stream/L148SUTOMOANIIDRUS/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-149-0",
+    "name": "Ruas Palang Merah Mesjid",
+    "url": "https://atcsdishub.medan.go.id/stream/L149PALANGMERAHMESJID/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-150-0",
+    "name": "Ruas Palang Merah Listrik",
+    "url": "https://atcsdishub.medan.go.id/stream/L150PALANGMERAHLISTRIK/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-151-0",
+    "name": "Ruas Skip Meranti",
+    "url": "https://atcsdishub.medan.go.id/stream/L151SKIPMERANTI/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-153-0",
+    "name": "Ruas Dr.Cipto Masdulhad",
+    "url": "https://atcsdishub.medan.go.id/stream/L153DRCIPTOMASDULHAD/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-154-0",
+    "name": "Ruas Suprapto Imam Bonjol",
+    "url": "https://atcsdishub.medan.go.id/stream/L154SUPRAPTOIMAMBONJOL/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-155-0",
+    "name": "Ruas Guru Patimpus Sei Deli",
+    "url": "https://atcsdishub.medan.go.id/stream/L155GURUPATIMPUSSEIDELI/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-156-0",
+    "name": "Ruas Hm Jhoni Gedung Arca",
+    "url": "https://atcsdishub.medan.go.id/stream/L156HMJHONIGEDUNGARCA/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-158-0",
+    "name": "Ruas Putri Hijau Merak Jingga",
+    "url": "https://atcsdishub.medan.go.id/stream/L158PUTRIHIJAUMERAKJINGGA/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-159-0",
+    "name": "Ruas Yos Sudarso Abd Wahab",
+    "url": "https://atcsdishub.medan.go.id/stream/L159YOSSUDARSOABDWAHAB/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-160-0",
+    "name": "Ruas Stasiun Bukit Barisan Halte I",
+    "url": "https://atcsdishub.medan.go.id/stream/L160STASIUNHALTEI/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-161-0",
+    "name": "Ruas Stasiun Bukit Barisan Halte Ii",
+    "url": "https://atcsdishub.medan.go.id/stream/L161STASIUNHALTEII/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-162-0",
+    "name": "Ruas Stasiun Palang Merah",
+    "url": "https://atcsdishub.medan.go.id/stream/L162STASIUNPALANGMERAH/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-163-0",
+    "name": "Ruas Rahmadsyah Sutomo",
+    "url": "https://atcsdishub.medan.go.id/stream/L163RAHMADSYAHSUTOMO/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-164-0",
+    "name": "Ruas Jamin Ginting Pasar Induk",
+    "url": "https://atcsdishub.medan.go.id/stream/L164JAMINGINTINGPASARINDUK/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-165-0",
+    "name": "Ruas Gatot Subroto Pinang Baris",
+    "url": "https://atcsdishub.medan.go.id/stream/L165GATOTSUBROTOPINANGBARIS/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-166-0",
+    "name": "Ruas Gatot Subroto Patriot",
+    "url": "https://atcsdishub.medan.go.id/stream/L166GATOTSUBROTOPATRIOT/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-167-0",
+    "name": "Ruas Krakatau Bukit Barisan",
+    "url": "https://atcsdishub.medan.go.id/stream/L167KRAKATAUBUKITBARISAN/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-168-0",
+    "name": "Ruas Hm Yamin T.Ibrahim Umar",
+    "url": "https://atcsdishub.medan.go.id/stream/L168HMYAMINTIBRAHIMUMAR/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-169-0",
+    "name": "Ruas Kepribadian Sp Mayor",
+    "url": "https://atcsdishub.medan.go.id/stream/L169KEPRIBADIANMAYOR/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-170-0",
+    "name": "Simpang Bambu - Sutomo",
+    "url": "https://atcsdishub.medan.go.id/stream/L170BAMBU1/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-171-0",
+    "name": "Simpang Ar Hakim Halat",
+    "url": "https://atcsdishub.medan.go.id/stream/L171ARHAKIMHALAT/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-172-0",
+    "name": "Simpang Gedung Arca",
+    "url": "https://atcsdishub.medan.go.id/stream/L172GEDUNGARCA/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-174-0",
+    "name": "Simpang Hm.Joni Bahagia",
+    "url": "https://atcsdishub.medan.go.id/stream/L174HMJONIBAHAGIA/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-175-0",
+    "name": "Simpang Setiabudi Seirayu",
+    "url": "https://atcsdishub.medan.go.id/stream/L175SETIABUDISEISERAYU/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-176-0",
+    "name": "Simpang Setia Budi Seiblutu",
+    "url": "https://atcsdishub.medan.go.id/stream/L176SETIABUDISEIBLUTU/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-177-0",
+    "name": "Simpang Yosudarso Pertempuran 2",
+    "url": "https://atcsdishub.medan.go.id/stream/L177YOSUDARSOPERTEMPURAN/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-178-0",
+    "name": "Simpang Setia Budi Komplek Tasbih",
+    "url": "https://atcsdishub.medan.go.id/stream/L178SETIABUDIKOMPLEKTASBIH/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-179-0",
+    "name": "Ruas Gatot Subroto - Depan Flza Fair",
+    "url": "https://atcsdishub.medan.go.id/stream/L179GATOTSUBROTOFLAZAFAIR/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-180-0",
+    "name": "Sungai Babura Kpt.Mulana Lubis",
+    "url": "https://atcsdishub.medan.go.id/stream/L180SUNGAIBABURAKPTMAULANALUBIS/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-181-0",
+    "name": "Jembatan Kpt Maulana Lubis",
+    "url": "https://atcsdishub.medan.go.id/stream/L181JEMBATANKPTMAULANALUBIS/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-182-0",
+    "name": "Sungai Deli Suprapto",
+    "url": "https://atcsdishub.medan.go.id/stream/L182SUNGAIDELISUPRAPTO/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-183-0",
+    "name": "Jembatan Suprapto",
+    "url": "https://atcsdishub.medan.go.id/stream/L183JEMBATANSUPRAPTO/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-184-0",
+    "name": "Ruas Letda Sujono Dpn Kantor Fassi",
+    "url": "https://atcsdishub.medan.go.id/stream/L184RUASLETDASUJONODEPANFASSI/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-185-0",
+    "name": "Ruas Letda Sujono Dpn Pt. Brengga Rua Indonesia",
+    "url": "https://atcsdishub.medan.go.id/stream/L185RUASLETDASUJONOPT.BRENGGARUAINDONESA/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-186-0",
+    "name": "Ruas Letda Sujono Depan Stikes Sehat Medan",
+    "url": "https://atcsdishub.medan.go.id/stream/L186RUASLETDASUJONODEPANSTIKESSEHATMEDAN/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-187-0",
+    "name": "Ruas Letda Sujono Depan Mr Diy",
+    "url": "https://atcsdishub.medan.go.id/stream/L187RUASLETDASUJONODEPANMRDIY/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-188-0",
+    "name": "Ruas Letda Sujono Depan Smk Prayatna",
+    "url": "https://atcsdishub.medan.go.id/stream/L188RUASLETDASUJONODEPANSMKPRAYATNA/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-189-0",
+    "name": "Ruas Letda Sujono Depan Spbu",
+    "url": "https://atcsdishub.medan.go.id/stream/L189RUASLETDASUJONODEPANSPBU/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-190-0",
+    "name": "Ruas Jl. Yamin - Jl Timur",
+    "url": "https://atcsdishub.medan.go.id/stream/L190RUASJLYAMINJLTIMUR/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-191-0",
+    "name": "Ruas Jl. Jamin Ginting Dpn Pajus",
+    "url": "https://atcsdishub.medan.go.id/stream/L191RUASJLJAMINGINTINGDEPANPAJUS/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-192-0",
+    "name": "Ruas Jl. Iskandar Muda Dpn Vina Estetica",
+    "url": "https://atcsdishub.medan.go.id/stream/L192RUASJLISKANDARMUDADEPANRSVINAESTETICA/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-193-0",
+    "name": "Ruas Jl. Iskandar Muda Sp Pringgan",
+    "url": "https://atcsdishub.medan.go.id/stream/L193RUASJLISKANDARMUDASPPRINGGAN/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-194-0",
+    "name": "Simp. Mukhtar Basri - Karantina",
+    "url": "https://atcsdishub.medan.go.id/stream/L194MUKHTARBASRIKARANTINA/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-195-0",
+    "name": "Simp. Gatsu - Asrama 2",
+    "url": "https://atcsdishub.medan.go.id/stream/L195GATSUASRAMA/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-196-0",
+    "name": "Simp. Ah Nasution - Karya Jaya",
+    "url": "https://atcsdishub.medan.go.id/stream/L196KARYAJAYAAHNASUTION/stream.m3u8"
+  },
+  {
+    "id": "medan-atcs-197-0",
+    "name": "Simp. Sunggal - Sei Batang Hari",
+    "url": "https://atcsdishub.medan.go.id/stream/L197SUNGGALSEIBATANGHARI/stream.m3u8"
   }
 ]
